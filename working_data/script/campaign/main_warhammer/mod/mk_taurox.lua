@@ -93,7 +93,7 @@ ll_beastmen = {
 		"names_name_2147357619",
 		"MilitaryForceBuildingCompleteEvent",
 		function(context)
-			return context:building() == "wh_dlc03_horde_beastmen_herd_2" and context:character():faction():name() == TAUROX_FACTION;
+			return context:building() == "wh_dlc03_horde_beastmen_gors_2" and context:character():faction():name() == TAUROX_FACTION;
 		end
 	),
 
