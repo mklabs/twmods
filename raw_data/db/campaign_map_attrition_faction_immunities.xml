@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_attrition_faction_immunities.xsd" export_time="Wed Nov 15 13:05:46 2017" revision="100" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>8bbcdbfa-8c5b-40d6-af64-8eeea664ea63</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_attrition_faction_immunities.xsd" export_time="lun. avr. 2 21:47:02 2018" revision="101" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>00318fb3-6385-4dad-8762-9089dada7fcc</edit_uuid>
 <campaign_map_attrition_faction_immunities record_uuid="{95cabbaf-f06a-48ad-b9e8-0996d4ced12e}" record_timestamp="1478795022411" record_key="athel_lorenwh_dlc05_wef_argwylon">
 <attrition>athel_loren</attrition>
 <faction>wh_dlc05_wef_argwylon</faction>
@@ -180,6 +180,10 @@
 <campaign_map_attrition_faction_immunities record_uuid="{a2007498-8408-49da-9890-564bbd79ec56}" record_timestamp="1449506433933" record_key="blockadedwh_main_vmp_waldenhof">
 <attrition>blockaded</attrition>
 <faction>wh_main_vmp_waldenhof</faction>
+</campaign_map_attrition_faction_immunities>
+<campaign_map_attrition_faction_immunities record_uuid="{5e8791d8-938c-4e34-9891-022de36bf52a}" record_timestamp="1522698422506" record_key="chaos_territorymk_taurox_bst_beastmen">
+<attrition>chaos_territory</attrition>
+<faction>mk_taurox_bst_beastmen</faction>
 </campaign_map_attrition_faction_immunities>
 <campaign_map_attrition_faction_immunities record_uuid="{c500c33c-00da-41a7-bd44-59a3f4af1cdf}" record_timestamp="1508759447228" record_key="chaos_territorywh2_dlc09_rogue_black_creek_raiders">
 <attrition>chaos_territory</attrition>
@@ -596,6 +600,10 @@
 <campaign_map_attrition_faction_immunities record_uuid="{fa0179e9-596c-458e-b9d5-e1eeb6b63255}" record_timestamp="1454083988966" record_key="chaos_territorywh_main_nor_varg">
 <attrition>chaos_territory</attrition>
 <faction>wh_main_nor_varg</faction>
+</campaign_map_attrition_faction_immunities>
+<campaign_map_attrition_faction_immunities record_uuid="{f94511e3-6789-470d-aa4d-230d15cc3feb}" record_timestamp="1522698422518" record_key="chaos_wastesmk_taurox_bst_beastmen">
+<attrition>chaos_wastes</attrition>
+<faction>mk_taurox_bst_beastmen</faction>
 </campaign_map_attrition_faction_immunities>
 <campaign_map_attrition_faction_immunities record_uuid="{414cd88c-b023-44c2-a898-813698e4c234}" record_timestamp="1508759447263" record_key="chaos_wasteswh2_dlc09_rogue_black_creek_raiders">
 <attrition>chaos_wastes</attrition>
@@ -1401,6 +1409,10 @@
 <attrition>desert</attrition>
 <faction>wh_main_vmp_waldenhof</faction>
 </campaign_map_attrition_faction_immunities>
+<campaign_map_attrition_faction_immunities record_uuid="{5d252cd4-08c0-40ac-89a3-39073f26f5de}" record_timestamp="1522698422486" record_key="horde_infightingmk_taurox_bst_beastmen">
+<attrition>horde_infighting</attrition>
+<faction>mk_taurox_bst_beastmen</faction>
+</campaign_map_attrition_faction_immunities>
 <campaign_map_attrition_faction_immunities record_uuid="{468b2a8e-4945-47ac-88a2-a3a190561f48}" record_timestamp="1467629573920" record_key="horde_infightingwh2_main_bst_blooded_axe">
 <attrition>horde_infighting</attrition>
 <faction>wh2_main_bst_blooded_axe</faction>
@@ -2020,6 +2032,10 @@
 <campaign_map_attrition_faction_immunities record_uuid="{ee7744ba-e75f-4227-89ec-48e5963b8761}" record_timestamp="1449506434039" record_key="mountainwh_main_vmp_waldenhof">
 <attrition>mountain</attrition>
 <faction>wh_main_vmp_waldenhof</faction>
+</campaign_map_attrition_faction_immunities>
+<campaign_map_attrition_faction_immunities record_uuid="{af8a470d-4f5c-49ba-a5d8-78ef4070bbbb}" record_timestamp="1522698422495" record_key="non_vampire_territorymk_taurox_bst_beastmen">
+<attrition>non_vampire_territory</attrition>
+<faction>mk_taurox_bst_beastmen</faction>
 </campaign_map_attrition_faction_immunities>
 <campaign_map_attrition_faction_immunities record_uuid="{7b23c0dc-3808-4426-a366-18560a1c64e6}" record_timestamp="1508759447392" record_key="non_vampire_territorywh2_dlc09_rogue_black_creek_raiders">
 <attrition>non_vampire_territory</attrition>
@@ -4020,6 +4036,10 @@
 <campaign_map_attrition_faction_immunities record_uuid="{5e5feb86-f91a-4ba6-9afe-b6ccb2625c25}" record_timestamp="1449506433993" record_key="snowwh_main_vmp_waldenhof">
 <attrition>snow</attrition>
 <faction>wh_main_vmp_waldenhof</faction>
+</campaign_map_attrition_faction_immunities>
+<campaign_map_attrition_faction_immunities record_uuid="{8d79c225-f2c5-4149-b8ce-f02b98c93b2a}" record_timestamp="1522698422476" record_key="swampmk_taurox_bst_beastmen">
+<attrition>swamp</attrition>
+<faction>mk_taurox_bst_beastmen</faction>
 </campaign_map_attrition_faction_immunities>
 <campaign_map_attrition_faction_immunities record_uuid="{d0107e9a-27f0-4925-9329-3ef7cd4614c1}" record_timestamp="1507041170459" record_key="swampwh2_dlc09_skv_clan_rictus">
 <attrition>swamp</attrition>

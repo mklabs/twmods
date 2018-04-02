@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_member_criteria_factions.xsd" export_time="lun. avr. 2 21:24:38 2018" revision="79" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>d8421458-5ae8-493f-bc44-3b675fc5890b</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_member_criteria_factions.xsd" export_time="lun. avr. 2 21:42:32 2018" revision="80" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>0d0a2522-dfe9-4807-9ee1-79b41e76ab3f</edit_uuid>
 <campaign_group_member_criteria_factions record_uuid="{66c9414d-fc69-40d5-93ed-b6398488a895}" record_timestamp="1489771217920" record_key="diplomacy_FactionGroup_DE_Dreadlord2_Faction_CultofExcess">
 <faction>wh2_main_def_cult_of_excess</faction>
 <member>diplomacy_FactionGroup_DE_Dreadlord2_Faction_CultofExcess</member>
@@ -464,6 +464,14 @@
 <campaign_group_member_criteria_factions record_uuid="{0ea45555-4344-4d27-b1ce-cf90b553a1ac}" record_timestamp="1509643002429" record_key="dlc09_diplomacy_Faction_TMB_Settra">
 <faction>wh2_dlc09_tmb_khemri</faction>
 <member>dlc09_diplomacy_Faction_TMB_Settra</member>
+</campaign_group_member_criteria_factions>
+<campaign_group_member_criteria_factions record_uuid="{7c434a65-00cf-4d77-bac1-9dc22e163ccb}" record_timestamp="1522698152143" record_key="mk_feature_beastmen_not_brayherd_beastmen">
+<faction>mk_taurox_bst_beastmen</faction>
+<member>mk_feature_beastmen_not_brayherd_beastmen</member>
+</campaign_group_member_criteria_factions>
+<campaign_group_member_criteria_factions record_uuid="{d695ff0a-2490-494a-b4dd-7f3ca75e1460}" record_timestamp="1522698152155" record_key="mk_taurox_diplomacy_Faction_Khazrak">
+<faction>mk_taurox_bst_beastmen</faction>
+<member>mk_taurox_diplomacy_Faction_Khazrak</member>
 </campaign_group_member_criteria_factions>
 <campaign_group_member_criteria_factions record_uuid="{ac7d1876-a144-4e00-bb04-e4c7e19890e1}" record_timestamp="1481045717901" record_key="wh2_climate_hef_avelorn_chaotic">
 <faction>wh2_main_hef_avelorn</faction>
