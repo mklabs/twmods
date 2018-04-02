@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="1501dd8abd6d2ce" name="ruins">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="14fbcdcbab9b2e6">
+      <ECBuilding key="glb_ruin_facade_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.03808594 0 -24.2884521" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_facade_02"/>
+    </entity>
+    <entity id="14fbcdcbab9b2ec">
+      <ECBuilding key="glb_ruin_windows_02" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.64953613 0 -11.5892334" rotation="0 89.9802094 0" scale="0.999999642 1 0.999999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_windows_02"/>
+    </entity>
+    <entity id="14fbcdcbab9b2e8">
+      <ECBuilding key="glb_ruin_facade_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.689697266 0 -6.32653809" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_facade_01"/>
+    </entity>
+    <entity id="14fbcdcbab8b2da">
+      <ECBuilding key="glb_ruin_windows_02" damage="63" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.64953613 0 16.4176025" rotation="0 89.9802094 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_windows_02"/>
+    </entity>
+    <entity id="14fbcdcbab8b2db">
+      <ECBuilding key="glb_ruin_windows_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.3939209 0 1.75048828" rotation="0 -89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_windows_01"/>
+    </entity>
+    <entity id="14fbcdcbab8b2d9">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.79602051 1.33514404e-005 13.4545898" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_windows_03"/>
+    </entity>
+    <entity id="14fbcdcbab9b2ea">
+      <ECBuilding key="glb_ruin_doors_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.39385986 0 8.78588867" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_doors_01"/>
+    </entity>
+    <entity id="14fbcdcbab8b2e1">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.53009033 1.90734863e-005 -13.9228516" rotation="0 -89.9802094 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_wall_01"/>
+    </entity>
+    <entity id="14fbcdcbab8b2df">
+      <ECBuilding key="glb_ruin_facade_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.689697266 0 23.7806396" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_facade_01"/>
+    </entity>
+    <entity id="14fbcdcbab8b2dd">
+      <ECBuilding key="glb_ruin_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.419372559 0 -5.42712402" rotation="0 180 0" scale="1.25 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_wall_02"/>
+    </entity>
+    <entity id="14fbcdcbab9b2e5">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.79602051 1.33514404e-005 -13.6925049" rotation="0 89.9802094 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruin_windows_03"/>
+    </entity>
+    <entity id="1501dd8bea6d2cf" name="veg">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1501dd86b66d2be">
+      <ECPrefab key="emp_nature_tiny_02"/>
+      <ECTransform position="-7.26754761 0 -27.9418964" rotation="0 118.000008 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bc5ac5">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_j"/>
+      <ECTransform position="-3.27195644 0 11.063633" rotation="0.000142658842 40 9.16993158e-005" scale="0.999999404 1 0.999999404"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bb5aa2">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_h"/>
+      <ECTransform position="-2.67130947 0 12.7639503" rotation="-4.21810722 -46.3020897 3.05228972" scale="0.999999285 0.999999225 0.999999225"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bb5a95">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_h"/>
+      <ECTransform position="-18.139801 0 19.0872841" rotation="-0.000163924531 133.115326 -0.000122943398" scale="0.999999166 1 0.999999166"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bb5aa5">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_j"/>
+      <ECTransform position="-19.5577087 0 17.1691475" rotation="-0.000136603776 210.115295 -359.999908" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333ba5a8c">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_broken_a"/>
+      <ECTransform position="-15.9985952 0 20.9122734" rotation="-0.000150264153 220.115326 -359.999908" scale="0.999999166 1 0.999999166"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bc5acf">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_j"/>
+      <ECTransform position="-0.718489647 0 32.5556145" rotation="-0.000122943398 206.257767 -359.999969" scale="1.99999869 2 1.99999869"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bb5aab">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_d"/>
+      <ECTransform position="-19.9583282 0 -2.08447647" rotation="0.00011558002 19.0000114 3.76291791e-005" scale="0.999999464 1 0.999999464"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333ba5a91">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_e"/>
+      <ECTransform position="-20.9241486 0 27.1341286" rotation="0.000109565568 4.11533737 7.86290821e-006" scale="0.999999344 1 0.999999344"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333bb5aaf">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_j"/>
+      <ECTransform position="-8.05801296 0 12.7042046" rotation="0.000137717623 -37.4834137 -8.38055566e-005" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e333ba5a8b">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_j"/>
+      <ECTransform position="-15.5554342 0 3.23218918" rotation="0.000525623735 78.0000839 0.000514137675" scale="0.999999344 1 0.999999344"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e34e0f5ae9">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_g"/>
+      <ECTransform position="-6.48338747 0 -8.81553173" rotation="0 73.0000153 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e3958f5b02">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_j"/>
+      <ECTransform position="12.8452597 0.0431227162 22.1819763" rotation="3.87491632 125.565376 10.1075735" scale="1.45708072 1.45708144 1.4570806"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e3958f5b06">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_e"/>
+      <ECTransform position="10.4027634 -1.2910037 26.9517365" rotation="-7.48243141 227.116058 -352.942688" scale="0.816525221 0.816526473 0.816525042"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15374e3958f5aff">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_h"/>
+      <ECTransform position="15.1147614 -0.167850435 15.6261806" rotation="31.6045551 100.958641 34.6843834" scale="0.999999046 0.99999994 0.999999225"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1501dd8f6ccd2d0" name="ivy">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1501dd9580cd2d5">
+      <ECBuilding key="glb_ruins_vines_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.41645622 14.583787 -2.07435179" rotation="0 90 0" scale="0.999999404 1 0.999999404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_01"/>
+    </entity>
+    <entity id="1501dd984e9d2d6">
+      <ECBuilding key="glb_ruins_vines_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.495885849 4.76837158e-007 -24.0892601" rotation="0 -10.0002079 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_03"/>
+    </entity>
+    <entity id="1501dd99a6bd2d7">
+      <ECBuilding key="glb_ruins_vines_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.88049316 1.00135803e-005 20.4495468" rotation="0 82.0001144 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_03"/>
+    </entity>
+    <entity id="1501dda0bbad2d8">
+      <ECBuilding key="glb_ruins_vines_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.41645622 14.583786 20.4072418" rotation="0 90 0" scale="0.999999166 1 0.999999166"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_01"/>
+    </entity>
+    <entity id="1501dda1ee3d2d9">
+      <ECBuilding key="glb_ruins_vines_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.05361867 22.0692863 15.4567614" rotation="0 0 0" scale="0.999998808 1 0.999998808"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_01"/>
+    </entity>
+    <entity id="1501dda402ad2da">
+      <ECBuilding key="glb_ruins_vines_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.44292665 22.0692844 13.3184271" rotation="0 180 0" scale="0.999998808 1 0.999998808"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_01"/>
+    </entity>
+    <entity id="1501ddab315d2dc">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.65294075 22.0891438 17.1829071" rotation="0 -90 0" scale="0.999999285 1 0.999999285"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_04"/>
+    </entity>
+    <entity id="1501ddabd93d2dd">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.65297699 9.52161217 13.1919317" rotation="0 -90 0" scale="0.999999046 1 0.999999046"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_04"/>
+    </entity>
+    <entity id="1501ddac926d2de">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.47318077 12.3512383 -9.33659077" rotation="0 90 0" scale="0.999998331 1 0.999998331"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_04"/>
+    </entity>
+    <entity id="1501ddb056fd2df">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.47314644 14.0573301 11.9670219" rotation="0 90 0" scale="0.999998093 1 0.999998093"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_vines_04"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="1501dd8abd6d2ce">
+        <to id="14fbcdcbab9b2e6"/>
+        <to id="14fbcdcbab9b2ec"/>
+        <to id="14fbcdcbab9b2e8"/>
+        <to id="14fbcdcbab8b2da"/>
+        <to id="14fbcdcbab8b2db"/>
+        <to id="14fbcdcbab8b2d9"/>
+        <to id="14fbcdcbab9b2ea"/>
+        <to id="14fbcdcbab8b2e1"/>
+        <to id="14fbcdcbab8b2df"/>
+        <to id="14fbcdcbab8b2dd"/>
+        <to id="14fbcdcbab9b2e5"/>
+      </from>
+      <from id="1501dd8bea6d2cf">
+        <to id="1501dd86b66d2be"/>
+        <to id="15374e333bc5ac5"/>
+        <to id="15374e333bb5aa2"/>
+        <to id="15374e333bb5a95"/>
+        <to id="15374e333bb5aa5"/>
+        <to id="15374e333ba5a8c"/>
+        <to id="15374e333bc5acf"/>
+        <to id="15374e333bb5aab"/>
+        <to id="15374e333ba5a91"/>
+        <to id="15374e333bb5aaf"/>
+        <to id="15374e333ba5a8b"/>
+        <to id="15374e34e0f5ae9"/>
+        <to id="15374e3958f5b02"/>
+        <to id="15374e3958f5b06"/>
+        <to id="15374e3958f5aff"/>
+      </from>
+      <from id="1501dd8f6ccd2d0">
+        <to id="1501dd9580cd2d5"/>
+        <to id="1501dd984e9d2d6"/>
+        <to id="1501dd99a6bd2d7"/>
+        <to id="1501dda0bbad2d8"/>
+        <to id="1501dda1ee3d2d9"/>
+        <to id="1501dda402ad2da"/>
+        <to id="1501ddab315d2dc"/>
+        <to id="1501ddabd93d2dd"/>
+        <to id="1501ddac926d2de"/>
+        <to id="1501ddb056fd2df"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

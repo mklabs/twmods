@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_map_roads.xsd" export_time="Fri Mar 24 14:28:44 2017" revision="26" export_branch="T:/" export_user="bob">
+<edit_uuid>f2a11288-bac6-455d-96b8-54cdf81e368c</edit_uuid>
+<campaign_map_roads record_uuid="{8b8dc393-2c15-4ec1-8d5d-79db021cac2a}" record_timestamp="1467120081187" record_key="wh2_main_road_lv_1">
+<campaign>wh2_main_great_vortex</campaign>
+<key>wh2_main_road_lv_1</key>
+<movement_cost>80</movement_cost>
+<threshold>0</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{114a0000-d0d9-4537-86f8-286c8a6fbf55}" record_timestamp="1467120081217" record_key="wh2_main_road_lv_2">
+<campaign>wh2_main_great_vortex</campaign>
+<key>wh2_main_road_lv_2</key>
+<movement_cost>65</movement_cost>
+<threshold>10</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{91e3826b-2b03-4d12-8e8c-0863a5f8104b}" record_timestamp="1467120081237" record_key="wh2_main_road_lv_3">
+<campaign>wh2_main_great_vortex</campaign>
+<key>wh2_main_road_lv_3</key>
+<movement_cost>50</movement_cost>
+<threshold>40</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{65989ade-9d93-4dd9-953d-e220365ac8aa}" record_timestamp="1424959378701" record_key="wh_main_road_lv_1">
+<campaign>main_warhammer</campaign>
+<key>wh_main_road_lv_1</key>
+<movement_cost>80</movement_cost>
+<threshold>0</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{d1a3c285-36de-4360-bf5c-8cf9d1b055c2}" record_timestamp="1424959378811" record_key="wh_main_road_lv_2">
+<campaign>main_warhammer</campaign>
+<key>wh_main_road_lv_2</key>
+<movement_cost>65</movement_cost>
+<threshold>10</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+<campaign_map_roads record_uuid="{1dc8bb3c-4326-4b48-9ad6-b1b7583d811d}" record_timestamp="1424959378764" record_key="wh_main_road_lv_3">
+<campaign>main_warhammer</campaign>
+<key>wh_main_road_lv_3</key>
+<movement_cost>50</movement_cost>
+<threshold>40</threshold>
+<turns_required_to_downgrade_from>1</turns_required_to_downgrade_from>
+<turns_required_to_upgrade_to>1</turns_required_to_upgrade_to>
+</campaign_map_roads>
+</dataroot>

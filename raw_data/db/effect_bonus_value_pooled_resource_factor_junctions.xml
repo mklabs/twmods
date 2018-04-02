@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_pooled_resource_factor_junctions.xsd" export_time="Wed Nov 22 11:33:31 2017" revision="20" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>5ee20f69-22d2-4885-b3f0-b6a29b96cfe4</edit_uuid>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{c5c94661-7e8e-4201-9158-aac58debd1f0}" record_timestamp="1507727088859" record_key="wh2_dlc09_pooled_resource_canopic_jars_buildingsbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_dlc09_pooled_resource_canopic_jars_buildings</effect>
+<resource_factor>canopic_jars_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{68dad69d-3a30-455b-b530-65a870c61627}" record_timestamp="1510650277556" record_key="wh2_dlc09_pooled_resource_canopic_jars_charactersbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_dlc09_pooled_resource_canopic_jars_characters</effect>
+<resource_factor>canopic_jars_characters</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{5438088a-40b7-4b4d-b573-26d1303d2b4c}" record_timestamp="1511350411632" record_key="wh2_dlc09_pooled_resource_canopic_jars_missionbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_dlc09_pooled_resource_canopic_jars_mission</effect>
+<resource_factor>canopic_jars_missions</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{14ef709e-dc8d-4f57-a31d-3e3410bfb9e6}" record_timestamp="1510650257911" record_key="wh2_dlc09_pooled_resource_canopic_jars_otherbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_dlc09_pooled_resource_canopic_jars_other</effect>
+<resource_factor>canopic_jars_other</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{bb1285bb-a181-403b-a25f-991c57f7f7d7}" record_timestamp="1509377567085" record_key="wh2_dlc09_pooled_resource_canopic_jars_ritebase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_dlc09_pooled_resource_canopic_jars_rite</effect>
+<resource_factor>canopic_jars_great_incantation_of_geheb</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{8501e0e7-3f3d-4c63-b8e7-b3e89a3ff4fa}" record_timestamp="1509090301606" record_key="wh2_main_effect_ritual_currency_def_addbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_def_add</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{38d6ffb3-d0a9-4802-8b7e-e266dc578055}" record_timestamp="1509090301589" record_key="wh2_main_effect_ritual_currency_def_modpercentage_multiplier_mod">
+<bonus_value_id>percentage_multiplier_mod</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_def_mod</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{3f90b34a-d2ba-4c5c-9dab-d5bb96086926}" record_timestamp="1509090301581" record_key="wh2_main_effect_ritual_currency_hef_addbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_hef_add</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{59a91b97-ccb2-488d-bee1-527810b77906}" record_timestamp="1509090301600" record_key="wh2_main_effect_ritual_currency_hef_modpercentage_multiplier_mod">
+<bonus_value_id>percentage_multiplier_mod</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_hef_mod</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{e849cfbd-5e70-4c7f-86a2-9682b86fb5ae}" record_timestamp="1509090301613" record_key="wh2_main_effect_ritual_currency_lzd_addbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_lzd_add</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{e90f53fb-c219-4308-936d-97e5ac7c5e5d}" record_timestamp="1509090301584" record_key="wh2_main_effect_ritual_currency_lzd_modpercentage_multiplier_mod">
+<bonus_value_id>percentage_multiplier_mod</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_lzd_mod</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{36391643-5b0d-432c-b9d4-bd853d4559c3}" record_timestamp="1509090301595" record_key="wh2_main_effect_ritual_currency_skv_addbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_skv_add</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{326acda8-890e-4810-9908-40f3eb5dce78}" record_timestamp="1509090301621" record_key="wh2_main_effect_ritual_currency_skv_modpercentage_multiplier_mod">
+<bonus_value_id>percentage_multiplier_mod</bonus_value_id>
+<effect>wh2_main_effect_ritual_currency_skv_mod</effect>
+<resource_factor>wh2_main_ritual_currency_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{7235f12a-752c-47b3-8b72-354462dbe113}" record_timestamp="1503311887074" record_key="wh2_main_pooled_resource_skaven_food_armybase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_army</effect>
+<resource_factor>skaven_food_force_upkeep</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{77975e89-22bb-4fc7-923c-68df99d497a1}" record_timestamp="1503311887806" record_key="wh2_main_pooled_resource_skaven_food_buildingsbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_buildings</effect>
+<resource_factor>skaven_food_buildings</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{eb4f74ac-d328-431e-ab18-ae8ca1e0eb34}" record_timestamp="1503311893548" record_key="wh2_main_pooled_resource_skaven_food_commandmentsbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_commandments</effect>
+<resource_factor>skaven_food_commandments</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{e358794e-d297-4cb9-82c4-751094a13de0}" record_timestamp="1503311893732" record_key="wh2_main_pooled_resource_skaven_food_raidingbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_raiding</effect>
+<resource_factor>skaven_food_raiding</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{6c012df4-76d1-4290-9f4d-c705defa9226}" record_timestamp="1503311893917" record_key="wh2_main_pooled_resource_skaven_food_regionsbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_regions</effect>
+<resource_factor>skaven_food_regions</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{4f70477e-1c51-4303-aaf5-49e41ec3446c}" record_timestamp="1503311894105" record_key="wh2_main_pooled_resource_skaven_food_ritebase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_rite</effect>
+<resource_factor>skaven_food_the_dominating_scheme</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+<effect_bonus_value_pooled_resource_factor_junctions record_uuid="{b92f9225-949f-4a3f-810e-0c9de1f4c649}" record_timestamp="1503311894295" record_key="wh2_main_pooled_resource_skaven_food_ritualbase_amount">
+<bonus_value_id>base_amount</bonus_value_id>
+<effect>wh2_main_pooled_resource_skaven_food_ritual</effect>
+<resource_factor>skaven_food_rituals</resource_factor>
+</effect_bonus_value_pooled_resource_factor_junctions>
+</dataroot>

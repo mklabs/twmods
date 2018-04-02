@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="1506b4c30e71e7b" name="emp_awnings01">
+      <ECBuilding key="emp_awnings01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.65496826 8.09233952 2.77197266" rotation="0 -6.85939407 0" scale="2.14002633 1.51262581 2.14002633"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506b4c30e71e7c" name="glb_wood_structure01">
+      <ECBuilding key="glb_wood_structure01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.25140381 0 -8.18261719" rotation="0 -90 0" scale="0.999999225 1 0.999999225"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506b4c30e71e7d" name="emp_awnings01">
+      <ECBuilding key="emp_awnings01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.52954102 7.81527758 -1.65698242" rotation="0.62893486 4.22437525 8.47602177" scale="2.14002705 1.51262581 2.14002657"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506b4c30e71e7e" name="glb_wood_structure01">
+      <ECBuilding key="glb_wood_structure01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.25146484 0 -8.18249512" rotation="0 -90 0" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506b4c30e71e7f" name="emp_awnings01">
+      <ECBuilding key="emp_awnings01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.55047607 8.09233952 -5.97094727" rotation="0 4.22136545 0" scale="2.14002681 1.51262581 2.14002681"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506b4c30e71e80" name="emp_awnings01">
+      <ECBuilding key="emp_awnings01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.65496826 8.09235001 8.18249512" rotation="0.144472554 -2.72924209 -3.03127885" scale="2.14002657 1.51262569 2.14002633"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

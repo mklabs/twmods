@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="151308b0ff7b612" name="vmp_walldeco_01">
+      <ECBuilding key="vmp_walldeco_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.2145996 0 0" rotation="0 0 0" scale="0.499999404 0.5 0.499999404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="walldeco_01"/>
+    </entity>
+    <entity id="151308b0ff7b613" name="vmp_walldeco_01">
+      <ECBuilding key="vmp_walldeco_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.2147217 4.65661287e-010 0" rotation="0 0 0" scale="0.499999404 0.5 0.499999404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="walldeco_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="14e2b5ca280202e">
+      <ECBuilding key="dwf_underway_inset_abodes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.27371216 22.3443604 -42.0237427" rotation="0 -25.5709133 0" scale="0.999998689 1 0.999998689"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="underway_inset_abodes_01"/>
+    </entity>
+    <entity id="14e2b5ca280202f">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-64.7117386 22.6202831 -1.64736938" rotation="0 64.0999985 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca2812030">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="56.0161591 22.6202984 25.1916504" rotation="0 244.100006 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca2812031">
+      <ECBuilding key="dwf_archers_waterway_01_right" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-47.1803284 22.6202908 6.74163818" rotation="0 244.100021 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01_right"/>
+    </entity>
+    <entity id="14e2b5ca2812032">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-60.366188 22.6202831 -10.5968018" rotation="0 64.0999985 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca2812033">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-51.670929 22.6202831 -28.5040588" rotation="0 64.0999985 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca2812034">
+      <ECBuilding key="dwf_barracks_pillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="63.4126892 34.5847702 -3.11773682" rotation="0 -25.5999966 0" scale="5 5 5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_02"/>
+    </entity>
+    <entity id="14e2b5ca2812035">
+      <ECBuilding key="dwf_supports_100m_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.0541687 0 6.4927063" rotation="-1.2130341e-011 64.1320801 -1.00179204e-005" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="supports_100m_02"/>
+    </entity>
+    <entity id="14e2b5ca2812036">
+      <ECBuilding key="dwf_archers_waterway_01_left" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-64.6919708 22.6202908 -1.76403809" rotation="0 64.1000748 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01_left"/>
+    </entity>
+    <entity id="14e2b5ca2812037">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="64.711731 22.6202984 7.28363037" rotation="0 244.100006 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca2812038">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="47.3825531 22.6202984 42.9720001" rotation="0 244.100006 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca2812039">
+      <ECBuilding key="dwf_archers_waterway_01_right" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="43.079895 22.6203365 51.7493134" rotation="0 244.100021 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01_right"/>
+    </entity>
+    <entity id="14e2b5ca281203a">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-47.3825531 22.6202831 -37.3357239" rotation="0 64.0999985 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca281203b">
+      <ECBuilding key="dwf_barracks_pillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-38.0892639 34.5847702 -51.7493286" rotation="0 -25.5999966 0" scale="5 5 5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_02"/>
+    </entity>
+    <entity id="14e2b5ca281203c">
+      <ECBuilding key="dwf_archers_waterway_01_left" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="25.5682526 22.6203365 43.2436371" rotation="0 64.1001053 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01_left"/>
+    </entity>
+    <entity id="14e2b5ca281203d">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="51.670929 22.6202984 34.1403351" rotation="0 244.100006 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca281203e">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="60.3661804 22.6202984 16.2330933" rotation="0 244.100006 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+    <entity id="14e2b5ca281203f">
+      <ECBuilding key="dwf_archers_waterway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-56.0161591 22.6202831 -19.5553894" rotation="0 64.0999985 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="archers_waterway_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

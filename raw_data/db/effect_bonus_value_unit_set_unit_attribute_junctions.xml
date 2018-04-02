@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_unit_set_unit_attribute_junctions.xsd" export_time="Fri Oct 6 17:32:20 2017" revision="10" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c4057428-24a3-4e89-b667-0c74fc7ffa3c</edit_uuid>
+<effect_bonus_value_unit_set_unit_attribute_junctions record_uuid="{6c038267-fa9e-4672-aca8-abc73eb73fd0}" record_timestamp="1507307534776" record_key="wh2_dlc09_effect_battle_vanguard_tmb_chariotsenablewh2_dlc09_tmb_chariots_guerilla_deploy">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh2_dlc09_effect_battle_vanguard_tmb_chariots</effect>
+<unit_set_attribute>wh2_dlc09_tmb_chariots_guerilla_deploy</unit_set_attribute>
+</effect_bonus_value_unit_set_unit_attribute_junctions>
+<effect_bonus_value_unit_set_unit_attribute_junctions record_uuid="{d979c234-c83f-43d1-b0bf-749689af4de9}" record_timestamp="1486975361860" record_key="wh2_main_effect_army_lzd_guerrilla_deploymentenablelzd_astromancy_guerilla_units_deploy">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh2_main_effect_army_lzd_guerrilla_deployment</effect>
+<unit_set_attribute>lzd_astromancy_guerilla_units_deploy</unit_set_attribute>
+</effect_bonus_value_unit_set_unit_attribute_junctions>
+<effect_bonus_value_unit_set_unit_attribute_junctions record_uuid="{79e828ae-946b-4cf5-883b-1cc6f009d8a4}" record_timestamp="1494325473783" record_key="wh2_main_effect_unit_attribute_enable_fear_blackguardenabledef_enable_fear_blackguard">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh2_main_effect_unit_attribute_enable_fear_blackguard</effect>
+<unit_set_attribute>def_enable_fear_blackguard</unit_set_attribute>
+</effect_bonus_value_unit_set_unit_attribute_junctions>
+<effect_bonus_value_unit_set_unit_attribute_junctions record_uuid="{718385f4-7acd-4e83-a5eb-a8c0e9652f78}" record_timestamp="1500384446184" record_key="wh2_main_effect_unit_stat_enable_fear_shadesenabledef_enable_fear_shades">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh2_main_effect_unit_stat_enable_fear_shades</effect>
+<unit_set_attribute>def_enable_fear_shades</unit_set_attribute>
+</effect_bonus_value_unit_set_unit_attribute_junctions>
+<effect_bonus_value_unit_set_unit_attribute_junctions record_uuid="{5fb5c828-90e0-4dfc-9177-dadcd682c285}" record_timestamp="1489593079967" record_key="wh2_main_spawning_blessed_kroxigors_cause_terrorenablelzd_enable_terror_blessed_kroxigors">
+<bonus_value_id>enable</bonus_value_id>
+<effect>wh2_main_spawning_blessed_kroxigors_cause_terror</effect>
+<unit_set_attribute>lzd_enable_terror_blessed_kroxigors</unit_set_attribute>
+</effect_bonus_value_unit_set_unit_attribute_junctions>
+</dataroot>

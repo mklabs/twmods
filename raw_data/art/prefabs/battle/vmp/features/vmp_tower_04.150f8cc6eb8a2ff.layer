@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="150f8cc6eb7a2fa" name="vmp_pinnacle_01">
+      <ECBuilding key="vmp_pinnacle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.89898682 0 -6.42907715" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8cc6eb7a2fb" name="vmp_pinnacle_01">
+      <ECBuilding key="vmp_pinnacle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.89898682 45.1432419 6.42907715" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8cc6eb7a2fc" name="vmp_greathall_01">
+      <ECBuilding key="vmp_greathall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.36364746 59.2643661 -2.27825928" rotation="0 90 0" scale="0.499999315 0.5 0.499999315"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8cc6eb7a2fd" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.36364746 31.895668 -1.99658203" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8cc6eb7a2fe" name="vmp_greathall_01">
+      <ECBuilding key="vmp_greathall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.2376709 50.4604645 4.53839111" rotation="0 0 0" scale="0.499999225 0.5 0.499999225"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

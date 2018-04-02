@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="loyalty_factors.xsd" export_time="Wed Aug 30 17:40:15 2017" revision="37" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>99b8f6fb-88af-4ff9-9183-fde8b5bd469c</edit_uuid>
+<loyalty_factors record_uuid="{26a9cae5-a783-4008-ab79-8a5e9fa6b289}" record_timestamp="1490267232849" record_key="ancillaries">
+<key>ancillaries</key>
+<localised_negative_name state="APPROVED" last_approved_text="Ancillaries Taken" last_edit_user="bob">Ancillaries Taken</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Ancillaries Given" last_edit_user="bob">Ancillaries Given</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{1b9b8165-8c69-40f2-8522-7229775d1e27}" record_timestamp="1490267232849" record_key="battle_results">
+<key>battle_results</key>
+<localised_negative_name state="APPROVED" last_approved_text="Defeat in Battle" last_edit_user="bob">Defeat in Battle</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Victory in Battle" last_edit_user="bob">Victory in Battle</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{fe046056-c53a-4940-8cc5-ee8c06132e98}" record_timestamp="1490267232849" record_key="diplomatic_behaviour">
+<key>diplomatic_behaviour</key>
+<localised_negative_name state="APPROVED" last_approved_text="Inappropriate Diplomatic Behaviour" last_edit_user="bob">Inappropriate Diplomatic Behaviour</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Appropriate Diplomatic Behaviour" last_edit_user="bob">Appropriate Diplomatic Behaviour</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{f2a85adb-a688-429d-88a5-ed65cfc25d4e}" record_timestamp="1504111215375" record_key="faction_leader_strength">
+<key>faction_leader_strength</key>
+<localised_negative_name state="APPROVED" last_approved_text="Weak Leader" last_edit_user="bob">Weak Leader</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Strong Leader" last_edit_user="bob">Strong Leader</localised_positive_name>
+<maximum_value>2</maximum_value>
+<minimum_value>-2</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{9ecee6bf-2ba2-4d69-8ad4-c4db8703e408}" record_timestamp="1490267232849" record_key="military_command">
+<key>military_command</key>
+<localised_negative_name state="APPROVED" last_approved_text="Command Revoked" last_edit_user="bob">Command Revoked</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Command Given" last_edit_user="bob">Command Given</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{a355bfa0-53b8-40c5-bff5-b990ca976618}" record_timestamp="1490267232849" record_key="mission_results">
+<key>mission_results</key>
+<localised_negative_name state="APPROVED" last_approved_text="Failed Quests" last_edit_user="bob">Failed Quests</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Successful Quests" last_edit_user="bob">Successful Quests</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{3b053513-d882-4b6c-a31d-d9dfe6349140}" record_timestamp="1490267232849" record_key="other_defectors">
+<key>other_defectors</key>
+<localised_negative_name state="APPROVED" last_approved_text="Other Defectors" last_edit_user="bob">Other Defectors</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Other Defectors (Positive, Never Seen)" last_edit_user="bob">Other Defectors (Positive, Never Seen)</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{f58dcffc-51e1-4d68-bc68-113667f617aa}" record_timestamp="1490959233138" record_key="passive">
+<key>passive</key>
+<localised_negative_name state="APPROVED" last_approved_text="Passive" last_edit_user="bob">Passive</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Passive" last_edit_user="bob">Passive</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+<loyalty_factors record_uuid="{430e22f3-7814-4c22-8277-f74b5bbf836e}" record_timestamp="1490267232849" record_key="payload">
+<key>payload</key>
+<localised_negative_name state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</localised_negative_name>
+<localised_positive_name state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</localised_positive_name>
+<maximum_value>10</maximum_value>
+<minimum_value>-10</minimum_value>
+</loyalty_factors>
+</dataroot>

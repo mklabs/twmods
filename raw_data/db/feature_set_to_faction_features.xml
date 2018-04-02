@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="feature_set_to_faction_features.xsd" export_time="Thu Aug 31 15:37:39 2017" revision="6" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>1742629c-8def-41dc-8cd8-85be7fbd6eea</edit_uuid>
+<feature_set_to_faction_features record_uuid="{572b7ed8-5d93-478a-8a2e-9bfbb87b7994}" record_timestamp="1473771458469" record_key="COMPANION_FACTIONCAN_BE_REGIONLESS">
+<feature>CAN_BE_REGIONLESS</feature>
+<feature_set>COMPANION_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{0a416700-faa5-482b-acd2-9c8ef7d697b9}" record_timestamp="1473771458970" record_key="COMPANION_FACTIONCAN_SUPPORT_ARMIES">
+<feature>CAN_SUPPORT_ARMIES</feature>
+<feature_set>COMPANION_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{454b2a65-020d-4c27-b846-de2323037acf}" record_timestamp="1473771458970" record_key="COMPANION_FACTIONCAN_SUPPORT_HORDES">
+<feature>CAN_SUPPORT_HORDES</feature>
+<feature_set>COMPANION_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{eb8deed5-f5e5-408d-bbe6-4af7adfdb057}" record_timestamp="1473771458970" record_key="COMPANION_FACTIONIS_COMPANION_ARMY">
+<feature>IS_COMPANION_ARMY</feature>
+<feature_set>COMPANION_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{4c5d1d4a-4271-4bdb-90e1-9b0138f20c30}" record_timestamp="1473771458461" record_key="HORDECAN_BE_REGIONLESS">
+<feature>CAN_BE_REGIONLESS</feature>
+<feature_set>HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{faf0cb1b-6f4c-430f-8952-eaba97827ebc}" record_timestamp="1473771458459" record_key="HORDECAN_RECRUIT_HORDES">
+<feature>CAN_RECRUIT_HORDES</feature>
+<feature_set>HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{5e1b2178-01d2-4c53-b75f-54bf09afbcf2}" record_timestamp="1504190259152" record_key="MIXED_NAVAL_HORDECAN_BE_REGIONLESS">
+<feature>CAN_BE_REGIONLESS</feature>
+<feature_set>MIXED_NAVAL_HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{5c760161-27a9-4c12-80d0-bca3a0e12a4f}" record_timestamp="1473771458460" record_key="MIXED_NAVAL_HORDECAN_OCCUPY_SETTLEMENTS">
+<feature>CAN_OCCUPY_SETTLEMENTS</feature>
+<feature_set>MIXED_NAVAL_HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{189608f2-49ab-45cd-b51c-f22e4904cc1f}" record_timestamp="1473771458460" record_key="MIXED_NAVAL_HORDECAN_OWN_REGIONS">
+<feature>CAN_OWN_REGIONS</feature>
+<feature_set>MIXED_NAVAL_HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{2de8e738-e982-4640-989c-4d9012de6a90}" record_timestamp="1473771458461" record_key="MIXED_NAVAL_HORDECAN_RECRUIT_ARMIES">
+<feature>CAN_RECRUIT_ARMIES</feature>
+<feature_set>MIXED_NAVAL_HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{66abc0d5-ddfe-4af2-bcf5-de5bb896bfe7}" record_timestamp="1473771458973" record_key="MIXED_NAVAL_HORDECAN_RECRUIT_SEA_LOCKED_HORDES">
+<feature>CAN_RECRUIT_SEA_LOCKED_HORDES</feature>
+<feature_set>MIXED_NAVAL_HORDE</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{200659d8-fcb7-4159-9bb5-4a6c4acff9d2}" record_timestamp="1479232511644" record_key="PRIMARY_RITUAL_ENABLEDCAN_PERFORM_RITUALS">
+<feature>CAN_PERFORM_RITUALS</feature>
+<feature_set>PRIMARY_RITUAL_ENABLED</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{2dc8ee3a-5cf2-4bd0-8603-5c022d7e76c3}" record_timestamp="1479232511644" record_key="PRIMARY_RITUAL_ENABLEDCAN_PERFORM_RITUAL_CHAINS">
+<feature>CAN_PERFORM_RITUAL_CHAINS</feature>
+<feature_set>PRIMARY_RITUAL_ENABLED</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{92587acf-5486-4932-9e65-c9201f303847}" record_timestamp="1477660098074" record_key="RITUAL_ENABLEDCAN_PERFORM_RITUALS">
+<feature>CAN_PERFORM_RITUALS</feature>
+<feature_set>RITUAL_ENABLED</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{92b7912c-34eb-4c88-8248-47be66519a60}" record_timestamp="1503999703966" record_key="RITUAL_ENABLED_LOCKEDCAN_PERFORM_RITUALS">
+<feature>CAN_PERFORM_RITUALS</feature>
+<feature_set>RITUAL_ENABLED_LOCKED</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{b68efbad-83e7-47a0-bc33-44dad9517135}" record_timestamp="1473771458969" record_key="STANDARD_FACTIONCAN_BE_REGIONLESS">
+<feature>CAN_BE_REGIONLESS</feature>
+<feature_set>STANDARD_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{ceaa2983-32c6-48dc-927f-3524a54a13c0}" record_timestamp="1473771458460" record_key="STANDARD_FACTIONCAN_OCCUPY_SETTLEMENTS">
+<feature>CAN_OCCUPY_SETTLEMENTS</feature>
+<feature_set>STANDARD_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{d7997e73-496e-49f2-b2e1-7ccf1ce7f157}" record_timestamp="1473771458461" record_key="STANDARD_FACTIONCAN_OWN_REGIONS">
+<feature>CAN_OWN_REGIONS</feature>
+<feature_set>STANDARD_FACTION</feature_set>
+</feature_set_to_faction_features>
+<feature_set_to_faction_features record_uuid="{cd75ce77-bbc7-412c-9d71-12680d2c600c}" record_timestamp="1473771458461" record_key="STANDARD_FACTIONCAN_RECRUIT_ARMIES">
+<feature>CAN_RECRUIT_ARMIES</feature>
+<feature_set>STANDARD_FACTION</feature_set>
+</feature_set_to_faction_features>
+</dataroot>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_battle_set_piece_armies_effect_bundles>
+<root>
+<edit_uuid>17068acf-b4bb-41b0-8f0f-89d401c04ece</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{a096d247-3d32-454c-a2e8-c56a0a711f87}</field_uuid>
+<primary_key>1</primary_key>
+<name>battle_set_piece_army</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>army_name</column_source_column>
+<column_source_table>battle_set_piece_armies</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{da5277e0-0817-4746-b8ce-9ca867478ef3}</field_uuid>
+<primary_key>1</primary_key>
+<name>effect_bundle</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>effect_bundles</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

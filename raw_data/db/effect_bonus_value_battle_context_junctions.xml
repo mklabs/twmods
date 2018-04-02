@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_battle_context_junctions.xsd" export_time="Tue Dec 12 11:50:52 2017" revision="71" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>234dd3d6-ec55-4d50-b763-7cdfcde7d073</edit_uuid>
+<effect_bonus_value_battle_context_junctions record_uuid="{b24b96fa-e4d1-4e1f-8b3a-41fce5181eb4}" record_timestamp="1511179956708" record_key="wh2_dlc09_effect_force_army_battle_unit_melee_attack_during_ambushesmelee_attack_mod">
+<battle_context_key>fighting_force_status_yours_ambushing</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_dlc09_effect_force_army_battle_unit_melee_attack_during_ambushes</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{2b9dbdce-af50-4ab0-ae34-2ed62a12fb66}" record_timestamp="1508259713595" record_key="wh2_dlc09_effect_force_unit_stat_melee_attack_versus_tomb_kingsmelee_attack_mod">
+<battle_context_key>fighting_culture_tomb_kings</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_dlc09_effect_force_unit_stat_melee_attack_versus_tomb_kings</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{517b29ce-b521-44bd-a2ef-3d519fb99cb9}" record_timestamp="1513079452005" record_key="wh2_dlc09_effect_force_unit_stat_morale_versus_bretonniamorale">
+<battle_context_key>fighting_culture_bretonnia</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_dlc09_effect_force_unit_stat_morale_versus_bretonnia</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{b483b204-8ed9-43a4-a948-0b091e05c3f1}" record_timestamp="1508259713638" record_key="wh2_dlc09_effeect_force_unit_stat_morale_versus_tomb_kingsmorale">
+<battle_context_key>fighting_culture_tomb_kings</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_dlc09_effeect_force_unit_stat_morale_versus_tomb_kings</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{8d217ab0-b684-476d-960c-c01085ab373b}" record_timestamp="1484334642574" record_key="wh2_main_effect_bonus_morale_fighting_against_defmorale">
+<battle_context_key>fighting_culture_darkelf</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_bonus_morale_fighting_against_def</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{2f591b33-1fe7-46b4-bf8c-7b8ac2379f02}" record_timestamp="1489508235065" record_key="wh2_main_effect_character_stat_enable_flaming_attacks_versus_woodelvesunit_flaming_attack_mod">
+<battle_context_key>fighting_culture_wood_elves</battle_context_key>
+<bonus_value_id>unit_flaming_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_enable_flaming_attacks_versus_woodelves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{eb62a244-6a22-47fe-8e21-ab6fed49551f}" record_timestamp="1475675695555" record_key="wh2_main_effect_character_stat_mod_ap_damage_versus_dwarfsmelee_damage_ap_mod_add">
+<battle_context_key>fighting_culture_dwarfs</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_add</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_ap_damage_versus_dwarfs</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{17427e4b-4eb3-489b-9b63-ea4ab92b928d}" record_timestamp="1500726858499" record_key="wh2_main_effect_character_stat_mod_melee_attack_versus_dwarfs_greenskinsmelee_attack_mod">
+<battle_context_key>fighting_culture_dwarfs_greenskins</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_attack_versus_dwarfs_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{fe07262d-1aa6-48f4-8bff-04441bf3d626}" record_timestamp="1483551424024" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_beastmenmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_beastmen</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_beastmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{0038a0e2-ed4f-425c-9147-5ee8e89a0c15}" record_timestamp="1483551423971" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_beastmenmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_beastmen</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_beastmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{78f07a5c-1a4f-462c-8a1d-c1afe4cf8f41}" record_timestamp="1483551424650" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_chaos_norscamelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_chaos_norsca</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{67a403b7-8c66-4a66-b515-9cb3a916d508}" record_timestamp="1483551424606" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_chaos_norscamelee_damage_mod_mult">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_chaos_norsca</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{263c4f4a-b076-47c0-aefc-7be03c236700}" record_timestamp="1483551423551" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_dark_elvesmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_darkelf</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_dark_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{b9b8c61d-0094-4b86-a752-83d6407a73d4}" record_timestamp="1483551423509" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_dark_elvesmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_darkelf</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_dark_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{d9712159-ad64-46e0-98a4-a8579b3a35b6}" record_timestamp="1500726889886" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfs_greenskinsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_dwarfs_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfs_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{36ac4d7a-421e-4d6b-ae4a-ecfa20fa5618}" record_timestamp="1500726889896" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfs_greenskinsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_dwarfs_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfs_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{8df74d36-7c1a-4f32-9ada-95cc445ff36a}" record_timestamp="1475675560526" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_dwarfs</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfs</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{52c514b5-6470-49b9-845b-4a9b540d5d70}" record_timestamp="1475675560539" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_dwarfs</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_dwarfs</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{1bc52fca-5d51-4f06-a051-02080a2851dd}" record_timestamp="1505401872949" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_destructionmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_forces_of_destruction</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_destruction</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{221edc68-367b-4c2d-a955-bc041a58ce82}" record_timestamp="1505401872908" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_destructionmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_forces_of_destruction</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_destruction</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{44cbf264-1218-4c9d-bfed-c14ffe026fbc}" record_timestamp="1505401873849" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_ordermelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_forces_of_order</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_order</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{4ddac0e3-8c59-43e0-a328-46200d27f71b}" record_timestamp="1505401873889" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_ordermelee_damage_mod_mult">
+<battle_context_key>fighting_culture_forces_of_order</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_forces_of_order</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{88303d91-7e87-4562-aa70-1fb30fee778e}" record_timestamp="1481648098212" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_high_elvesmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_highelf</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_high_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{53124923-66fd-4df9-8831-8f8a36765842}" record_timestamp="1481648098337" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_high_elvesmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_highelf</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_high_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{0633c064-1352-4c21-a5e4-ac4be5d6e539}" record_timestamp="1484578665597" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_humansmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_empire_and_bretonnia</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_humans</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{cc85c1d8-6b0f-48b5-901e-64f0a0ea87ce}" record_timestamp="1484578665688" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_humansmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_empire_and_bretonnia</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_humans</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{7098fd93-16e6-4ea2-8e5d-d9bba91786af}" record_timestamp="1485280545127" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_lizardmenmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_lizardmen</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_lizardmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{eb590878-0a1a-4318-a4f1-5a62db362fc0}" record_timestamp="1485280545012" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_lizardmenmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_lizardmen</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_lizardmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{0dcdc607-6cd5-49bf-b362-779319ea3b4e}" record_timestamp="1495030951443" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_skavenmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_skaven</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_skaven</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{bd034578-7017-4a56-abd3-a7503589a10e}" record_timestamp="1495030951470" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_skavenmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_skaven</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_skaven</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{b933d02e-45a2-4c28-88ef-04ea0694274f}" record_timestamp="1475675918283" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_vampire_countsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_vampire_counts</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{44487a96-b4c5-452a-adc6-bb6a0d8fe32a}" record_timestamp="1475675918320" record_key="wh2_main_effect_character_stat_mod_melee_damage_versus_vampire_countsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_character_stat_mod_melee_damage_versus_vampire_counts</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{949c904a-52f4-4230-99c2-4b7485292317}" record_timestamp="1501001555372" record_key="wh2_main_effect_force_army_battle_unit_morale_siege_attack_badmorale">
+<battle_context_key>fighting_force_status_yours_besieging</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_army_battle_unit_morale_siege_attack_bad</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{363c147c-7883-458a-b9ca-dc68396dbee2}" record_timestamp="1489508230827" record_key="wh2_main_effect_force_navy_melee_attackmelee_attack_mod">
+<battle_context_key>fighting_ground_type_sea</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_navy_melee_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{46464547-99d2-483f-abc6-2427a963da7e}" record_timestamp="1489508230852" record_key="wh2_main_effect_force_navy_moralemorale">
+<battle_context_key>fighting_ground_type_sea</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_navy_morale</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{41f25eb3-838e-4251-8a81-385f8266a9e5}" record_timestamp="1510848584297" record_key="wh2_main_effect_force_unit_stat_melee_attack_in_desert_terrainmelee_attack_mod">
+<battle_context_key>fighting_ground_type_desert</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_attack_in_desert_terrain</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{d0e82ea3-9e04-4092-a513-e8a5ffb1897a}" record_timestamp="1484334640555" record_key="wh2_main_effect_force_unit_stat_melee_attack_versus_dark_elvesmelee_attack_mod">
+<battle_context_key>fighting_culture_darkelf</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_attack_versus_dark_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{81d50a87-ad97-4005-b8f7-688843557b1e}" record_timestamp="1484334640429" record_key="wh2_main_effect_force_unit_stat_melee_attack_versus_dwarfsmelee_attack_mod">
+<battle_context_key>fighting_culture_dwarfs</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_attack_versus_dwarfs</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{5c1e3045-e345-4c90-b968-efbbbe578c8a}" record_timestamp="1484334640493" record_key="wh2_main_effect_force_unit_stat_melee_attack_versus_empiremelee_attack_mod">
+<battle_context_key>fighting_culture_empire_and_bretonnia</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_attack_versus_empire</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{92096851-7e73-4774-b46f-ea60cc478b62}" record_timestamp="1484578647127" record_key="wh2_main_effect_force_unit_stat_melee_attack_versus_skavenmelee_attack_mod">
+<battle_context_key>fighting_culture_skaven</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_attack_versus_skaven</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{e64802a2-4d84-49e2-9c85-ca610e990bc1}" record_timestamp="1503395266842" record_key="wh2_main_effect_force_unit_stat_melee_attack_versus_undeadmelee_attack_mod">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_attack_versus_undead</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{5ed1b8e0-68e4-4ab6-92c4-f0fbcce1c2e7}" record_timestamp="1511177051026" record_key="wh2_main_effect_force_unit_stat_melee_damage_versus_greenskinsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_lizardmen</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_damage_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{dd45dea4-e577-41f3-b94b-a39704dadfbd}" record_timestamp="1511177051049" record_key="wh2_main_effect_force_unit_stat_melee_damage_versus_greenskinsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_lizardmen</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_melee_damage_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{6bda5408-b2bd-4c99-8c9f-1a381e242f8f}" record_timestamp="1489051261001" record_key="wh2_main_effect_force_unit_stat_morale_melee_attack_versus_high_elvesmelee_attack_mod">
+<battle_context_key>fighting_culture_highelf</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_melee_attack_versus_high_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{75bdcb7c-ae65-4f91-a8d8-a9360aac06ec}" record_timestamp="1489051261026" record_key="wh2_main_effect_force_unit_stat_morale_melee_defense_versus_dark_elvesmelee_defence_mod">
+<battle_context_key>fighting_culture_darkelf</battle_context_key>
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_melee_defense_versus_dark_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{cd1e5185-e5d5-48b8-9edf-5105a4bd84a8}" record_timestamp="1489051260360" record_key="wh2_main_effect_force_unit_stat_morale_versus_dark_elvesmorale">
+<battle_context_key>fighting_culture_darkelf</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_versus_dark_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{f34c9b59-8ba4-46b3-a0d1-3d03f780e259}" record_timestamp="1489051260574" record_key="wh2_main_effect_force_unit_stat_morale_versus_high_elvesmorale">
+<battle_context_key>fighting_culture_highelf</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_versus_high_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{5f9e9594-99e1-42cb-8dd7-f351bcb4ddc7}" record_timestamp="1489508230246" record_key="wh2_main_effect_force_unit_stat_morale_versus_lizardmenmorale">
+<battle_context_key>fighting_culture_lizardmen</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_versus_lizardmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{f860e59b-2b36-4b03-9aeb-d6e897a670e8}" record_timestamp="1489508230405" record_key="wh2_main_effect_force_unit_stat_morale_versus_rogue_armiesmorale">
+<battle_context_key>fighting_culture_rogue_armies</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_versus_rogue_armies</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{03fa3166-ecdc-4ad0-ae92-36415f120e9f}" record_timestamp="1475747633061" record_key="wh2_main_effect_force_unit_stat_morale_versus_skavenmorale">
+<battle_context_key>fighting_culture_skaven</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_versus_skaven</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9e8af066-0a66-41e9-83a5-a3f1b7779430}" record_timestamp="1489508230316" record_key="wh2_main_effect_force_unit_stat_morale_versus_wood_elvesmorale">
+<battle_context_key>fighting_culture_wood_elves</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh2_main_effect_force_unit_stat_morale_versus_wood_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{def44558-01b6-46c8-9526-9a9f36ba0591}" record_timestamp="1456420068238" record_key="wh_dlc03_effect_bonus_morale_fighting_against_bretonniamorale">
+<battle_context_key>fighting_faction_bretonnia</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc03_effect_bonus_morale_fighting_against_bretonnia</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{cdb8f015-1a36-4f3e-94cb-03e8561147de}" record_timestamp="1461057291053" record_key="wh_dlc03_effect_bonus_morale_fighting_against_carroburgmorale">
+<battle_context_key>fighting_faction_carroburg</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc03_effect_bonus_morale_fighting_against_carroburg</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{35e2c5b8-9a44-4ac4-912d-056f729ebe81}" record_timestamp="1456420068275" record_key="wh_dlc03_effect_bonus_morale_fighting_against_empiremorale">
+<battle_context_key>fighting_faction_empire</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc03_effect_bonus_morale_fighting_against_empire</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{5c0b50e1-f26f-4b64-b9b5-feaaff487b59}" record_timestamp="1458064563374" record_key="wh_dlc03_effect_bonus_morale_fighting_against_hochlandmorale">
+<battle_context_key>fighting_faction_hochland</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc03_effect_bonus_morale_fighting_against_hochland</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{f82e0846-895a-4276-80d5-4c8e86d3c861}" record_timestamp="1467098513633" record_key="wh_dlc03_effect_bonus_morale_fighting_against_middenheimmorale">
+<battle_context_key>fighting_faction_middenland</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc03_effect_bonus_morale_fighting_against_middenheim</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{3ca5c267-ab4e-4d00-bad9-dffd7f94018b}" record_timestamp="1478767678250" record_key="wh_dlc05_effect_bonus_damage_reduction_when_in_forestunit_damage_resistance_physical_mod">
+<battle_context_key>fighting_ground_type_forest</battle_context_key>
+<bonus_value_id>unit_damage_resistance_physical_mod</bonus_value_id>
+<effect_key>wh_dlc05_effect_bonus_damage_reduction_when_in_forest</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{3d0f07f5-6bfc-4877-8229-f32d7f4788e8}" record_timestamp="1478767677135" record_key="wh_dlc05_effect_bonus_leadership_when_in_forestmorale">
+<battle_context_key>fighting_ground_type_forest</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc05_effect_bonus_leadership_when_in_forest</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{2a9bdb9d-5908-4a64-b869-c217cfe9e82c}" record_timestamp="1478785990130" record_key="wh_dlc05_effect_force_army_battle_melee_attack_during_forestmelee_attack_mod">
+<battle_context_key>fighting_ground_type_forest</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc05_effect_force_army_battle_melee_attack_during_forest</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9aac0874-e423-494f-a810-70f835d66562}" record_timestamp="1478803865004" record_key="wh_dlc05_effect_force_army_battle_unit_ammo_siege_defenceammo_mod">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>ammo_mod</bonus_value_id>
+<effect_key>wh_dlc05_effect_force_army_battle_unit_ammo_siege_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{b9f78118-2059-466e-9090-fe542d694207}" record_timestamp="1478803865008" record_key="wh_dlc05_effect_force_army_battle_unit_reload_speed_siege_defencereload_mod">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>reload_mod</bonus_value_id>
+<effect_key>wh_dlc05_effect_force_army_battle_unit_reload_speed_siege_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{22b3dca1-17fd-4a0e-9e85-905546a9c2d4}" record_timestamp="1480096243702" record_key="wh_dlc05_effect_force_melee_attack_stat_morale_versus_beastmenmelee_attack_mod">
+<battle_context_key>fighting_culture_beastmen</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc05_effect_force_melee_attack_stat_morale_versus_beastmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{af084ead-27b2-4934-a9e4-5c19461b613a}" record_timestamp="1480096243699" record_key="wh_dlc05_effect_force_range_attack_stat_morale_versus_beastmenmissile_damage_mod_mult">
+<battle_context_key>fighting_culture_beastmen</battle_context_key>
+<bonus_value_id>missile_damage_mod_mult</bonus_value_id>
+<effect_key>wh_dlc05_effect_force_range_attack_stat_morale_versus_beastmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{4117d1be-145b-4cb3-b033-53f86b811ac1}" record_timestamp="1478784403377" record_key="wh_dlc05_effect_force_unit_stat_morale_versus_beastmenmorale">
+<battle_context_key>fighting_culture_beastmen</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc05_effect_force_unit_stat_morale_versus_beastmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{53fd20de-7571-4dc6-83ee-ee8a4e9bb438}" record_timestamp="1478768524763" record_key="wh_dlc05_effect_reload_time_when_in_forestreload_mod">
+<battle_context_key>fighting_ground_type_forest</battle_context_key>
+<bonus_value_id>reload_mod</bonus_value_id>
+<effect_key>wh_dlc05_effect_reload_time_when_in_forest</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{321e76fc-ff02-4870-ade3-1628fc18f539}" record_timestamp="1474903545341" record_key="wh_dlc06_effect_bonus_damage_fighting_against_chaosmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_dlc06_effect_bonus_damage_fighting_against_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a8882f59-c580-4346-9a8c-5e94b1d45f46}" record_timestamp="1474903545342" record_key="wh_dlc06_effect_bonus_damage_fighting_against_chaosmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_dlc06_effect_bonus_damage_fighting_against_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{34e86f23-198f-4af1-84e1-86d7bf06406a}" record_timestamp="1474902703221" record_key="wh_dlc07_effect_bonus_morale_fighting_against_vampiresmorale">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc07_effect_bonus_morale_fighting_against_vampires</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{05d65965-b038-42ff-9e28-77a2cfb97e16}" record_timestamp="1511171307858" record_key="wh_dlc08_effect_bonus_ap_damage_personal_against_chaosmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_ap_damage_personal_against_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a8816edf-4ceb-499f-80f0-cc2860809f80}" record_timestamp="1511171307859" record_key="wh_dlc08_effect_bonus_ap_damage_personal_against_chaosmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_ap_damage_personal_against_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{542ab837-499f-4c15-8282-6c66980d3bcc}" record_timestamp="1511171307853" record_key="wh_dlc08_effect_bonus_ap_damage_personal_against_greenskinsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_ap_damage_personal_against_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{22afaf1b-f26a-48f6-9f3a-b78be05bc6f0}" record_timestamp="1511171307854" record_key="wh_dlc08_effect_bonus_ap_damage_personal_against_greenskinsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_ap_damage_personal_against_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9d3d8893-0ab1-444d-93f7-29317b5ad878}" record_timestamp="1511171307855" record_key="wh_dlc08_effect_bonus_ap_damage_personal_against_vampiresmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_ap_damage_personal_against_vampires</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9fb87db5-8f80-4746-9072-eb79c727e376}" record_timestamp="1511171307857" record_key="wh_dlc08_effect_bonus_ap_damage_personal_against_vampiresmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_ap_damage_personal_against_vampires</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{03d03f7c-bf45-49c7-9dde-a36a1a3dc5bd}" record_timestamp="1511171307863" record_key="wh_dlc08_effect_bonus_melee_attack_fighting_against_chaosmelee_attack_mod">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_melee_attack_fighting_against_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a2cbbaa1-2797-4a8d-a4d8-3172debe2dd6}" record_timestamp="1511171307865" record_key="wh_dlc08_effect_bonus_melee_attack_fighting_against_greenskinsmelee_attack_mod">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_melee_attack_fighting_against_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a719123f-029f-4f1c-af3d-d632b8eb1b2b}" record_timestamp="1511171307870" record_key="wh_dlc08_effect_bonus_melee_attack_fighting_against_humanmelee_attack_mod">
+<battle_context_key>fighting_culture_empire_and_bretonnia</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_melee_attack_fighting_against_human</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{e405f19b-fcd1-4eae-ab01-dd8bf6d05c12}" record_timestamp="1511171307864" record_key="wh_dlc08_effect_bonus_melee_attack_fighting_against_vampiresmelee_attack_mod">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_melee_attack_fighting_against_vampires</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{c4b10897-8e0a-4945-80c0-c08f066b44bb}" record_timestamp="1511171307869" record_key="wh_dlc08_effect_bonus_melee_attack_fighting_against_woodelvesmelee_attack_mod">
+<battle_context_key>fighting_culture_any_elves</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_melee_attack_fighting_against_woodelves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{bdca69ec-c67e-480f-a175-50376d9affaf}" record_timestamp="1511171307868" record_key="wh_dlc08_effect_bonus_morale_fighting_against_greenskinsmorale">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_morale_fighting_against_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{7d8afa0a-203a-43f2-a9b7-48035de14372}" record_timestamp="1511171307862" record_key="wh_dlc08_effect_bonus_morale_fighting_against_humanmorale">
+<battle_context_key>fighting_culture_empire_and_bretonnia</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_morale_fighting_against_human</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9b099fe7-2b05-421b-b760-31cbd86732bb}" record_timestamp="1511171307867" record_key="wh_dlc08_effect_bonus_morale_fighting_against_vampiresmorale">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_morale_fighting_against_vampires</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9f5e87eb-d038-4003-aabc-751f2b1390f2}" record_timestamp="1511171307860" record_key="wh_dlc08_effect_bonus_morale_fighting_against_woodelvesmorale">
+<battle_context_key>fighting_culture_any_elves</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_dlc08_effect_bonus_morale_fighting_against_woodelves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{0900e1be-a3c7-4ce0-8cf6-c3cf336e7f6a}" record_timestamp="1488482705593" record_key="wh_main_effect_bonus_morale_fighting_against_wood_elvesmorale">
+<battle_context_key>fighting_culture_wood_elves</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_bonus_morale_fighting_against_wood_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{4c5896ea-1dd5-4b4a-bc55-baecd8920a0b}" record_timestamp="1510930639445" record_key="wh_main_effect_character_stat_melee_damage_versus_greenskinsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_character_stat_melee_damage_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{2d4d2fa5-4e6a-473f-97b2-32cade395445}" record_timestamp="1510930639449" record_key="wh_main_effect_character_stat_melee_damage_versus_greenskinsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_character_stat_melee_damage_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{1e5ebc54-9f12-426e-87bc-2770e735a10d}" record_timestamp="1474903546120" record_key="wh_main_effect_force_army_battle_unit_melee_defence_siege_defencemelee_defence_mod">
+<battle_context_key>fighting_force_status_theirs_besieging</battle_context_key>
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_melee_defence_siege_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a40ce45d-5f2a-4815-9a2d-e5a3330752bd}" record_timestamp="1425557445450" record_key="wh_main_effect_force_army_battle_unit_morale_during_ambushesmorale">
+<battle_context_key>fighting_force_status_yours_ambushing</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_during_ambushes</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{bc62ac2a-3374-4ec1-bfae-693c3574afa1}" record_timestamp="1425557446162" record_key="wh_main_effect_force_army_battle_unit_morale_during_forestmorale">
+<battle_context_key>fighting_ground_type_forest</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_during_forest</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9ce641c9-584d-4d7e-a6f5-fd417568a0d3}" record_timestamp="1425557446669" record_key="wh_main_effect_force_army_battle_unit_morale_land_attackmorale">
+<battle_context_key>fighting_force_status_yours_attacking</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_land_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{37a92f69-11bb-4f74-9e4b-33fa59cb3a9a}" record_timestamp="1425557446841" record_key="wh_main_effect_force_army_battle_unit_morale_land_defencemorale">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_land_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{672175c8-c720-45bf-913d-3b2d2c101a65}" record_timestamp="1425557447001" record_key="wh_main_effect_force_army_battle_unit_morale_siege_attackmorale">
+<battle_context_key>fighting_force_status_yours_besieging</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_siege_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{e6acfee3-6ee3-4b3b-9436-305d58b21fd3}" record_timestamp="1425557447197" record_key="wh_main_effect_force_army_battle_unit_morale_siege_defencemorale">
+<battle_context_key>fighting_force_status_theirs_besieging</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_siege_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{20d1df64-cc32-4377-b53e-b2099a088646}" record_timestamp="1425557447380" record_key="wh_main_effect_force_army_battle_unit_morale_versus_raider_armiesmorale">
+<battle_context_key>fighting_force_status_theirs_raiding_army</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_army_battle_unit_morale_versus_raider_armies</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{e2db3580-e197-462b-b723-0ee8c099219d}" record_timestamp="1438698465534" record_key="wh_main_effect_force_navy_battle_melee_defence_when_escortingmissile_damage_mod_mult">
+<battle_context_key>fighting_force_status_yours_escorting</battle_context_key>
+<bonus_value_id>missile_damage_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_melee_defence_when_escorting</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{7087348d-3ad0-4866-a925-b5b167251563}" record_timestamp="1425557482345" record_key="wh_main_effect_force_navy_battle_ramming_bonus_during_blockadeship_ram_damage_mod">
+<battle_context_key>fighting_force_status_theirs_blockading</battle_context_key>
+<bonus_value_id>ship_ram_damage_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_ramming_bonus_during_blockade</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{d60bca0e-b010-40bb-981f-9f23b35e598b}" record_timestamp="1442587991727" record_key="wh_main_effect_force_navy_battle_unit_melee_attack_sea_attackmelee_attack_mod">
+<battle_context_key>fighting_force_status_yours_attacking_at_sea</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_melee_attack_sea_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{bc571096-e7fe-4e57-b22d-28b35cd11ba0}" record_timestamp="1425557483231" record_key="wh_main_effect_force_navy_battle_unit_morale_blockade_attackmorale">
+<battle_context_key>fighting_force_status_yours_blockading</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_blockade_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9360efd4-28c3-43f0-82f6-759a91aacf20}" record_timestamp="1425557483617" record_key="wh_main_effect_force_navy_battle_unit_morale_blockade_defencemorale">
+<battle_context_key>fighting_force_status_yours_attacking_battle_type_break_out</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_blockade_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{7e6e63b5-a936-4895-adf5-f44f9afdd53a}" record_timestamp="1425557482842" record_key="wh_main_effect_force_navy_battle_unit_morale_blockademorale">
+<battle_context_key>fighting_battle_type_blockade</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_blockade</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{023b5aab-846f-4d5a-8d2d-016b911a683a}" record_timestamp="1425557483814" record_key="wh_main_effect_force_navy_battle_unit_morale_sea_attackmorale">
+<battle_context_key>fighting_force_status_yours_attacking_at_sea</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_sea_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{22622ded-c13e-4c9b-9466-0a1047411d3b}" record_timestamp="1425557484200" record_key="wh_main_effect_force_navy_battle_unit_morale_sea_defencemorale">
+<battle_context_key>fighting_force_status_yours_defending_at_sea</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_sea_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{992a15f7-23f5-4a40-a6c5-85690bcd70c1}" record_timestamp="1425557484585" record_key="wh_main_effect_force_navy_battle_unit_morale_versus_raider_fleetsmorale">
+<battle_context_key>fighting_force_status_theirs_raiding_fleet</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_versus_raider_fleets</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{396818bd-5f93-4382-a7fb-7a452c7fde63}" record_timestamp="1425557484780" record_key="wh_main_effect_force_navy_battle_unit_morale_when_escortingmorale">
+<battle_context_key>fighting_force_status_yours_escorting</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_battle_unit_morale_when_escorting</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{42021217-0eed-4cd7-87e1-36d24cce3a9a}" record_timestamp="1425557491735" record_key="wh_main_effect_force_navy_campaign_upkeep_naval_in_foreign_watersxp_gain_rate_mod">
+<battle_context_key>fighting_territory_enemy_or_neutral_navy</battle_context_key>
+<bonus_value_id>xp_gain_rate_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_navy_campaign_upkeep_naval_in_foreign_waters</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{7329f7b0-7fbf-4e1c-a77c-1c0ae43f08c3}" record_timestamp="1495030952634" record_key="wh_main_effect_force_unit_stat_melee_attack_versus_chaosmelee_attack_mod">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_attack_versus_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{849ea344-e150-4dec-b4eb-c412826158c5}" record_timestamp="1433924223393" record_key="wh_main_effect_force_unit_stat_melee_attack_versus_greenskinsmelee_attack_mod">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_attack_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a5f48de6-45a1-4592-95ee-b958770c97a3}" record_timestamp="1453118878453" record_key="wh_main_effect_force_unit_stat_melee_damage_attackingmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_force_status_yours_attacking</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_damage_attacking</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{2379023b-252c-48e3-a91e-0ea20ded9a17}" record_timestamp="1438698465459" record_key="wh_main_effect_force_unit_stat_melee_damage_attackingmelee_damage_mod_mult">
+<battle_context_key>fighting_force_status_yours_attacking</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_damage_attacking</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{3d79f8d4-b64a-474f-9bfb-79dbe9c05c27}" record_timestamp="1453118878475" record_key="wh_main_effect_force_unit_stat_melee_damage_versus_greenskinsmelee_damage_ap_mod_mult">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_damage_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{11503a16-cccb-4e89-9487-a76065a16296}" record_timestamp="1438698465384" record_key="wh_main_effect_force_unit_stat_melee_damage_versus_greenskinsmelee_damage_mod_mult">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_damage_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{6c120829-c23d-498a-91a8-b2739ba66208}" record_timestamp="1489508235011" record_key="wh_main_effect_force_unit_stat_melee_during_subterraneanmelee_attack_mod">
+<battle_context_key>fighting_battle_type_subterranean</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_melee_during_subterranean</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{911e9093-b20b-4833-8eba-389a849eb533}" record_timestamp="1425557506283" record_key="wh_main_effect_force_unit_stat_morale_attackingmorale">
+<battle_context_key>fighting_force_status_yours_attacking</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_attacking</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{032c9a22-4f98-4646-8b7c-fdb75817c074}" record_timestamp="1425557507340" record_key="wh_main_effect_force_unit_stat_morale_defendingmorale">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_defending</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{4a37be81-f99c-46b0-85dd-b0ff2fb18591}" record_timestamp="1425557507537" record_key="wh_main_effect_force_unit_stat_morale_during_nightmorale">
+<battle_context_key>fighting_force_status_yours_night</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_during_night</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{0ac1de19-14a0-4c9a-9cd0-c68260618638}" record_timestamp="1430205311403" record_key="wh_main_effect_force_unit_stat_morale_during_siege_subterraneanmorale">
+<battle_context_key>fighting_battle_type_siege_subterranean</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_during_siege_subterranean</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{b810a3b9-9b6d-4de8-84ec-9b99aa3b2ca5}" record_timestamp="1430205311403" record_key="wh_main_effect_force_unit_stat_morale_during_subterraneanmorale">
+<battle_context_key>fighting_battle_type_subterranean</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_during_subterranean</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{6c457327-e3d2-40c0-8b45-cbbc4131bd63}" record_timestamp="1425557507725" record_key="wh_main_effect_force_unit_stat_morale_foreign_territorymorale">
+<battle_context_key>fighting_territory_enemy_or_neutral</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_foreign_territory</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{462b839e-f8de-412d-8118-88b7e6732b67}" record_timestamp="1425557508055" record_key="wh_main_effect_force_unit_stat_morale_own_territorymorale">
+<battle_context_key>fighting_territory_own_or_allied</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_own_territory</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{d13c61e2-e823-4f85-8aab-53a11c638a14}" record_timestamp="1477501063504" record_key="wh_main_effect_force_unit_stat_morale_versus_beastmenmorale">
+<battle_context_key>fighting_culture_beastmen</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_beastmen</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{55bbac39-8234-4d33-8130-6fb425339cea}" record_timestamp="1433259464464" record_key="wh_main_effect_force_unit_stat_morale_versus_chaosmorale">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{213c154f-7523-4b57-bb76-74fe22baca53}" record_timestamp="1433259464531" record_key="wh_main_effect_force_unit_stat_morale_versus_dwarfsmorale">
+<battle_context_key>fighting_culture_dwarfs</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_dwarfs</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{25a90b35-2076-4448-a332-40ad0e81665a}" record_timestamp="1433259464334" record_key="wh_main_effect_force_unit_stat_morale_versus_greenskinsmorale">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{3bd08b88-d5d0-425c-aa9e-8a2ada93ce74}" record_timestamp="1433259464823" record_key="wh_main_effect_force_unit_stat_morale_versus_menmorale">
+<battle_context_key>fighting_culture_empire_and_bretonnia</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_men</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{16664cf2-8e7b-47cb-9d0b-806302493c3f}" record_timestamp="1425557512060" record_key="wh_main_effect_force_unit_stat_morale_versus_rebelsmorale">
+<battle_context_key>fighting_force_status_theirs_rebels</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_rebels</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{bf89a0a3-0b01-4285-8613-c3fab0467067}" record_timestamp="1433259464398" record_key="wh_main_effect_force_unit_stat_morale_versus_vampire_countsmorale">
+<battle_context_key>fighting_culture_vampire_counts</battle_context_key>
+<bonus_value_id>morale</bonus_value_id>
+<effect_key>wh_main_effect_force_unit_stat_morale_versus_vampire_counts</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a3bf1097-b8f9-44ac-8200-ac9b8fb70f19}" record_timestamp="1488482705589" record_key="wh_main_effect_force_ward_save_missile_fighting_wood_elvesunit_damage_resistance_missile_mod">
+<battle_context_key>fighting_culture_wood_elves</battle_context_key>
+<bonus_value_id>unit_damage_resistance_missile_mod</bonus_value_id>
+<effect_key>wh_main_effect_force_ward_save_missile_fighting_wood_elves</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{99ec5955-7b6b-4922-bc4e-f25e0b55552e}" record_timestamp="1425557520182" record_key="wh_main_effect_general_aura_mod_all_during_ambushgeneral_aoe_mod">
+<battle_context_key>fighting_battle_type_ambush</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_all_during_ambush</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{08910568-a02d-4c5e-b4b1-156383cf002e}" record_timestamp="1425557520839" record_key="wh_main_effect_general_aura_mod_all_during_attack_siegegeneral_aoe_mod">
+<battle_context_key>fighting_force_status_yours_besieging</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_all_during_attack_siege</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9b37395e-5ace-4482-a973-b8e0df7a4212}" record_timestamp="1447770892387" record_key="wh_main_effect_general_aura_mod_all_during_attackgeneral_aoe_mod">
+<battle_context_key>fighting_force_status_yours_attacking</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_all_during_attack</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{98cdedf7-558d-41cf-8d30-cc2e40c9d199}" record_timestamp="1425557521516" record_key="wh_main_effect_general_aura_mod_all_during_defence_siegegeneral_aoe_mod">
+<battle_context_key>fighting_force_status_theirs_besieging</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_all_during_defence_siege</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a78ae860-0e23-4e08-9470-cb6f9f024b8a}" record_timestamp="1447770893120" record_key="wh_main_effect_general_aura_mod_all_during_defencegeneral_aoe_mod">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_all_during_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{715e0fe4-c657-4651-b069-97a14daf2367}" record_timestamp="1425557521844" record_key="wh_main_effect_general_aura_mod_all_during_nightgeneral_aoe_mod">
+<battle_context_key>fighting_battle_type_night</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_all_during_night</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{985c5dd4-e5e8-4ff2-b841-d1c1efe36bb4}" record_timestamp="1488482705578" record_key="wh_main_effect_general_aura_mod_fighting_chaosgeneral_aoe_mod">
+<battle_context_key>fighting_chaos_factions</battle_context_key>
+<bonus_value_id>general_aoe_mod</bonus_value_id>
+<effect_key>wh_main_effect_general_aura_mod_fighting_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{50073985-080c-48c6-bb31-06ef62b38f27}" record_timestamp="1488482705598" record_key="wh_main_effect_tech_melee_attack_increase_fighting_norscamelee_attack_mod">
+<battle_context_key>fighting_norscan_factions</battle_context_key>
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect_key>wh_main_effect_tech_melee_attack_increase_fighting_norsca</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{2eb0daaf-6b15-45b1-afd4-91095c6829a7}" record_timestamp="1488482705600" record_key="wh_main_effect_tech_melee_defence_increase_fighting_norscamelee_defence_mod">
+<battle_context_key>fighting_norscan_factions</battle_context_key>
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect_key>wh_main_effect_tech_melee_defence_increase_fighting_norsca</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{9835ae8b-93c8-473c-9723-be8d207c5c17}" record_timestamp="1488482705331" record_key="wh_main_effect_tech_xp_gain_increase_greenskinsxp_gain_rate_mod">
+<battle_context_key>fighting_culture_greenskins</battle_context_key>
+<bonus_value_id>xp_gain_rate_mod</bonus_value_id>
+<effect_key>wh_main_effect_tech_xp_gain_increase_greenskins</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{3cbff8ad-89b3-436e-8558-d52f3c5485d8}" record_timestamp="1488482705509" record_key="wh_main_effect_tech_xp_gain_increase_norscaxp_gain_rate_mod">
+<battle_context_key>fighting_norscan_factions</battle_context_key>
+<bonus_value_id>xp_gain_rate_mod</bonus_value_id>
+<effect_key>wh_main_effect_tech_xp_gain_increase_norsca</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{5c217ae0-5b3d-4f07-ae29-8b01745f7e6e}" record_timestamp="1425557606317" record_key="wh_main_effect_unit_stat_ammunition_siege_defenceammo_mod">
+<battle_context_key>fighting_force_status_theirs_besieging</battle_context_key>
+<bonus_value_id>ammo_mod</bonus_value_id>
+<effect_key>wh_main_effect_unit_stat_ammunition_siege_defence</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{e4c12648-a3dd-46ba-8dc3-875b8bd87842}" record_timestamp="1488482705581" record_key="wh_main_effect_unit_stat_mod_bonus_v_large_fighting_chaosdamage_vs_large_entities">
+<battle_context_key>fighting_culture_chaos</battle_context_key>
+<bonus_value_id>damage_vs_large_entities</bonus_value_id>
+<effect_key>wh_main_effect_unit_stat_mod_bonus_v_large_fighting_chaos</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{a2f60c69-9a55-452c-b88e-48c729834a28}" record_timestamp="1476802587167" record_key="wh_pro01_effect_force_unit_stat_attack_defendingmelee_damage_ap_mod_add">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>melee_damage_ap_mod_add</bonus_value_id>
+<effect_key>wh_pro01_effect_force_unit_stat_attack_defending</effect_key>
+</effect_bonus_value_battle_context_junctions>
+<effect_bonus_value_battle_context_junctions record_uuid="{ce9c8d75-e0e3-40a4-892c-17e3f05b9e33}" record_timestamp="1476802574215" record_key="wh_pro01_effect_force_unit_stat_defence_defendingmelee_defence_mod">
+<battle_context_key>fighting_force_status_yours_defending</battle_context_key>
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect_key>wh_pro01_effect_force_unit_stat_defence_defending</effect_key>
+</effect_bonus_value_battle_context_junctions>
+</dataroot>

@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_to_invalid_usage_flags.xsd" export_time="Wed Dec 13 16:18:15 2017" revision="114" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>5be16c86-b7d9-40fa-802f-ab0d6ed5c083</edit_uuid>
+<special_ability_to_invalid_usage_flags record_uuid="{64eea02b-c4ce-4eb6-9945-b21dd6145654}" record_timestamp="1511202427442" record_key="wh2_dlc09_character_abilities_curse_of_djafhealth_above_50%">
+<invalid_usage_flag>health_above_50%</invalid_usage_flag>
+<special_ability>wh2_dlc09_character_abilities_curse_of_djaf</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{26f4d072-e486-4266-8b94-36194d513cf9}" record_timestamp="1511202427442" record_key="wh2_dlc09_character_abilities_curse_of_khsarhealth_above_50%">
+<invalid_usage_flag>health_above_50%</invalid_usage_flag>
+<special_ability>wh2_dlc09_character_abilities_curse_of_khsar</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c64a4f4f-9e87-4050-9cbe-75df1fe461f3}" record_timestamp="1509104147369" record_key="wh2_dlc09_character_abilities_stay_here_ill_get_helpengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_dlc09_character_abilities_stay_here_ill_get_help</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fd386007-8ae2-4dd9-8f22-31f8069385b4}" record_timestamp="1506506125461" record_key="wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_blades_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_blades_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f80c96a0-d9f5-4184-ac0e-a81637fd1fc7}" record_timestamp="1506506125740" record_key="wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_blades_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_blades_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3b429dd5-0a0f-44d7-9ac7-920268e41966}" record_timestamp="1506506125373" record_key="wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_bladesclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_blades</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{63a71d8c-73ab-40e3-9de3-c992b8b9145f}" record_timestamp="1506506125696" record_key="wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_bladesmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_djafs_incantation_of_cursed_blades</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{5068116e-f583-405b-a6d8-09ab583b3278}" record_timestamp="1506506125634" record_key="wh2_dlc09_spell_nehekhara_nerus_incantation_of_protection_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_nerus_incantation_of_protection_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{64dd4e1b-bf6f-4f51-898e-e612c3c1daea}" record_timestamp="1506506125847" record_key="wh2_dlc09_spell_nehekhara_nerus_incantation_of_protection_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_nerus_incantation_of_protection_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0c798735-dd2d-48c1-acf2-990fc5c5013a}" record_timestamp="1506506125547" record_key="wh2_dlc09_spell_nehekhara_nerus_incantation_of_protectionclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_nerus_incantation_of_protection</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2c25c139-037e-420d-829a-1af19ba1d24a}" record_timestamp="1506506125801" record_key="wh2_dlc09_spell_nehekhara_nerus_incantation_of_protectionmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_nerus_incantation_of_protection</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{84f0ecd3-ff04-43c9-a470-173539f33942}" record_timestamp="1506506126107" record_key="wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smiting_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smiting_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3462a568-48cc-4d83-beea-c881f49ba4e9}" record_timestamp="1506506125934" record_key="wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smiting_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smiting_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c4667469-c0e0-41c3-b65b-438ec3a64956}" record_timestamp="1506506126064" record_key="wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smitingclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smiting</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{6cb07ed5-35d5-4c1c-8618-24fac942f7b8}" record_timestamp="1506506125890" record_key="wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smitingmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_ptras_incantation_of_righteous_smiting</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{51ec0931-011e-4168-8bce-082099cb4048}" record_timestamp="1506506126364" record_key="wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstorm_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstorm_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1022d156-25f5-4cc2-9d6a-22f46f35e46b}" record_timestamp="1506506125590" record_key="wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstorm_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstorm_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e3cd88c8-018c-4793-a25d-01dd91e3bb72}" record_timestamp="1506506126321" record_key="wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstormclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstorm</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{037531ba-7215-4716-a6f7-6b7f1cbe660b}" record_timestamp="1506506125504" record_key="wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstormmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_sakhmets_incantation_of_the_skullstorm</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{dd0b525c-fdf6-4087-8ec0-6011adc90152}" record_timestamp="1506506126278" record_key="wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccation_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccation_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ea9b9989-7bad-4bc2-801a-3359ae82e618}" record_timestamp="1506506125418" record_key="wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccation_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccation_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e3c4027d-8914-4e71-9eca-4b1357f46ba1}" record_timestamp="1506506126236" record_key="wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccationclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccation</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e37efe51-a666-49fb-9f9a-6d90031b4fcd}" record_timestamp="1506506125325" record_key="wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccationmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usekhps_incantation_of_desiccation</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{439ef121-663d-4031-99f8-285217b33630}" record_timestamp="1506506126193" record_key="wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeance_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeance_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2b2ccc18-09b0-4fee-b5f3-f5b195da07ad}" record_timestamp="1506506126021" record_key="wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeance_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeance_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ec110c3e-d890-4714-a190-03cba71bb78e}" record_timestamp="1506506126150" record_key="wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeanceclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeance</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{bb482d45-1e2f-4a07-a0ef-505da454aa81}" record_timestamp="1506506125977" record_key="wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeancemanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_dlc09_spell_nehekhara_usirians_incantation_of_vengeance</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{894a7f5b-0488-459b-841e-0af9d6d68458}" record_timestamp="1509727118057" record_key="wh2_dlc09_unit_abilities_death_from_aboveengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_dlc09_unit_abilities_death_from_above</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2397d45b-2c80-4d6a-b470-689f598d0615}" record_timestamp="1510658252285" record_key="wh2_dlc09_weapon_abilities_tomb_blade_of_arkhanout_of_melee">
+<invalid_usage_flag>out_of_melee</invalid_usage_flag>
+<special_ability>wh2_dlc09_weapon_abilities_tomb_blade_of_arkhan</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a2a7e0a3-fdf6-4639-8126-9e59f41e1ccf}" record_timestamp="1504191177586" record_key="wh2_main_hero_abilities_doomrocketclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_hero_abilities_doomrocket</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{628ed2cf-daaf-4d79-9cc7-13ea241eaaf9}" record_timestamp="1504191177575" record_key="wh2_main_hero_abilities_doomrocketmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_hero_abilities_doomrocket</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a5ba0123-96ea-45cb-b129-1bf3bc10b98e}" record_timestamp="1500031747395" record_key="wh2_main_item_abilities_armour_of_the_starsclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_item_abilities_armour_of_the_stars</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c04df7a1-bc69-4d88-a416-7b2483dba6eb}" record_timestamp="1477908931846" record_key="wh2_main_item_abilities_armour_of_the_starsengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_item_abilities_armour_of_the_stars</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c6012a1c-6895-4685-b325-144836c98812}" record_timestamp="1500031747395" record_key="wh2_main_item_abilities_armour_of_the_starsmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_item_abilities_armour_of_the_stars</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0eb51a3a-32fd-4dc1-adfc-3934dd0a24a5}" record_timestamp="1501694399407" record_key="wh2_main_item_abilities_black_dragon_eggclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_item_abilities_black_dragon_egg</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e041a81d-4ba1-41c5-a028-c967faf9b6a5}" record_timestamp="1477908931846" record_key="wh2_main_item_abilities_skalmmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh2_main_item_abilities_skalm</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7e4bbae7-e796-4d81-9169-af2f58dea19c}" record_timestamp="1501227894659" record_key="wh2_main_item_bound_gilded_horn_of_galon_konookclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_item_bound_gilded_horn_of_galon_konook</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7747358e-a7eb-49c5-981e-4f35602ebeb9}" record_timestamp="1477908931846" record_key="wh2_main_item_passive_shadow_magnet_trinketengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_item_passive_shadow_magnet_trinket</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{39148fcf-f8fd-4a50-8d21-b40fc4f2817b}" record_timestamp="1501694399400" record_key="wh2_main_lord_abilities_gaze_of_maliceclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_lord_abilities_gaze_of_malice</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{16af8606-1a9d-4b4d-bdb0-3559a7f9176b}" record_timestamp="1507893644590" record_key="wh2_main_spell_bound_wand_of_the_kharaidonclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_bound_wand_of_the_kharaidon</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4de97938-6913-45f3-a776-523180bf1f11}" record_timestamp="1476263854378" record_key="wh2_main_spell_dark_magic_bladewind_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_bladewind_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7dd5d442-9662-4795-be46-b20ea4fef1e7}" record_timestamp="1476185732721" record_key="wh2_main_spell_dark_magic_bladewindclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_bladewind</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e8af8531-c5ae-4a9f-a81a-c034c5285cd9}" record_timestamp="1476263854378" record_key="wh2_main_spell_dark_magic_chillwind_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_chillwind_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{17f460a1-3f31-41e6-91dc-46c76a853583}" record_timestamp="1476185732724" record_key="wh2_main_spell_dark_magic_chillwindclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_chillwind</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{069b2d47-f977-4fef-8ced-5f48bbd08065}" record_timestamp="1476263854377" record_key="wh2_main_spell_dark_magic_doombolt_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_doombolt_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{609fe7fb-6cb6-4d26-811c-85c3ba3f0dfa}" record_timestamp="1476185732726" record_key="wh2_main_spell_dark_magic_doomboltclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_doombolt</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ab11ca0c-b568-4c41-9efb-1299334a254e}" record_timestamp="1476185732729" record_key="wh2_main_spell_dark_magic_power_of_darknessclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_power_of_darkness</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3cbb994c-1875-4cdd-9577-dcceafa0d733}" record_timestamp="1476185732731" record_key="wh2_main_spell_dark_magic_soul_stealerclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_soul_stealer</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{8d718acd-faeb-4b44-a1b7-dbd0e20857a6}" record_timestamp="1476263854376" record_key="wh2_main_spell_dark_magic_word_of_pain_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_word_of_pain_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{93e2ef68-550e-4e18-ace7-5b04bd3f1b63}" record_timestamp="1476185732733" record_key="wh2_main_spell_dark_magic_word_of_painclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_dark_magic_word_of_pain</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{440ac2ce-1ea9-4d96-8018-ba4ef7685cb7}" record_timestamp="1476263854379" record_key="wh2_main_spell_high_magic_apotheosis_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_apotheosis_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f84859e4-3561-46f1-ad96-ebc7cd8c271d}" record_timestamp="1476185732736" record_key="wh2_main_spell_high_magic_apotheosisclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_apotheosis</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2e75b0a5-9e7a-499f-b3a1-bd4095726b17}" record_timestamp="1476263854378" record_key="wh2_main_spell_high_magic_arcane_unforging_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_arcane_unforging_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{610656c4-2a22-48ba-9de9-22be93f6f321}" record_timestamp="1476185732738" record_key="wh2_main_spell_high_magic_arcane_unforgingclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_arcane_unforging</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7dc233c4-7ac7-42e9-b420-a868829517ca}" record_timestamp="1476263854378" record_key="wh2_main_spell_high_magic_fiery_convocation_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_fiery_convocation_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{07b65dca-baeb-42e0-8c25-a3ea35e80842}" record_timestamp="1476185732740" record_key="wh2_main_spell_high_magic_fiery_convocationclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_fiery_convocation</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f14f622b-de97-48c2-bc0e-2cb10f9fc473}" record_timestamp="1476263854377" record_key="wh2_main_spell_high_magic_hand_of_glory_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_hand_of_glory_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3c1db925-7ecd-43d8-a308-614f1633f9e2}" record_timestamp="1476185732742" record_key="wh2_main_spell_high_magic_hand_of_gloryclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_hand_of_glory</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{47a993b8-0567-4c2f-921b-3be032ba74d1}" record_timestamp="1476263854376" record_key="wh2_main_spell_high_magic_soul_quench_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_soul_quench_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{d4b7f13f-236b-4a5d-8698-05a1b1b10622}" record_timestamp="1476263854377" record_key="wh2_main_spell_high_magic_soul_quench_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_soul_quench_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0f9b879b-2fee-4543-9a6c-ac79c2491a49}" record_timestamp="1476185732743" record_key="wh2_main_spell_high_magic_soul_quenchclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_soul_quench</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f539dd92-537b-4c18-89ae-94694ad64c47}" record_timestamp="1476185732743" record_key="wh2_main_spell_high_magic_soul_quenchmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_soul_quench</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b5297c6f-1d2a-4c81-9217-d17eeb1d20fb}" record_timestamp="1476263854376" record_key="wh2_main_spell_high_magic_tempest_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_tempest_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0b38e1e0-4cb6-4ff0-bbd7-d7075bae86d8}" record_timestamp="1476185732745" record_key="wh2_main_spell_high_magic_tempestclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_high_magic_tempest</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{51bcfe50-8c46-4d4d-bebc-0b217f69dc00}" record_timestamp="1501685832347" record_key="wh2_main_spell_plague_pestilent_breath_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_plague_pestilent_breath_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a52046c7-46b6-47e4-b191-0df38f7eb2bb}" record_timestamp="1501685832335" record_key="wh2_main_spell_plague_pestilent_breath_upgradedon_a_platform">
+<invalid_usage_flag>on_a_platform</invalid_usage_flag>
+<special_ability>wh2_main_spell_plague_pestilent_breath_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{83aba812-5286-4b94-8e89-ff071f61b9ca}" record_timestamp="1501685832322" record_key="wh2_main_spell_plague_pestilent_breathclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_plague_pestilent_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0a5e2ef7-0f8d-4a53-a272-6037ad5917ed}" record_timestamp="1501685832309" record_key="wh2_main_spell_plague_pestilent_breathon_a_platform">
+<invalid_usage_flag>on_a_platform</invalid_usage_flag>
+<special_ability>wh2_main_spell_plague_pestilent_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{41b2012c-8f16-406e-a191-57264ea9057c}" record_timestamp="1476263854377" record_key="wh2_main_spell_ruin_cracks_call_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_cracks_call_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e2eb7eab-b616-4ccc-9fd8-0d9db2df6489}" record_timestamp="1476185732755" record_key="wh2_main_spell_ruin_cracks_callclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_cracks_call</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f04286e4-9428-4d8d-95e1-4675be5acb5c}" record_timestamp="1476263854377" record_key="wh2_main_spell_ruin_death_frenzy_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_death_frenzy_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a659d5a8-b4f9-4e99-b675-7aab7c6dc4e1}" record_timestamp="1476185732758" record_key="wh2_main_spell_ruin_death_frenzyclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_death_frenzy</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1b5c11a1-47d4-402c-9599-0048e936b796}" record_timestamp="1476263854377" record_key="wh2_main_spell_ruin_howling_warpgale_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_howling_warpgale_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b8f29aac-8bb2-4001-b087-8b923105d1cf}" record_timestamp="1476185732759" record_key="wh2_main_spell_ruin_howling_warpgaleclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_howling_warpgale</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{674db5ea-1781-4692-8fa4-dbca66d54a31}" record_timestamp="1476263854377" record_key="wh2_main_spell_ruin_scorch_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_scorch_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2923d19f-f706-42e4-baff-9eb48b54bb4d}" record_timestamp="1476185732761" record_key="wh2_main_spell_ruin_scorchclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_scorch</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e40c27c4-83a9-4c2f-a88b-ad9d7da628eb}" record_timestamp="1476263854378" record_key="wh2_main_spell_ruin_skitterleap_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_skitterleap_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{25aaa9b3-9668-4fe1-b78e-561d784572f4}" record_timestamp="1500031747395" record_key="wh2_main_spell_ruin_skitterleap_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_skitterleap_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{8a3864db-343d-4b85-a482-d4144ee3cc33}" record_timestamp="1476185732762" record_key="wh2_main_spell_ruin_skitterleapclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_skitterleap</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{aea8f15c-8467-4817-8943-479aa79edbc2}" record_timestamp="1500031747395" record_key="wh2_main_spell_ruin_skitterleapmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_skitterleap</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{8733d86e-7576-43fb-abd4-45d7ba48ac5d}" record_timestamp="1476263854378" record_key="wh2_main_spell_ruin_warp_lightning_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_warp_lightning_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{55f926aa-00a6-4845-a7c9-c206aeb79d18}" record_timestamp="1476185732764" record_key="wh2_main_spell_ruin_warp_lightningclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_spell_ruin_warp_lightning</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{de8d8d17-c7b1-4d55-8632-982c8bd17927}" record_timestamp="1498034195090" record_key="wh2_main_unit_abilities_concealment_bombsclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_concealment_bombs</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{01a99fe4-f8e0-4ef2-b2f5-9f58ee8637b6}" record_timestamp="1498034195090" record_key="wh2_main_unit_abilities_concealment_bombsengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_concealment_bombs</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fa49e313-4392-4fa4-a1a3-4022a607f00e}" record_timestamp="1498034195090" record_key="wh2_main_unit_abilities_concealment_bombsmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_concealment_bombs</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b7873b2e-51c0-4b09-a18c-2a6f62e81aab}" record_timestamp="1500556730480" record_key="wh2_main_unit_abilities_dark_fire_of_chaosengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_dark_fire_of_chaos</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{9098db0e-6ec1-4a1e-91f3-9e1fd64bf162}" record_timestamp="1500556730480" record_key="wh2_main_unit_abilities_dark_fire_of_chaosgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_dark_fire_of_chaos</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7a690166-2ac7-43ca-a89e-b2859d00bf2c}" record_timestamp="1504699234684" record_key="wh2_main_unit_abilities_death_shriekengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_death_shriek</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{d9638068-efba-4d2c-a138-629b678af86d}" record_timestamp="1493127596221" record_key="wh2_main_unit_abilities_drop_rocksengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_drop_rocks</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fb8a994d-135c-4a18-97f5-77b5a91527b3}" record_timestamp="1500556730486" record_key="wh2_main_unit_abilities_fiery_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_fiery_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{acc6bade-92fc-49bb-879f-d5894408b54d}" record_timestamp="1500556730489" record_key="wh2_main_unit_abilities_moon_dragons_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_moon_dragons_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e71db92d-c2a9-4b23-ad31-bc18575c11cc}" record_timestamp="1500556730489" record_key="wh2_main_unit_abilities_moon_dragons_breathgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_moon_dragons_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{d952873c-1367-4cd4-b5c9-17816addcbb8}" record_timestamp="1500556730483" record_key="wh2_main_unit_abilities_noxious_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_noxious_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{6b024f94-b02a-4806-a82f-776e6d479164}" record_timestamp="1500556730483" record_key="wh2_main_unit_abilities_noxious_breathgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_noxious_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{69792b6a-06c2-4069-abaf-d43d8443f365}" record_timestamp="1500556730508" record_key="wh2_main_unit_abilities_pestilential_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_pestilential_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{351bc3b5-f815-41aa-bbfa-b7490561089a}" record_timestamp="1500556730508" record_key="wh2_main_unit_abilities_pestilential_breathgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_pestilential_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{eafbf771-416d-47a5-a735-d305b6e09348}" record_timestamp="1491404314101" record_key="wh2_main_unit_abilities_revivification_crystalmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_revivification_crystal</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f96414f5-08c7-4662-96dc-374d5d37f0aa}" record_timestamp="1491404314101" record_key="wh2_main_unit_abilities_revivification_crystalon_a_platform">
+<invalid_usage_flag>on_a_platform</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_revivification_crystal</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{dacd960a-dcde-4842-9485-6238c327eacb}" record_timestamp="1500556730511" record_key="wh2_main_unit_abilities_soporific_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_soporific_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{39a97ba1-9dff-4060-8e14-22c8d816cafb}" record_timestamp="1500556730511" record_key="wh2_main_unit_abilities_soporific_breathgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_soporific_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{41e82b46-dd0d-4f21-a049-1dfac73dff33}" record_timestamp="1500556730492" record_key="wh2_main_unit_abilities_star_dragons_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_star_dragons_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{390d5754-ca5d-4401-8e23-2a6eac8be2c7}" record_timestamp="1500556730492" record_key="wh2_main_unit_abilities_star_dragons_breathgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_star_dragons_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4397581d-caf5-45e7-bde8-742aa11f1269}" record_timestamp="1500556730495" record_key="wh2_main_unit_abilities_sun_dragons_breathengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_sun_dragons_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{db439efc-e337-41c0-8f3a-9058678a90af}" record_timestamp="1500556730496" record_key="wh2_main_unit_abilities_sun_dragons_breathgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_sun_dragons_breath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{17ebedf5-3637-4286-9517-5487d594e87d}" record_timestamp="1496158543388" record_key="wh2_main_unit_abilities_wake_of_fireengaged_in_melee">
+<invalid_usage_flag>engaged_in_melee</invalid_usage_flag>
+<special_ability>wh2_main_unit_abilities_wake_of_fire</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{77acb4c0-72fa-40c0-a7c7-6ec81032c9bc}" record_timestamp="1483714932118" record_key="wh2_main_weapon_abilities_bow_of_the_seafarerclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_weapon_abilities_bow_of_the_seafarer</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{beb4390d-f925-4ca3-bcde-7c8fa72d0206}" record_timestamp="1483714932118" record_key="wh2_main_weapon_abilities_bow_of_the_seafarermanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh2_main_weapon_abilities_bow_of_the_seafarer</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f9cf89ee-7161-47ef-83d1-c96d73e86cca}" record_timestamp="1501694399394" record_key="wh2_main_weapon_abilities_sunfangclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh2_main_weapon_abilities_sunfang</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{10199de6-ff69-4e04-b919-b34584325c09}" record_timestamp="1449842634327" record_key="wh_dlc03_spell_beasts_the_amber_spear_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_beasts_the_amber_spear_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{6c998d65-20e0-46b5-ae20-7243988194c8}" record_timestamp="1455623086382" record_key="wh_dlc03_spell_beasts_the_amber_spear_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_beasts_the_amber_spear_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1f375609-ddc1-4acd-89fd-c5b20dabcf3e}" record_timestamp="1449842634327" record_key="wh_dlc03_spell_beasts_the_amber_spearclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_beasts_the_amber_spear</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{af68fe08-ca80-4cb6-9980-1bb5c65bdc9b}" record_timestamp="1455623086346" record_key="wh_dlc03_spell_beasts_the_amber_spearmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_beasts_the_amber_spear</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7c3b4480-3bbe-4ac7-85e4-63ec763acc10}" record_timestamp="1455623087018" record_key="wh_dlc03_spell_beasts_transformation_of_kadonarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_beasts_transformation_of_kadon</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{bd538819-a0ac-4297-b1f8-d71a9093ac07}" record_timestamp="1470839283552" record_key="wh_dlc03_spell_beasts_transformation_of_kadonclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_beasts_transformation_of_kadon</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c504f185-d275-40e0-bb26-eb9c0a94d8a4}" record_timestamp="1474902886121" record_key="wh_dlc03_spell_bound_the_amber_spearclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_bound_the_amber_spear</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e2c1b11a-af06-40d0-b44f-b537f10ebccc}" record_timestamp="1474902886120" record_key="wh_dlc03_spell_bound_the_amber_spearmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_bound_the_amber_spear</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0511f07c-0158-4d94-b4b6-442f8ee9b48a}" record_timestamp="1467807534982" record_key="wh_dlc03_spell_wild_bray_scream_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_wild_bray_scream_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{075dd8af-7192-4e89-89ad-dc16c632bd8a}" record_timestamp="1449842634326" record_key="wh_dlc03_spell_wild_bray_screamclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_wild_bray_scream</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f24c8504-742e-435f-8d2b-43a203c05dae}" record_timestamp="1455623086981" record_key="wh_dlc03_spell_wild_savage_dominionarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_wild_savage_dominion</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3a6cd2ac-9f69-4a6e-a336-2791076c6a4a}" record_timestamp="1470839283551" record_key="wh_dlc03_spell_wild_savage_dominionclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_wild_savage_dominion</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fe1f6520-1947-4d81-9c68-d221b1fbf1ce}" record_timestamp="1467807534983" record_key="wh_dlc03_spell_wild_viletide_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_wild_viletide_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{52cc70f6-423c-4275-8b9e-31c8087bf88c}" record_timestamp="1449842634326" record_key="wh_dlc03_spell_wild_viletideclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc03_spell_wild_viletide</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ea08a6bc-3da5-47f3-8fbe-8a3d2a25cd18}" record_timestamp="1474903532432" record_key="wh_dlc04_spell_bound_banishmentclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_bound_banishment</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2a78fe0a-440e-4597-bb9c-287858f381f1}" record_timestamp="1474902885620" record_key="wh_dlc04_spell_bound_soulfire_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_bound_soulfire_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b6aedad2-11da-4ac4-949d-c5c8c8acf473}" record_timestamp="1470841244906" record_key="wh_dlc04_spell_vampires_gaze_of_nagash_helmanclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_gaze_of_nagash_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c9a709e9-48ab-46f8-92d6-2334d7351f2f}" record_timestamp="1470841244907" record_key="wh_dlc04_spell_vampires_gaze_of_nagash_helmanmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_gaze_of_nagash_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2bfb83b3-6859-4c36-9685-b29a95dad06e}" record_timestamp="1474903528551" record_key="wh_dlc04_spell_vampires_gaze_of_nagash_strigoiclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_gaze_of_nagash_strigoi</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{69430f73-2b09-4e41-88b9-b68c4910160f}" record_timestamp="1474903528552" record_key="wh_dlc04_spell_vampires_gaze_of_nagash_strigoimanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_gaze_of_nagash_strigoi</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{366811f7-1600-46aa-b029-cf7122f81590}" record_timestamp="1470841244908" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_helmanmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b30829ed-2133-4df9-afe2-d6e878f5273e}" record_timestamp="1474903528555" record_key="wh_dlc04_spell_vampires_invocation_of_nehek_strigoimorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_invocation_of_nehek_strigoi</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e70f3f92-5e58-4b92-aba5-793e4c721d15}" record_timestamp="1474902884589" record_key="wh_dlc04_spell_vampires_raise_dead_helmanarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e1e17808-5bd0-4ad8-9bee-f457a25a9a06}" record_timestamp="1474902884589" record_key="wh_dlc04_spell_vampires_raise_dead_helmanclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{110ddd37-6b46-41d7-99a7-cd317dd74227}" record_timestamp="1474903528561" record_key="wh_dlc04_spell_vampires_raise_dead_strigoiarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_strigoi</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4e7b2d03-53ec-4b16-bb8b-655996680e96}" record_timestamp="1474902884611" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_helmanarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{9743ad2a-7865-45a6-bc1c-c2460e0b72fe}" record_timestamp="1474902884611" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_helmanclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3c7c7884-aa2c-422a-ae58-b71f2a6ea518}" record_timestamp="1474903528562" record_key="wh_dlc04_spell_vampires_raise_dead_upgraded_strigoiarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_raise_dead_upgraded_strigoi</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{8702d904-7e22-41c7-a269-573513dbba6f}" record_timestamp="1470841244912" record_key="wh_dlc04_spell_vampires_wind_of_death_helmanclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc04_spell_vampires_wind_of_death_helman</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b8ad21b1-b4da-4653-8fee-d5a3efbafbde}" record_timestamp="1484231508023" record_key="wh_dlc05_lord_abilities_spirit_essence_of_chaosarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_chaos</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{dc8e3f38-c5d0-4eef-bfca-5ba550a979a9}" record_timestamp="1484230359742" record_key="wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaosarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc05_lord_abilities_spirit_essence_of_eternal_chaos</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a3db1bd3-1cca-4f98-9187-80d60960fb29}" record_timestamp="1449842634326" record_key="wh_dlc05_spell_life_awakening_of_the_woodclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc05_spell_life_awakening_of_the_wood</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{40119b50-dcf0-44b3-a5ea-9f56f81734c6}" record_timestamp="1478778788206" record_key="wh_dlc05_spell_life_awakening_the_wood_branchwraithclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc05_spell_life_awakening_the_wood_branchwraith</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{81087930-8b26-4556-94f5-18d7d59c0bc1}" record_timestamp="1480088534015" record_key="wh_dlc05_weapon_abilities_stave_of_ruinous_corruptionarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc05_weapon_abilities_stave_of_ruinous_corruption</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c075e046-2061-45d0-97b8-8c59028a321a}" record_timestamp="1513181894978" record_key="wh_dlc06_lord_abilities_tricksy_trapsclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc06_lord_abilities_tricksy_traps</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{98b8c8e1-f746-4670-94d4-df3314134752}" record_timestamp="1488535729815" record_key="wh_dlc06_quest_abilities_grand_faiths_bastionhealth_above_20%">
+<invalid_usage_flag>health_above_20%</invalid_usage_flag>
+<special_ability>wh_dlc06_quest_abilities_grand_faiths_bastion</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f76c72ae-1bce-40d3-8046-f797a295f1b6}" record_timestamp="1476802568011" record_key="wh_dlc06_spell_bound_vindictive_glareclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc06_spell_bound_vindictive_glare</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1e012270-30ea-4ce7-8ebc-721b6297daa8}" record_timestamp="1476802568011" record_key="wh_dlc06_spell_bound_vindictive_glaremanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc06_spell_bound_vindictive_glare</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{44622933-5635-4776-8be5-a4ee830a928d}" record_timestamp="1476802568555" record_key="wh_dlc06_unit_abilities_maternal_instinctarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_dlc06_unit_abilities_maternal_instinct</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{25a06246-1b6e-45c4-b2ce-40b77be6523a}" record_timestamp="1476802568014" record_key="wh_dlc06_unit_abilities_skyhammer_bombclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc06_unit_abilities_skyhammer_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f986c0ae-fae5-4b2f-8c29-5cb8e960c154}" record_timestamp="1476802568012" record_key="wh_dlc06_unit_abilities_skyhammer_bombgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh_dlc06_unit_abilities_skyhammer_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{9aa5eb60-ac10-478e-a00a-7653c2ee70f6}" record_timestamp="1476802568013" record_key="wh_dlc06_unit_abilities_skyhammer_bombphase_is_deployment">
+<invalid_usage_flag>phase_is_deployment</invalid_usage_flag>
+<special_ability>wh_dlc06_unit_abilities_skyhammer_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4e7ba47c-d55f-4fe8-8ba9-752bafea87fe}" record_timestamp="1478766616540" record_key="wh_dlc06_unit_abilities_the_loons_of_eight_peaksclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc06_unit_abilities_the_loons_of_eight_peaks</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{71b437ca-21f8-4975-8691-54e7832ba43d}" record_timestamp="1478766616539" record_key="wh_dlc06_unit_abilities_the_loons_of_eight_peakson_a_platform">
+<invalid_usage_flag>on_a_platform</invalid_usage_flag>
+<special_ability>wh_dlc06_unit_abilities_the_loons_of_eight_peaks</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{5419dcef-e766-47c2-aa4d-9d758240a1c1}" record_timestamp="1476802568010" record_key="wh_dlc06_weapon_abilities_skarsniks_prodderclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc06_weapon_abilities_skarsniks_prodder</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fbc9ecc2-5296-48a1-bf35-d3ba140cc365}" record_timestamp="1476802568010" record_key="wh_dlc06_weapon_abilities_skarsniks_proddermanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_dlc06_weapon_abilities_skarsniks_prodder</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{048bac90-2d2c-4713-9fa7-01d1450dee5a}" record_timestamp="1488535643631" record_key="wh_dlc07_item_abilities_wrath_of_manannclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_dlc07_item_abilities_wrath_of_manann</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c95b1a03-6556-448b-b619-030b38a5bf4c}" record_timestamp="1455180663706" record_key="wh_main_hero_abilities_immortal_willmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_main_hero_abilities_immortal_will</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1ef3bc24-8d4b-4494-ab91-9aa311706e30}" record_timestamp="1443454539548" record_key="wh_main_item_abilities_fiery_ring_of_thoriclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_item_abilities_fiery_ring_of_thori</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{506aed7c-d354-4646-a248-ed8d8705384a}" record_timestamp="1474902876972" record_key="wh_main_item_abilities_potion_of_healinghp_replenish_cap_reached">
+<invalid_usage_flag>hp_replenish_cap_reached</invalid_usage_flag>
+<special_ability>wh_main_item_abilities_potion_of_healing</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{529823eb-074d-4ed8-a783-ddc1428f5584}" record_timestamp="1455180663720" record_key="wh_main_item_abilities_potion_of_healingmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_main_item_abilities_potion_of_healing</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fc7a7bad-2bb4-4f18-9ada-4a268e0cd226}" record_timestamp="1455180663734" record_key="wh_main_item_abilities_potion_of_toughnessmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_main_item_abilities_potion_of_toughness</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{9c1c32ac-dbaf-4470-b350-4008fd3ad654}" record_timestamp="1455180663664" record_key="wh_main_item_abilities_regenerating_fleshmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_main_item_abilities_regenerating_flesh</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{136d4d98-2f5b-4036-9a37-d319f7677ce9}" record_timestamp="1443454539519" record_key="wh_main_spell_big_waaagh_brain_bursta_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_brain_bursta_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{8e34b02a-a34c-4834-ac02-75c42b67014b}" record_timestamp="1443454539404" record_key="wh_main_spell_big_waaagh_brain_burstaclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_brain_bursta</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b6f4e8e5-7d0c-4ad4-be46-55856b832b0f}" record_timestamp="1443454539431" record_key="wh_main_spell_big_waaagh_eadbutt_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_eadbutt_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f536ad4d-4779-4097-bc25-0345791bc74c}" record_timestamp="1443454540848" record_key="wh_main_spell_big_waaagh_eadbuttclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_eadbutt</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fefd93b2-dd59-4945-8dd7-346d57c1455f}" record_timestamp="1443454539460" record_key="wh_main_spell_big_waaagh_foot_of_gork_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_foot_of_gork_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ddbb8f2e-14b6-4e11-aa80-606a267d9c8d}" record_timestamp="1443454539345" record_key="wh_main_spell_big_waaagh_foot_of_gorkclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_foot_of_gork</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4b7ce741-0778-4b24-8ff4-5ee730c1333e}" record_timestamp="1443454539489" record_key="wh_main_spell_big_waaagh_gaze_of_mork_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_gaze_of_mork_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0a9bb3b9-7068-47f7-a4d2-cae08b7af56b}" record_timestamp="1440516700082" record_key="wh_main_spell_big_waaagh_gaze_of_mork_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_gaze_of_mork_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{50b99e9f-3ec8-4292-8133-dc65559d6ffb}" record_timestamp="1443454539376" record_key="wh_main_spell_big_waaagh_gaze_of_morkclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_gaze_of_mork</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{98e2ddfb-db9f-4c53-8b0e-2f7555f446f7}" record_timestamp="1440516700186" record_key="wh_main_spell_big_waaagh_gaze_of_morkmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_big_waaagh_gaze_of_mork</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{aa59c611-d476-4f35-9e17-b6bd4baf549e}" record_timestamp="1443454539576" record_key="wh_main_spell_bound_fireballclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_bound_fireball</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{39cf3421-087b-44bf-ad46-4ce042d1f34e}" record_timestamp="1440516700041" record_key="wh_main_spell_bound_fireballmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_bound_fireball</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{6e69f338-56a2-45f7-a12c-324c5c9d9bca}" record_timestamp="1443454540145" record_key="wh_main_spell_bound_soulfireclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_bound_soulfire</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{460f9e43-2abc-44ca-a5a9-53ae974512e5}" record_timestamp="1443454539875" record_key="wh_main_spell_death_the_purple_sun_of_xereus_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_death_the_purple_sun_of_xereus_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7796b877-31ab-4bbc-ba5b-188db427a92f}" record_timestamp="1443454540816" record_key="wh_main_spell_death_the_purple_sun_of_xereusclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_death_the_purple_sun_of_xereus</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7bc9360e-bf4d-45b6-a394-d4f6a2b93e20}" record_timestamp="1443454540458" record_key="wh_main_spell_fire_fireball_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_fireball_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{17dc10ef-8ebb-42e9-879d-f73aac5ff8ed}" record_timestamp="1440516700229" record_key="wh_main_spell_fire_fireball_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_fireball_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{dc6da6c7-192d-4658-a0a0-980a6e22b128}" record_timestamp="1441094216378" record_key="wh_main_spell_fire_fireballclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_fireball</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{16fdf18c-03f6-4b25-aec0-c658820fc375}" record_timestamp="1440516699960" record_key="wh_main_spell_fire_fireballmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_fireball</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ffa6b81f-6258-4946-bcc7-90da83765d8f}" record_timestamp="1443454540685" record_key="wh_main_spell_fire_flame_storm_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_flame_storm_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fafdf881-d5a2-4b48-ba3e-1cb72be105d0}" record_timestamp="1443454540175" record_key="wh_main_spell_fire_flame_stormclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_flame_storm</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{26f1552d-6619-4a51-935f-b79943200e90}" record_timestamp="1443454540653" record_key="wh_main_spell_fire_piercing_bolts_of_burning_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_piercing_bolts_of_burning_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2440fa96-4446-44db-94fb-5960cdd0f160}" record_timestamp="1443454540426" record_key="wh_main_spell_fire_piercing_bolts_of_burningclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_piercing_bolts_of_burning</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a7ddecd4-6393-4138-bedd-44895d9a7771}" record_timestamp="1443454540489" record_key="wh_main_spell_fire_the_burning_head_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_the_burning_head_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{8b98f8c8-072f-4465-92ea-82bf7b33f357}" record_timestamp="1443454540394" record_key="wh_main_spell_fire_the_burning_headclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_fire_the_burning_head</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4ad832fb-209e-4188-a89a-a55dbbda856c}" record_timestamp="1443454540782" record_key="wh_main_spell_heavens_chain_lightningclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_chain_lightning</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3a050db3-a173-4971-a66e-ca43f230dd50}" record_timestamp="1443454539844" record_key="wh_main_spell_heavens_comet_of_casandora_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_comet_of_casandora_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a4d5cc03-8bf2-41d3-bb99-c6c3cae38887}" record_timestamp="1443454540301" record_key="wh_main_spell_heavens_comet_of_casandoraclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_comet_of_casandora</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{bd83a783-f94a-42b3-a844-25b711300dfd}" record_timestamp="1443454539692" record_key="wh_main_spell_heavens_urannons_thunderbolt_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_urannons_thunderbolt_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{2e00ba4f-842d-4d37-923b-c62ca8358b51}" record_timestamp="1443454540269" record_key="wh_main_spell_heavens_urannons_thunderboltclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_urannons_thunderbolt</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{bffd72aa-ee1b-4585-8a6c-9ec5ea0a0255}" record_timestamp="1443454539663" record_key="wh_main_spell_heavens_wind_blast_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_wind_blast_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{9dab9c28-30cd-4441-af75-a383ada5cb06}" record_timestamp="1443454540362" record_key="wh_main_spell_heavens_wind_blastclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_heavens_wind_blast</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e5ff63ed-34fe-49a7-ba3e-c6133de16a78}" record_timestamp="1443454539752" record_key="wh_main_spell_light_banishment_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_light_banishment_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{cc930449-2fa1-4ff8-8f85-daecc184b729}" record_timestamp="1443454540331" record_key="wh_main_spell_light_banishmentclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_light_banishment</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fcea6df2-5a38-48b6-8940-33c7c103b0f9}" record_timestamp="1509472086268" record_key="wh_main_spell_light_shems_burning_gaze_boundclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_light_shems_burning_gaze_bound</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c1b70be5-711c-49e3-b6dc-0bd7af56e5b9}" record_timestamp="1509472086223" record_key="wh_main_spell_light_shems_burning_gaze_boundmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_light_shems_burning_gaze_bound</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{76954ca2-ddf8-4042-a6c4-dec2c08882c0}" record_timestamp="1443454539723" record_key="wh_main_spell_light_shems_burning_gaze_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_light_shems_burning_gaze_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{cbc043d9-7697-4ec8-b6d4-f7e9a4a746c7}" record_timestamp="1440516700208" record_key="wh_main_spell_light_shems_burning_gaze_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_light_shems_burning_gaze_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ac2dd319-0903-4a1e-b9c3-b264a5f2104a}" record_timestamp="1443454540116" record_key="wh_main_spell_light_shems_burning_gazeclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_light_shems_burning_gaze</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f6f1a2a0-c20b-4ff9-9283-1b0fdb8365c2}" record_timestamp="1440516700000" record_key="wh_main_spell_light_shems_burning_gazemanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_light_shems_burning_gaze</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1735f20b-dc21-469e-91ce-76f84f45e817}" record_timestamp="1443454539634" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_curse_of_da_bad_moon_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f669153f-c5bc-4f67-82ce-94f8c7fcf326}" record_timestamp="1443454540551" record_key="wh_main_spell_lil_waaagh_curse_of_da_bad_moonclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_curse_of_da_bad_moon</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ff26f885-5d79-4eba-8d82-6c6a72dfabe8}" record_timestamp="1496739041099" record_key="wh_main_spell_lil_waaagh_night_shroud_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_night_shroud_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{de539b33-8c9e-41ed-a8ba-a4d352e9c3ba}" record_timestamp="1496739041128" record_key="wh_main_spell_lil_waaagh_night_shroudclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_night_shroud</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c08fe914-1432-4949-b17e-a30de84b5179}" record_timestamp="1443454539606" record_key="wh_main_spell_lil_waaagh_vindictive_glare_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_vindictive_glare_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ef9ecb15-0b1c-428e-bab3-7f40d821b532}" record_timestamp="1440516700145" record_key="wh_main_spell_lil_waaagh_vindictive_glare_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_vindictive_glare_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e6c73917-d97f-4698-8c31-8b7d5eb433ba}" record_timestamp="1443454540521" record_key="wh_main_spell_lil_waaagh_vindictive_glareclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_vindictive_glare</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0f3fcfa7-2e3e-492d-a9c0-8aec6ce2e475}" record_timestamp="1440516700165" record_key="wh_main_spell_lil_waaagh_vindictive_glaremanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_lil_waaagh_vindictive_glare</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b732c33c-f228-44ad-a4c4-92ad560a6177}" record_timestamp="1443454540615" record_key="wh_main_spell_metal_gehennas_golden_hounds_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_metal_gehennas_golden_hounds_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0311d0aa-d9ac-468f-b34d-ae71fbef6ce8}" record_timestamp="1443454540057" record_key="wh_main_spell_metal_gehennas_golden_houndsclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_metal_gehennas_golden_hounds</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{63a76ce0-b8c0-46e6-a072-2c4a275765af}" record_timestamp="1443454540582" record_key="wh_main_spell_metal_searing_doom_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_metal_searing_doom_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{95e83895-a381-45e4-a283-550145805ac5}" record_timestamp="1443454540238" record_key="wh_main_spell_metal_searing_doomclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_metal_searing_doom</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{d8e09cb6-144f-44e6-8cef-f20264460a06}" record_timestamp="1443454539783" record_key="wh_main_spell_vampires_gaze_of_nagash_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_gaze_of_nagash_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{3a3e849d-ecb4-49be-ac18-9dac56a2a512}" record_timestamp="1440516700103" record_key="wh_main_spell_vampires_gaze_of_nagash_upgradedmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_gaze_of_nagash_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{7157996d-49d1-4141-8741-a7c042654867}" record_timestamp="1443454540718" record_key="wh_main_spell_vampires_gaze_of_nagashclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_gaze_of_nagash</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{c4164076-73ae-432c-ba04-f43454e3e143}" record_timestamp="1440516699980" record_key="wh_main_spell_vampires_gaze_of_nagashmanning_equipment">
+<invalid_usage_flag>manning_equipment</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_gaze_of_nagash</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{72fb0e3b-6843-4f67-aeb5-5c708346ead6}" record_timestamp="1455180663692" record_key="wh_main_spell_vampires_invocation_of_nehek_upgradedmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{93b4323d-8805-4add-9e64-df8c9a1099d4}" record_timestamp="1455180663678" record_key="wh_main_spell_vampires_invocation_of_nehekmorale_is_broken_or_lower">
+<invalid_usage_flag>morale_is_broken_or_lower</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_invocation_of_nehek</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e7924a79-4fdf-4cae-acb2-136d499cf0e9}" record_timestamp="1441119448577" record_key="wh_main_spell_vampires_raise_dead_upgradedarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_raise_dead_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{fd9016b0-0cb5-4c54-a1f7-eb494759c61b}" record_timestamp="1470839283550" record_key="wh_main_spell_vampires_raise_dead_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_raise_dead_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{364e929a-89e0-42c0-8599-540e5fc2a73c}" record_timestamp="1430821389114" record_key="wh_main_spell_vampires_raise_deadarmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_raise_dead</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{29430e0d-0174-4610-839b-8788d73a5892}" record_timestamp="1470839283551" record_key="wh_main_spell_vampires_raise_deadclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_raise_dead</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{6f219fac-48d3-4db0-a676-cb6fca5ec9d3}" record_timestamp="1443454539813" record_key="wh_main_spell_vampires_wind_of_death_upgradedclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_wind_of_death_upgraded</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{5749e308-7cad-413a-8d5f-a47bf2406aa4}" record_timestamp="1443454540750" record_key="wh_main_spell_vampires_wind_of_deathclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_spell_vampires_wind_of_death</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b253d161-adbd-4562-8b2c-82710b7c73d4}" record_timestamp="1453454186472" record_key="wh_main_unit_abilities_bloooodcannot_perform_missile_attack">
+<invalid_usage_flag>cannot_perform_missile_attack</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_blooood</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{f3e8cb35-d2d0-4d63-82bd-b02d9af9b373}" record_timestamp="1453454186462" record_key="wh_main_unit_abilities_boomcannot_perform_missile_attack">
+<invalid_usage_flag>cannot_perform_missile_attack</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_boom</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0aaad61f-12f7-4b61-994e-b15067eade5f}" record_timestamp="1443454540027" record_key="wh_main_unit_abilities_gyrobomber_bombclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_gyrobomber_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4acabf93-610a-42e1-b64a-5b5589d45daa}" record_timestamp="1439825657257" record_key="wh_main_unit_abilities_gyrobomber_bombgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_gyrobomber_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{e514a7c4-7b3f-444f-8e41-7922d9d734a9}" record_timestamp="1452686064742" record_key="wh_main_unit_abilities_gyrobomber_bombphase_is_deployment">
+<invalid_usage_flag>phase_is_deployment</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_gyrobomber_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{01efd7b9-0bd2-4737-be01-4095c95504f0}" record_timestamp="1443454540207" record_key="wh_main_unit_abilities_gyrocopter_bombclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_gyrocopter_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{63fc98d3-16fe-4e27-9e84-3ccc3c26a4dd}" record_timestamp="1441191575102" record_key="wh_main_unit_abilities_gyrocopter_bombgrounded">
+<invalid_usage_flag>grounded</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_gyrocopter_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ba6dc1d0-1ccc-4481-bb23-1aedbb996b6c}" record_timestamp="1452686064760" record_key="wh_main_unit_abilities_gyrocopter_bombphase_is_deployment">
+<invalid_usage_flag>phase_is_deployment</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_gyrocopter_bomb</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{ffe2c231-c26f-4314-b93d-f9f237480cb9}" record_timestamp="1478766616494" record_key="wh_main_unit_abilities_spinning_loonsclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_spinning_loons</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4ba02eeb-8f0f-4b9f-82be-49ecc6bc2b5a}" record_timestamp="1478766616493" record_key="wh_main_unit_abilities_spinning_loonson_a_platform">
+<invalid_usage_flag>on_a_platform</invalid_usage_flag>
+<special_ability>wh_main_unit_abilities_spinning_loons</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{5687a00a-13a3-489d-a0c8-1b31249b8847}" record_timestamp="1443454539906" record_key="wh_main_weapon_abilities_skabscrathclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_main_weapon_abilities_skabscrath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{33234433-919f-4fa7-9915-1e162ae297e7}" record_timestamp="1511171309535" record_key="wh_pro03_lord_abilities_lord_of_undeath_0army_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_0</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{a12556ea-4f50-4a0a-8679-364560265113}" record_timestamp="1511171309536" record_key="wh_pro03_lord_abilities_lord_of_undeath_0climbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_0</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{edc550af-a75c-45af-9736-5abc709489a1}" record_timestamp="1511171309535" record_key="wh_pro03_lord_abilities_lord_of_undeath_1army_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_1</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{1aca1952-d8e1-4168-9a6b-6db0a713b85a}" record_timestamp="1511171309536" record_key="wh_pro03_lord_abilities_lord_of_undeath_1climbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_1</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{63112bcf-123c-46de-9630-448b28fe1e7a}" record_timestamp="1511171309535" record_key="wh_pro03_lord_abilities_lord_of_undeath_2army_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_2</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4cc469d5-9d87-41ee-be16-2e3d3f2e25f1}" record_timestamp="1511171309537" record_key="wh_pro03_lord_abilities_lord_of_undeath_2climbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_2</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{b209aed9-e7f1-422a-b2a9-53293ee2f9cb}" record_timestamp="1511171309535" record_key="wh_pro03_lord_abilities_lord_of_undeath_3army_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_3</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{0933fce0-dd2a-45d2-8b24-e5603c4404ac}" record_timestamp="1511171309537" record_key="wh_pro03_lord_abilities_lord_of_undeath_3climbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_3</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{df3b3399-c87f-4562-a461-d94e86f7e88e}" record_timestamp="1511171309536" record_key="wh_pro03_lord_abilities_lord_of_undeath_4army_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_4</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{def1e401-5876-4712-970e-95a63ec14ed2}" record_timestamp="1511171309534" record_key="wh_pro03_lord_abilities_lord_of_undeath_4climbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath_4</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{4dc1858d-8129-4a2c-be09-be849ed3090e}" record_timestamp="1490173733696" record_key="wh_pro03_lord_abilities_lord_of_undeatharmy_is_full">
+<invalid_usage_flag>army_is_full</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath</special_ability>
+</special_ability_to_invalid_usage_flags>
+<special_ability_to_invalid_usage_flags record_uuid="{bfe807dd-53ea-4cfc-ae7b-78b54c8091d7}" record_timestamp="1490173733699" record_key="wh_pro03_lord_abilities_lord_of_undeathclimbing">
+<invalid_usage_flag>climbing</invalid_usage_flag>
+<special_ability>wh_pro03_lord_abilities_lord_of_undeath</special_ability>
+</special_ability_to_invalid_usage_flags>
+</dataroot>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="25">
+  <entities>
+    <entity id="15a03bcbd573b02" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="15a03bd70213b06">
+      <ECBuilding key="glb_opaque_waterfall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.1065979 0 -4.04212952" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_opaque_waterfall_02"/>
+    </entity>
+    <entity id="15a03bf07b03b07" name="cliffs">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="15a03c038813b09">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-87.682457 114.98378 -58.8946495" rotation="-30.8974457 -70.661293 22.2079372" scale="8.21556187 6.99999952 8.21556187"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a03c0b1383b0a">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-67.7974091 125.140381 -1.18856812" rotation="0 -71.9999924 0" scale="7 7 7"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c0bcfa3b0b">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-71.5527191 124.179932 -55.469986" rotation="0 -80.0000076 0" scale="7 7 7"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c0d9663b0c">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-194.417587 125.547546 -41.0001526" rotation="0 180 0" scale="7 7 7"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c0f3573b0d">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-331.13443 126.653305 -39.6020203" rotation="-2.52081776 143.261124 -7.88239336" scale="10.0097589 7 10.0097599"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a03c136ac3b0e">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-339.537476 37.0237579 -46.45755" rotation="14.2508202 -36.5352821 -9.53857231" scale="8.39999866 8.39999771 8.39999866"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c1e8283b0f">
+      <ECBuilding key="lzd_rockpillar_chunk_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-300.041107 139.432266 -36.861969" rotation="0 -20.999979 0" scale="16 16 16"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_chunk_02"/>
+    </entity>
+    <entity id="15a03c1ff2c3b10">
+      <ECBuilding key="lzd_rockpillar_chunk_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-97.7984467 142.373535 -68.6598206" rotation="0 -20.999979 0" scale="16 16 16"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_chunk_01"/>
+    </entity>
+    <entity id="15a03c213593b11">
+      <ECBuilding key="lzd_rockpillar_chunk_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-151.529343 138.681381 -52.9383545" rotation="0 -20.999979 0" scale="11.1111097 11.1111097 11.1111097"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_chunk_01"/>
+    </entity>
+    <entity id="15a03c21ac33b12">
+      <ECBuilding key="lzd_rockpillar_chunk_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-285.589935 139.383163 -39.5309448" rotation="0 -20.999979 0" scale="11.1111097 11.1111097 11.1111097"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_chunk_01"/>
+    </entity>
+    <entity id="15a03c265943b13">
+      <ECBuilding key="lzd_rockpillar_chunk_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="265.650146 149.056061 54.8304138" rotation="0 -20.999979 0" scale="11.1111097 11.1111097 11.1111097"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_chunk_01"/>
+    </entity>
+    <entity id="15a03c2e3ff3b14">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="303.475128 9.03921604 10.4736185" rotation="-7.82724571 226.293259 -354.998779" scale="13.5579453 11.1111107 13.5579462"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a03c3185d3b15">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="320.686188 67.4297333 17.711504" rotation="13.8324442 134.827499 193.379517" scale="13.5579424 11.1111107 13.5579462"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a03c381a43b16">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="364.299316 50.1622925 26.7749023" rotation="0 17 0" scale="11.1111097 11.1111097 11.1111097"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c3c1083b17">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-365.461792 60.7491455 -32.5845337" rotation="0 194 0" scale="11.1111097 11.1111097 11.1111097"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c3f0d93b18">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-322.828461 145.533844 -23.9854908" rotation="-54.4374237 256.920227 -300.751465" scale="5.99999952 5.99999952 5.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c407c63b19">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-312.775085 142.031677 32.0075836" rotation="0 22.9999981 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c4404d3b1a">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="349.130493 135.030609 21.155426" rotation="0 29.9999981 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c4528a3b1b">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="384.516113 135.030579 9.20629883" rotation="0 173 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c460f03b1c">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="328.158142 135.030518 53.3851013" rotation="0 173 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c4694d3b1d">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="329.15094 135.030579 90.8044739" rotation="0 103.000015 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c64aa43c51">
+      <ECBuilding key="lzd_boulder_group_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-329.926147 -9.34257507 -105.384766" rotation="0 74.9999924 0" scale="12 12 12"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_01"/>
+    </entity>
+    <entity id="15a03c693113c52">
+      <ECBuilding key="lzd_boulder_group_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-321.605347 0.212249741 -164.328583" rotation="0 -56.9999924 0" scale="6.94444418 6.94444418 6.94444418"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_02"/>
+    </entity>
+    <entity id="15a03c69fea3c53">
+      <ECBuilding key="lzd_boulder_group_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="273.751312 0.212280244 -18.0009003" rotation="-45.5232849 73.9090729 -6.16082161e-006" scale="10.4486418 10.4486408 10.4486427"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_01"/>
+    </entity>
+    <entity id="15a03c6e29b3c54">
+      <ECBuilding key="lzd_boulder_group_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="326.292297 0.212311819 -48.5578384" rotation="-45.5232849 3.19164896 -1.92397488e-006" scale="10.4486418 10.4486408 10.4486427"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_01"/>
+    </entity>
+    <entity id="15a03c706e93c55">
+      <ECBuilding key="lzd_boulder_group_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="278.209381 0.212249741 -69.9929199" rotation="0 -56.9999924 0" scale="8.33333302 8.33333302 8.33333302"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_02"/>
+    </entity>
+    <entity id="15a03c70c3a3c56">
+      <ECBuilding key="lzd_boulder_group_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="336.323364 0.212295517 -62.8825684" rotation="0 12 0" scale="8.33333302 8.33333302 8.33333302"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_02"/>
+    </entity>
+    <entity id="15a03c71f6f3c57">
+      <ECBuilding key="lzd_boulder_group_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-372.12326 0.212326005 -107.167542" rotation="-45.5232773 16.8437119 -8.92043374e-007" scale="10.4486408 10.4486408 10.4486427"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_01"/>
+    </entity>
+    <entity id="15a03c745cf3c58">
+      <ECBuilding key="lzd_boulder_group_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-394.038574 0.212280244 -119.349808" rotation="0 23.5179653 0" scale="6.94444466 6.9444437 6.94444466"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_02"/>
+    </entity>
+    <entity id="15a03c772b23c60">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="305.420776 121.916443 237.005524" rotation="-16.0575562 125.031914 -29.5586948" scale="5.12088013 3.99999905 4.00000095"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c772b23c5f">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="279.505829 144.430603 133.977203" rotation="0 89.3941269 0" scale="4 4 4"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c772b23c5c">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="309.613708 152.98349 129.404785" rotation="14.7659597 68.3265686 2.38510036" scale="4.00000143 3.99999952 4.00000143"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c772b23c5b">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="288.804993 134.71727 208.396729" rotation="9.86346722 22.0432549 -12.5633183" scale="4 4 4.61230469"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c772b23c5a">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="291.388123 144.165512 178.971802" rotation="62.6287727 77.5495148 47.9751587" scale="3.99999952 3.99999976 4"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c772b23c5e">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="292.78598 151.721619 150.096466" rotation="23.8683014 -64.4231644 -33.4263649" scale="3.99999952 3.99999976 4.00000095"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c772b23c5d">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="263.386993 137.61525 190.891678" rotation="-3.88152814 169.239532 -19.9716358" scale="3.99999928 3.99999976 3.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c776f23c64">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-294.530762 124.977882 187.713104" rotation="20.0158634 64.8829575 38.9305954" scale="5.22448874 3.99999952 4.00000238"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c776f33c66">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-265.209869 148.94751 31.7247009" rotation="0 -51 0" scale="3.99999976 4 3.99999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c776f33c69">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-267.674133 152.91008 104.015808" rotation="0 10.0000315 0" scale="3.00000048 3 3.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a03c776f33c67">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-281.004272 151.484253 88.2880249" rotation="-43.5960274 104.003601 -31.7042637" scale="3.99999738 3.99999952 3.99999833"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c776f33c65">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-285.491364 157.500397 54.4414673" rotation="9.83300495 -72.0293808 2.85538816" scale="3.99999928 3.99999952 3.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c776f33c68">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-284.697571 134.189819 148.57309" rotation="-10.3566561 252.4216 -331.747864" scale="3.99999857 3.99999976 3.99999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c776f23c62">
+      <ECBuilding key="lzd_rockpillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-262.901062 139.167404 143.57547" rotation="2.20091701 -0.461032897 12.5711002" scale="3.99999952 3.99999928 3.99999928"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_01"/>
+    </entity>
+    <entity id="15a03c776f23c63">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-278.755554 144.663467 115.86972" rotation="-11.9508638 174.916931 -349.833313" scale="4 4 4.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c7cbb63c6a">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-360.01532 145.287827 -32.0246735" rotation="12.91259 3.89916539 0.893167555" scale="6.00000048 6 6.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c7d5833c6b">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-398.013428 145.143463 -31.3935757" rotation="13.3829994 15.5869074 3.65788674" scale="5.99999952 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15a03c881d03c6c">
+      <ECBuilding key="lzd_boulder_group_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-76.2666016 161.058701 -7.96847534" rotation="0 -73.9999771 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_group_01"/>
+    </entity>
+    <entity id="15a03c8b6de3c6d">
+      <ECBuilding key="lzd_boulder_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-45.1568375 165.231537 70.541687" rotation="0 -73.9999771 0" scale="14.9299212 14.9299212 14.9299212"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_03"/>
+    </entity>
+    <entity id="15a03c8c12a3c6e">
+      <ECBuilding key="lzd_boulder_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-63.533844 162.246002 93.5031433" rotation="0 196 0" scale="14.9299212 14.9299212 14.9299212"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_03"/>
+    </entity>
+    <entity id="15a03c8c5803c6f">
+      <ECBuilding key="lzd_boulder_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="225.637634 165.256744 79.8118591" rotation="0 -49.9999809 0" scale="14.9299212 14.9299212 14.9299212"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="boulder_03"/>
+    </entity>
+    <entity id="15a03c9b24c3c70">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="300.021973 100.406769 42.7205505" rotation="0 -49.9999809 0" scale="10.368 10.368 10.368"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a03c9c5b83c71">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="275.261719 -45.7173767 30.3648987" rotation="0 -49.9999809 0" scale="10.368 10.368 10.368"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15a227101cdb193">
+      <ECBuilding key="glb_opaque_waterfall_02b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.1065979 0 -4.04212952" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_opaque_waterfall_02b"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="15a03bf07b03b07">
+        <to id="15a03c038813b09"/>
+        <to id="15a03c0b1383b0a"/>
+        <to id="15a03c0bcfa3b0b"/>
+        <to id="15a03c0d9663b0c"/>
+        <to id="15a03c0f3573b0d"/>
+        <to id="15a03c136ac3b0e"/>
+        <to id="15a03c1e8283b0f"/>
+        <to id="15a03c1ff2c3b10"/>
+        <to id="15a03c213593b11"/>
+        <to id="15a03c21ac33b12"/>
+        <to id="15a03c265943b13"/>
+        <to id="15a03c2e3ff3b14"/>
+        <to id="15a03c3185d3b15"/>
+        <to id="15a03c381a43b16"/>
+        <to id="15a03c3c1083b17"/>
+        <to id="15a03c3f0d93b18"/>
+        <to id="15a03c407c63b19"/>
+        <to id="15a03c4404d3b1a"/>
+        <to id="15a03c4528a3b1b"/>
+        <to id="15a03c460f03b1c"/>
+        <to id="15a03c4694d3b1d"/>
+        <to id="15a03c64aa43c51"/>
+        <to id="15a03c693113c52"/>
+        <to id="15a03c69fea3c53"/>
+        <to id="15a03c6e29b3c54"/>
+        <to id="15a03c706e93c55"/>
+        <to id="15a03c70c3a3c56"/>
+        <to id="15a03c71f6f3c57"/>
+        <to id="15a03c745cf3c58"/>
+        <to id="15a03c772b23c60"/>
+        <to id="15a03c772b23c5f"/>
+        <to id="15a03c772b23c5c"/>
+        <to id="15a03c772b23c5b"/>
+        <to id="15a03c772b23c5a"/>
+        <to id="15a03c772b23c5e"/>
+        <to id="15a03c772b23c5d"/>
+        <to id="15a03c776f23c64"/>
+        <to id="15a03c776f33c66"/>
+        <to id="15a03c776f33c69"/>
+        <to id="15a03c776f33c67"/>
+        <to id="15a03c776f33c65"/>
+        <to id="15a03c776f33c68"/>
+        <to id="15a03c776f23c62"/>
+        <to id="15a03c776f23c63"/>
+        <to id="15a03c7cbb63c6a"/>
+        <to id="15a03c7d5833c6b"/>
+        <to id="15a03c881d03c6c"/>
+        <to id="15a03c8b6de3c6d"/>
+        <to id="15a03c8c12a3c6e"/>
+        <to id="15a03c8c5803c6f"/>
+        <to id="15a03c9b24c3c70"/>
+        <to id="15a03c9c5b83c71"/>
+        <to id="15a227101cdb193"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

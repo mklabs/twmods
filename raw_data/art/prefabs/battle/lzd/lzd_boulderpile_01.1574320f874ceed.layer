@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="1574320f874cee9">
+      <ECBuilding key="lzd_boulder_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.25097656 0 3.60742188" rotation="0 118.000008 0" scale="4.00000095 4 4.00000095"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_boulder_03"/>
+    </entity>
+    <entity id="1574320f874ceea">
+      <ECBuilding key="lzd_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.71337891 0 -0.850341797" rotation="0 12.0000019 0" scale="4 4 4"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_boulder_01"/>
+    </entity>
+    <entity id="1574320f874ceeb">
+      <ECBuilding key="lzd_boulder_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.25097656 0 -3.60742188" rotation="0 12.0000019 0" scale="4 4 4"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_boulder_02"/>
+    </entity>
+    <entity id="1574320f874ceec">
+      <ECBuilding key="lzd_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.167480469 0 -0.109069824" rotation="0 194.000015 0" scale="3.99999952 4 3.99999952"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_boulder_05"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

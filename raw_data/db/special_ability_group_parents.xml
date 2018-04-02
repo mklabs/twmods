@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="special_ability_group_parents.xsd" export_time="Wed Aug 30 18:18:08 2017" revision="6" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>060d1141-638d-47e8-af27-e4dbc246e486</edit_uuid>
+<special_ability_group_parents record_uuid="{1fe0ee61-9c6e-48dd-a1b2-de95f36154af}" record_timestamp="1504113485662" record_key="wh2_main_lore_grey_seer_plaguewh2_main_lore_plague">
+<child>wh2_main_lore_grey_seer_plague</child>
+<parent>wh2_main_lore_plague</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{49d4bee0-c1f8-4a67-b1e5-b1e6c2a24afc}" record_timestamp="1504113485681" record_key="wh2_main_lore_grey_seer_ruinwh2_main_lore_ruin">
+<child>wh2_main_lore_grey_seer_ruin</child>
+<parent>wh2_main_lore_ruin</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{f562ec88-7da3-4f21-aedd-322e66728bf6}" record_timestamp="1470845042493" record_key="wh_dlc04_lore_helman_ghorstwh_main_lore_vampires">
+<child>wh_dlc04_lore_helman_ghorst</child>
+<parent>wh_main_lore_vampires</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{7f449323-356e-45d7-90f9-6bb854a876a9}" record_timestamp="1474902891727" record_key="wh_dlc04_lore_strigoiwh_main_lore_vampires">
+<child>wh_dlc04_lore_strigoi</child>
+<parent>wh_main_lore_vampires</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{4acca9a3-7d0a-4a29-b548-80883b126016}" record_timestamp="1478778788229" record_key="wh_dlc05_lore_branchwraithwh_dlc05_lore_shadows">
+<child>wh_dlc05_lore_branchwraith</child>
+<parent>wh_dlc05_lore_shadows</parent>
+</special_ability_group_parents>
+<special_ability_group_parents record_uuid="{8cb44b2d-46bf-4c29-900e-4adf2c3d4a6f}" record_timestamp="1488445517097" record_key="wh_pro03_lore_kemmlerwh_main_lore_vampires">
+<child>wh_pro03_lore_kemmler</child>
+<parent>wh_main_lore_vampires</parent>
+</special_ability_group_parents>
+</dataroot>

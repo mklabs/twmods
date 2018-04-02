@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="1501ddba136d326" name="ruins">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="14fbcde0b1eb66f" name="glb_ruin_facade_02">
+      <ECBuilding key="glb_ruin_facade_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.70446777 7.14993858 13.7157593" rotation="0 0 0" scale="0.5198102 0.5198102 0.5198102"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fbcde0b1db654" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.78448486 0 3.99047852" rotation="0 0 0" scale="0.599999785 0.600000083 0.599999785"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db65f" name="glb_ruin_doors_01">
+      <ECBuilding key="glb_ruin_doors_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.15289307 0 -10.7372437" rotation="0 0 0" scale="0.38985765 0.5198102 0.5198102"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb64b" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8378906 0 -10.7337036" rotation="0 0 0" scale="0.519809783 0.519810319 0.519809783"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb64c" name="glb_ruin_windows_02">
+      <ECBuilding key="glb_ruin_windows_02" damage="78" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.80102539 0 0.955566406" rotation="0 269.960419 0" scale="0.519810021 0.519810021 0.519810021"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1eb66c" name="glb_ruin_facade_02">
+      <ECBuilding key="glb_ruin_facade_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.70446777 0 -17.7011108" rotation="0 0 0" scale="0.5198102 0.5198102 0.5198102"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb643" name="glb_ruin_windows_02">
+      <ECBuilding key="glb_ruin_windows_02" damage="78" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.379516602 0 -13.6775513" rotation="0 -89.9802094 0" scale="0.519809961 0.5198102 0.519809961"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db64e" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.50897217 0 -5.39971924" rotation="0 90 0" scale="0.519809604 0.5198102 0.519809604"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db660" name="glb_ruin_pillar_01">
+      <ECBuilding key="glb_ruin_pillar_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.7035522 0 -10.0055542" rotation="0 -89.9802094 0" scale="0.519809783 0.5198102 0.519809783"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1eb664" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.5088501 0 -13.9558716" rotation="0 89.9802094 0" scale="0.519809484 0.5198102 0.519809484"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1eb666" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.35717773 0 -2.20056152" rotation="0 180 0" scale="0.519809723 0.5198102 0.519809723"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1eb667" name="glb_ruin_facade_01">
+      <ECBuilding key="glb_ruin_facade_01" damage="44" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.71820068 5.75841522 -2.4543457" rotation="0 180 0" scale="0.5198102 0.5198102 0.5198102"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fbcde0b1db65b" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.63446045 0 17.7010498" rotation="0 90 0" scale="0.51980865 0.51981014 0.51980865"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1eb665" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.63494873 0 5.06628418" rotation="0 180 0" scale="0.519809783 0.519810319 0.519809783"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db651" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="65" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.5644531 0 1.76379395" rotation="0 -90 0" scale="0.519809425 0.5198102 0.519809425"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db657" name="glb_ruin_doors_01">
+      <ECBuilding key="glb_ruin_doors_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.15283203 0 12.8240356" rotation="0 0 0" scale="0.38985765 0.5198102 0.5198102"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb640" name="glb_ruin_pillar_02">
+      <ECBuilding key="glb_ruin_pillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.48614502 0 -2.81121826" rotation="0 89.9802094 0" scale="0.519809961 0.5198102 0.519809961"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db650" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.71307373 0 -7.24578857" rotation="0 90 0" scale="0.599999726 0.600000083 0.599999726"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb64a" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.67486572 0 -2.89562988" rotation="0 0 0" scale="0.519809783 0.519810319 0.519809783"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb648" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.19610596 0 1.76391602" rotation="0 89.9802094 0" scale="0.519809723 0.5198102 0.519809723"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1eb66d" name="glb_ruin_facade_01">
+      <ECBuilding key="glb_ruin_facade_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.71832275 7.31526756 -10.2693491" rotation="0 0 0" scale="0.5198102 0.5198102 0.5198102"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fbcde0b1eb66e" name="glb_ruin_windows_02">
+      <ECBuilding key="glb_ruin_windows_02" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.19116211 0 -10.6401978" rotation="0 0 0" scale="0.519810081 0.5198102 0.519810081"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb644" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0827026367 0 -5.85205078" rotation="0 -89.9802094 0" scale="0.519809961 0.5198102 0.519809961"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb63f" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.98553467 0 5.16174316" rotation="0 180 0" scale="0.599999785 0.600000083 0.599999785"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb641" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.6895142 0 9.26483154" rotation="0 -89.9802094 0" scale="0.519808292 0.519810081 0.519808292"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1db661" name="glb_ruin_wall_01">
+      <ECBuilding key="glb_ruin_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.70703125 0 17.5837402" rotation="0 89.9802094 0" scale="0.519809246 0.519810379 0.519809246"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="14fbcde0b1cb642" name="glb_ruin_windows_01">
+      <ECBuilding key="glb_ruin_windows_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.59173584 0 -6.87854004" rotation="0 0 0" scale="0.519809723 0.5198102 0.519809723"/>
+      <ECTerrainClamp active="true"/>
+    </entity>
+    <entity id="1501ddbb696d327" name="veg">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1501ddc9adcd4b1" name="emp_nature_tiny_01">
+      <ECPrefab key="emp_nature_tiny_01"/>
+      <ECTransform position="-4.30528069 -1.90734863e-006 -15.0275173" rotation="0 -65.9999695 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddcbcfad4df" name="emp_nature_tiny_02">
+      <ECPrefab key="emp_nature_tiny_02"/>
+      <ECTransform position="15.9304962 0 6.58869553" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddccb77d4f6" name="emp_nature_tiny_03">
+      <ECPrefab key="emp_nature_tiny_03"/>
+      <ECTransform position="12.1430473 0 13.2139702" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddcdf2cd520" name="emp_nature_tiny_04">
+      <ECPrefab key="emp_nature_tiny_04"/>
+      <ECTransform position="13.3930807 0 -11.2893372" rotation="0 13.999999 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddd10d9d58e" name="emp_nature_tiny_05">
+      <ECPrefab key="emp_nature_tiny_05"/>
+      <ECTransform position="-3.92005444 0 5.33412933" rotation="0 129 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddd2b13d5be" name="ivy">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1501ddd8d64d5bf" name="glb_ruins_vines_03">
+      <ECBuilding key="glb_ruins_vines_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.24287605 0 -2.2510128" rotation="0 96 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddd9742d5c0" name="glb_ruins_vines_03">
+      <ECBuilding key="glb_ruins_vines_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.46672249 0 15.3194313" rotation="0 96 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501dddba7ed5c1" name="glb_ruins_vines_03">
+      <ECBuilding key="glb_ruins_vines_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.89903641 0 -1.48121548" rotation="0 -86.0000153 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501dddce72d5c2" name="glb_ruins_vines_03">
+      <ECBuilding key="glb_ruins_vines_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.00884056 0 -17.1751556" rotation="0 -4.99998856 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddddad7d5c3" name="glb_ruins_vines_01">
+      <ECBuilding key="glb_ruins_vines_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.977994442 5.98237276 14.8628635" rotation="0 90 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddde16bd5c4" name="glb_ruins_vines_04">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.15020561 9.43992901 -17.404129" rotation="0 -4.99999046 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501dde15d2d5c5" name="glb_ruins_vines_04">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.53612709 12.1936464 -10.0813141" rotation="0 -4.99999428 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501dde3b5ed5c6" name="glb_ruins_vines_04">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.75933933 12.7338305 -5.36660099" rotation="0 90 0" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501dde6a70d5c7" name="glb_ruins_vines_04">
+      <ECBuilding key="glb_ruins_vines_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.82925749 13.4195757 4.03741646" rotation="0 180 0" scale="0.999999285 1 0.999999285"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1501ddecdd5d5c8" name="glb_ruins_vines_01">
+      <ECBuilding key="glb_ruins_vines_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.79575157 18.6305599 -2.89557171" rotation="0 180 0" scale="0.999999404 1 0.999999404"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="1501ddba136d326">
+        <to id="14fbcde0b1eb66f"/>
+        <to id="14fbcde0b1db654"/>
+        <to id="14fbcde0b1db65f"/>
+        <to id="14fbcde0b1cb64b"/>
+        <to id="14fbcde0b1cb64c"/>
+        <to id="14fbcde0b1eb66c"/>
+        <to id="14fbcde0b1cb643"/>
+        <to id="14fbcde0b1db64e"/>
+        <to id="14fbcde0b1db660"/>
+        <to id="14fbcde0b1eb664"/>
+        <to id="14fbcde0b1eb666"/>
+        <to id="14fbcde0b1eb667"/>
+        <to id="14fbcde0b1db65b"/>
+        <to id="14fbcde0b1eb665"/>
+        <to id="14fbcde0b1db651"/>
+        <to id="14fbcde0b1db657"/>
+        <to id="14fbcde0b1cb640"/>
+        <to id="14fbcde0b1db650"/>
+        <to id="14fbcde0b1cb64a"/>
+        <to id="14fbcde0b1cb648"/>
+        <to id="14fbcde0b1eb66d"/>
+        <to id="14fbcde0b1eb66e"/>
+        <to id="14fbcde0b1cb644"/>
+        <to id="14fbcde0b1cb63f"/>
+        <to id="14fbcde0b1cb641"/>
+        <to id="14fbcde0b1db661"/>
+        <to id="14fbcde0b1cb642"/>
+      </from>
+      <from id="1501ddbb696d327">
+        <to id="1501ddc9adcd4b1"/>
+        <to id="1501ddcbcfad4df"/>
+        <to id="1501ddccb77d4f6"/>
+        <to id="1501ddcdf2cd520"/>
+        <to id="1501ddd10d9d58e"/>
+      </from>
+      <from id="1501ddd2b13d5be">
+        <to id="1501ddd8d64d5bf"/>
+        <to id="1501ddd9742d5c0"/>
+        <to id="1501dddba7ed5c1"/>
+        <to id="1501dddce72d5c2"/>
+        <to id="1501ddddad7d5c3"/>
+        <to id="1501ddde16bd5c4"/>
+        <to id="1501dde15d2d5c5"/>
+        <to id="1501dde3b5ed5c6"/>
+        <to id="1501dde6a70d5c7"/>
+        <to id="1501ddecdd5d5c8"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

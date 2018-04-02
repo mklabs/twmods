@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_melee_weapon_types.xsd" export_time="Thu Dec 21 12:39:55 2017" revision="29" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>3c9db82a-5319-4624-b516-7999ec2a1987</edit_uuid>
+<audio_melee_weapon_types record_uuid="{b63d24fa-e743-4908-962c-12b389cac748}" record_timestamp="1487349881266" record_key="Bite_Large">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Bite_Large</key>
+<melee_hit_type>unique_action_large_bite</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{1da60779-8732-4cf9-bd40-9315cc2da8f5}" record_timestamp="1499870421861" record_key="Bite_Medium">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Bite_Medium</key>
+<melee_hit_type>unique_action_medium_bite</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{4b8d131a-8e52-4086-a717-04cdca2ea639}" record_timestamp="1502821325440" record_key="Bonebreaker_Drill">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Bonebreaker_Drill</key>
+<melee_hit_type>melee_weapon_bonebreaker_drill</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{a0ad1518-afab-4971-bf69-fe9f186a7743}" record_timestamp="1508434158549" record_key="Hierotitan_Scales">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Hierotitan_Scales</key>
+<melee_hit_type>unique_action_hierotitan_scales</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{ad774151-f481-45d3-a6ce-8e8d553edab6}" record_timestamp="1508860902879" record_key="Hierotitan_Staff">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Hierotitan_Staff</key>
+<melee_hit_type>unique_action_hierotitan_staff</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{cbee87b6-0860-49a1-92bc-d5dbd21acad1}" record_timestamp="1502821325440" record_key="Medium_Metal_Fist">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Medium_Metal_Fist</key>
+<melee_hit_type>melee_weapon_medium_metal_fist</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{7f024a36-5fb3-4754-80eb-4c2c039a6b8a}" record_timestamp="1510754507636" record_key="Necro_Serpent_Tail">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Necro_Serpent_Tail</key>
+<melee_hit_type>unique_action_necro_serpent_tail</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{ab196571-844f-4e96-82c4-c358f9b1947a}" record_timestamp="1502821325440" record_key="Rat_Ogre_Drill">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Rat_Ogre_Drill</key>
+<melee_hit_type>melee_weapon_rat_ogre_drill</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{a7c47e75-5dec-4c23-98f8-02d61e5570a0}" record_timestamp="1509127976277" record_key="Tomb_Scorpion_Claw">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Tomb_Scorpion_Claw</key>
+<melee_hit_type>unique_action_tomb_scorpion_claw</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{57b9b2ac-96f1-455c-b082-c05afbf3327f}" record_timestamp="1509127976286" record_key="Tomb_Scorpion_Tail">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>Tomb_Scorpion_Tail</key>
+<melee_hit_type>unique_action_tomb_scorpion_Tail</melee_hit_type>
+<switch>bite</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{9704bf4e-9727-42a3-b1fa-b9726e091e45}" record_timestamp="1426154966481" record_key="axe">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_metal</group_melee>
+<key>axe</key>
+<melee_hit_type>melee_weapon_axe</melee_hit_type>
+<switch>axe</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{605544f4-5ddf-4fe4-87f4-75ce19d86dc0}" record_timestamp="1478781827369" record_key="axe_huge">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>axe_huge</key>
+<melee_hit_type>melee_weapon_axe_huge</melee_hit_type>
+<switch>axe_huge</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{08c25ccd-7df0-49b7-a9ca-d364b829805c}" record_timestamp="1478781827367" record_key="axe_medium">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>axe_medium</key>
+<melee_hit_type>melee_weapon_axe_medium</melee_hit_type>
+<switch>axe_medium</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{aec2a731-7027-4acb-b254-ed37ba43cbd4}" record_timestamp="1442499711492" record_key="claw">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>claw</key>
+<melee_hit_type>melee_weapon_claw</melee_hit_type>
+<switch>claw</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{e68126d6-ec4f-4f82-801c-0d0c9309c3fe}" record_timestamp="1442499711493" record_key="club">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>club</key>
+<melee_hit_type>melee_weapon_club</melee_hit_type>
+<switch>club</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{b3a2dc7d-8a5f-4e15-90e5-cabef25f5fbd}" record_timestamp="1478781827285" record_key="club_huge">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>club_huge</key>
+<melee_hit_type>melee_weapon_club_huge</melee_hit_type>
+<switch>club_huge</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{f31135cb-7da9-4a4e-b692-d855c1a23b43}" record_timestamp="1478781827329" record_key="club_medium">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>club_medium</key>
+<melee_hit_type>melee_weapon_club_medium</melee_hit_type>
+<switch>club_medium</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{3c574b2e-1fdc-4ac5-8045-a3f58249f0f4}" record_timestamp="1442499711493" record_key="drakegun">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>drakegun</key>
+<melee_hit_type>melee_weapon_drakegun</melee_hit_type>
+<switch>drakegun</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{d39df234-5e0d-4c40-b934-74d5608f6cfb}" record_timestamp="1503484777315" record_key="flail">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_metal</group_melee>
+<key>flail</key>
+<melee_hit_type>melee_weapon_flail</melee_hit_type>
+<switch>flail</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{73e2ed44-b89c-460a-b77a-f7f77948349f}" record_timestamp="1442499711493" record_key="halberd">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>halberd</key>
+<melee_hit_type>melee_weapon_halberd</melee_hit_type>
+<switch>halberd</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{747d306b-a776-4a1d-8fb7-f62ffd458d57}" record_timestamp="1511960151272" record_key="halberd_medium">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>halberd_medium</key>
+<melee_hit_type>melee_weapon_halberd_medium</melee_hit_type>
+<switch state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">halberd</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{e4eb8984-ff8b-4d0a-9ca0-ae02aa557f74}" record_timestamp="1478781827273" record_key="hammer">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>hammer</key>
+<melee_hit_type>melee_weapon_hammer</melee_hit_type>
+<switch>hammer</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{963a41eb-e5dd-4b6d-a615-007ad1e4f2c3}" record_timestamp="1501000558434" record_key="lance">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>lance</key>
+<melee_hit_type>melee_weapon_lance</melee_hit_type>
+<switch>lance</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{4fac0dd2-8efa-4d8c-a373-901067fa705f}" record_timestamp="1442499711494" record_key="spear">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>spear</key>
+<melee_hit_type>melee_weapon_spear</melee_hit_type>
+<switch>spear</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{48049185-cbb3-4de7-bff7-7860ffe59bb7}" record_timestamp="1478781827297" record_key="spear_huge">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>spear_huge</key>
+<melee_hit_type>melee_weapon_spear_huge</melee_hit_type>
+<switch>spear_huge</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{5984ba0e-72a2-4618-b11b-5eee7c09c248}" record_timestamp="1478781827318" record_key="spear_medium">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>spear_medium</key>
+<melee_hit_type>melee_weapon_spear_medium</melee_hit_type>
+<switch>spear_medium</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{f1dfc3b4-48c1-40f9-8953-9662dee97768}" record_timestamp="1442499711494" record_key="staff">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>staff</key>
+<melee_hit_type>melee_weapon_staff</melee_hit_type>
+<switch>staff</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{a1bbf407-709c-4cae-8fee-6f45d005b06e}" record_timestamp="1442499711494" record_key="sword">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_metal</group_melee>
+<key>sword</key>
+<melee_hit_type>melee_weapon_sword</melee_hit_type>
+<switch>sword</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{e9bc4bc1-148e-4c45-b0ca-61fbc77dd65e}" record_timestamp="1502821325439" record_key="sword_claws">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>sword_claws</key>
+<melee_hit_type>melee_weapon_sword_claws</melee_hit_type>
+<switch>sword</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{ae3045ee-8a57-4721-a4dd-22b79cf9c9f7}" record_timestamp="1478781827307" record_key="sword_huge">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>sword_huge</key>
+<melee_hit_type>melee_weapon_sword_huge</melee_hit_type>
+<switch>sword_huge</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{8a2d226e-dc05-4ae3-9bdb-33e702ddcd69}" record_timestamp="1478781827341" record_key="sword_medium">
+<cannot_parry>1</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>sword_medium</key>
+<melee_hit_type>melee_weapon_sword_medium</melee_hit_type>
+<switch>sword_medium</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{acc6d677-8089-4999-9c18-c098cf9cbc7d}" record_timestamp="1442499711494" record_key="unarmed">
+<cannot_parry>1</cannot_parry>
+<group_melee></group_melee>
+<key>unarmed</key>
+<melee_hit_type>melee_weapon_unarmed</melee_hit_type>
+<switch>unarmed</switch>
+</audio_melee_weapon_types>
+<audio_melee_weapon_types record_uuid="{42d870a0-46b9-46ad-92e7-e262c5bbe6ad}" record_timestamp="1497368119110" record_key="warpfiregun">
+<cannot_parry>0</cannot_parry>
+<group_melee>wh_grp_melee_weapons_mixed</group_melee>
+<key>warpfiregun</key>
+<melee_hit_type>melee_weapon_drakegun</melee_hit_type>
+<switch>drakegun</switch>
+</audio_melee_weapon_types>
+</dataroot>

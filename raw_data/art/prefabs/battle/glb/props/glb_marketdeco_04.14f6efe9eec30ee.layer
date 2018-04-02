@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="14f6efe9eec30ef" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="14f6eff76a73114">
+      <ECBuilding key="glb_marketdecostand_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.22160244 0 3.21976566" rotation="0 -90 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_marketdecostand_04"/>
+    </entity>
+    <entity id="15385189b442750">
+      <ECBuilding key="glb_marketdeco_crate_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.75514841 0 1.74096155" rotation="0 115.999992 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_marketdeco_crate_04"/>
+    </entity>
+    <entity id="1538518a5b02751">
+      <ECBuilding key="glb_marketdeco_crate_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.90831852 -2.38418579e-007 4.96995354" rotation="0 62.0000076 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_marketdeco_crate_03"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

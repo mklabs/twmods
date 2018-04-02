@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="20">
+  <entities>
+    <entity id="150af5665adf2c2" name="emp_hero_block_02">
+      <ECBuilding key="emp_hero_block_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0288085938 0 12.4972534" rotation="0 90 0" scale="1.24999952 1.25 1.24999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_02"/>
+    </entity>
+    <entity id="150af5665adf2c3" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.0632629 0.00530815125 -2.91388226" rotation="0 90 0" scale="1.99999809 2 1.99999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150af5665adf2c4" name="emp_infield_chimey_01">
+      <ECBuilding key="emp_infield_chimey_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.81799316 32.4508133 -0.514953613" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_chimey_01"/>
+    </entity>
+    <entity id="150af5665adf2c5" name="emp_hero_tower_04">
+      <ECBuilding key="emp_hero_tower_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0908203125 0.0833244473 -10.1599731" rotation="0 0 0" scale="0.949999988 0.949999988 0.949999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_tower_04"/>
+    </entity>
+    <entity id="150af5665adf2c6" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-16.8619957 0.00530815171 -6.59152126" rotation="0 -90 0" scale="1.99999702 2 1.99999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150af5665adf2c7" name="emp_hero_port_01">
+      <ECBuilding key="emp_hero_port_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.37109375 24.1603508 -14.4160767" rotation="0 45.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_port_01"/>
+    </entity>
+    <entity id="150af5665adf2c8" name="emp_hero_towercap_03">
+      <ECBuilding key="emp_hero_towercap_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.67431641 28.3366413 -2.11779785" rotation="0 90 0" scale="0.999998271 1 0.999998271"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_towercap_03"/>
+    </entity>
+    <entity id="150af5665adf2c9" name="emp_infield_chimey_02">
+      <ECBuilding key="emp_infield_chimey_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.59265137 34.8321838 -0.605895996" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_chimey_02"/>
+    </entity>
+    <entity id="150af5665adf2ca" name="emp_death_statue_03">
+      <ECBuilding key="emp_death_statue_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0357666016 30.4177818 -10.7283325" rotation="0 0 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="death_statue_03"/>
+    </entity>
+    <entity id="150af5665adf2cb" name="emp_hero_add_skull_01">
+      <ECBuilding key="emp_hero_add_skull_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0980224609 30.2669086 -15.8564453" rotation="0 0 0" scale="5 5 5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_skull_01"/>
+    </entity>
+    <entity id="150af5665adf2cc" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0771484375 0.00494766235 15.8565063" rotation="0 90 0" scale="0.299999595 0.300000042 0.299999595"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150af5665adf2cd" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_01_arched_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0771484375 0.00494766235 0.898986816" rotation="0 90 0" scale="0.299999475 0.300000042 0.299999475"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched_02"/>
+    </entity>
+    <entity id="150af5665adf2ce" name="emp_hero_add_skull_02">
+      <ECBuilding key="emp_hero_add_skull_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.67549086 28.9104786 -9.97949123" rotation="0 90 0" scale="3.9999938 4 3.9999938"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_skull_02"/>
+    </entity>
+    <entity id="150af5665adf2cf" name="emp_hero_towercap_03">
+      <ECBuilding key="emp_hero_towercap_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.73986816 28.3366432 -2.11779785" rotation="0 -90 0" scale="0.999998748 1 0.999998748"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_towercap_03"/>
+    </entity>
+    <entity id="150af5665adf2d0" name="emp_infield_walkway_01">
+      <ECBuilding key="emp_infield_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.173583984 18.0932331 0.839477539" rotation="0 90 0" scale="0.99999845 1 0.99999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_walkway_01"/>
+    </entity>
+    <entity id="150af5665adf2d1" name="emp_hero_add_skull_02">
+      <ECBuilding key="emp_hero_add_skull_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.20112181 28.3927193 -9.77557373" rotation="0 -90 0" scale="3.99999595 4 3.99999595"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_skull_02"/>
+    </entity>
+    <entity id="150af5665adf2d2" name="emp_hero_port_01">
+      <ECBuilding key="emp_hero_port_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.1685791 24.1603508 -14.4160767" rotation="0 -45.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_port_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

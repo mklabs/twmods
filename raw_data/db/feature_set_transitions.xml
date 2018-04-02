@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="feature_set_transitions.xsd" export_time="Tue Aug 29 10:41:43 2017" revision="6" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c9c479df-20fc-4f58-b85e-e2572cd74f63</edit_uuid>
+<feature_set_transitions record_uuid="{791e840d-d282-42c8-ac4d-49afb24f4ae8}" record_timestamp="1473771458464" record_key="HORDE_TO_STANDARD">
+<from>HORDE</from>
+<handler>SETTLE_HORDE</handler>
+<key>HORDE_TO_STANDARD</key>
+<to>STANDARD_FACTION</to>
+</feature_set_transitions>
+<feature_set_transitions record_uuid="{69fb414b-9fd9-406e-855b-43a84fd95724}" record_timestamp="1503999703958" record_key="RITUAL_NON_PRIMARY_LOCK_ON_VICTORY">
+<from>RITUAL_ENABLED</from>
+<handler>VICTORY_ACHIEVED</handler>
+<key>RITUAL_NON_PRIMARY_LOCK_ON_VICTORY</key>
+<to>RITUAL_ENABLED_LOCKED</to>
+</feature_set_transitions>
+<feature_set_transitions record_uuid="{20a8c020-25c3-4660-8817-ae211095436f}" record_timestamp="1479232511644" record_key="RITUAL_NON_PRIMARY_TO_PRIMARY">
+<from>RITUAL_ENABLED</from>
+<handler>PRIMARY_FACTION</handler>
+<key>RITUAL_NON_PRIMARY_TO_PRIMARY</key>
+<to>PRIMARY_RITUAL_ENABLED</to>
+</feature_set_transitions>
+<feature_set_transitions record_uuid="{9f71a45c-9b44-43ae-a884-f3a7d26bd115}" record_timestamp="1479232511645" record_key="RITUAL_PRIMARY_TO_NON_PRIMARY">
+<from>PRIMARY_RITUAL_ENABLED</from>
+<handler>NON_PRIMARY_FACTION</handler>
+<key>RITUAL_PRIMARY_TO_NON_PRIMARY</key>
+<to>RITUAL_ENABLED</to>
+</feature_set_transitions>
+<feature_set_transitions record_uuid="{ea8f370d-7d89-4b68-b060-b99b124da22c}" record_timestamp="1503999703950" record_key="RITUAL_PRIMARY_TO_NON_PRIMARY_LOCK_ON_VICTORY">
+<from>PRIMARY_RITUAL_ENABLED</from>
+<handler>VICTORY_ACHIEVED</handler>
+<key>RITUAL_PRIMARY_TO_NON_PRIMARY_LOCK_ON_VICTORY</key>
+<to>RITUAL_ENABLED_LOCKED</to>
+</feature_set_transitions>
+<feature_set_transitions record_uuid="{e31fbef5-4c8b-4c7e-bffd-05fc2637442d}" record_timestamp="1494316439625" record_key="RITUAL_PRIMARY_TO_NON_PRIMARY_MPC">
+<from>PRIMARY_RITUAL_ENABLED</from>
+<handler>MULTIPLAYER_HEAD_TO_HEAD_CAMPAIGN</handler>
+<key>RITUAL_PRIMARY_TO_NON_PRIMARY_MPC</key>
+<to>RITUAL_ENABLED</to>
+</feature_set_transitions>
+<feature_set_transitions record_uuid="{834aab5c-b5fe-4f99-973d-51999ae69717}" record_timestamp="1473771458463" record_key="STANDARD_TO_HORDE">
+<from>STANDARD_FACTION</from>
+<handler>MIGRATE_TO_HORDE</handler>
+<key>STANDARD_TO_HORDE</key>
+<to>HORDE</to>
+</feature_set_transitions>
+</dataroot>

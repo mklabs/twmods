@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="23">
+  <entities>
+    <entity id="158f2ed6283d694" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="158f2ee32eed698">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="93.3423004 7.62939453e-006 98.0798111" rotation="0 37 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee37cbd699">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="75.4138794 7.62939453e-006 112.216789" rotation="0 37 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee3c1bd69a">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="57.395134 7.62939453e-006 126.3078" rotation="0 37 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee456ad69b">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-67.4901733 -7.62939453e-006 61.4753189" rotation="0 -41.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee4b06d69c">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-50.9714737 0 76.0145416" rotation="0 -41.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee4e39d69d">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-33.7328415 -7.62939453e-006 91.5121155" rotation="0 -41.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee55ded69e">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-58.45224 0 50.4140396" rotation="0 -41.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee5aa3d69f">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-41.6607208 -7.62939453e-006 65.0344543" rotation="0 -41.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2ee5ef6d6a0">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-24.4726963 0 79.8139191" rotation="0 -41.0000038 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="158f2efc5efd6a8">
+      <ECBuilding key="def_rock_ice_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.98838997 -0.41330716 -4.51786852" rotation="65.4358368 73.8300476 179.999985" scale="3 2.99999976 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_01"/>
+    </entity>
+    <entity id="158f2efd2c1d6a9">
+      <ECBuilding key="def_rock_ice_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.19331408 -0.531348586 -1.68369007" rotation="37.1099434 179.951279 89.0698624" scale="3.00000048 3.00000024 3.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_02"/>
+    </entity>
+    <entity id="158f2efb7e1d6a7">
+      <ECBuilding key="def_rock_ice_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.07693481 -0.5 -5.08137131" rotation="0 13.999999 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_02"/>
+    </entity>
+    <entity id="158f2eecaf7d6a4">
+      <ECBuilding key="def_rock_ice_med_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.18180275 -0.500003874 2.25454736" rotation="13.487833 96.6456375 295.046448" scale="2.99999976 3.00000024 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_med_02"/>
+    </entity>
+    <entity id="158f2ef7289d6a6">
+      <ECBuilding key="def_rock_ice_sml_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.64480639 -0.363628656 7.11954689" rotation="56.6478004 12.1950455 -33.368824" scale="3 2.99999952 2.99999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_03"/>
+    </entity>
+    <entity id="158f2ef0a9cd6a5">
+      <ECBuilding key="def_rock_ice_large_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.67578506 -1.85925674 -1.84051895" rotation="-1.2688117 -43.9854355 1.82668769" scale="3.00000024 3.00000024 3.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_large_01"/>
+    </entity>
+    <entity id="158f2eea2aed6a1">
+      <ECBuilding key="def_rock_ice_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.89503241 -0.500011444 2.16789293" rotation="-82.8194733 192.843933 -271.604218" scale="3.00000048 3 3.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_01"/>
+    </entity>
+    <entity id="158f2eeadb3d6a2">
+      <ECBuilding key="def_rock_ice_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.67945671 -0.499992371 9.70637131" rotation="0 -17.9999981 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_02"/>
+    </entity>
+    <entity id="158f2eeb949d6a3">
+      <ECBuilding key="def_rock_ice_sml_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.51620293 -0.5 3.40350723" rotation="0 59.9999962 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_ice_sml_03"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="158f2ed6283d694">
+        <to id="158f2ee32eed698"/>
+        <to id="158f2ee37cbd699"/>
+        <to id="158f2ee3c1bd69a"/>
+        <to id="158f2ee456ad69b"/>
+        <to id="158f2ee4b06d69c"/>
+        <to id="158f2ee4e39d69d"/>
+        <to id="158f2ee55ded69e"/>
+        <to id="158f2ee5aa3d69f"/>
+        <to id="158f2ee5ef6d6a0"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

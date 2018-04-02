@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="15a4cd419fc5628">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubble_1.rigid_model_v2" parallax_scale="0.0399999991" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-24.0358887 2.09815216 3.23376465" rotation="0 68.468605 0" scale="21.5984211 5.06326389 23.2567081"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc5629">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubblepile_01.rigid_model_v2" parallax_scale="0.219999999" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-18.2092285 0.0682218075 10.0465088" rotation="0 -1.01387954 0" scale="16.929327 5.06326246 18.229126"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc562a">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_brokenb"/>
+      <ECTransform position="-11.5212402 0 21.7038574" rotation="-4.23435904e-006 -37.9999962 2.6069315e-006" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc562b">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubblepile_01.rigid_model_v2" parallax_scale="0.219999999" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-18.8791504 0.223282337 -2.86791992" rotation="0 68.468605 0" scale="16.9293289 5.06326246 18.2291241"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc562c">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubblepile_01.rigid_model_v2" parallax_scale="0.219999999" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-5.88256836 0.149707556 -14.6210938" rotation="0 230.931061 0" scale="16.929327 5.06326246 18.2291298"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc562d">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubble_1.rigid_model_v2" parallax_scale="0.0399999991" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="21.4008789 2.0981369 -33.1912842" rotation="0 68.468605 0" scale="21.5984211 5.06326389 23.2567081"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc562e">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubblepile_01.rigid_model_v2" parallax_scale="0.219999999" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="20.9997559 0.149708033 33.1912842" rotation="0 230.931061 0" scale="16.929327 5.06326246 18.2291298"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc562f">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_e"/>
+      <ECTransform position="24.0361328 7.31045914 11.0810547" rotation="13.3451614 8.7607975 2.06927061" scale="1 1.00000012 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc5630">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_e"/>
+      <ECTransform position="22.1459961 0 28.4747314" rotation="13.3451633 8.76079655 2.06927109" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc5631">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubblepile_01.rigid_model_v2" parallax_scale="0.219999999" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="23.6525879 0 -23.324585" rotation="0 68.468605 0" scale="16.9293289 5.06326294 18.2291241"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc5632">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_e"/>
+      <ECTransform position="-13.7995605 0 31.5587158" rotation="1.36603776e-005 196 1.36603776e-005" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc5633">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_rubble_1.rigid_model_v2" parallax_scale="0.0399999991" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="1.22802734 0.486618042 32.0635986" rotation="0 68.4686127 0" scale="21.5984173 5.06326342 23.2567043"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15a4cd419fc5635">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_d"/>
+      <ECTransform position="-7.5480957 0 26.510498" rotation="-13.5202093 225.39209 -349.330048" scale="1.00000012 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15dd0e574529ee9">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_brokenc"/>
+      <ECTransform position="-2.79296875 0 -20.8608398" rotation="-5.28142209e-006 4.00000095 -2.18310515e-006" scale="1.42808914 1.42808926 1.42808914"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15dd0e574529ee4">
+      <ECBuilding key="lzd_sacrificial02" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="13.1259766 0 5.38293457" rotation="0 180.000015 0" scale="2.2522006 2.25220108 2.2522006"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15dd0e574529ee6">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_e"/>
+      <ECTransform position="4.86303711 0.939666748 -6.40466261" rotation="-5.28142073e-006 3.99999928 -2.18310493e-006" scale="1.31198072 1.31198084 1.31198072"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15dd0e574529ee8">
+      <ECVegetation key="trees/wh_mangrove/wh_jungle_tree_mangrove_d"/>
+      <ECTransform position="26.7413845 4.49428569e-007 -20.1440239" rotation="-13.2389412 238.662537 -349.061798" scale="1.10034573 1.10034633 1.10034573"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

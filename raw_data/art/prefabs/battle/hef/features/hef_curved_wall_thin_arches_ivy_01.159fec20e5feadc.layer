@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="25">
+  <entities>
+    <entity id="159fec20e5feadd" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="159fec39db0eae4">
+      <ECBuilding key="hef_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="173 -6.10351563e-005 0" rotation="0 180 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="159fec41ffbeae5">
+      <ECBuilding key="hef_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="346 -6.10351563e-005 0" rotation="0 180 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="159fec42aa5eae7">
+      <ECBuilding key="hef_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-173 -6.10351563e-005 0" rotation="0 180 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="159fec43c77eae8">
+      <ECBuilding key="hef_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-346 -6.10351563e-005 0" rotation="0 180 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="159fec5b71feaeb">
+      <ECBuilding key="hef_hero_wall_01_curved" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-519 0 0" rotation="0 180 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01_curved"/>
+    </entity>
+    <entity id="159fec61a5beaec">
+      <ECBuilding key="hef_hero_wall_01_curved" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="519 0.000122070313 0" rotation="0 209.5 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01_curved"/>
+    </entity>
+    <entity id="159fec753d1eaed">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="43.25 0 0.358959198" rotation="0 180 0" scale="2 2 2.74841166"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="159fec75700eaee">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-43.25 0 0.358959198" rotation="0 180 0" scale="2 2 2.74841166"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="159fec84e75eaef">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="136.202667 106.142685 25.9252319" rotation="-89.2614365 179.896194 -7.99929857" scale="99.9999924 19.7268467 200.000046"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fec86027eaf0">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.129999995" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-525.190796 97.8243027 3.83598733" rotation="78.4297714 14.8745203 139.111526" scale="100.000031 24.4698334 200.000092"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fec9e358eaf1">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="422.324066 72.6813736 26.3611469" rotation="-89.3201294 180.306656 -335.721588" scale="99.9999771 19.7268448 200.000015"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fec9ffcaeaf2">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="295.789368 52.8519249 26.6194439" rotation="-89.6110306 179.363632 -58.5642281" scale="99.9999542 19.726841 200.000015"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159feca15d4eaf3">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-196.120438 46.1540146 26.7072735" rotation="-89.4543991 180.508484 -317.016602" scale="99.9999695 19.7268429 200.000015"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159feca2f06eaf4">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-339.190704 79.4499588 26.2739277" rotation="-89.3534393 179.62822 -29.8988667" scale="99.9999695 19.7268448 200.000015"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159feca45c3eaf5">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-482.553223 33.7650757 26.8685894" rotation="-89.2699509 170.456451 -344.738251" scale="99.9999695 19.7268429 199.999954"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159feca636ceaf6">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="533.940186 82.0198746 2.36562347" rotation="-85.9888535 196.998688 -8.22642994" scale="99.9999847 19.7268448 200.000046"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fecb6f66eaf8">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="186.000351 40.559948 26.7785664" rotation="-89.3041458 180.268372 -338.90921" scale="99.9999924 19.7268467 200.000031"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fecb806ceaf9">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="378.31488 80.8988037 26.2537804" rotation="-89.2907486 179.769287 -18.0172729" scale="99.9999695 19.7268429 200.000015"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fecb9ea9eafa">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="496.088135 62.7045746 21.804636" rotation="-88.6091003 187.894119 -23.0021915" scale="70.3497467 13.8777857 140.699448"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fecbea86eafb">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-266.789276 80.1293411 26.2651081" rotation="-89.2546082 179.974792 -1.93480122" scale="83.7937393 16.5298634 167.587524"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fecc13c5eafc">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-419.625824 94.9273529 26.0725288" rotation="-89.2566376 179.939056 -4.69022226" scale="99.9999466 19.726841 199.999969"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159fecc42c2eafd">
+      <ECDecal model_path="rigidmodels/decals/lzd/lzd_ivycreeper_1.rigid_model_v2" parallax_scale="0.119999997" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="false" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-126.384628 94.5268784 26.0775356" rotation="-89.2566376 179.939056 -4.69022226" scale="99.9999466 19.726841 199.999969"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

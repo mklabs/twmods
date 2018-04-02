@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="157901b97eb90f0">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-96.4091797 1.52587891e-005 33.6187134" rotation="0 -41.9999962 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97eb90f1">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-40.8878174 1.52587891e-005 12.7640381" rotation="0 200.000015 0" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97eb90f2">
+      <ECRawSpline/>
+      <ECTransform position="104.717651 4.13078308 -13.8259888" rotation="0 0 0" scale="1 1 1"/>
+      <ECSpline spline_step_size="1" terrain_relative="false">
+        <spline closed="false">
+          <point position="0,0,0" tangent_in="0,0,0" tangent_out="5.16769314,0.117637403,1.53507042" width="2.5999999" terrain_offset="0"/>
+          <point position="12.9361572,0.238647461,7.35638428" tangent_in="-3.96232104,-0.0507939681,-3.65688086" tangent_out="3.96232104,0.0507939681,3.65688086" width="2.5999999" terrain_offset="0"/>
+          <point position="23.7739258,0.304763794,21.9412842" tangent_in="-5.4017334,-0.0854365081,-5.17600536" tangent_out="5.4017334,0.0854365081,5.17600536" width="2.5999999" terrain_offset="0"/>
+          <point position="45.3465576,0.751266479,38.4124146" tangent_in="-3.97224951,-0.156247467,-5.93757153" tangent_out="3.97224951,0.156247467,5.93757153" width="2.5999999" terrain_offset="0"/>
+          <point position="47.6074219,1.24224854,57.5667114" tangent_in="-2.22757983,-0.175440475,-5.96331787" tangent_out="2.22757983,0.175440475,5.96331787" width="2.5999999" terrain_offset="0"/>
+          <point position="58.7120361,1.8039093,74.1923218" tangent_in="-1.52742517,-0.144121811,-7.941854" tangent_out="1.52742517,0.144121811,7.941854" width="2.5999999" terrain_offset="0"/>
+          <point position="56.7719727,2.10697937,105.217834" tangent_in="-5.22542334,-1.33821619,-10.1448059" tangent_out="5.22542334,1.33821619,10.1448059" width="2.5999999" terrain_offset="0"/>
+          <point position="90.0645752,9.83320618,135.061157" tangent_in="-8.65216064,-1.94354761,-6.98551464" tangent_out="8.65216064,1.94354761,6.98551464" width="2.5999999" terrain_offset="0"/>
+          <point position="108.684937,13.7682648,147.13092" tangent_in="-4.0210166,-0.824392974,-4.3722434" tangent_out="4.0210166,0.824392974,4.3722434" width="2.5999999" terrain_offset="0"/>
+          <point position="114.190674,14.7795639,161.294617" tangent_in="0.558369994,-0.130906433,-5.54759741" tangent_out="-0.558369994,0.130906433,5.54759741" width="2.5999999" terrain_offset="0"/>
+          <point position="105.334717,14.5537033,180.416504" tangent_in="1.35038257,-0.177293152,-6.49448681" tangent_out="-1.35038257,0.177293152,6.49448681" width="2.5999999" terrain_offset="0"/>
+          <point position="106.088379,15.8433228,200.261536" tangent_in="-1.14772546,0.275009155,-8.23822021" tangent_out="1.14772546,-0.275009155,8.23822021" width="2.5999999" terrain_offset="0"/>
+          <point position="112.221069,12.9036484,229.845825" tangent_in="-2.26938891,0.557848632,-7.01154613" tangent_out="2.26938891,-0.557848632,7.01154613" width="2.5999999" terrain_offset="0"/>
+          <point position="119.704712,12.4962311,242.330811" tangent_in="-0.182088226,0.0986366272,-6.20879126" tangent_out="0.182088226,-0.0986366272,6.20879126" width="2.5999999" terrain_offset="0"/>
+          <point position="113.313599,12.3118286,267.098572" tangent_in="-0.474690765,0.0502293929,-9.0856123" tangent_out="0.474690765,-0.0502293929,9.0856123" width="2.5999999" terrain_offset="0"/>
+          <point position="122.552856,12.1948547,296.844482" tangent_in="-6.12390137,-0.619476318,-8.75605297" tangent_out="6.12390137,0.619476318,8.75605297" width="2.5999999" terrain_offset="0"/>
+          <point position="150.057007,16.0286865,319.634888" tangent_in="-0.765014648,-0.646588683,-9.1031599" tangent_out="0.765014648,0.646588683,9.1031599" width="2.5999999" terrain_offset="0"/>
+          <point position="127.142944,16.0743866,351.46344" tangent_in="9.33072948,0.588534057,-3.43736792" tangent_out="-9.33072948,-0.588534057,3.43736792" width="2.5999999" terrain_offset="0"/>
+          <point position="94.0726318,12.4974823,340.259094" tangent_in="9.53965282,0.525904357,-0.309397399" tangent_out="-9.53965282,-0.525904357,0.309397399" width="2.5999999" terrain_offset="0"/>
+          <point position="69.9050293,12.9189606,353.319824" tangent_in="8.55362988,0.0823160857,-2.45169067" tangent_out="-8.55362988,-0.0823160857,2.45169067" width="2.5999999" terrain_offset="0"/>
+          <point position="42.7508545,12.0035858,354.969238" tangent_in="10.4374189,0.303698242,-6.31276464" tangent_out="-10.4374189,-0.303698242,6.31276464" width="2.5999999" terrain_offset="0"/>
+          <point position="7.28051758,11.0967712,391.196411" tangent_in="8.65305614,0.0466435775,-9.87546825" tangent_out="-8.65305614,-0.0466435775,9.87546825" width="2.5999999" terrain_offset="0"/>
+          <point position="-9.16748047,11.7237244,414.222046" tangent_in="5.53236914,-0.402160645,-11.8870649" tangent_out="-5.53236914,0.402160645,11.8870649" width="2.5999999" terrain_offset="0"/>
+          <point position="-25.9136963,13.5097351,462.518799" tangent_in="6.85288525,-0.759081542,-15.5925093" tangent_out="-6.85288525,0.759081542,15.5925093" width="2.5999999" terrain_offset="0"/>
+          <point position="-50.28479,16.2782135,507.7771" tangent_in="9.765625,-1.47828674,-13.2260542" tangent_out="-9.765625,1.47828674,13.2260542" width="2.5999999" terrain_offset="0"/>
+          <point position="-84.5074463,22.3794556,541.875122" tangent_in="14.9296675,-2.7346828,-5.78393555" tangent_out="-14.9296675,2.7346828,5.78393555" width="2.5999999" terrain_offset="0"/>
+          <point position="-139.862793,32.6863098,542.480713" tangent_in="11.8030396,-1.97865808,0.00516764354" tangent_out="-11.8030396,1.97865808,-0.00516764354" width="2.5999999" terrain_offset="0"/>
+          <point position="-155.325684,34.2514038,541.844116" tangent_in="3.86212158,-0.395039886,-3.80100513" tangent_out="-3.86212158,0.395039886,3.80100513" width="2.5999999" terrain_offset="0"/>
+          <point position="-163.035522,35.0565491,565.286743" tangent_in="1.64335132,-0.676528931,-7.43804932" tangent_out="-1.64335132,0.676528931,7.43804932" width="2.5999999" terrain_offset="0"/>
+          <point position="-165.185791,38.3105774,586.472412" tangent_in="2.27744555,-1.34848785,-9.66691113" tangent_out="-2.27744555,1.34848785,9.66691113" width="2.5999999" terrain_offset="0"/>
+          <point position="-176.700195,43.1474762,623.288208" tangent_in="5.3380537,-1.62997437,-9.53503418" tangent_out="-5.3380537,1.62997437,9.53503418" width="2.5999999" terrain_offset="0"/>
+          <point position="-197.214111,48.0904236,643.682617" tangent_in="7.67327881,-2.26218033,-10.4485273" tangent_out="-7.67327881,2.26218033,10.4485273" width="2.5999999" terrain_offset="0"/>
+          <point position="-222.739868,56.7205582,685.97937" tangent_in="16.4692192,-2.90986395,-12.4639282" tangent_out="-16.4692192,2.90986395,12.4639282" width="2.5999999" terrain_offset="0"/>
+          <point position="-296.029419,65.5496063,718.466187" tangent_in="16.3241787,-2.41580343,-9.8816328" tangent_out="-16.3241787,2.41580343,9.8816328" width="2.5999999" terrain_offset="0"/>
+          <point position="-320.684937,71.2153778,745.269165" tangent_in="4.55426025,-2.08608508,-11.4801235" tangent_out="-4.55426025,2.08608508,11.4801235" width="2.5999999" terrain_offset="0"/>
+          <point position="-323.35498,78.0661163,787.346924" tangent_in="-1.49721277,-1.92331827,-10.4048672" tangent_out="1.49721277,1.92331827,10.4048672" width="2.5999999" terrain_offset="0"/>
+          <point position="-311.70166,82.7552872,807.698364" tangent_in="-4.55621338,-1.14932001,-5.14145947" tangent_out="4.55621338,1.14932001,5.14145947" width="2.5999999" terrain_offset="0"/>
+          <point position="-296.0177,84.9620361,818.195679" tangent_in="-2.85420752,-1.01381564,-4.13576269" tangent_out="2.85420752,1.01381564,4.13576269" width="2.5999999" terrain_offset="0"/>
+          <point position="-294.576416,88.8381805,832.512939" tangent_in="2.10406494,-1.32808304,-3.97973633" tangent_out="-2.10406494,1.32808304,3.97973633" width="2.5999999" terrain_offset="0"/>
+          <point position="-308.64209,92.9305344,842.074097" tangent_in="5.24908447,-1.79167819,-3.76405859" tangent_out="-5.24908447,1.79167819,3.76405859" width="2.5999999" terrain_offset="0"/>
+          <point position="-326.070923,99.5882492,855.09729" tangent_in="4.62247753,-2.44046021,-7.31844091" tangent_out="-4.62247753,2.44046021,7.31844091" width="2.5999999" terrain_offset="0"/>
+          <point position="-336.376953,107.573296,885.984741" tangent_in="4.18499756,-1.79304886,-9.15195751" tangent_out="-4.18499756,1.79304886,9.15195751" width="2.5999999" terrain_offset="0"/>
+          <point position="-351.180908,110.346542,910.009033" tangent_in="1.5244751,-1.08826709,-6.94535351" tangent_out="-1.5244751,1.08826709,6.94535351" width="2.5999999" terrain_offset="0"/>
+          <point position="-345.523804,114.102898,927.65686" tangent_in="-4.47198486,-1.57474518,-7.52286816" tangent_out="4.47198486,1.57474518,7.52286816" width="2.5999999" terrain_offset="0"/>
+          <point position="-324.348999,119.795013,955.14624" tangent_in="-6.2989912,-1.67436349,-9.5842495" tangent_out="6.2989912,1.67436349,9.5842495" width="2.5999999" terrain_offset="0"/>
+          <point position="-307.729858,124.149078,985.162354" tangent_in="-4.80680943,-1.23525608,-10.4741268" tangent_out="0,0,0" width="2.5999999" terrain_offset="0"/>
+        </spline>
+      </ECSpline>
+    </entity>
+    <entity id="157901b97ec90f3">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-83.3955078 7.62939453e-006 -42.781311" rotation="0 21.9999962 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ec90f4">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-70.4938965 7.62939453e-006 -20.7964478" rotation="0 -21.9999981 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ec90f5">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-44.8239746 1.52587891e-005 4.75543213" rotation="0 146 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90f6">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-99.9448242 7.62939453e-006 42.781311" rotation="0 211.999985 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90f7">
+      <ECVegetation key="trees/wh_lzd_shrub/shrub_spikylilly_c"/>
+      <ECTransform position="-42.0499268 2.28881836e-005 19.4508667" rotation="0 -60.0000114 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90f8">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-80.7840576 7.62939453e-006 40.4227295" rotation="0 200.000015 0" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90f9">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-61.4743652 2.28881836e-005 38.0982056" rotation="0 250.999985 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90fa">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-104.717529 3.05175781e-005 22.6131592" rotation="0 -34.9999771 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90fb">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-90.9671631 2.28881836e-005 34.4099121" rotation="0 -60.0000267 0" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90fc">
+      <ECVegetation key="trees/wh_lzd_shrub/shrub_spikylilly_b"/>
+      <ECTransform position="-44.6450195 1.52587891e-005 -8.02703857" rotation="0 36.0000076 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90fd">
+      <ECVegetation key="trees/wh_lzd_shrub/shrub_spikylilly_c"/>
+      <ECTransform position="-85.0964355 2.28881836e-005 38.6576538" rotation="0 -13.9999914 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ed90fe">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-104.01123 3.05175781e-005 -3.14422607" rotation="0 211.999985 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee90ff">
+      <ECVegetation key="trees/wh_lzd_shrub/shrub_spikylilly_b"/>
+      <ECTransform position="-98.7634277 2.28881836e-005 -11.0736694" rotation="0 153 0" scale="2.99999976 3 2.99999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9100">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-92.2039795 0 -13.2067261" rotation="0 18.9999943 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9101">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-46.2194824 7.62939453e-006 38.5270996" rotation="0 -21.9999981 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9102">
+      <ECVegetation key="trees/wh_lzd_shrub/shrub_spikylilly_b"/>
+      <ECTransform position="-52.717041 2.28881836e-005 38.2935181" rotation="0 24.0000038 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9103">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-43.6784668 3.05175781e-005 -1.84893799" rotation="0 56 0" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9104">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_b"/>
+      <ECTransform position="-101.618774 1.52587891e-005 11.809082" rotation="0 211.999985 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9105">
+      <ECVegetation key="trees/wh_vmp_shrub/shrub_reed_a"/>
+      <ECTransform position="-45.0067139 3.05175781e-005 25.6235352" rotation="0 161.000015 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157901b97ee9106">
+      <ECVegetation key="trees/wh_lzd_shrub/shrub_spikylilly_b"/>
+      <ECTransform position="-100.67334 2.67028809e-005 26.7545776" rotation="0 75.0000076 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

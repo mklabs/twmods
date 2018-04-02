@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="projectile_homing_params.xsd" export_time="Thu Dec 14 15:54:32 2017" revision="45" export_branch="E:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>b1fd5a95-6977-496e-83fb-7c9abe248af4</edit_uuid>
+<projectile_homing_params record_uuid="{5b1175c7-0aef-44f4-b6b8-278e7888f6a4}" record_timestamp="1491215957142" record_key="wh2_main_army_abilities_bolt_of_spite">
+<key>wh2_main_army_abilities_bolt_of_spite</key>
+<lookahead_time>0.009999999776482582</lookahead_time>
+<max_target_angle_delta>120</max_target_angle_delta>
+<start_time>0.009999999776482582</start_time>
+<steering_coefficient>50000</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{e7f486b6-9e59-4d63-9f7e-027efdf842eb}" record_timestamp="1483714932081" record_key="wh2_main_hero_abilities_doomrocket">
+<key>wh2_main_hero_abilities_doomrocket</key>
+<lookahead_time>1</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>2</start_time>
+<steering_coefficient>0.05000000074505806</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{15c60a16-b418-4a50-9a9c-db5417e8420d}" record_timestamp="1503502354277" record_key="wh2_main_spell_high_magic_soul_quench">
+<key>wh2_main_spell_high_magic_soul_quench</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.4000000059604645</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{f1dcc8f2-8e02-42de-9f77-35da960890d4}" record_timestamp="1507894714295" record_key="wh_chs_hellcannon">
+<key>wh_chs_hellcannon</key>
+<lookahead_time>0.30000001192092896</lookahead_time>
+<max_target_angle_delta>120</max_target_angle_delta>
+<start_time>0.5</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{2b338896-92ed-4e5e-9581-8959696af250}" record_timestamp="1467098102412" record_key="wh_dlc03_spell_beasts_amber_spear">
+<key>wh_dlc03_spell_beasts_amber_spear</key>
+<lookahead_time>0.30000001192092896</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>1</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{529b1bb4-8165-438a-b51f-aeb2461ed75f}" record_timestamp="1480093091406" record_key="wh_dlc05_spell_arrow_of_kurnous">
+<key>wh_dlc05_spell_arrow_of_kurnous</key>
+<lookahead_time>0.20000000298023224</lookahead_time>
+<max_target_angle_delta>180</max_target_angle_delta>
+<start_time>0.20000000298023224</start_time>
+<steering_coefficient>0.5</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{28d19549-e318-474d-9422-53f7557ad374}" record_timestamp="1478785969077" record_key="wh_dlc05_wef_orion_spear">
+<key>wh_dlc05_wef_orion_spear</key>
+<lookahead_time>0.30000001192092896</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>0.20000000298023224</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{b8d914a8-0f52-4797-bf16-5db1b4cc9c33}" record_timestamp="1480098710899" record_key="wh_dlc05_wef_trueflight_arrow">
+<key>wh_dlc05_wef_trueflight_arrow</key>
+<lookahead_time>0.20000000298023224</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.20000000298023224</start_time>
+<steering_coefficient>0.5</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{6f48eb0e-21dd-4cb1-8132-37b11db125e7}" record_timestamp="1507894714295" record_key="wh_grn_doomdiver_goblin">
+<key>wh_grn_doomdiver_goblin</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>120</max_target_angle_delta>
+<start_time>1.5</start_time>
+<steering_coefficient>0.3499999940395355</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{91fbe2f8-8a15-4afe-a144-0a89f27d8f56}" record_timestamp="1461152306458" record_key="wh_main_bound_spell_solheims_bolt_of_illumination">
+<key>wh_main_bound_spell_solheims_bolt_of_illumination</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.30000001192092896</start_time>
+<steering_coefficient>0.05000000074505806</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{da3c715b-f18d-4fb9-9ec1-4fcbb3fb9d2c}" record_timestamp="1431935255697" record_key="wh_main_generic">
+<key>wh_main_generic</key>
+<lookahead_time>0.5</lookahead_time>
+<max_target_angle_delta>60</max_target_angle_delta>
+<start_time>1</start_time>
+<steering_coefficient>0.15000000596046448</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{fcede98e-4de9-43fe-8e5f-554f97fba59c}" record_timestamp="1503502354499" record_key="wh_main_magic_missile">
+<key>wh_main_magic_missile</key>
+<lookahead_time>0.30000001192092896</lookahead_time>
+<max_target_angle_delta>120</max_target_angle_delta>
+<start_time>0.4000000059604645</start_time>
+<steering_coefficient>0.3499999940395355</steering_coefficient>
+</projectile_homing_params>
+<projectile_homing_params record_uuid="{2243bf76-2dc3-4b0d-a375-9c6a1ee76ea7}" record_timestamp="1462358734137" record_key="wh_main_spell_fire_fireball">
+<key>wh_main_spell_fire_fireball</key>
+<lookahead_time>0.30000001192092896</lookahead_time>
+<max_target_angle_delta>90</max_target_angle_delta>
+<start_time>0.20000000298023224</start_time>
+<steering_coefficient>0.25</steering_coefficient>
+</projectile_homing_params>
+</dataroot>

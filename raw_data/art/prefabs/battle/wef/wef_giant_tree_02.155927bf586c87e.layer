@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="155927bf586c87c">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/wef_tree_giant_leaves_02/wef_tree_giant_leaves_02_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.000244140625 3.88622284e-005 0.00244140625" rotation="-0.600000143 -26.9981441 0.200000033" scale="0.99999994 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="155927bf586c87d">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/wef_tree_giant_02/wef_tree_giant_02_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.000183105469 0 -0.0029296875" rotation="-0.647545993 -26.9990749 0.183969527" scale="1 0.99999994 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

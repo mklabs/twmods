@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="154105c68256424">
+      <ECSoundMarker key="Sound_Environment_Rock_Slides"/>
+      <ECTransform position="-96.7008438 0 32.9357643" rotation="0 0 0" scale="1 1 1"/>
+      <ECPointCloud>
+        <point_cloud>
+          <point x="0" y="0" z="0"/>
+          <point x="82.3108215" y="0" z="59.913311"/>
+          <point x="172.180771" y="0" z="1.39983368"/>
+          <point x="160.142136" y="0" z="-102.188568"/>
+          <point x="53.7540131" y="0" z="-92.6696472"/>
+        </point_cloud>
+      </ECPointCloud>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

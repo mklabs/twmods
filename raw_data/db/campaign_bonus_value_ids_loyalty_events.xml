@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_loyalty_events.xsd" export_time="Fri Feb 24 17:45:42 2017" revision="1" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4168b631-c1d4-4c98-a87f-03d7c581a548</edit_uuid>
+<campaign_bonus_value_ids_loyalty_events record_uuid="{fc5ab337-8f3d-4872-bf21-fa74e15c5af9}" record_timestamp="1487958342375" record_key="amount_mod">
+<id>amount_mod</id>
+<notes>Alter the amount of loyalty gained/lost when the event triggers. /!\ WARNING /!\ This can reverse the sign and make a normally good event into a bad event and vise versa</notes>
+</campaign_bonus_value_ids_loyalty_events>
+<campaign_bonus_value_ids_loyalty_events record_uuid="{49a839e1-4e5c-4c42-9d35-418e6a299fd0}" record_timestamp="1487958342375" record_key="chance_mod">
+<id>chance_mod</id>
+<notes>Alter the chance of a specific event triggering</notes>
+</campaign_bonus_value_ids_loyalty_events>
+<campaign_bonus_value_ids_loyalty_events record_uuid="{2a76fe8b-0f30-466b-acd9-a0fba8fdc276}" record_timestamp="1487958342375" record_key="threshold_mod">
+<id>threshold_mod</id>
+<notes>Alter the threshold required to trigger an event. Doesn't apply to all events</notes>
+</campaign_bonus_value_ids_loyalty_events>
+</dataroot>

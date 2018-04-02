@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="150fc4a9ced0bd4">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_hay02.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.358038366 0.340402603 1.75306213" rotation="0 -25.9999943 0" scale="2.31702328 2.31702304 2.31702328"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc4a9ced0bd6">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.121131778 1.26274824 0.0261537433" rotation="16.183176 -1.11241758 7.81272268" scale="1.04502952 1.04502928 1.04502952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="150fc4a9ced0bd7">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.137572542 1.12768769 -0.103952318" rotation="0 -25.9999981 0" scale="1.0450294 1.0450294 1.0450294"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="150fc4a9ced0bd8">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.638893962 1.11256993 0.530059576" rotation="-62.3126259 -22.6677856 57.3161507" scale="1.04502916 1.04502952 1.04502964"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="150fc4a9ced0bd9">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_hay02.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="1.83555961 0.0747238398 -0.631540895" rotation="0 39.9999962 0" scale="2.31702304 2.31702256 2.31702304"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc4a9ced0bdd">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_hay02.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.48985851 0.0393699855 -1.11821437" rotation="0 -25.9999943 0" scale="2.31702328 2.31702304 2.31702328"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc4a9ced0bde">
+      <ECBuilding key="glb_hay01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0231933594 -0.0206201449 0.199462891" rotation="0 25.9999981 0" scale="0.523752868 0.523752928 0.523752868"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_hay01"/>
+    </entity>
+    <entity id="150fc4a9ced0bdf">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.541570306 1.07016349 -0.415485263" rotation="57.1646385 8.61406994 33.0903625" scale="1.04502928 1.0450294 1.04503"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="150fc4a9cee0be1">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_hay02.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.0140366107 0.367030144 -1.66405618" rotation="0 -25.9999943 0" scale="2.31702328 2.31702304 2.31702328"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc4a9cee0be2">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_hay02.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.64089537 0.240880579 1.07230711" rotation="0 -25.9999943 0" scale="2.31702328 2.31702304 2.31702328"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc4a9cee0be6">
+      <ECBuilding key="glb_deadbody_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.900033653 -0.122390434 0.556071162" rotation="0 22.632349 0" scale="1.33893657 1.33893645 1.33893657"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_deadbody_01"/>
+    </entity>
+    <entity id="150fc4a9cee0be7">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.285846114 1.25570023 0.744016051" rotation="-55.083252 28.5425301 -1.16627425e-005" scale="1.0450294 1.0450294 1.0450294"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="150fc4a9ced0bde">
+        <to id="150fc4a9ced0bd6"/>
+        <to id="150fc4a9ced0bd7"/>
+        <to id="150fc4a9cee0be7"/>
+        <to id="150fc4a9cee0be2"/>
+        <to id="150fc4a9cee0be1"/>
+        <to id="150fc4a9ced0bdf"/>
+        <to id="150fc4a9ced0bd9"/>
+        <to id="150fc4a9ced0bd4"/>
+        <to id="150fc4a9ced0bd8"/>
+        <to id="150fc4a9ced0bdd"/>
+        <to id="150fc4a9cee0be6"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

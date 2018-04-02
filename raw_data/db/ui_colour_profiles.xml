@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_colour_profiles.xsd" export_time="Fri Aug 11 10:46:40 2017" revision="4" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>6b0e52de-3b6f-45f1-8ad3-38bfc6fc837e</edit_uuid>
+<ui_colour_profiles record_uuid="{542ea9e4-e8b2-46f9-8eb7-3a5b485eb06d}" record_timestamp="1489163395556" record_key="default">
+<key>default</key>
+<localised_description state="APPROVED" last_approved_text="This is the default colour profile, for players who are not affected by colour blindness." last_edit_user="bob">This is the default colour profile, for players who are not affected by colour blindness.</localised_description>
+<localised_name state="APPROVED" last_approved_text="Default" last_edit_user="bob">Default</localised_name>
+</ui_colour_profiles>
+<ui_colour_profiles record_uuid="{9009fe80-e9d5-478b-82f9-734e4988261a}" record_timestamp="1502437188938" record_key="deuteranopia">
+<key>deuteranopia</key>
+<localised_description state="APPROVED" last_approved_text="This is for players who have a reduced sensitivity to green light." last_edit_user="bob">This is for players who have a reduced sensitivity to green light.</localised_description>
+<localised_name state="APPROVED" last_approved_text="Deuteranopia (Red - Green)" last_edit_user="bob">Deuteranopia (Red - Green)</localised_name>
+</ui_colour_profiles>
+<ui_colour_profiles record_uuid="{e9a3217e-0fe5-43b1-be5d-6d8c17aab4f0}" record_timestamp="1502437188943" record_key="protanopia">
+<key>protanopia</key>
+<localised_description state="APPROVED" last_approved_text="This is for players who have a reduced sensitivity to red light." last_edit_user="bob">This is for players who have a reduced sensitivity to red light.</localised_description>
+<localised_name state="APPROVED" last_approved_text="Protanopia (Red - Green)" last_edit_user="bob">Protanopia (Red - Green)</localised_name>
+</ui_colour_profiles>
+<ui_colour_profiles record_uuid="{08773ab5-a32e-4c44-8d6c-0c70735ff293}" record_timestamp="1502437188947" record_key="tritanopia">
+<key>tritanopia</key>
+<localised_description state="APPROVED" last_approved_text="This is for players who have a reduced sensitivity to blue light." last_edit_user="bob">This is for players who have a reduced sensitivity to blue light.</localised_description>
+<localised_name state="APPROVED" last_approved_text="Tritanopia (Blue - Yellow)" last_edit_user="bob">Tritanopia (Blue - Yellow)</localised_name>
+</ui_colour_profiles>
+</dataroot>

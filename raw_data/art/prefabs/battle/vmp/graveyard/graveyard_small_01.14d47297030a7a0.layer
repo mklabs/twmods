@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="20">
+  <entities>
+    <entity id="14d47297030a79f" name="vmp_mausoleum_01">
+      <ECBuilding key="vmp_mausoleum_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.29243577 -9.53674316e-006 4.68707943" rotation="0 1.77188683 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_01"/>
+    </entity>
+    <entity id="14d4729e394a7a2" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.49461412 -9.53674316e-006 2.40468407" rotation="0 1.77188599 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d4729f17aa7a4" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0568072796 -9.53674316e-006 6.45915794" rotation="0 181.771912 0" scale="1.00000036 1 1.00000036"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d472b89cda7a5" name="vmp_mausoleum_vase_01">
+      <ECBuilding key="vmp_mausoleum_vase_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0404436588 -9.53674316e-006 1.62236643" rotation="0 1.77188599 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_vase_01"/>
+    </entity>
+    <entity id="14d472b8fbaa7a6" name="vmp_mausoleum_vase_01">
+      <ECBuilding key="vmp_mausoleum_vase_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.33277607 -9.53674316e-006 1.55177665" rotation="0 181.771881 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_vase_01"/>
+    </entity>
+    <entity id="14d473bcc57a875" name="vmp_wooden_fence_01">
+      <ECBuilding key="vmp_wooden_fence_01" damage="30" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.93610096 0 6.5801053" rotation="-3.50946902e-005 -3.98111939 1.25523127e-006" scale="1.0000006 1 1.0000006"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="14d473bf610a876" name="vmp_wooden_fence_01">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.623703 0 6.66987562" rotation="-3.50946902e-005 -3.98111939 1.25523127e-006" scale="1.0000006 1 1.0000006"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="14d473bffc7a877" name="vmp_wooden_fence_01">
+      <ECBuilding key="vmp_wooden_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.39233541 0 6.47958136" rotation="-5.557654e-005 20.6485672 -8.06609842e-006" scale="1.00000095 1 1.00000119"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="14d4742511bad93" name="vmp_wooden_fence_01">
+      <ECBuilding key="vmp_wooden_fence_01" damage="57" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.24374962 0 6.48909807" rotation="-4.09811328e-005 -3.98111653 7.14167495e-013" scale="1.00000083 1 1.00000083"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="14d4742a2caad94" name="vmp_wooden_fence_01">
+      <ECBuilding key="vmp_wooden_fence_01" damage="55" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.95482135 0 5.94446421" rotation="-5.557654e-005 20.6485825 -8.06610842e-006" scale="1.0000006 1 1.00000119"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wooden_fence_01"/>
+    </entity>
+    <entity id="14d4744b066ad99" name="vmp_totem_02">
+      <ECBuilding key="vmp_totem_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.65930653 0 -3.72250962" rotation="0 12.9926596 0" scale="2 2 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="totem_02"/>
+    </entity>
+    <entity id="14d47303a0aa7b2" name="vmp_tombstone_03">
+      <ECBuilding key="vmp_tombstone_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.85723782 0 -0.409065545" rotation="1.17100763 59.419281 -2.44256091" scale="0.699999273 0.700000584 0.700000107"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_03"/>
+    </entity>
+    <entity id="14d4786a4592cd2" name="vmp_frame_01">
+      <ECBuilding key="vmp_frame_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.544257164 0 -7.69364262" rotation="0 0 0" scale="0.299999982 0.299999982 0.299999982"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="frame_01"/>
+    </entity>
+    <entity id="14d478c35af2cd3" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.60890913 0 -7.78088856" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d478c4f662cd4" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.3041234 0 -7.78088856" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d478c7abb2cd5" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.03920746 0 -7.78088856" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d478c7abb2cd6" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="52" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.7069087 -0.00513198972 -7.77905321" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d478c7abb2cd7" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.39291477 0.00507974625 -7.78241253" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d4797b8272ce3" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.6677399 2.38418579e-006 -7.73985577" rotation="0 39.1152878 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d47a2bfb9412c" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0960308313 -9.53674316e-006 2.48482561" rotation="0 1.77188599 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d47a2d569412d" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.79126501 -9.53674316e-006 6.37456608" rotation="0 181.771912 0" scale="1.00000036 1 1.00000036"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d47961b852cd8" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.94032431 0 -7.78088856" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47a7307f4136" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.8304081 -6.7447229e-007 -3.29493523" rotation="0.00012029292 -83.5456848 -0.00016244885" scale="0.999999046 1 0.999998927"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47a7307f4137" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.9248085 -1.20588027e-006 -1.6073997" rotation="-6.83018879e-005 269.980194 -359.999969" scale="0.999998808 1 0.999998689"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47a7307f4138" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.63984632 -1.34179231e-007 -4.97940254" rotation="0.00012029292 -83.5456848 -0.00016244885" scale="0.999999046 1 0.999998927"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47a7307f413a" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.29032993 3.42226667e-006 -7.54098511" rotation="-8.82982495e-005 -56.8945808 6.6717228e-005" scale="0.999999344 1 0.999999225"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d47a7307f413b" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.45591879 3.87305136e-007 -6.60523129" rotation="0.00012029292 -83.5456848 -0.00016244885" scale="0.999999046 1 0.999998927"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47aa27215d08" name="vmp_tombstone_03">
+      <ECBuilding key="vmp_tombstone_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.73288393 0 -3.77591705" rotation="-7.84720564 83.5849686 -4.91252613" scale="0.699999213 0.700000107 0.699999928"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_03"/>
+    </entity>
+    <entity id="14d47aa9a7c5d0b" name="vmp_tombstone_01">
+      <ECBuilding key="vmp_tombstone_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.63765717 -8.87884894e-008 -1.35121596" rotation="4.11771216e-005 87.9205704 4.51759577" scale="0.999999762 0.999999821 0.999999702"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_01"/>
+    </entity>
+    <entity id="14d47ac7a715d0d" name="vmp_tombstone_04">
+      <ECBuilding key="vmp_tombstone_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.55538702 4.76837158e-007 -5.89270592" rotation="0 101.810471 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_04"/>
+    </entity>
+    <entity id="14d47acded05d0e" name="vmp_tombstone_04">
+      <ECBuilding key="vmp_tombstone_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.32668114 0 0.0169924274" rotation="-88.1071854 84.8161926 -84.9130249" scale="0.80000031 0.80000025 0.800000191"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_04"/>
+    </entity>
+    <entity id="14d47b7ffa75d1a" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.816144 0 -3.37723732" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b7ffa75d1c" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8239584 0 -1.74105477" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b7ffa75d1d" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8080463 0 -5.07243204" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b921d95d1f" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.845829 -0.000745430589 4.97730875" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b921d95d20" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8329449 0 -0.0722048283" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b921d95d21" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8409081 0 1.59511352" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b921d95d22" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8490057 0 3.29030776" rotation="0 89.7266006 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47b997915d23" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.63690567 0 -7.78088856" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47bc7eb25d26" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.6273184 -0.00756001472 7.38463068" rotation="-0.000337669277 89.7287521 -0.000310144853" scale="1 1.00000024 1.00000012"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47bcc1e95d27" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.61093521 -0.00713288831 8.82630062" rotation="0 0 0" scale="0.999999702 1 0.999999583"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47bcc1e95d28" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.91119432 0.00304430723 8.83278847" rotation="0 0 0" scale="0.999999583 0.999999702 1.00000012"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47bcc1e95d29" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="50" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.20807457 -0.00878438354 8.81836128" rotation="0 0 0" scale="0.999999881 0.999999881 0.999999464"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47bcc1e95d2a" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.5322237 0 8.82568836" rotation="0 0 0" scale="1 0.999999881 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47bd3cfc5d2b" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.602067 3.81469727e-006 8.66640949" rotation="0 137.028549 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d47c017c95d2c" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.84566092 0 8.83598423" rotation="0 -2.134434e-007 0" scale="0.999999583 0.999999464 0.999999404"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c13c335d32" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="67" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.560572505 0 8.44662189" rotation="-3.63995355e-007 23.0903378 -9.28128657e-007" scale="0.999998689 0.999999344 0.999998629"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c2473f5d33" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.17221069 0 8.16109371" rotation="0 -1.22729966e-006 0" scale="0.999998748 0.999999344 0.999998689"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c258875d34" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.86929202 0 8.16109371" rotation="0 -1.22729955e-006 0" scale="0.999998629 0.999999225 0.999998689"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c2b5f95d36" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.55389977 0 8.16109467" rotation="0 -1.22729966e-006 0" scale="0.999998868 0.999999464 0.999998689"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c32ae75d38" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.92480755 -1.2058797e-006 0.081138432" rotation="-6.67903514e-005 -90 1.82091208e-005" scale="0.999998629 1 0.99999851"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c34bd95d39" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.9248085 -1.20588027e-006 1.77788901" rotation="-6.83018879e-005 269.980194 -359.999969" scale="0.999998808 1 0.999998689"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c34bd95d3a" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.92480755 -1.2058797e-006 3.46642709" rotation="-2.73207552e-005 -89.9802094 2.73207552e-005" scale="0.999998569 1 0.99999845"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c361be5d3b" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.9248085 -1.20588027e-006 5.15954494" rotation="-6.83018879e-005 269.980194 -359.999969" scale="0.999998808 1 0.999998689"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c361be5d3c" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="59" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.80959177 -1.68271686e-006 6.81685352" rotation="0.790967584 -89.9802094 -0.790967584" scale="0.999998271 1 0.999998152"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d47c3aa8e5d3d" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.63549805 3.57627891e-006 7.79107475" rotation="-1.36603776e-005 231.332581 -5.46415104e-005" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d47ce3578249e" name="vmp_tombstone_05">
+      <ECBuilding key="vmp_tombstone_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.31669688 0 -5.93307495" rotation="-84.9860153 -85.3167496 84.9693375" scale="0.850000024 0.850000024 0.849999964"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_05"/>
+    </entity>
+    <entity id="14d47ce42ae249f" name="vmp_tombstone_05">
+      <ECBuilding key="vmp_tombstone_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.3494854 9.53674316e-007 2.67143202" rotation="0 42 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_05"/>
+    </entity>
+    <entity id="14d47ce55d824a0" name="vmp_tombstone_05">
+      <ECBuilding key="vmp_tombstone_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.2793107 0 -2.79176569" rotation="0 103.000015 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_05"/>
+    </entity>
+    <entity id="14d47cfa4a124a1" name="stonee">
+      <ECVegetation key="trees/wh_stones/brt_stones_01/brt_stone_e"/>
+      <ECTransform position="-7.13695288 0 -4.26111889" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d47cfd1a624a2" name="stonef">
+      <ECVegetation key="trees/wh_stones/brt_stones_01/brt_stone_e"/>
+      <ECTransform position="4.0337677 0 -4.21007776" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d47d1f34024a5" name="vmp_tombstone_03">
+      <ECBuilding key="vmp_tombstone_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.43282139 0 -0.733366549" rotation="-1.20959401 -72.6534424 0.66716671" scale="0.69999975 0.70000124 0.700000584"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_03"/>
+    </entity>
+    <entity id="14d47d2ade224a6" name="vmp_tombstone_01">
+      <ECBuilding key="vmp_tombstone_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.18304765 0 -2.42416406" rotation="0 262.555603 0" scale="0.999999225 0.999999285 0.999999225"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_01"/>
+    </entity>
+    <entity id="14d47d359af24a8" name="vmp_tombstone_02">
+      <ECBuilding key="vmp_tombstone_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.12499261 0 -4.6849103" rotation="0 -70.3379517 0" scale="0.699999452 0.69999969 0.700000644"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_02"/>
+    </entity>
+    <entity id="14d47d3e7b824a9" name="vmp_tombstone_01">
+      <ECBuilding key="vmp_tombstone_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.71118546 -0.00152037828 -5.27056074" rotation="0.000273207552 94.8145065 4.3678236" scale="0.999998868 0.999998927 0.999998748"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_01"/>
+    </entity>
+    <entity id="14d47d4b45024aa" name="vmp_tombstone_05">
+      <ECBuilding key="vmp_tombstone_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.92326951 0 -2.59709811" rotation="18.7577591 66.3079758 1.68501782" scale="0.700000107 0.699999928 0.699999571"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_05"/>
+    </entity>
+    <entity id="14d47d7445124b0" name="vmp_tombstone_05">
+      <ECBuilding key="vmp_tombstone_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.16855812 0 -6.30130959" rotation="-8.50219154 243.992126 -355.819733" scale="0.799999952 0.799999893 0.799999893"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_05"/>
+    </entity>
+    <entity id="14d47dcf60eb3c4" name="vmp_tombstone_02">
+      <ECBuilding key="vmp_tombstone_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.62108231 0 -0.559465408" rotation="8.36839581 46.0765228 -1.71294713" scale="0.699999452 0.699999809 0.700000584"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tombstone_02"/>
+    </entity>
+    <entity id="14d47826a012cce" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.94157124 0 -7.78088856" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d521d645bf02f" name="lights">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="14d522181f3f033" name="Point Light 1">
+      <ECPointLight colour="255 183 120 255" colour_scale="0.300000012" radius="5" animation_type="LAT_NONE" animation_speed_scale="3 2.0999999" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="1.05324638 1.16255188 1.7887466" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d52229454f034" name="Point Light 1">
+      <ECPointLight colour="164 255 210 255" colour_scale="0.400000006" radius="10" animation_type="LAT_NONE" animation_speed_scale="3 2.0999999" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-5.44514322 1.74825764 2.62829304" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d567252907a5a" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.7937908 0 -6.75760221" rotation="0 -88.1345901 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d583f39d47e01" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.8015375 2.86102295e-006 -1.02431822" rotation="0 89.9802094 0" scale="0.999999464 1 0.999999464"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d583f87717e02" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.84344578 2.86102272e-006 -1.11441123" rotation="0 -90 0" scale="0.999999464 1 0.999999464"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d583fe8237e03" name="vmp_mausoleum_pillar_01">
+      <ECBuilding key="vmp_mausoleum_pillar_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.53654218 8.58306794e-006 8.62724018" rotation="0 180 0" scale="0.999998987 1 0.999998987"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mausoleum_pillar_01"/>
+    </entity>
+    <entity id="14d584104d47e07" name="Point Light 2">
+      <ECPointLight colour="217 84 43 255" colour_scale="0.200000003" radius="5" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-7.15279675 2.36113477 -4.02594376" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d633e109b81a0" name="vmp_metal_fence_01">
+      <ECBuilding key="vmp_metal_fence_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.7063417 -0.000745430531 5.6948247" rotation="0 -86.1530991 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="metal_fence_01"/>
+    </entity>
+    <entity id="14d633e9ed981a2" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/dirt_2.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-12.2947474 0.348209798 5.19949722" rotation="0 0 0" scale="4.99999905 1 4.99999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d6340852981a3" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/mud_bank_01.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="1.53196883 0.348190784 -0.836197376" rotation="0 92.0979767 0" scale="4.99999857 1 4.99999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d6344bdd881a4" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/mud_bank_01.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.497309119 0.348201275 -5.15261602" rotation="0 118.530716 0" scale="4.99999714 1 4.99999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d6344f81181a5" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/mud_bank_01.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.078471899 0.348197967 -7.9161129" rotation="0 93.6953888 0" scale="4.99999714 1 4.99999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d6346fc3c81a6" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/roots_01.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-5.21358299 0.2970047 3.63128591" rotation="0 118.530701 0" scale="4.99999523 1 4.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d634844e381a7" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/dirt_1.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="5.31876469 -0.412467897 5.49248648" rotation="0 118.530716 0" scale="4.99999523 1 4.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d634b2f5681a8" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.15703106 -0.412463844 9.48155785" rotation="0 189.584442 0" scale="4.9999938 1 4.9999938"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d634d855f81a9" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-5.79361153 -0.412456214 -3.43800831" rotation="0 189.584534 0" scale="9.99999619 1 9.99999619"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d634ddeab81aa" name="dirt_2">
+      <ECDecal model_path="RigidModels/Decals/generic/scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-6.22741127 1.04387879 4.56434679" rotation="0 189.584534 0" scale="9.99999619 1 9.99999619"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15221a43dd52bfb" name="No-Go Region 1">
+      <ECNoGoRegion/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="19.0328732" y="-0.136927605"/>
+          <point x="18.4030056" y="-17.5814419"/>
+          <point x="-0.356010437" y="-17.2528172"/>
+        </polyline>
+      </ECPolyline>
+      <ECTransform position="-11.5018797 0 9.10565376" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="14d521d645bf02f">
+        <to id="14d522181f3f033"/>
+        <to id="14d52229454f034"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

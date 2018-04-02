@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_storms.xsd" export_time="Wed Nov 22 16:53:26 2017" revision="8" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>57232f41-9136-45b0-8d66-13bc10c2d5dc</edit_uuid>
+<campaign_storms record_uuid="{ecb102e5-42d6-4831-8c00-17904830a679}" record_timestamp="1486037174571" record_key="1false">
+<attrition>storm_level_1</attrition>
+<composite_scene>storm_level_1</composite_scene>
+<display_name state="APPROVED" last_approved_text="Severe Gale" last_edit_user="bob">Severe Gale</display_name>
+<is_land_storm>0</is_land_storm>
+<key>severe_gale</key>
+<strength>1</strength>
+<tiling_composite_scene>storm_base</tiling_composite_scene>
+</campaign_storms>
+<campaign_storms record_uuid="{1f92b992-4e3d-4e9c-ab63-0fde1eb2306b}" record_timestamp="1511276043071" record_key="1true">
+<attrition>storm_sandstorm</attrition>
+<composite_scene>storm_sandstorm</composite_scene>
+<display_name state="APPROVED" last_approved_text="Sandstorm" last_edit_user="bob">Sandstorm</display_name>
+<is_land_storm>1</is_land_storm>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">sandstorm</key>
+<strength>1</strength>
+<tiling_composite_scene>storm_base</tiling_composite_scene>
+</campaign_storms>
+<campaign_storms record_uuid="{92e7daf9-f8a3-4cc7-bd0a-86fff25d4a31}" record_timestamp="1486037174571" record_key="2false">
+<attrition>storm_level_2</attrition>
+<composite_scene>storm_level_2</composite_scene>
+<display_name state="APPROVED" last_approved_text="Storm" last_edit_user="bob">Storm</display_name>
+<is_land_storm>0</is_land_storm>
+<key>storm</key>
+<strength>2</strength>
+<tiling_composite_scene>storm_base</tiling_composite_scene>
+</campaign_storms>
+<campaign_storms record_uuid="{deef9083-06c4-4f83-abc2-5e568f0a6a7f}" record_timestamp="1486037174571" record_key="3false">
+<attrition>storm_level_3</attrition>
+<composite_scene>storm_level_3</composite_scene>
+<display_name state="APPROVED" last_approved_text="Severe Storm" last_edit_user="bob">Severe Storm</display_name>
+<is_land_storm>0</is_land_storm>
+<key>severe_storm</key>
+<strength>3</strength>
+<tiling_composite_scene>storm_base</tiling_composite_scene>
+</campaign_storms>
+<campaign_storms record_uuid="{aa41718e-e110-405b-88ec-63188ea6f7ab}" record_timestamp="1486037174571" record_key="4false">
+<attrition>storm_level_4</attrition>
+<composite_scene>storm_level_4</composite_scene>
+<display_name state="APPROVED" last_approved_text="Hurricane" last_edit_user="bob">Hurricane</display_name>
+<is_land_storm>0</is_land_storm>
+<key>hurricane</key>
+<strength>4</strength>
+<tiling_composite_scene>storm_base</tiling_composite_scene>
+</campaign_storms>
+<campaign_storms record_uuid="{5edfcbe3-2662-43d2-9f89-b6bc52a49c01}" record_timestamp="1486037174571" record_key="5false">
+<attrition>storm_level_5</attrition>
+<composite_scene>storm_level_5</composite_scene>
+<display_name state="APPROVED" last_approved_text="Tempest" last_edit_user="bob">Tempest</display_name>
+<is_land_storm>0</is_land_storm>
+<key>tempest</key>
+<strength>5</strength>
+<tiling_composite_scene>storm_base</tiling_composite_scene>
+</campaign_storms>
+</dataroot>

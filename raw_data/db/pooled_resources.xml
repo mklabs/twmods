@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pooled_resources.xsd" export_time="Wed Nov 15 13:28:57 2017" revision="31" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>37d7f2ff-66bb-40f4-a1cd-ed80e4647daa</edit_uuid>
+<pooled_resources record_uuid="{d58e2e3c-1cc4-4f0a-8eb1-d4a757242b5a}" record_timestamp="1508434495789" record_key="skaven_food">
+<ai_ignored>1</ai_ignored>
+<default_factor>scavenging</default_factor>
+<description state="APPROVED" last_approved_text="Armies and settlements consume [[img:icon_skaven_food]][[/img]]food each turn. It can also be used to occupy settlements at higher levels and purchase uses of the Menace Below army ability. [[img:icon_skaven_food]][[/img]]Food is gained from fighting battles and can be grown by special buildings in settlements with the [[img:icon_resource_pastures]][[/img]]Pastures resource." last_edit_user="bob">Armies and settlements consume [[img:icon_skaven_food]][[/img]]food each turn. It can also be used to occupy settlements at higher levels and purchase uses of the Menace Below army ability. [[img:icon_skaven_food]][[/img]]Food is gained from fighting battles and can be grown by special buildings in settlements with the [[img:icon_resource_pastures]][[/img]]Pastures resource.</description>
+<display_name state="APPROVED" last_approved_text="Food" last_edit_user="bob">Food</display_name>
+<key>skaven_food</key>
+<maximum>100</maximum>
+<minimum>0</minimum>
+<negative_factors_display_name state="APPROVED" last_approved_text="Consumption" last_edit_user="bob">Consumption</negative_factors_display_name>
+<optional_icon_path state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">skaven_food_icon.png</optional_icon_path>
+<persistent_factors>0</persistent_factors>
+<positive_factors_display_name state="APPROVED" last_approved_text="Production" last_edit_user="bob">Production</positive_factors_display_name>
+</pooled_resources>
+<pooled_resources record_uuid="{e07050f3-e4ff-4770-9074-1c1f484391f4}" record_timestamp="1510562414211" record_key="tmb_canopic_jars">
+<ai_ignored>1</ai_ignored>
+<default_factor>bribes</default_factor>
+<description state="APPROVED" last_approved_text="Crafting items, awakening Legions of Legend through the Mortuary Cult, and unlocking dynasties all consume [[img:icon_jars]][[/img]]Canopic Jars. [[img:icon_jars]][[/img]]Canopic Jars are obtained by victory in battle, constructing certain buildings and completing missions." last_edit_user="bob">Crafting items, awakening Legions of Legend through the Mortuary Cult, and unlocking dynasties all consume [[img:icon_jars]][[/img]]Canopic Jars. [[img:icon_jars]][[/img]]Canopic Jars are obtained by victory in battle, constructing certain buildings and completing missions.</description>
+<display_name state="APPROVED" last_approved_text="Canopic Jars" last_edit_user="bob">Canopic Jars</display_name>
+<key>tmb_canopic_jars</key>
+<maximum>5000</maximum>
+<minimum>0</minimum>
+<negative_factors_display_name state="APPROVED" last_approved_text="Consumption" last_edit_user="bob">Consumption</negative_factors_display_name>
+<optional_icon_path state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">icon_TK_canopic_jar.png</optional_icon_path>
+<persistent_factors>0</persistent_factors>
+<positive_factors_display_name state="APPROVED" last_approved_text="Production" last_edit_user="bob">Production</positive_factors_display_name>
+</pooled_resources>
+<pooled_resources record_uuid="{6bd64131-f784-4018-b070-d898dbaf31ff}" record_timestamp="1510215742601" record_key="wh2_main_ritual_currency">
+<ai_ignored>0</ai_ignored>
+<default_factor>wh2_main_resource_factor_other</default_factor>
+<description state="APPROVED" last_approved_text="Ritual currency is used to provide the power necessary to gain influence over the vortex" last_edit_user="bob">Ritual currency is used to provide the power necessary to gain influence over the vortex</description>
+<display_name state="APPROVED" last_approved_text="{{tr:ritual_currency_term}}" last_edit_user="bob">{{tr:ritual_currency_term}}</display_name>
+<key>wh2_main_ritual_currency</key>
+<maximum>10000</maximum>
+<minimum>0</minimum>
+<negative_factors_display_name state="APPROVED" last_approved_text="Expenditure" last_edit_user="bob">Expenditure</negative_factors_display_name>
+<optional_icon_path state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">icon_ritual_currency.png</optional_icon_path>
+<persistent_factors>0</persistent_factors>
+<positive_factors_display_name state="APPROVED" last_approved_text="Income" last_edit_user="bob">Income</positive_factors_display_name>
+</pooled_resources>
+</dataroot>

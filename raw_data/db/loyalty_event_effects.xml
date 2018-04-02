@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="loyalty_event_effects.xsd" export_time="Tue Sep 19 07:45:43 2017" revision="15" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>35134a23-60be-4d2e-a707-cab374da7264</edit_uuid>
+<loyalty_event_effects record_uuid="{273b5d57-aff9-49fa-9462-151c219493e3}" record_timestamp="1505803543433" record_key="ANCILLARY_GIVEN">
+<event>ANCILLARY_GIVEN</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>ancillaries</loyalty_factor>
+<percentage_chance>40</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{a1ccb061-1045-4635-9091-324aa34991df}" record_timestamp="1505803543433" record_key="ANCILLARY_TAKEN">
+<event>ANCILLARY_TAKEN</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>ancillaries</loyalty_factor>
+<percentage_chance>40</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{70f957d0-fca0-4cd4-a028-a83e809fcf54}" record_timestamp="1493044662759" record_key="APPROPRIATE_TREATIES">
+<event>APPROPRIATE_TREATIES</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>diplomatic_behaviour</loyalty_factor>
+<percentage_chance>5</percentage_chance>
+<threshold>25</threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{48c08205-e4ff-440a-8d92-d832c0f2be18}" record_timestamp="1505803543433" record_key="CLOSE_DEFEAT">
+<event>CLOSE_DEFEAT</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>battle_results</loyalty_factor>
+<percentage_chance>100</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{cebff061-4aff-453a-a76e-033982e46e62}" record_timestamp="1505803543433" record_key="CLOSE_VICTORY">
+<event>CLOSE_VICTORY</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>battle_results</loyalty_factor>
+<percentage_chance>15</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{1bd9ca41-e4b4-435d-bd56-3dfad1899ac7}" record_timestamp="1505803543433" record_key="COMPLETE_MISSION">
+<event>COMPLETE_MISSION</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>mission_results</loyalty_factor>
+<percentage_chance>40</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{35ae917a-7a58-450b-b51d-abdd35791c2f}" record_timestamp="1494406297246" record_key="CRUSHING_DEFEAT">
+<event>CRUSHING_DEFEAT</event>
+<loyalty_change>-3</loyalty_change>
+<loyalty_factor>battle_results</loyalty_factor>
+<percentage_chance>100</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{b81f7e73-8db7-4bde-9535-d9221f34afd4}" record_timestamp="1505803543433" record_key="DECISIVE_DEFEAT">
+<event>DECISIVE_DEFEAT</event>
+<loyalty_change>-2</loyalty_change>
+<loyalty_factor>battle_results</loyalty_factor>
+<percentage_chance>100</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{e9576c89-3e4a-4c0f-8adc-5dd53015b025}" record_timestamp="1505803543433" record_key="DECISIVE_VICTORY">
+<event>DECISIVE_VICTORY</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>battle_results</loyalty_factor>
+<percentage_chance>25</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{f8e01a45-0741-496f-b4df-2fa995523c58}" record_timestamp="1505803543433" record_key="FAIL_MISSION">
+<event>FAIL_MISSION</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>mission_results</loyalty_factor>
+<percentage_chance>50</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{6b2668fe-3ef3-40b2-bfaf-ce8ee541d7bf}" record_timestamp="1505803543433" record_key="HEROIC_VICTORY">
+<event>HEROIC_VICTORY</event>
+<loyalty_change>2</loyalty_change>
+<loyalty_factor>battle_results</loyalty_factor>
+<percentage_chance>50</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{a1c6f09a-9047-4f2e-9392-abd0b3307137}" record_timestamp="1505803543433" record_key="INAPPROPRIATE_TREATIES">
+<event>INAPPROPRIATE_TREATIES</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>diplomatic_behaviour</loyalty_factor>
+<percentage_chance>50</percentage_chance>
+<threshold>-25</threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{91b87200-d826-4178-b57b-23dbfb9a70ed}" record_timestamp="1503565914178" record_key="OTHER_DEFECTED">
+<event>OTHER_DEFECTED</event>
+<loyalty_change>-2</loyalty_change>
+<loyalty_factor>other_defectors</loyalty_factor>
+<percentage_chance>25</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{0b73cfb1-f45c-47da-a2a4-d79ada383097}" record_timestamp="1494406297295" record_key="RETIRED">
+<event>RETIRED</event>
+<loyalty_change>-2</loyalty_change>
+<loyalty_factor>military_command</loyalty_factor>
+<percentage_chance>50</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{34f60774-319d-4146-b5be-10ab8162e680}" record_timestamp="1505803543433" record_key="START_OF_TURN">
+<event>START_OF_TURN</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>passive</loyalty_factor>
+<percentage_chance>15</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{7c494b50-79db-4114-b2bf-ef9978996a90}" record_timestamp="1504198747254" record_key="STRONGER_THAN_LEADER">
+<event>STRONGER_THAN_LEADER</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>faction_leader_strength</loyalty_factor>
+<percentage_chance>10</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{9b930f74-7a25-4444-90fe-e507dfcdf73f}" record_timestamp="1505803543433" record_key="UNIT_GIVEN">
+<event>UNIT_GIVEN</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>military_command</loyalty_factor>
+<percentage_chance>10</percentage_chance>
+<threshold>5</threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{38c61200-7a86-4f3f-9189-d0b779fc1f66}" record_timestamp="1494942107718" record_key="UNIT_TAKEN">
+<event>UNIT_TAKEN</event>
+<loyalty_change>-1</loyalty_change>
+<loyalty_factor>military_command</loyalty_factor>
+<percentage_chance>15</percentage_chance>
+<threshold>5</threshold>
+</loyalty_event_effects>
+<loyalty_event_effects record_uuid="{6fe16dc8-1dde-47d8-8677-ab9057617986}" record_timestamp="1504111215317" record_key="WEAKER_THAN_LEADER">
+<event>WEAKER_THAN_LEADER</event>
+<loyalty_change>1</loyalty_change>
+<loyalty_factor>faction_leader_strength</loyalty_factor>
+<percentage_chance>2</percentage_chance>
+<threshold></threshold>
+</loyalty_event_effects>
+</dataroot>

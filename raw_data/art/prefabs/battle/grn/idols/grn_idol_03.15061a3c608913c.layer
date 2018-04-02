@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="15061a3c608913d" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="15061a483be9164">
+      <ECBuilding key="grn_dung_pile_large01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.84104729 1.52587891e-005 -3.32249308" rotation="0 155.37204 0" scale="0.500000179 0.5 0.500000179"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_large01"/>
+    </entity>
+    <entity id="15061a48aa89165">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.15907001 1.04904175e-005 -4.46651554" rotation="0 155.37204 0" scale="0.500000179 0.5 0.500000179"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061a498cd9167">
+      <ECBuilding key="grn_dung_pile_small01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.80297852 1.71661377e-005 -0.844681025" rotation="0 155.37204 0" scale="0.500000179 0.5 0.500000179"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_small01"/>
+    </entity>
+    <entity id="15061a79d1c916c">
+      <ECBuilding key="wh_mushgroup_02_a" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.18457985 1.14440918e-005 8.18606281" rotation="0 252.37207 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_a"/>
+    </entity>
+    <entity id="15061a7b574916e">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.7345295 9.53674316e-006 -0.546957731" rotation="0 252.37207 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061a7ccb8916f">
+      <ECBuilding key="grn_dung_pile_large01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.21511376 -0.174753666 -3.54473639" rotation="0 90 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_large01"/>
+    </entity>
+    <entity id="15061a96b489171">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.177692413 -0.825132728 -5.850245" rotation="0 0 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061aa3d5f9172">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.265159607 1.99518371 -5.8463254" rotation="0 97.0000381 0" scale="0.800000012 0.800000012 0.800000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061abd7919173">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.132896543 -0.140831947 -5.55812168" rotation="0 187.50116 0" scale="0.799999952 0.800000012 0.799999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061af9fb89174">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.16550541 3.42692709 -2.55537486" rotation="-47.2435036 248.38147 -302.122162" scale="1.00000024 0.999999523 0.999999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b0f7c79175">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.68056107 -0.0246738195 -6.57094622" rotation="0 97.0001144 0" scale="1.19999993 1.19999993 1.19999993"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b1bae09176">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.47344494 -1.14284849 -3.47301793" rotation="0 152.50116 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061b202e79177">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.41550684 0.841322422 -3.57360005" rotation="10.0533819 183.826996 300.532196" scale="1.04919505 1.0491941 1.04919469"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b383f7917b">
+      <ECBuilding key="grn_dung_pile_small01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.83623111 1.90734863e-005 7.82544041" rotation="0 155.37204 0" scale="0.500000179 0.5 0.500000179"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_small01"/>
+    </entity>
+    <entity id="15061b3a6c2917d">
+      <ECBuilding key="wh_mushgroup_02_a" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.90904617 2.28881836e-005 -6.51534462" rotation="7.57783127e-005 77.3721085 -2.23464025e-010" scale="1.00000036 1 1.00000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_a"/>
+    </entity>
+    <entity id="15061b4b3e1917e">
+      <ECBuilding key="wh_mushgroup_02_a" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.06673813 2.7179718e-005 -2.7334404" rotation="0.000109283021 222.301056 359.999969" scale="1.00000036 1 1.00000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_a"/>
+    </entity>
+    <entity id="15061b4d0d2917f">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.54849243 9.53674316e-006 -4.27464962" rotation="0 252.37207 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b520269180">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.13429737 2.64231586 -4.63905811" rotation="0 252.37207 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b8c0489188">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.57261944 17.8945923 -1.23982775" rotation="0 86.0000153 0" scale="0.352124363 0.352124393 0.352124363"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061b8c0489189">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.56556928 19.8807983 -1.30108404" rotation="0 183.000061 0" scale="0.563398838 0.563399017 0.563398838"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b93794918a">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.47912693 18.9716549 -2.15432978" rotation="0 86.0001144 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061b96b7f918b">
+      <ECBuilding key="grn_dung_pile_small01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.376449704 18.5774307 -1.95483768" rotation="0 -7.71242666 0" scale="0.699999928 0.699999988 0.699999928"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_small01"/>
+    </entity>
+    <entity id="15061bddc4c9196">
+      <ECBuilding key="grn_idol_03" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.10339165 0 0.974258423" rotation="0 -86.0000687 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="idol_03"/>
+    </entity>
+    <entity id="15061be9d139197">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.17339277 -0.100074515 2.13043141" rotation="0 -19.7124329 0" scale="0.362759054 0.316406578 0.362759054"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061be9d139198">
+      <ECBuilding key="grn_dung_pile_mega01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.41697884 2.86102295e-006 4.88601112" rotation="0 232.287537 0" scale="0.387487233 0.387487113 0.387487233"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_mega01"/>
+    </entity>
+    <entity id="15061be9d14919b">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.470064163 2.64230061 7.87922287" rotation="0 3.28758669 0" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061be9d14919c">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.42758942 3.42691183 7.16451836" rotation="5.88931084 8.56239986 -18.3935852" scale="1.00000012 0.999999464 0.999999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061be9d14919d">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.14981079 -5.7220459e-006 6.0449543" rotation="0 3.28758669 0" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061be9d14919f">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.640081406 -4.76837158e-006 7.84076691" rotation="0 266.287537 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061be9d1491a0">
+      <ECBuilding key="grn_dung_pile_large01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.59519005 0 7.13529396" rotation="0 266.287537 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_large01"/>
+    </entity>
+    <entity id="15061be9d1491a1">
+      <ECBuilding key="wh_mushgroup_02_a" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.93997955 1.1920929e-005 9.00404167" rotation="4.53432804e-005 -26.7834396 4.36289629e-005" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_a"/>
+    </entity>
+    <entity id="15061be9d1491a2">
+      <ECBuilding key="grn_dung_pile_large01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.02370453 0 3.36180687" rotation="0 76.2876358 0" scale="0.500000119 0.5 0.500000119"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_large01"/>
+    </entity>
+    <entity id="15061be9d1491a3">
+      <ECBuilding key="grn_dung_pile_small01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.61616516 -0.170832574 1.27165747" rotation="0 266.287537 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_small01"/>
+    </entity>
+    <entity id="15061be9d1491a5">
+      <ECBuilding key="wh_mushgroup_02_a" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.53608704 3.81469727e-006 3.70767593" rotation="0 3.28758669 0" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_a"/>
+    </entity>
+    <entity id="15061be9d1491a6">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.67230606 -5.7220459e-006 10.0042496" rotation="0 3.28758669 0" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061be9d1591a7">
+      <ECBuilding key="grn_dung_pile_small01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.89614105 1.90734863e-006 6.21517754" rotation="0 266.287537 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_small01"/>
+    </entity>
+    <entity id="15061bf268991a8">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.93393874 3.61536551 4.41122675" rotation="39.3064957 111.416832 0.0933003798" scale="1.00000012 0.999999464 0.999999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061bff9cf91a9">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.48422766 3.43781042 -3.60764313" rotation="0 48.8289185 0" scale="0.800000072 0.800000012 0.800000072"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061c032b591aa">
+      <ECBuilding key="wh_mushgroup_02_a" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.179214 3.81469727e-006 -6.03053236" rotation="0 3.28758764 0" scale="0.999999464 1 0.999999464"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_a"/>
+    </entity>
+    <entity id="15061c065fe91ab">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.13616824 13.3643637 -3.25784564" rotation="-71.2010193 59.0625305 -88.8113327" scale="0.999999225 0.999999762 0.999999225"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061c065fe91ac">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.476337433 11.7689753 -2.22831154" rotation="0 -7.71242666 0" scale="0.49999997 0.5 0.49999997"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061c2285891ad">
+      <ECBuilding key="grn_totempole_d" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.313825727 20.6724224 0.0299146175" rotation="-4.51096275e-005 -39.9997978 1.0481529e-005" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="totempole_d"/>
+    </entity>
+    <entity id="15061c2a78491ae">
+      <ECBuilding key="grn_dung_pile_medium01" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0669667721 18.3472977 -0.136924505" rotation="0 86.0001144 0" scale="0.49999997 0.5 0.49999997"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="dung_pile_medium01"/>
+    </entity>
+    <entity id="15061c365ac91af">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.44164324 19.0778561 -0.0597463846" rotation="0 183.000244 0" scale="1.20000005 1.19999969 1.20000005"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+    <entity id="15061c38e2c91b0">
+      <ECBuilding key="wh_mushgroup_02_c" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0737726092 20.9081573 -0.147879004" rotation="0 183.000244 0" scale="1.20000005 1.19999957 1.20000005"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_mushgroup_02_c"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="15061bddc4c9196">
+        <to id="15061c365ac91af"/>
+        <to id="15061c065fe91ab"/>
+        <to id="15061b8c0489189"/>
+        <to id="15061c065fe91ac"/>
+        <to id="15061c2285891ad"/>
+        <to id="15061c38e2c91b0"/>
+        <to id="15061b8c0489188"/>
+        <to id="15061b96b7f918b"/>
+        <to id="15061c2a78491ae"/>
+        <to id="15061b93794918a"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

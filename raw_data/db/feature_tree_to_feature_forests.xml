@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="feature_tree_to_feature_forests.xsd" export_time="Tue Nov 15 17:55:14 2016" revision="2" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>4a603893-a7c5-40ba-b605-1f9a63988615</edit_uuid>
+<feature_tree_to_feature_forests record_uuid="{3393aaab-3389-4978-90c8-ec32de35c29e}" record_timestamp="1477660098078" record_key="LOCKED_COMPANION_FACTIONLOCKED_COMPANION">
+<forest>LOCKED_COMPANION</forest>
+<starting_feature_set>COMPANION_FACTION</starting_feature_set>
+<tree>LOCKED_COMPANION_FACTION</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{2204aab7-508c-4203-927c-7311f7903d69}" record_timestamp="1477660098077" record_key="LOCKED_HORDELOCKED_HORDE">
+<forest>LOCKED_HORDE</forest>
+<starting_feature_set>HORDE</starting_feature_set>
+<tree>LOCKED_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{753d19bb-8d85-4d6f-b2ca-6999d1588099}" record_timestamp="1477660098077" record_key="LOCKED_MIXED_NAVAL_HORDEMIXED_NAVAL_HORDE">
+<forest>MIXED_NAVAL_HORDE</forest>
+<starting_feature_set>MIXED_NAVAL_HORDE</starting_feature_set>
+<tree>LOCKED_MIXED_NAVAL_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{2e4116ba-d430-4850-af48-15ddbbbbbbc7}" record_timestamp="1477660098077" record_key="LOCKED_MIXED_NAVAL_HORDERITUAL_MIXED_NAVAL_HORDE">
+<forest>RITUAL_MIXED_NAVAL_HORDE</forest>
+<starting_feature_set>MIXED_NAVAL_HORDE</starting_feature_set>
+<tree>LOCKED_MIXED_NAVAL_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{4cb0cf68-e7e5-46bc-8f48-9603ed6b8206}" record_timestamp="1479232511646" record_key="LOCKED_MIXED_NAVAL_HORDEVORTEX_RITUAL_MIXED_NAVAL_HORDE">
+<forest>VORTEX_RITUAL_MIXED_NAVAL_HORDE</forest>
+<starting_feature_set>MIXED_NAVAL_HORDE</starting_feature_set>
+<tree>LOCKED_MIXED_NAVAL_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{fb14d749-fab8-45dd-979e-93a27f2bc18f}" record_timestamp="1479232511646" record_key="LOCKED_MIXED_NAVAL_HORDEVORTEX_RITUAL_MIXED_NAVAL_HORDE_PRIMARY">
+<forest>VORTEX_RITUAL_MIXED_NAVAL_HORDE_PRIMARY</forest>
+<starting_feature_set>MIXED_NAVAL_HORDE</starting_feature_set>
+<tree>LOCKED_MIXED_NAVAL_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{c8772996-740c-4e6d-9b0e-e558e272b618}" record_timestamp="1477660098077" record_key="LOCKED_STANDARD_FACTIONLOCKED_STANDARD">
+<forest>LOCKED_STANDARD</forest>
+<starting_feature_set>STANDARD_FACTION</starting_feature_set>
+<tree>LOCKED_STANDARD_FACTION</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{ca569ba6-666d-4757-a34c-1af737ec817e}" record_timestamp="1477660098078" record_key="LOCKED_STANDARD_FACTIONRITUAL_STANDARD">
+<forest>RITUAL_STANDARD</forest>
+<starting_feature_set>STANDARD_FACTION</starting_feature_set>
+<tree>LOCKED_STANDARD_FACTION</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{a02d4ed3-0a61-483c-89a4-91677ccb5e4e}" record_timestamp="1479232514599" record_key="LOCKED_STANDARD_FACTIONVORTEX_RITUAL_STANDARD">
+<forest>VORTEX_RITUAL_STANDARD</forest>
+<starting_feature_set>STANDARD_FACTION</starting_feature_set>
+<tree>LOCKED_STANDARD_FACTION</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{a49f60ea-afae-49ce-970e-5f65e0c58ef5}" record_timestamp="1479232511646" record_key="LOCKED_STANDARD_FACTIONVORTEX_RITUAL_STANDARD_PRIMARY">
+<forest>VORTEX_RITUAL_STANDARD_PRIMARY</forest>
+<starting_feature_set>STANDARD_FACTION</starting_feature_set>
+<tree>LOCKED_STANDARD_FACTION</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{c6921069-8794-4433-b83f-377dfd78638f}" record_timestamp="1477660098078" record_key="MIGRATORY_HORDEMIGRATORY_HORDE">
+<forest>MIGRATORY_HORDE</forest>
+<starting_feature_set>HORDE</starting_feature_set>
+<tree>MIGRATORY_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{f5a39f20-32b0-40ae-999b-26ff3e8731b8}" record_timestamp="1477660098078" record_key="MIGRATORY_HORDEMIGRATORY_STANDARD">
+<forest>MIGRATORY_STANDARD</forest>
+<starting_feature_set>STANDARD_FACTION</starting_feature_set>
+<tree>MIGRATORY_HORDE</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{522f9963-cf37-49b8-b416-148b523c4b50}" record_timestamp="1479232511645" record_key="RITUALSRITUAL_MIXED_NAVAL_HORDE">
+<forest>RITUAL_MIXED_NAVAL_HORDE</forest>
+<starting_feature_set>RITUAL_ENABLED</starting_feature_set>
+<tree>RITUALS</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{41c22826-a4c0-4532-9865-ec5e5ffbb6ec}" record_timestamp="1479232511645" record_key="RITUALSRITUAL_STANDARD">
+<forest>RITUAL_STANDARD</forest>
+<starting_feature_set>RITUAL_ENABLED</starting_feature_set>
+<tree>RITUALS</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{56b9190e-b30d-4cd0-b257-b0eedbe27b54}" record_timestamp="1479232511646" record_key="VORTEX_RITUALSVORTEX_RITUAL_MIXED_NAVAL_HORDE">
+<forest>VORTEX_RITUAL_MIXED_NAVAL_HORDE</forest>
+<starting_feature_set>RITUAL_ENABLED</starting_feature_set>
+<tree>VORTEX_RITUALS</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{727a31f0-413f-4a08-b80e-6b38965fce3e}" record_timestamp="1479232511646" record_key="VORTEX_RITUALSVORTEX_RITUAL_MIXED_NAVAL_HORDE_PRIMARY">
+<forest>VORTEX_RITUAL_MIXED_NAVAL_HORDE_PRIMARY</forest>
+<starting_feature_set>PRIMARY_RITUAL_ENABLED</starting_feature_set>
+<tree>VORTEX_RITUALS</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{d53d0902-173b-4c9b-8ce7-e1ea90a22572}" record_timestamp="1479232514599" record_key="VORTEX_RITUALSVORTEX_RITUAL_STANDARD">
+<forest>VORTEX_RITUAL_STANDARD</forest>
+<starting_feature_set>RITUAL_ENABLED</starting_feature_set>
+<tree>VORTEX_RITUALS</tree>
+</feature_tree_to_feature_forests>
+<feature_tree_to_feature_forests record_uuid="{50072872-5e5e-43fe-8c2f-776757cb8dad}" record_timestamp="1479232511646" record_key="VORTEX_RITUALSVORTEX_RITUAL_STANDARD_PRIMARY">
+<forest>VORTEX_RITUAL_STANDARD_PRIMARY</forest>
+<starting_feature_set>PRIMARY_RITUAL_ENABLED</starting_feature_set>
+<tree>VORTEX_RITUALS</tree>
+</feature_tree_to_feature_forests>
+</dataroot>

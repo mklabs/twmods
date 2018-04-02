@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="15829d4908b6000">
+      <ECBuilding key="glb_ruins_03_tower_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.29268408 0.365448952 -0.0493164063" rotation="-0.0258963294 0.0822395086 0.0928555951" scale="1.37589884 1.37589931 1.37589955"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_tower_02"/>
+    </entity>
+    <entity id="15829d4908b6001">
+      <ECBuilding key="glb_ruins_03_tower_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.95629883 5.77794695 0.185852051" rotation="2.48694015 177.084244 0.0486582667" scale="1.20880878 1.20880926 1.2088089"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_tower_02"/>
+    </entity>
+    <entity id="15829d4908b6002">
+      <ECBuilding key="glb_ruins_03_pillar_joiner_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.74992847 15.7566891 -0.262019694" rotation="-10.904315 267.150848 -349.18808" scale="1.9312979 1.93129706 2.1567831"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_pillar_joiner_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="diplomatic_relations_attitudes.xsd" export_time="Tue Jun 6 12:23:07 2017" revision="5" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>61de0129-b5aa-49d4-a144-fb285eb405b1</edit_uuid>
+<diplomatic_relations_attitudes record_uuid="{93a2e88c-2c1c-476a-a3f3-6de0f750877d}" record_timestamp="1496748187620" record_key="best_friends">
+<attitude>best_friends</attitude>
+<value>90</value>
+</diplomatic_relations_attitudes>
+<diplomatic_relations_attitudes record_uuid="{89483158-ebd3-42dc-a3d2-afeec4c04800}" record_timestamp="1496748187620" record_key="friendly">
+<attitude>friendly</attitude>
+<value>30</value>
+</diplomatic_relations_attitudes>
+<diplomatic_relations_attitudes record_uuid="{d5be3e1d-255a-4ff6-99ec-8b4325391f8f}" record_timestamp="1496748187620" record_key="hostile">
+<attitude>hostile</attitude>
+<value>-90</value>
+</diplomatic_relations_attitudes>
+<diplomatic_relations_attitudes record_uuid="{4641ff1a-cc3e-43c5-bb33-f8d0ba491406}" record_key="neutral">
+<attitude>neutral</attitude>
+<value>0</value>
+</diplomatic_relations_attitudes>
+<diplomatic_relations_attitudes record_uuid="{e42bbee5-caf2-4cc8-bcbc-75c690b02ac8}" record_timestamp="1496748187620" record_key="unfriendly">
+<attitude>unfriendly</attitude>
+<value>-30</value>
+</diplomatic_relations_attitudes>
+<diplomatic_relations_attitudes record_uuid="{0d3d4d60-c36e-4731-9ec2-2a32c21e9848}" record_timestamp="1496748187620" record_key="very_friendly">
+<attitude>very_friendly</attitude>
+<value>60</value>
+</diplomatic_relations_attitudes>
+<diplomatic_relations_attitudes record_uuid="{127a72ac-acf9-4172-98f0-6394376c9d67}" record_timestamp="1496748187620" record_key="very_unfriendly">
+<attitude>very_unfriendly</attitude>
+<value>-60</value>
+</diplomatic_relations_attitudes>
+</dataroot>

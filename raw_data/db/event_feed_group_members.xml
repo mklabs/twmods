@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="event_feed_group_members.xsd" export_time="Wed Jul 19 15:23:04 2017" revision="45" export_branch="T:/" export_user="bob">
+<edit_uuid>0de6135b-df52-4e55-a344-e7fb3975f80a</edit_uuid>
+<event_feed_group_members record_uuid="{1852d58d-93fd-4ee5-8c81-f20d325d9b3e}" record_timestamp="1429715214421" record_key="event_feed_context_location_agentagent">
+<group>event_feed_context_location_agent</group>
+<member>agent</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{41992e80-9a89-4ecb-b41c-6620bb822d47}" record_timestamp="1429715214466" record_key="event_feed_context_location_besieger_generalbesieger.general">
+<group>event_feed_context_location_besieger_general</group>
+<member>besieger.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{99a1b0e2-c078-4435-b451-e3e1961a0053}" record_timestamp="1429715214330" record_key="event_feed_context_location_blockader_generalblockader.general">
+<group>event_feed_context_location_blockader_general</group>
+<member>blockader.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d3ff661b-1a92-46bd-989f-a64031e62720}" record_timestamp="1429715214376" record_key="event_feed_context_location_charactercharacter">
+<group>event_feed_context_location_character</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{51d506f8-f31c-401f-aa0a-3c9dd41c0260}" record_timestamp="1429715214601" record_key="event_feed_context_location_contesting_region_provincecontesting.region_and_province">
+<group>event_feed_context_location_contesting_region_province</group>
+<member>contesting.region_and_province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b213fe83-5c17-426b-bf22-392106a55e1c}" record_timestamp="1429715214647" record_key="event_feed_context_location_dilemma_targetdilemma.target">
+<group>event_feed_context_location_dilemma_target</group>
+<member>dilemma.target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{5b0f8530-1af2-4250-94a0-a2b65a819d4c}" record_timestamp="1429715214511" record_key="event_feed_context_location_settlement_captured_region_provincesettlement_captured.region_and_province">
+<group>event_feed_context_location_settlement_captured_region_province</group>
+<member>settlement_captured.region_and_province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{681f6513-2dd4-4aa9-9da6-3e6d2cbc4fbc}" record_timestamp="1429715214557" record_key="event_feed_context_location_unit_region_provinceunit.region_and_province">
+<group>event_feed_context_location_unit_region_province</group>
+<member>unit.region_and_province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{893dbbf6-2de1-409c-8e71-a833ac607a33}" record_timestamp="1429715214055" record_key="event_feed_layout_data_agent_recruitedagent">
+<group>event_feed_layout_data_agent_recruited</group>
+<member>agent</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e30f09ca-971f-4ca8-8728-c677bce3382b}" record_timestamp="1429715214099" record_key="event_feed_layout_data_agent_recruitedagent.faction">
+<group>event_feed_layout_data_agent_recruited</group>
+<member>agent.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ed2f648e-879a-4e1e-9a54-470705ca86d8}" record_timestamp="1429715213964" record_key="event_feed_layout_data_agent_recruitedagent.type">
+<group>event_feed_layout_data_agent_recruited</group>
+<member>agent.type</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{069daf8b-51f8-4787-8dbf-7e17d92703f7}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_armyagent.faction:acting">
+<group>event_feed_layout_data_agent_targets_army</group>
+<member>agent.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ff019b70-cde6-4520-bb46-fe45a04c78ea}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_armyagent:actor">
+<group>event_feed_layout_data_agent_targets_army</group>
+<member>agent:actor</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{541eea60-44c1-43b4-ad78-72ed41a9db34}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_armytarget.faction:target">
+<group>event_feed_layout_data_agent_targets_army</group>
+<member>target.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e87aacf4-6fe9-41b2-b44d-b3687d825551}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_armytarget.general:target">
+<group>event_feed_layout_data_agent_targets_army</group>
+<member>target.general:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{29a47e21-a410-4a73-8d4a-c8a97ef60c3d}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_characteragent.faction:acting">
+<group>event_feed_layout_data_agent_targets_character</group>
+<member>agent.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d72b1099-e593-453c-b71c-89d20571f87b}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_characteragent:actor">
+<group>event_feed_layout_data_agent_targets_character</group>
+<member>agent:actor</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b6e76132-eb2b-429d-9441-1ec5ae4a6eba}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_charactertarget.faction:target">
+<group>event_feed_layout_data_agent_targets_character</group>
+<member>target.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{9f62f72e-54cc-4729-bec6-a871ee8de1c2}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_charactertarget:target">
+<group>event_feed_layout_data_agent_targets_character</group>
+<member>target:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{5afc2af5-a285-47ba-a336-9a63e4b9714b}" record_timestamp="1499065756266" record_key="event_feed_layout_data_agent_targets_settlementagent">
+<group>event_feed_layout_data_agent_targets_settlement</group>
+<member>agent</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8a0781ad-a214-4ea0-bfa0-be66508654cd}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_settlementagent.faction:acting">
+<group>event_feed_layout_data_agent_targets_settlement</group>
+<member>agent.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3639f172-b7ed-42df-9ea5-abd07742804a}" record_timestamp="1499261402864" record_key="event_feed_layout_data_agent_targets_settlementtarget">
+<group>event_feed_layout_data_agent_targets_settlement</group>
+<member>target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{10bfe60f-ff48-41e8-9d82-d570ca8689ea}" record_timestamp="1499065608256" record_key="event_feed_layout_data_agent_targets_settlementtarget.faction:target">
+<group>event_feed_layout_data_agent_targets_settlement</group>
+<member>target.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{bdb073bb-d68d-4156-8c19-14ec830efd56}" record_timestamp="1429715214009" record_key="event_feed_layout_data_ancillary_gainedancillary">
+<group>event_feed_layout_data_ancillary_gained</group>
+<member>ancillary</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c5e36c40-fc49-45d8-a42e-ce121023e528}" record_timestamp="1429715214238" record_key="event_feed_layout_data_ancillary_gainedcharacter">
+<group>event_feed_layout_data_ancillary_gained</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{38d5e2cb-3ca1-46c8-99c8-d7f0374780ea}" record_timestamp="1429715214284" record_key="event_feed_layout_data_ancillary_gainedcharacter.profession">
+<group>event_feed_layout_data_ancillary_gained</group>
+<member>character.profession</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a177fb8d-131d-4f91-aa1a-9e21d2299f2c}" record_timestamp="1429715214146" record_key="event_feed_layout_data_building_eventbuilding">
+<group>event_feed_layout_data_building_event</group>
+<member>building</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{564add2e-9409-4c8a-9bf8-e30e6d6c30a2}" record_timestamp="1499349253679" record_key="event_feed_layout_data_character_dies_battlecharacter">
+<group>event_feed_layout_data_character_dies_battle</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ffefc321-8e55-49b2-ba10-b7bff83c8d27}" record_timestamp="1499349253721" record_key="event_feed_layout_data_character_dies_battlecharacter.faction:acting">
+<group>event_feed_layout_data_character_dies_battle</group>
+<member>character.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{122630f1-2848-4f71-b1bd-492675b808ba}" record_timestamp="1499349253763" record_key="event_feed_layout_data_character_dies_battlecharacter.faction:target">
+<group>event_feed_layout_data_character_dies_battle</group>
+<member>character.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{275ba0de-0dd3-4ece-b6cf-8a17ce601e52}" record_timestamp="1499349270075" record_key="event_feed_layout_data_character_dies_in_actioncharacter">
+<group>event_feed_layout_data_character_dies_in_action</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{709343cb-dcf3-4caf-99f2-84c7b83ae797}" record_timestamp="1499349270123" record_key="event_feed_layout_data_character_dies_in_actioncharacter.faction:acting">
+<group>event_feed_layout_data_character_dies_in_action</group>
+<member>character.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8c7c65a2-849b-4298-9a42-21c448309c0f}" record_timestamp="1499349270170" record_key="event_feed_layout_data_character_dies_in_actioncharacter.faction:target">
+<group>event_feed_layout_data_character_dies_in_action</group>
+<member>character.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{06450ee4-3526-43e6-970d-a9e45bc1c4e6}" record_timestamp="1499349271544" record_key="event_feed_layout_data_character_loyalty_lowcharacter">
+<group>event_feed_layout_data_character_loyalty_low</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{7a94d2c2-f1b5-4e0c-b36c-c3a94ba6000c}" record_timestamp="1499349271589" record_key="event_feed_layout_data_character_loyalty_lowcharacter.faction:acting">
+<group>event_feed_layout_data_character_loyalty_low</group>
+<member>character.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d7cf1b21-bcd0-49db-9357-0c1cc4eed5eb}" record_timestamp="1499349271634" record_key="event_feed_layout_data_character_loyalty_lowcharacter.faction:target">
+<group>event_feed_layout_data_character_loyalty_low</group>
+<member>character.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c347b022-8c22-4947-b557-eeec36672cab}" record_timestamp="1499349250022" record_key="event_feed_layout_data_character_rank_gainedcharacter">
+<group>event_feed_layout_data_character_rank_gained</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f75d0aba-8676-41ac-957c-3fb708271d80}" record_timestamp="1499349250266" record_key="event_feed_layout_data_character_rank_gainedcharacter.faction:acting">
+<group>event_feed_layout_data_character_rank_gained</group>
+<member>character.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0d390743-8ed0-48fb-87a8-f8bcc387537a}" record_timestamp="1499349250313" record_key="event_feed_layout_data_character_rank_gainedcharacter.faction:target">
+<group>event_feed_layout_data_character_rank_gained</group>
+<member>character.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{887cc452-9c96-45d4-a417-144d553c2b41}" record_timestamp="1499349262905" record_key="event_feed_layout_data_character_ready_for_dutycharacter">
+<group>event_feed_layout_data_character_ready_for_duty</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{844b401f-9939-483f-8eb8-ad4b2c038e20}" record_timestamp="1499349262949" record_key="event_feed_layout_data_character_ready_for_dutycharacter.faction:acting">
+<group>event_feed_layout_data_character_ready_for_duty</group>
+<member>character.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{40fe89f0-fc4d-49a2-8f76-f03c3f4f37f1}" record_timestamp="1499349262992" record_key="event_feed_layout_data_character_ready_for_dutycharacter.faction:target">
+<group>event_feed_layout_data_character_ready_for_duty</group>
+<member>character.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{353ffb67-eeec-4d66-9b91-177727025016}" record_timestamp="1499349272847" record_key="event_feed_layout_data_character_woundedcharacter">
+<group>event_feed_layout_data_character_wounded</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{189952fc-9a9d-437e-aa8a-5830b4c6acc9}" record_timestamp="1499349272893" record_key="event_feed_layout_data_character_woundedcharacter.faction:acting">
+<group>event_feed_layout_data_character_wounded</group>
+<member>character.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{190de663-de3e-4ee0-8f16-7e0278d1e67f}" record_timestamp="1499349272802" record_key="event_feed_layout_data_character_woundedcharacter.faction:target">
+<group>event_feed_layout_data_character_wounded</group>
+<member>character.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{95d685b4-15d2-4b85-9490-2f8e57185f14}" record_timestamp="1500474184711" record_key="event_feed_layout_data_conquest_battleattacker.primary_general:attacking">
+<group>event_feed_layout_data_conquest_battle</group>
+<member>attacker.primary_general:attacking</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{eee9f0a0-f161-4ee3-adb4-8e508d7fd578}" record_timestamp="1499065608256" record_key="event_feed_layout_data_conquest_battleattacker:attacking">
+<group>event_feed_layout_data_conquest_battle</group>
+<member>attacker:attacking</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{edc5a102-0432-47f3-a672-2b13f52ea144}" record_timestamp="1499419240533" record_key="event_feed_layout_data_conquest_battleattacker_result:attacking">
+<group>event_feed_layout_data_conquest_battle</group>
+<member>attacker_result:attacking</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4d175ae3-606a-4bfc-9dbe-17c10aa6470a}" record_timestamp="1500474184714" record_key="event_feed_layout_data_conquest_battledefender.primary_general:defending">
+<group>event_feed_layout_data_conquest_battle</group>
+<member>defender.primary_general:defending</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{1a3697de-de2d-4a37-ace5-28d43801bf76}" record_timestamp="1499065608256" record_key="event_feed_layout_data_conquest_battledefender:defending">
+<group>event_feed_layout_data_conquest_battle</group>
+<member>defender:defending</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e0aa2294-dd2d-41e2-b2b4-c139656ac2fd}" record_timestamp="1499419240530" record_key="event_feed_layout_data_conquest_battledefender_result:defending">
+<group>event_feed_layout_data_conquest_battle</group>
+<member>defender_result:defending</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{eb7d5c21-fd21-43cf-8e80-5a24d9f6536d}" record_timestamp="1499168298225" record_key="event_feed_layout_data_conquest_enemy_raid_settlementraided.faction:target">
+<group>event_feed_layout_data_conquest_enemy_raid_settlement</group>
+<member>raided.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ce25a840-a2a3-4434-bff6-25fd0930049b}" record_timestamp="1499065608256" record_key="event_feed_layout_data_conquest_enemy_raid_settlementraider.faction:acting">
+<group>event_feed_layout_data_conquest_enemy_raid_settlement</group>
+<member>raider.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{903def28-fcda-4279-bac8-d073f24c2f18}" record_timestamp="1499065608255" record_key="event_feed_layout_data_conquest_enemy_raid_settlementraider.general">
+<group>event_feed_layout_data_conquest_enemy_raid_settlement</group>
+<member>raider.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{94777d91-ad6d-4069-ac84-fa47926bf4b7}" record_timestamp="1499349251523" record_key="event_feed_layout_data_conquest_siege_liftedbesieger.faction:acting">
+<group>event_feed_layout_data_conquest_siege_lifted</group>
+<member>besieger.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{43ef5d06-7a0b-42c5-ae1b-856448f1fd03}" record_timestamp="1499349253846" record_key="event_feed_layout_data_conquest_siege_liftedbesieger.general">
+<group>event_feed_layout_data_conquest_siege_lifted</group>
+<member>besieger.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{82863c60-ba2f-405e-bf4a-4eac4f72e69e}" record_timestamp="1499349251565" record_key="event_feed_layout_data_conquest_siege_liftedsettlement.faction:target">
+<group>event_feed_layout_data_conquest_siege_lifted</group>
+<member>settlement.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{30cf6055-ae85-4521-84ad-d2e1c40e1781}" record_timestamp="1499263517082" record_key="event_feed_layout_data_diplomacy_faction_destroyedfaction:left">
+<group>event_feed_layout_data_diplomacy_faction_destroyed</group>
+<member>faction:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0c40960b-e2a1-4876-a033-cece279b6cfb}" record_timestamp="1499349257845" record_key="event_feed_layout_data_diplomacy_faction_destroyedfaction:right">
+<group>event_feed_layout_data_diplomacy_faction_destroyed</group>
+<member>faction:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{6e684fc6-ec15-475a-8690-3ebb2b2ee4cd}" record_timestamp="1499154182418" record_key="event_feed_layout_data_diplomacy_faction_encounteredfaction_1:left">
+<group>event_feed_layout_data_diplomacy_faction_encountered</group>
+<member>faction_1:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{42db0c65-29fb-4de7-a8b6-d334b19dc5d9}" record_timestamp="1499154182383" record_key="event_feed_layout_data_diplomacy_faction_encounteredfaction_2:right">
+<group>event_feed_layout_data_diplomacy_faction_encountered</group>
+<member>faction_2:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{48d0a120-ea15-4d62-bd26-50ab1a181b0b}" record_timestamp="1499168298215" record_key="event_feed_layout_data_diplomacy_trespassingfaction:target">
+<group>event_feed_layout_data_diplomacy_trespassing</group>
+<member>faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4819248d-825a-4cab-9732-51a397f1e251}" record_timestamp="1499065608256" record_key="event_feed_layout_data_diplomacy_trespassingforce.faction:acting">
+<group>event_feed_layout_data_diplomacy_trespassing</group>
+<member>force.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{03e72450-fbce-414a-bd57-9d7ff7adc4d4}" record_timestamp="1499065608256" record_key="event_feed_layout_data_diplomacy_trespassingforce.general">
+<group>event_feed_layout_data_diplomacy_trespassing</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f493daf6-2a1a-4b63-8321-770331b5a353}" record_timestamp="1429715214191" record_key="event_feed_layout_data_diplomatic_actor_left_recipient_rightactor:left">
+<group>event_feed_layout_data_diplomatic_actor_left_recipient_right</group>
+<member>actor:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ca55abd6-9348-49a5-abeb-43e5a774a208}" record_timestamp="1429715215148" record_key="event_feed_layout_data_diplomatic_actor_left_recipient_rightevent_type">
+<group>event_feed_layout_data_diplomatic_actor_left_recipient_right</group>
+<member>event_type</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e339b313-0c97-481d-979f-325902e7787c}" record_timestamp="1429715215196" record_key="event_feed_layout_data_diplomatic_actor_left_recipient_rightrecipient:right">
+<group>event_feed_layout_data_diplomatic_actor_left_recipient_right</group>
+<member>recipient:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{729ee615-cfd9-4b55-a3c5-b55b99002b8e}" record_timestamp="1429715215056" record_key="event_feed_layout_data_diplomatic_joining_faction_left_war_faction_1_rightevent_type">
+<group>event_feed_layout_data_diplomatic_joining_faction_left_war_faction_1_right</group>
+<member>event_type</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f13e8952-c981-477c-8436-eb6ba3d63aef}" record_timestamp="1429715215103" record_key="event_feed_layout_data_diplomatic_joining_faction_left_war_faction_1_rightjoining_faction:left">
+<group>event_feed_layout_data_diplomatic_joining_faction_left_war_faction_1_right</group>
+<member>joining_faction:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{001cc4c8-e2d0-4c49-a4f1-c253756c1c6b}" record_timestamp="1429715215337" record_key="event_feed_layout_data_diplomatic_joining_faction_left_war_faction_1_rightwar_faction_1:right">
+<group>event_feed_layout_data_diplomatic_joining_faction_left_war_faction_1_right</group>
+<member>war_faction_1:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3bb928ba-26ec-4c3b-9e9e-1a918137db8f}" record_timestamp="1429715215384" record_key="event_feed_layout_data_diplomatic_recipient_left_actor_rightactor:right">
+<group>event_feed_layout_data_diplomatic_recipient_left_actor_right</group>
+<member>actor:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d5d8ac59-d2bd-426c-ab26-38fa87c179cb}" record_timestamp="1429715215243" record_key="event_feed_layout_data_diplomatic_recipient_left_actor_rightevent_type">
+<group>event_feed_layout_data_diplomatic_recipient_left_actor_right</group>
+<member>event_type</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{05d76e8c-5a77-4fc4-abdf-8a129d41fa91}" record_timestamp="1429715215289" record_key="event_feed_layout_data_diplomatic_recipient_left_actor_rightrecipient:left">
+<group>event_feed_layout_data_diplomatic_recipient_left_actor_right</group>
+<member>recipient:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{286885c2-7a16-454e-aa73-75f64bf4d0de}" record_timestamp="1429715214784" record_key="event_feed_layout_data_diplomatic_war_faction_1_left_joining_faction_rightevent_type">
+<group>event_feed_layout_data_diplomatic_war_faction_1_left_joining_faction_right</group>
+<member>event_type</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f22b3cf4-7fcd-4d22-bcde-2759047a8942}" record_timestamp="1429715214830" record_key="event_feed_layout_data_diplomatic_war_faction_1_left_joining_faction_rightjoining_faction:right">
+<group>event_feed_layout_data_diplomatic_war_faction_1_left_joining_faction_right</group>
+<member>joining_faction:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0e8b3ec4-b247-4528-aaad-5656d042dca5}" record_timestamp="1429715214693" record_key="event_feed_layout_data_diplomatic_war_faction_1_left_joining_faction_rightwar_faction_1:left">
+<group>event_feed_layout_data_diplomatic_war_faction_1_left_joining_faction_right</group>
+<member>war_faction_1:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ef22ae94-35c4-4959-8073-16a3e3002553}" record_timestamp="1429715214738" record_key="event_feed_layout_data_event_dilemmadilemma">
+<group>event_feed_layout_data_event_dilemma</group>
+<member>dilemma</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{92687feb-02de-419f-9f3d-4804868f4b93}" record_timestamp="1429715214966" record_key="event_feed_layout_data_event_incidentincident">
+<group>event_feed_layout_data_event_incident</group>
+<member>incident</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{98fb97a3-25a5-4809-8f9c-7ef921f7a51f}" record_timestamp="1429715215011" record_key="event_feed_layout_data_event_incidentincident_data">
+<group>event_feed_layout_data_event_incident</group>
+<member>incident_data</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a5f64f9a-3639-4f83-8f7c-92992c40f4ab}" record_timestamp="1429715214875" record_key="event_feed_layout_data_event_incidentpayload">
+<group>event_feed_layout_data_event_incident</group>
+<member>payload</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{04ee2772-9098-4274-8ddb-01c36e4a8f88}" record_timestamp="1429715214921" record_key="event_feed_layout_data_event_missionmission">
+<group>event_feed_layout_data_event_mission</group>
+<member>mission</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0737049a-500c-44cb-808d-c43af9c42677}" record_timestamp="1429715212963" record_key="event_feed_layout_data_event_subjectdilemma">
+<group>event_feed_layout_data_event_subject</group>
+<member>dilemma</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{bea8e48d-c252-4c3e-9f72-8d062bd63bb5}" record_timestamp="1429715213009" record_key="event_feed_layout_data_event_subjectsubject">
+<group>event_feed_layout_data_event_subject</group>
+<member>subject</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{323d55f9-35d1-40b6-b7ab-abf5d0360478}" record_timestamp="1453392560532" record_key="event_feed_layout_data_event_winds_of_magicwinds_of_magic_status">
+<group>event_feed_layout_data_event_winds_of_magic</group>
+<member>winds_of_magic_status</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ab38e589-ad2f-471f-9ead-b26b63045065}" record_timestamp="1455898781608" record_key="event_feed_layout_data_faction_ancillary_gainedancillary">
+<group>event_feed_layout_data_faction_ancillary_gained</group>
+<member>ancillary</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8761c94e-df48-4774-8b6d-9b7cd2711a29}" record_timestamp="1455898781617" record_key="event_feed_layout_data_faction_ancillary_gainedfaction">
+<group>event_feed_layout_data_faction_ancillary_gained</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d80d0ca3-f743-4443-9831-836d1b415cae}" record_timestamp="1499349277695" record_key="event_feed_layout_data_faction_civil_war_characterinstigator">
+<group>event_feed_layout_data_faction_civil_war_character</group>
+<member>instigator</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3181af69-8c56-4246-abc6-64862db9e8cd}" record_timestamp="1499349277741" record_key="event_feed_layout_data_faction_civil_war_characterinstigator.faction:acting">
+<group>event_feed_layout_data_faction_civil_war_character</group>
+<member>instigator.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{db5bb4db-5853-420a-973f-e45d7ea988d0}" record_timestamp="1499349277787" record_key="event_feed_layout_data_faction_civil_war_characterinstigator.faction:target">
+<group>event_feed_layout_data_faction_civil_war_character</group>
+<member>instigator.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{aba108f8-bb78-4afa-b723-3239a55eefc4}" record_timestamp="1457100070928" record_key="event_feed_layout_data_faction_joins_confederationconfederated:right">
+<group>event_feed_layout_data_faction_joins_confederation</group>
+<member>confederated:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c80eacbf-651e-4ebb-a29f-689db6d2f4eb}" record_timestamp="1457100070913" record_key="event_feed_layout_data_faction_joins_confederationconfederation:left">
+<group>event_feed_layout_data_faction_joins_confederation</group>
+<member>confederation:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ee0ea6da-19d6-488e-8d00-6bef7ac316ab}" record_timestamp="1457100070944" record_key="event_feed_layout_data_faction_joins_confederationevent_type">
+<group>event_feed_layout_data_faction_joins_confederation</group>
+<member>event_type</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b14027d6-76d0-4d82-8c79-6f574df895c1}" record_timestamp="1429715212873" record_key="event_feed_layout_data_famefaction">
+<group>event_feed_layout_data_fame</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{197bd91e-ea94-48b6-b825-d1d2e1cd9257}" record_timestamp="1429715212917" record_key="event_feed_layout_data_famefaction.fame_level">
+<group>event_feed_layout_data_fame</group>
+<member>faction.fame_level</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{487436f7-624b-481e-8795-88d8ed6231e8}" record_timestamp="1499943021249" record_key="event_feed_layout_data_hidden_settlement_exposedsettlement.faction:left">
+<group>event_feed_layout_data_hidden_settlement_exposed</group>
+<member>settlement.faction:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a142f6a3-b22b-433a-bf84-8a583a2889f1}" record_timestamp="1499943021246" record_key="event_feed_layout_data_hidden_settlement_exposedsettlement.faction:right">
+<group>event_feed_layout_data_hidden_settlement_exposed</group>
+<member>settlement.faction:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{aa7be867-f186-4695-8cc0-db2de8ce5af7}" record_timestamp="1499430928247" record_key="event_feed_layout_data_horde_unrest_imminent_disbandforce.faction:acting">
+<group>event_feed_layout_data_horde_unrest_imminent_disband</group>
+<member>force.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8a669872-b750-4f5f-a586-9a5fe39da4e9}" record_timestamp="1499430928252" record_key="event_feed_layout_data_horde_unrest_imminent_disbandforce.faction:target">
+<group>event_feed_layout_data_horde_unrest_imminent_disband</group>
+<member>force.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{065a34e4-bb2f-4516-b7f5-92a39b68787a}" record_timestamp="1499431087884" record_key="event_feed_layout_data_horde_unrest_imminent_disbandforce.general">
+<group>event_feed_layout_data_horde_unrest_imminent_disband</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{24eefa18-5f4f-4b4e-bbae-5f062b838029}" record_timestamp="1470845667882" record_key="event_feed_layout_data_mercenary_unit_character_level_restriction_liftedunit_record.description">
+<group>event_feed_layout_data_mercenary_unit_character_level_restriction_lifted</group>
+<member>unit_record.description</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{71967c77-8656-409a-925e-24825561ffaf}" record_timestamp="1499349256217" record_key="event_feed_layout_data_military_ambusher_discovered_yoursambusher.faction:acting">
+<group>event_feed_layout_data_military_ambusher_discovered_yours</group>
+<member>ambusher.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{01bca155-4c64-49f7-b7a3-68915796177d}" record_timestamp="1499349256258" record_key="event_feed_layout_data_military_ambusher_discovered_yoursambusher.faction:target">
+<group>event_feed_layout_data_military_ambusher_discovered_yours</group>
+<member>ambusher.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c066bb5a-e83e-44b9-8cfe-f15ea0a189c6}" record_timestamp="1499349256175" record_key="event_feed_layout_data_military_ambusher_discovered_yoursambusher.general">
+<group>event_feed_layout_data_military_ambusher_discovered_yours</group>
+<member>ambusher.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b39f4055-9fcf-4a27-81cb-4f863b836581}" record_timestamp="1499349253972" record_key="event_feed_layout_data_military_ambusher_discoveredambusher.faction:acting">
+<group>event_feed_layout_data_military_ambusher_discovered</group>
+<member>ambusher.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0d746e18-7ccc-4cf9-bdfa-609cc651dffe}" record_timestamp="1499349253930" record_key="event_feed_layout_data_military_ambusher_discoveredambusher.general">
+<group>event_feed_layout_data_military_ambusher_discovered</group>
+<member>ambusher.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{690ace69-8e55-4d96-828f-77c3f8d182c4}" record_timestamp="1499349254014" record_key="event_feed_layout_data_military_ambusher_discovereddiscovered_by:target">
+<group>event_feed_layout_data_military_ambusher_discovered</group>
+<member>discovered_by:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a542ee80-2a5e-4ee5-b327-432b7f1059dd}" record_timestamp="1499349265205" record_key="event_feed_layout_data_military_army_destroyedforce.faction:acting">
+<group>event_feed_layout_data_military_army_destroyed</group>
+<member>force.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e006e36e-d854-416a-961c-171cfe1c1790}" record_timestamp="1499349265250" record_key="event_feed_layout_data_military_army_destroyedforce.faction:target">
+<group>event_feed_layout_data_military_army_destroyed</group>
+<member>force.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e513c46c-51ba-4fae-bac5-498be9b0ca71}" record_timestamp="1499349265295" record_key="event_feed_layout_data_military_army_destroyedforce.general">
+<group>event_feed_layout_data_military_army_destroyed</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e4a257e8-7ea5-449b-a5f6-d85dac98a003}" record_timestamp="1499349258952" record_key="event_feed_layout_data_military_army_foundedforce.faction:acting">
+<group>event_feed_layout_data_military_army_founded</group>
+<member>force.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{6bea6f8c-7370-4908-a2d1-0e6806ea7f06}" record_timestamp="1499349258993" record_key="event_feed_layout_data_military_army_foundedforce.faction:target">
+<group>event_feed_layout_data_military_army_founded</group>
+<member>force.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{7265443c-1546-48d1-82cd-a80f01165455}" record_timestamp="1499349259037" record_key="event_feed_layout_data_military_army_foundedforce.general">
+<group>event_feed_layout_data_military_army_founded</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{adcc8917-ebf4-410c-80b2-7596ddfc801c}" record_timestamp="1499349257380" record_key="event_feed_layout_data_military_army_withdrawsforce.faction:acting">
+<group>event_feed_layout_data_military_army_withdraws</group>
+<member>force.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{db2a2f73-8f36-4c7c-be8a-f8e03f330fc4}" record_timestamp="1499349257421" record_key="event_feed_layout_data_military_army_withdrawsforce.faction:target">
+<group>event_feed_layout_data_military_army_withdraws</group>
+<member>force.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a6dc74f3-00ed-4470-b49a-d0101f5f3c25}" record_timestamp="1499349257338" record_key="event_feed_layout_data_military_army_withdrawsforce.general">
+<group>event_feed_layout_data_military_army_withdraws</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b077d015-6629-4a3d-8a72-26ce30d0a8c6}" record_timestamp="1499349277471" record_key="event_feed_layout_data_military_attritionforce.faction:acting">
+<group>event_feed_layout_data_military_attrition</group>
+<member>force.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c66b4b54-92e4-47e3-be82-fe24790f2d69}" record_timestamp="1499349277516" record_key="event_feed_layout_data_military_attritionforce.faction:target">
+<group>event_feed_layout_data_military_attrition</group>
+<member>force.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{bf8ad4e8-b3e7-49e3-a11f-1c947a2f2db2}" record_timestamp="1499349277425" record_key="event_feed_layout_data_military_attritionforce.general">
+<group>event_feed_layout_data_military_attrition</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{76387e0a-8fa6-4e07-8432-f79499f447f0}" record_timestamp="1499415430748" record_key="event_feed_layout_data_military_companion_army_ourscompanion.faction:target">
+<group>event_feed_layout_data_military_companion_army_ours</group>
+<member>companion.faction:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{796b5d6d-a260-46a6-93af-2666f5787ed2}" record_timestamp="1499415430781" record_key="event_feed_layout_data_military_companion_army_ourscompanion.general:target">
+<group>event_feed_layout_data_military_companion_army_ours</group>
+<member>companion.general:target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{22d26330-d034-4930-a5ee-39015a9ada98}" record_timestamp="1499415430759" record_key="event_feed_layout_data_military_companion_army_oursparent.faction:acting">
+<group>event_feed_layout_data_military_companion_army_ours</group>
+<member>parent.faction:acting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{da3f7cbf-d1e3-4ba3-81b2-e78d850d700d}" record_timestamp="1499415430768" record_key="event_feed_layout_data_military_companion_army_oursparent.general:actor">
+<group>event_feed_layout_data_military_companion_army_ours</group>
+<member>parent.general:actor</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{684bbb14-c086-4ad7-9abf-d3c17ed2f039}" record_timestamp="1499415431628" record_key="event_feed_layout_data_military_companion_armyparent.faction:left">
+<group>event_feed_layout_data_military_companion_army</group>
+<member>parent.faction:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e3db9716-14c1-480d-8883-61b81d9756c0}" record_timestamp="1499415431615" record_key="event_feed_layout_data_military_companion_armyparent.faction:right">
+<group>event_feed_layout_data_military_companion_army</group>
+<member>parent.faction:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{5eb25851-c818-4124-b3de-d1b1e3f65506}" record_timestamp="1499349257504" record_key="event_feed_layout_data_ritual_startedfaction:left">
+<group>event_feed_layout_data_ritual_started</group>
+<member>faction:left</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{1889acee-9e3f-4460-8a3b-6085b815a543}" record_timestamp="1499349257804" record_key="event_feed_layout_data_ritual_startedfaction:right">
+<group>event_feed_layout_data_ritual_started</group>
+<member>faction:right</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{684d4db9-dfa8-417d-84b5-d0d5e7aee460}" record_timestamp="1429715213146" record_key="event_feed_layout_data_technology_researchedfaction">
+<group>event_feed_layout_data_technology_researched</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{7517bce9-93db-47fa-b61a-44c30721d5d4}" record_timestamp="1429715213191" record_key="event_feed_layout_data_technology_researchednext_technology:next_technology">
+<group>event_feed_layout_data_technology_researched</group>
+<member>next_technology:next_technology</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e4f7f64c-dda3-468b-a9a3-8cdef67da37a}" record_timestamp="1429715213055" record_key="event_feed_layout_data_technology_researchedtechnology:technology">
+<group>event_feed_layout_data_technology_researched</group>
+<member>technology:technology</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e26bc6a1-3782-40f7-86dc-db72b0a3d724}" record_timestamp="1429715213101" record_key="event_feed_layout_data_technology_researchedtechnology_tier">
+<group>event_feed_layout_data_technology_researched</group>
+<member>technology_tier</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e958a350-c9fe-4a48-a552-de140bdf38a2}" record_timestamp="1429715212608" record_key="event_feed_layout_data_trait_gainedcharacter">
+<group>event_feed_layout_data_trait_gained</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a58a33ec-3a41-49d9-9965-77155f10272f}" record_timestamp="1429715212651" record_key="event_feed_layout_data_trait_gainedcharacter.profession">
+<group>event_feed_layout_data_trait_gained</group>
+<member>character.profession</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3210ab05-1674-4c75-81d1-12dc7f383c45}" record_timestamp="1429715212521" record_key="event_feed_layout_data_trait_gainedtrait">
+<group>event_feed_layout_data_trait_gained</group>
+<member>trait</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ae80825c-9563-4645-89be-aad1b0c3ee37}" record_timestamp="1429715212564" record_key="event_feed_layout_data_unit_recruitedunit.description">
+<group>event_feed_layout_data_unit_recruited</group>
+<member>unit.description</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4e89a536-1180-4045-a128-40b962153ac1}" record_timestamp="1429715212783" record_key="event_feed_layout_data_unit_recruitedunit.faction">
+<group>event_feed_layout_data_unit_recruited</group>
+<member>unit.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{08035065-2a4c-4557-88f4-3418c75ea55a}" record_timestamp="1448977809661" record_key="event_feed_location_ambusher_generalambusher.general">
+<group>event_feed_location_ambusher_general</group>
+<member>ambusher.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{205d701f-b815-4701-97b6-12d1f4d8d1df}" record_timestamp="1429715212828" record_key="event_feed_location_blockadedblockaded">
+<group>event_feed_location_blockaded</group>
+<member>blockaded</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{2c3b6924-6aab-4c64-8e65-62eb2f361611}" record_timestamp="1429715212740" record_key="event_feed_location_building_forcebuilding.force">
+<group>event_feed_location_building_force</group>
+<member>building.force</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{7b71e0fa-5b42-4683-a572-55f93761dbc7}" record_timestamp="1453289376558" record_key="event_feed_location_building_region_and_provincebuilding.region_and_province">
+<group>event_feed_location_building_region_and_province</group>
+<member>building.region_and_province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{89b631b4-06f2-4b63-a0d2-03959c948eb0}" record_timestamp="1453289376858" record_key="event_feed_location_buildingbuilding">
+<group>event_feed_location_building</group>
+<member>building</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{83fee22e-aea7-4a3c-8784-241660a65529}" record_timestamp="1429715213691" record_key="event_feed_location_character_battle_attacker_primary_generalattacker.primary_general">
+<group>event_feed_location_character_battle_attacker_primary_general</group>
+<member>attacker.primary_general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{08f73ee0-714d-45e0-8b80-3d8a8c41de91}" record_timestamp="1429715213736" record_key="event_feed_location_character_battle_defender_primary_generaldefender.primary_general">
+<group>event_feed_location_character_battle_defender_primary_general</group>
+<member>defender.primary_general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{05876577-0e17-4222-a96b-65c74c808018}" record_timestamp="1429715213601" record_key="event_feed_location_character_heirheir">
+<group>event_feed_location_character_heir</group>
+<member>heir</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{526ed88f-574e-46de-b167-438ae4348d94}" record_timestamp="1429715213646" record_key="event_feed_location_character_new_leadernew_leader">
+<group>event_feed_location_character_new_leader</group>
+<member>new_leader</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f744ed56-d398-4982-bde0-0419501fbac8}" record_timestamp="1429715213873" record_key="event_feed_location_character_occupieroccupier">
+<group>event_feed_location_character_occupier</group>
+<member>occupier</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a63de419-8a10-49a2-9391-ca33531aaf56}" record_timestamp="1440765312961" record_key="event_feed_location_companion_generalcompanion.general">
+<group>event_feed_location_companion_general</group>
+<member>companion.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{2fdde2d6-d508-4cf9-857f-1e427a4bce91}" record_timestamp="1455877315367" record_key="event_feed_location_confederation_provinceconfederation.province">
+<group>event_feed_location_confederation_province</group>
+<member>confederation.province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{339ffa33-fbcb-496a-82ca-731963cef72b}" record_timestamp="1429715213782" record_key="event_feed_location_faction_1faction_1">
+<group>event_feed_location_faction_1</group>
+<member>faction_1</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{6f275de0-7a08-463b-ad3f-e2063bebceb6}" record_timestamp="1429715213827" record_key="event_feed_location_faction_2faction_2">
+<group>event_feed_location_faction_2</group>
+<member>faction_2</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{fe0238cc-8319-47b7-8735-cc35c9f9c1c9}" record_timestamp="1429715213328" record_key="event_feed_location_faction_actoractor">
+<group>event_feed_location_faction_actor</group>
+<member>actor</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e9e3a91b-c204-4f6c-bdba-b544a6eb06e2}" record_timestamp="1429715213373" record_key="event_feed_location_faction_joining_factionjoining_faction">
+<group>event_feed_location_faction_joining_faction</group>
+<member>joining_faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{9e594b4d-8056-459d-9eb3-189e1c25a3bf}" record_timestamp="1429715213237" record_key="event_feed_location_faction_recipientrecipient">
+<group>event_feed_location_faction_recipient</group>
+<member>recipient</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d0de3756-a53a-4b85-9339-9e70daa85bac}" record_timestamp="1429715213281" record_key="event_feed_location_faction_war_faction_1war_faction_1">
+<group>event_feed_location_faction_war_faction_1</group>
+<member>war_faction_1</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{32628ec1-1b22-49b2-907d-61e00f8af319}" record_timestamp="1429715213510" record_key="event_feed_location_faction_war_faction_2war_faction_2">
+<group>event_feed_location_faction_war_faction_2</group>
+<member>war_faction_2</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{715ac428-3f89-4941-9f0d-7d494484e3e7}" record_timestamp="1429715213919" record_key="event_feed_location_factionfaction">
+<group>event_feed_location_faction</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{1835d773-3e1f-4020-b633-1f847f68fb98}" record_timestamp="1429715213418" record_key="event_feed_location_instigator_generalinstigator.general">
+<group>event_feed_location_instigator_general</group>
+<member>instigator.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f9e2a5e6-bf51-4e03-be75-b27ce2228d52}" record_timestamp="1429715213555" record_key="event_feed_location_instigatorinstigator">
+<group>event_feed_location_instigator</group>
+<member>instigator</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{5f58f7f8-927d-4ea1-a6d8-be5f4a19a498}" record_timestamp="1429715213464" record_key="event_feed_location_military_force_factionforce.faction">
+<group>event_feed_location_military_force_faction</group>
+<member>force.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{03609d7e-38d3-4672-a6dc-86ef9ab52b38}" record_timestamp="1429715211553" record_key="event_feed_location_military_force_generalforce.general">
+<group>event_feed_location_military_force_general</group>
+<member>force.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{abc59167-5128-486e-b6b2-7bb1bc1990c4}" record_timestamp="1429715211598" record_key="event_feed_location_mission_factionmission.faction">
+<group>event_feed_location_mission_faction</group>
+<member>mission.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{406cae8c-43a7-42bc-91af-d1a3b9ae82ae}" record_timestamp="1457709733313" record_key="event_feed_location_parent_generalparent.general">
+<group>event_feed_location_parent_general</group>
+<member>parent.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{00c52a0e-7068-4194-81c6-cb9a20450d00}" record_timestamp="1429715211506" record_key="event_feed_location_plague_to_generalto.general">
+<group>event_feed_location_plague_to_general</group>
+<member>to.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c34efdbc-63b0-4c20-b5ce-acf2a08a0e71}" record_timestamp="1429715211460" record_key="event_feed_location_plague_toto">
+<group>event_feed_location_plague_to</group>
+<member>to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4e0bf150-89c9-430d-9f65-3d3bc90ff449}" record_timestamp="1429715211732" record_key="event_feed_location_positionposition">
+<group>event_feed_location_position</group>
+<member>position</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{64a06c39-e789-4c17-90ca-f42b5bf40a01}" record_timestamp="1429715211643" record_key="event_feed_location_province_capitalprovince.capital">
+<group>event_feed_location_province_capital</group>
+<member>province.capital</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f68e61e0-2dad-4748-ac75-d9f500d5c5a6}" record_timestamp="1429715211777" record_key="event_feed_location_provinceprovince">
+<group>event_feed_location_province</group>
+<member>province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{26272fb8-f255-4528-9615-b674074ebe34}" record_timestamp="1429715211182" record_key="event_feed_location_raided_provinceraided.province">
+<group>event_feed_location_raided_province</group>
+<member>raided.province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{63ee756f-3251-4e3f-abf6-1bbbddd39299}" record_timestamp="1429715211688" record_key="event_feed_location_raidedraided">
+<group>event_feed_location_raided</group>
+<member>raided</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{86295601-3c1f-455a-bb5a-92d6092d21d9}" record_timestamp="1429715211229" record_key="event_feed_location_raider_generalraider.general">
+<group>event_feed_location_raider_general</group>
+<member>raider.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{23a76c80-59dd-4b58-8e24-ead4ed914eb3}" record_timestamp="1448979582447" record_key="event_feed_location_recipient_provincerecipient.province">
+<group>event_feed_location_recipient_province</group>
+<member>recipient.province</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{25f4332a-76fd-4d30-8ad4-039621f3ba1c}" record_timestamp="1429715211077" record_key="event_feed_location_regionregion">
+<group>event_feed_location_region</group>
+<member>region</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{66e05849-0418-4f0b-8f4e-5ddf5b3de506}" record_timestamp="1429715211134" record_key="event_feed_location_settlementsettlement">
+<group>event_feed_location_settlement</group>
+<member>settlement</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4b1e1c59-094f-42bb-ab54-022134133330}" record_timestamp="1429715211414" record_key="event_feed_location_target_generaltarget.general">
+<group>event_feed_location_target_general</group>
+<member>target.general</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ed21796a-a06a-40b5-a462-ba4c2291452b}" record_timestamp="1429715211367" record_key="event_feed_location_targettarget">
+<group>event_feed_location_target</group>
+<member>target</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8cd7b291-72e1-4f87-8844-d0cff474405c}" record_timestamp="1429715211274" record_key="event_feed_scripted_event_targetindex">
+<group>event_feed_scripted_event_target</group>
+<member>index</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{787cd132-7000-40be-8a65-17a2bfcaeb13}" record_timestamp="1429715211320" record_key="event_feed_target_actor_known_toactor.known_to">
+<group>event_feed_target_actor_known_to</group>
+<member>actor.known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{6f4cfc9f-a676-425c-aec0-2af29dec35c5}" record_timestamp="1429715212261" record_key="event_feed_target_agent_factionagent.faction">
+<group>event_feed_target_agent_faction</group>
+<member>agent.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ef169911-e4e1-4d99-9de3-e65257ae8596}" record_timestamp="1429715212305" record_key="event_feed_target_ambusher_factionambusher.faction">
+<group>event_feed_target_ambusher_faction</group>
+<member>ambusher.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ab254dc5-ae22-4d04-9c31-b2e0ce7833ba}" record_timestamp="1429715212174" record_key="event_feed_target_attacked_by_factionattacked_by.faction">
+<group>event_feed_target_attacked_by_faction</group>
+<member>attacked_by.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0fd0750a-9f77-4700-8efb-cf0e7df1d4c4}" record_timestamp="1429715212217" record_key="event_feed_target_building_factionbuilding.faction">
+<group>event_feed_target_building_faction</group>
+<member>building.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{bbb5b741-0e25-472a-b93e-2cc442b984ce}" record_timestamp="1429715212434" record_key="event_feed_target_capital_factioncapital.faction">
+<group>event_feed_target_capital_faction</group>
+<member>capital.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d8eeffb6-8125-4932-9aa6-95d0c01e9b81}" record_timestamp="1429715212478" record_key="event_feed_target_character_attacker_factionattacker.faction">
+<group>event_feed_target_character_attacker_faction</group>
+<member>attacker.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c24aac98-6ac6-4fd5-aad1-26355d85bbb1}" record_timestamp="1429715212348" record_key="event_feed_target_character_child_factionchild.faction">
+<group>event_feed_target_character_child_faction</group>
+<member>child.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f065cf18-9d7c-47e1-a586-c6500c268b25}" record_timestamp="1429715212392" record_key="event_feed_target_character_factioncharacter.faction">
+<group>event_feed_target_character_faction</group>
+<member>character.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{ab4d5031-d4bd-4da7-9635-4b68781cff03}" record_timestamp="1429715211911" record_key="event_feed_target_character_heir_factionheir.faction">
+<group>event_feed_target_character_heir_faction</group>
+<member>heir.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{0c837c18-d6b1-4459-a726-940fee7af748}" record_timestamp="1468846453431" record_key="event_feed_target_companion_culturecompanion.culture">
+<group>event_feed_target_companion_culture</group>
+<member>companion.culture</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{21e9747f-43c4-4819-ba14-7211c46ff7ff}" record_timestamp="1455877315336" record_key="event_feed_target_confederation_known_toconfederation.known_to">
+<group>event_feed_target_confederation_known_to</group>
+<member>confederation.known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{887aed7c-fc33-4e42-bed9-7f4a4bafbd0e}" record_timestamp="1448529166531" record_key="event_feed_target_conquest_battle_attacker_parent_army_factionattacker.parent_army_faction">
+<group>event_feed_target_conquest_battle_attacker_parent_army_faction</group>
+<member>attacker.parent_army_faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{33f6b90c-9411-40e2-8eb9-513c949d6aa0}" record_timestamp="1429715211955" record_key="event_feed_target_conquest_battle_attackerattacker">
+<group>event_feed_target_conquest_battle_attacker</group>
+<member>attacker</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4b06cfd8-3d07-4b54-afee-b8415b65c568}" record_timestamp="1448529166541" record_key="event_feed_target_conquest_battle_defender_parent_army_factiondefender.parent_army_faction">
+<group>event_feed_target_conquest_battle_defender_parent_army_faction</group>
+<member>defender.parent_army_faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b0e5d491-8c34-4ed4-bb7f-dac505125e2d}" record_timestamp="1429715211821" record_key="event_feed_target_conquest_battle_defenderdefender">
+<group>event_feed_target_conquest_battle_defender</group>
+<member>defender</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{1fb57f18-9b10-4d75-ae95-46789eefdc28}" record_timestamp="1429715211865" record_key="event_feed_target_conquest_besieged_factionsettlement.faction">
+<group>event_feed_target_conquest_besieged_faction</group>
+<member>settlement.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{bb862e7b-67fc-432b-839b-9a9ac21ca9f0}" record_timestamp="1429715212086" record_key="event_feed_target_conquest_besieger_factionbesieger.faction">
+<group>event_feed_target_conquest_besieger_faction</group>
+<member>besieger.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d6b55cc6-5f16-4eee-9396-148620fda0bf}" record_timestamp="1429715212130" record_key="event_feed_target_conquest_blockaded_factionblockaded.faction">
+<group>event_feed_target_conquest_blockaded_faction</group>
+<member>blockaded.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{9c9a80bd-ff66-47de-aa07-eba46de9f8c5}" record_timestamp="1429715211998" record_key="event_feed_target_conquest_blockader_factionblockader.faction">
+<group>event_feed_target_conquest_blockader_faction</group>
+<member>blockader.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8a5e24c2-19e2-4774-8e17-c7fb13ea4f22}" record_timestamp="1429715212042" record_key="event_feed_target_conquest_captured_fromcaptured_from">
+<group>event_feed_target_conquest_captured_from</group>
+<member>captured_from</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3124ac84-75ef-41b6-9042-49c9ce1304e7}" record_timestamp="1429715210042" record_key="event_feed_target_conquest_occupier_factionoccupier.faction">
+<group>event_feed_target_conquest_occupier_faction</group>
+<member>occupier.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d90b8ac3-4e09-4a85-9201-853ec3110d93}" record_timestamp="1429715210088" record_key="event_feed_target_conquest_raider_factionraider.faction">
+<group>event_feed_target_conquest_raider_faction</group>
+<member>raider.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{86abcb48-ce35-4ac2-851a-f3e430b4f4e9}" record_timestamp="1429715209952" record_key="event_feed_target_conquest_region_factionregion.faction">
+<group>event_feed_target_conquest_region_faction</group>
+<member>region.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{6daf397d-1403-4363-ad9a-0c4d052dbe6a}" record_timestamp="1429715209997" record_key="event_feed_target_contestingcontesting">
+<group>event_feed_target_contesting</group>
+<member>contesting</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{978bd90b-5866-47bf-a67a-374d46fcd8b5}" record_timestamp="1429715210225" record_key="event_feed_target_criteria_agentagent">
+<group>event_feed_target_criteria_agent</group>
+<member>agent</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3050f78a-21de-4fd9-bebf-acd76c66bbd0}" record_timestamp="1429715210271" record_key="event_feed_target_criteria_attack_outcomeattack_outcome">
+<group>event_feed_target_criteria_attack_outcome</group>
+<member>attack_outcome</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{83280408-eab9-4393-8e63-102b62501479}" record_timestamp="1429715210133" record_key="event_feed_target_criteria_attritionattrition">
+<group>event_feed_target_criteria_attrition</group>
+<member>attrition</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{31f7a6c2-ade9-43c0-a8b2-53b214a2a762}" record_timestamp="1470837422616" record_key="event_feed_target_criteria_character_culturecharacter.culture">
+<group>event_feed_target_criteria_character_culture</group>
+<member>character.culture</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{85df9abf-a322-46e1-a88c-e634f3fafff6}" record_timestamp="1429715210180" record_key="event_feed_target_criteria_charactercharacter">
+<group>event_feed_target_criteria_character</group>
+<member>character</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4d14c7f2-6cde-43d0-9b00-e6083615904d}" record_timestamp="1429715209681" record_key="event_feed_target_criteria_childchild">
+<group>event_feed_target_criteria_child</group>
+<member>child</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e0476e3f-765a-4342-80a4-eac824dc8dd5}" record_timestamp="1500369332387" record_key="event_feed_target_criteria_confederation_cultureconfederation.culture">
+<group>event_feed_target_criteria_confederation_culture</group>
+<member>confederation.culture</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c56dfca2-b9de-4cd9-a6d2-cedfa012afd5}" record_timestamp="1499850571777" record_key="event_feed_target_criteria_faction_2_culturefaction_2.culture">
+<group>event_feed_target_criteria_faction_2_culture</group>
+<member>faction_2.culture</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{d0571c00-37bd-4531-86c8-b5ecf094a4de}" record_timestamp="1499670353686" record_key="event_feed_target_criteria_faction_culturefaction.culture">
+<group>event_feed_target_criteria_faction_culture</group>
+<member>faction.culture</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{a4b19254-8db1-4bc4-9019-a94887e4a095}" record_timestamp="1429715209727" record_key="event_feed_target_criteria_faction_state_religionfaction.state_religion">
+<group>event_feed_target_criteria_faction_state_religion</group>
+<member>faction.state_religion</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c4832a32-b992-456a-834e-575ddf64d15f}" record_timestamp="1429715209590" record_key="event_feed_target_criteria_resourceresource">
+<group>event_feed_target_criteria_resource</group>
+<member>resource</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4e029e0f-26e0-471f-9f5d-65b0095feb34}" record_timestamp="1429715209635" record_key="event_feed_target_criteria_result_and_agentagent">
+<group>event_feed_target_criteria_result_and_agent</group>
+<member>agent</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{60d8e984-7150-41dc-9bf0-b6d1f4f5de9f}" record_timestamp="1429715209862" record_key="event_feed_target_criteria_result_and_agentresult">
+<group>event_feed_target_criteria_result_and_agent</group>
+<member>result</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{92789956-7292-4444-ad78-01440137c2a0}" record_timestamp="1429715209907" record_key="event_feed_target_dilemma_factiondilemma.faction">
+<group>event_feed_target_dilemma_faction</group>
+<member>dilemma.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{74b66b0b-ae3c-4333-a305-5b7f6717fe9d}" record_timestamp="1429715209771" record_key="event_feed_target_diplomacy_actoractor">
+<group>event_feed_target_diplomacy_actor</group>
+<member>actor</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c563a5a2-a229-43c8-a172-d6e78c75fe40}" record_timestamp="1429715209817" record_key="event_feed_target_diplomacy_allyally">
+<group>event_feed_target_diplomacy_ally</group>
+<member>ally</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f0ebd19f-8b91-4744-9702-a528b3e639fc}" record_timestamp="1429715210840" record_key="event_feed_target_diplomacy_faction_1faction_1">
+<group>event_feed_target_diplomacy_faction_1</group>
+<member>faction_1</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{6e84aa61-4dbd-4e33-9356-0328464e2780}" record_timestamp="1429715210695" record_key="event_feed_target_diplomacy_faction_2faction_2">
+<group>event_feed_target_diplomacy_faction_2</group>
+<member>faction_2</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f3c8e18a-5ec3-404d-9f7e-3a3d5e92fe9d}" record_timestamp="1429715210793" record_key="event_feed_target_diplomacy_factionfaction">
+<group>event_feed_target_diplomacy_faction</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c89bfee4-f857-406f-b88e-74886bddbff6}" record_timestamp="1429715210744" record_key="event_feed_target_diplomacy_joining_factionjoining_faction">
+<group>event_feed_target_diplomacy_joining_faction</group>
+<member>joining_faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{2a5c4c43-abce-4fe8-8569-8758fbb91f37}" record_timestamp="1429715210982" record_key="event_feed_target_diplomacy_known_toactor.known_to">
+<group>event_feed_target_diplomacy_known_to</group>
+<member>actor.known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b7eff5f0-1612-4aa2-9cd6-d3e3699166c7}" record_timestamp="1429715211029" record_key="event_feed_target_diplomacy_known_torecipient.known_to">
+<group>event_feed_target_diplomacy_known_to</group>
+<member>recipient.known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8036cc1b-5b09-4a92-8069-5a4b14bd6541}" record_timestamp="1429715210887" record_key="event_feed_target_diplomacy_negotiated_bynegotiated_by">
+<group>event_feed_target_diplomacy_negotiated_by</group>
+<member>negotiated_by</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f438a566-85ff-4444-9f95-7181cd6a50b7}" record_timestamp="1429715210934" record_key="event_feed_target_diplomacy_recipientrecipient">
+<group>event_feed_target_diplomacy_recipient</group>
+<member>recipient</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{b2506561-184f-4c7c-aa7f-23fc8311a4c6}" record_timestamp="1429715210409" record_key="event_feed_target_diplomacy_war_faction_1_awar_faction_1">
+<group>event_feed_target_diplomacy_war_faction_1_a</group>
+<member>war_faction_1</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{9460f313-a972-4685-85ea-3b0a56cb4781}" record_timestamp="1429715210457" record_key="event_feed_target_diplomacy_war_faction_1_bwar_faction_1">
+<group>event_feed_target_diplomacy_war_faction_1_b</group>
+<member>war_faction_1</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{78d8174c-f8e6-4add-ab82-4c4f2d4247f1}" record_timestamp="1429715210317" record_key="event_feed_target_diplomacy_war_faction_2war_faction_2">
+<group>event_feed_target_diplomacy_war_faction_2</group>
+<member>war_faction_2</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{3c84a906-a9a6-451b-bff4-5927f2471178}" record_timestamp="1429715210364" record_key="event_feed_target_discovered_bydiscovered_by">
+<group>event_feed_target_discovered_by</group>
+<member>discovered_by</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{32a50933-a3f7-4d67-9d99-e5c02e4f574c}" record_timestamp="1429715210648" record_key="event_feed_target_faction_former_leader_factionformer_leader.faction">
+<group>event_feed_target_faction_former_leader_faction</group>
+<member>former_leader.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{8a492445-165b-43ec-9eb5-8b2ce28137a8}" record_timestamp="1429715210505" record_key="event_feed_target_faction_instigator_factioninstigator.faction">
+<group>event_feed_target_faction_instigator_faction</group>
+<member>instigator.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{099687df-4c7e-41fc-ba2e-71158379b938}" record_timestamp="1429715210553" record_key="event_feed_target_faction_known_tofaction.known_to">
+<group>event_feed_target_faction_known_to</group>
+<member>faction.known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{142bc088-3adb-495d-8962-ec47d4243421}" record_timestamp="1429715209178" record_key="event_feed_target_faction_new_leader_factionnew_leader.faction">
+<group>event_feed_target_faction_new_leader_faction</group>
+<member>new_leader.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{9c9aa889-cadb-4edc-9989-24a0de681cd8}" record_timestamp="1429715210600" record_key="event_feed_target_factionfaction">
+<group>event_feed_target_faction</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{c01d8a99-f44d-4549-b73c-09296ec1249c}" record_timestamp="1457017380018" record_key="event_feed_target_force_parent_army_factionforce.parent_army_faction">
+<group>event_feed_target_force_parent_army_faction</group>
+<member>force.parent_army_faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{76c5d4ce-bd82-40b6-bfdc-e1aef5e0e0b4}" record_timestamp="1497868309163" record_key="event_feed_target_human_factionhuman_faction">
+<group>event_feed_target_human_faction</group>
+<member>human_faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{7dac925c-8161-4ec0-8ccc-afa6829fd679}" record_timestamp="1429715209224" record_key="event_feed_target_incident_factionfaction">
+<group>event_feed_target_incident_faction</group>
+<member>faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{7f222ef1-1669-4852-8ebe-4f21c4f42deb}" record_timestamp="1429715209088" record_key="event_feed_target_military_character_factioncharacter.faction">
+<group>event_feed_target_military_character_faction</group>
+<member>character.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{4f6d2dd8-d61c-4926-bb44-494b307c31cd}" record_timestamp="1429715209133" record_key="event_feed_target_military_force_factionforce.faction">
+<group>event_feed_target_military_force_faction</group>
+<member>force.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{e458f53e-9a7f-4757-b805-bb2fee27aa2a}" record_timestamp="1429715209359" record_key="event_feed_target_military_unit_factionunit.faction">
+<group>event_feed_target_military_unit_faction</group>
+<member>unit.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{778b4bd1-2989-47e2-ba02-84777a8dcc69}" record_timestamp="1429715209405" record_key="event_feed_target_mission_factionmission.faction">
+<group>event_feed_target_mission_faction</group>
+<member>mission.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{f5abb869-b066-458f-83d5-331a00c8a3d8}" record_timestamp="1429715209269" record_key="event_feed_target_opponentopponent">
+<group>event_feed_target_opponent</group>
+<member>opponent</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{2e0787f9-e07f-468a-8c67-afe0fa56be65}" record_timestamp="1429715209314" record_key="event_feed_target_ownerowner">
+<group>event_feed_target_owner</group>
+<member>owner</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{416bc2ee-87a5-4dd5-8438-0e39ef3bf40e}" record_timestamp="1452069437283" record_key="event_feed_target_parent_faction_known_toparent.faction_known_to">
+<group>event_feed_target_parent_faction_known_to</group>
+<member>parent.faction_known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{1110a5e4-ba99-4fbb-962f-ccca050356f9}" record_timestamp="1440765263194" record_key="event_feed_target_parent_factionparent.faction">
+<group>event_feed_target_parent_faction</group>
+<member>parent.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{95ef9ab7-c500-4bf3-ab38-e317c5dc2f9a}" record_timestamp="1429715208815" record_key="event_feed_target_party_factionparty.faction">
+<group>event_feed_target_party_faction</group>
+<member>party.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{98d94c76-ed23-4204-ae4c-c374b812e63c}" record_timestamp="1429715208859" record_key="event_feed_target_plague_from_factionfrom.faction">
+<group>event_feed_target_plague_from_faction</group>
+<member>from.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{1862d7ab-7a87-4841-bf68-3d51a67ba22e}" record_timestamp="1429715208722" record_key="event_feed_target_plague_to_factionto.faction">
+<group>event_feed_target_plague_to_faction</group>
+<member>to.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{341ca4c1-c87e-472e-92a9-1f5696a52ee0}" record_timestamp="1429715208769" record_key="event_feed_target_province_factionprovince.faction">
+<group>event_feed_target_province_faction</group>
+<member>province.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{16f6d9eb-3f1e-4b7b-811e-53c4f3e21e06}" record_timestamp="1429715208996" record_key="event_feed_target_raided_factionraided.faction">
+<group>event_feed_target_raided_faction</group>
+<member>raided.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{22152279-315a-432b-9b8f-9bd7d7d1e4c4}" record_timestamp="1429715209042" record_key="event_feed_target_recipient_known_torecipient.known_to">
+<group>event_feed_target_recipient_known_to</group>
+<member>recipient.known_to</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{df14c8b2-3642-4d9a-8107-d4193b5fc0d9}" record_timestamp="1429715208905" record_key="event_feed_target_region_factionregion.faction">
+<group>event_feed_target_region_faction</group>
+<member>region.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{91b10d82-b41f-463d-8842-362f0f2d07d1}" record_timestamp="1429715208951" record_key="event_feed_target_settlement_factionsettlement.faction">
+<group>event_feed_target_settlement_faction</group>
+<member>settlement.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{81278db3-fc33-4faa-8466-0d4624998d58}" record_timestamp="1429715209498" record_key="event_feed_target_subject_factionsubject.faction">
+<group>event_feed_target_subject_faction</group>
+<member>subject.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{9c9cd318-fa3d-438c-ae6f-76d9f3f98c66}" record_timestamp="1429715209544" record_key="event_feed_target_target_factiontarget.faction">
+<group>event_feed_target_target_faction</group>
+<member>target.faction</member>
+</event_feed_group_members>
+<event_feed_group_members record_uuid="{5fe0b723-acab-484c-86d0-5d78701f480b}" record_timestamp="1429715209452" record_key="event_feed_target_world_player_factionplayer.faction">
+<group>event_feed_target_world_player_faction</group>
+<member>player.faction</member>
+</event_feed_group_members>
+</dataroot>

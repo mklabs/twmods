@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_ritual_variables.xsd" export_time="Wed Sep 6 19:02:48 2017" revision="16" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>215619fd-b4c1-49d1-83b6-6a1c42e41089</edit_uuid>
+<cai_ritual_variables record_uuid="{2ad99177-7652-4607-820d-b27a15815b94}" record_timestamp="1501169971391" record_key="minor_ritual_cast_max_rounds">
+<description>The min and max bounds are scaled linearly between min and max by difficulty level. e.g. if min= 0, max = 12, then in the hardest difficulty, a minor ritual will be cast in every [0,..,2] turn.</description>
+<key>minor_ritual_cast_max_rounds</key>
+<value>25</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{7450dae8-beb9-477c-a7f4-fafda04ee749}" record_timestamp="1501169964446" record_key="minor_ritual_cast_min_rounds">
+<description>The min and max bounds are scaled linearly between min and max by difficulty level. e.g. if min= 0, max = 12, then in the hardest difficulty, a minor ritual will be cast in every [0,..,2] turn.</description>
+<key>minor_ritual_cast_min_rounds</key>
+<value>5</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{92c71cf2-0b40-4d5f-a920-0d1e60317cfa}" record_timestamp="1482228451273" record_key="vortex_interruption_chance_base">
+<description>Base value for the vortex interruption chance formula</description>
+<key>vortex_interruption_chance_base</key>
+<value>-50</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{56e1c03b-c50f-4c5f-8a71-bc6919bf55fa}" record_timestamp="1499078642975" record_key="vortex_interruption_chance_bounds_max">
+<description>Used as the max bound in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_bounds_max</key>
+<value>95</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{eee1c750-8322-4332-93b6-60b3e9dabbaa}" record_timestamp="1490018923434" record_key="vortex_interruption_chance_bounds_min">
+<description>Used as the min bound in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_bounds_min</key>
+<value>5</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{0b7b840f-1885-47bb-af70-62d8fb7d3a3b}" record_timestamp="1496217629873" record_key="vortex_interruption_chance_difficulty_level_max_contribution">
+<description>Difficulty level. Note: if the target is an AI faction, the difficulty level it he opposite of the player’s difficulty! (so if it’s legendary for the player, it’s easy for AI)</description>
+<key>vortex_interruption_chance_difficulty_level_max_contribution</key>
+<value>40</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{4f40e7ac-2e05-436a-8cb2-b27dc5c319ce}" record_timestamp="1482228451271" record_key="vortex_interruption_chance_difficulty_level_min_contribution">
+<description>Difficulty level. Note: if the target is an AI faction, the difficulty level it he opposite of the player’s difficulty! (so if it’s legendary for the player, it’s easy for AI)</description>
+<key>vortex_interruption_chance_difficulty_level_min_contribution</key>
+<value>0</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{c7448f29-21d1-47ef-8412-cd3591da31d8}" record_timestamp="1490018923445" record_key="vortex_interruption_chance_endpoint_multiplier">
+<description>A modifier on the intervention chance (the longer ago was the vortex ritual started, the less chance AI will interrupt (should be between 0 and 1), if it is 0, ai wont interrupt. if 0.5, it wont interrupt after the half way through </description>
+<key>vortex_interruption_chance_endpoint_multiplier</key>
+<value>0.5</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{abd49b70-4a29-4bcc-a091-7e8ea85d5425}" record_timestamp="1482228451272" record_key="vortex_interruption_chance_others_already_cast_max_contribution">
+<description>Target faction has recently (within 10 rounds) been interrupted by others maximum  in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_others_already_cast_max_contribution</key>
+<value>25</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{dcd79f16-82ba-4c7c-ace3-cb1b82e43ca7}" record_timestamp="1482228451272" record_key="vortex_interruption_chance_others_already_cast_min_contribution">
+<description>Target faction has recently (within 10 rounds) been interrupted by others minimum  in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_others_already_cast_min_contribution</key>
+<value>0</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{6e7ebcfd-981f-47c8-a02d-5bc32435ecd5}" record_timestamp="1496217629879" record_key="vortex_interruption_chance_player_multiplier">
+<description>If the target is the player, apply multiplier  in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_player_multiplier</key>
+<value>2</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{8273c112-ddf6-474c-bac6-bc17b6cf730a}" record_timestamp="1496217629885" record_key="vortex_interruption_chance_progress_of_target_max_contribution">
+<description>Target faction’s ritual progress  maximum in vortex interruption chance formula. The higher the level, the bigger the chance it’ll get interrupted. </description>
+<key>vortex_interruption_chance_progress_of_target_max_contribution</key>
+<value>30</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{b27ecb93-0fcc-4246-89e9-73698694c185}" record_timestamp="1482228451271" record_key="vortex_interruption_chance_progress_of_target_min_contribution">
+<description>Target faction’s ritual progress  minimum in vortex interruption chance formula. The higher the level, the bigger the chance it’ll get interrupted,</description>
+<key>vortex_interruption_chance_progress_of_target_min_contribution</key>
+<value>0</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{000cfb92-d471-4a37-acfa-fc70e647719d}" record_timestamp="1490018923454" record_key="vortex_interruption_chance_recently_cast_max_contribution">
+<description>AI faction recently casted an interruption on someone maximum  in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_recently_cast_max_contribution</key>
+<value>15</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{fa61037f-5a05-45a1-b67e-a35fb6ccb090}" record_timestamp="1482228451273" record_key="vortex_interruption_chance_recently_cast_min_contribution">
+<description>AI faction recently casted an interruption on someone minimum  in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_recently_cast_min_contribution</key>
+<value>0</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{998b69b2-cb56-4362-9e85-ac05c3fc3ad0}" record_timestamp="1482228451272" record_key="vortex_interruption_chance_recently_cast_rounds">
+<description>AI faction recently casted an interruption on someone, round threshold  in vortex interruption chance formula</description>
+<key>vortex_interruption_chance_recently_cast_rounds</key>
+<value>10</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{4799fcb2-69b9-4c89-a401-3d59f9a3105c}" record_timestamp="1499871885514" record_key="vortex_interruption_war_bonus_max">
+<description>Max bonus to war declaration value, scales with intervention chance.</description>
+<key>vortex_interruption_war_bonus_max</key>
+<value>30</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{1f34ed12-4063-4a34-b6c4-f5dd58c51ee2}" record_timestamp="1499788461060" record_key="vortex_interruption_war_bonus_min">
+<description>Min bonus to war declaration value, scales with intervention chance.</description>
+<key>vortex_interruption_war_bonus_min</key>
+<value>0</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{23f5b4e5-f9b6-4cd6-b8fa-4de8b3e8a378}" record_timestamp="1487766834940" record_key="vortex_ritual_cast_max_rounds">
+<description>The min and max bounds are scaled linearly between min and max by difficulty level. e.g. if min= 0, max = 12, then in the hardest difficulty, a vortex ritual will be cast following the idle of in every [0,..,12] turn.</description>
+<key>vortex_ritual_cast_max_rounds</key>
+<value>15</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{faa15250-ba2d-4a94-9c78-48a384fb1a5e}" record_timestamp="1487766834930" record_key="vortex_ritual_cast_min_rounds">
+<description>The min and max bounds are scaled linearly between min and max by difficulty level. e.g. if min= 0, max = 12, then in the hardest difficulty, a vortex ritual will be cast following the idle of in every [0,..,12] turn.</description>
+<key>vortex_ritual_cast_min_rounds</key>
+<value>5</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{4c7927da-c0d3-4ae4-9e92-2204d7ed4263}" record_timestamp="1500310307892" record_key="vortex_ritual_minimum_defence_army_size_in_units">
+<description>When determining potential defensive armies before casting a vortex ritual, the minimum size in units those armies must be to be counted as relevant.</description>
+<key>vortex_ritual_minimum_defence_army_size_in_units</key>
+<value>7</value>
+</cai_ritual_variables>
+<cai_ritual_variables record_uuid="{e88ac252-c52b-4ec6-a25c-a0653def159f}" record_timestamp="1504720968426" record_key="vortex_ritual_omit_defendability_after_rounds">
+<description>Ignore the defendibility check if we havent cast any ritual for this many rounds</description>
+<key>vortex_ritual_omit_defendability_after_rounds</key>
+<value>40</value>
+</cai_ritual_variables>
+</dataroot>

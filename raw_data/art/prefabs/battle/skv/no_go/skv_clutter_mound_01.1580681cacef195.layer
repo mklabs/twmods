@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="15806848e29f2f5">
+      <ECBuilding key="skv_rubble_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-18.1044922 -1.93117142 13.3496094" rotation="-7.92566967 -53.2746048 9.85366917" scale="0.243140593 0.243140668 0.243140534"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rubble_01"/>
+    </entity>
+    <entity id="15806848e29f2e9">
+      <ECBuilding key="skv_mudbank_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.1556396 3.03492355 7.14367676" rotation="0 238.872253 0" scale="1.6090039 1.60900331 1.6090039"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_01"/>
+    </entity>
+    <entity id="15806848e28f2e2">
+      <ECBuilding key="skv_wooden_stairs_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.6430664 0.10187912 8.70117188" rotation="0 130.000046 0" scale="0.691198051 0.691197991 0.691198051"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_02"/>
+    </entity>
+    <entity id="15806848e29f2f8">
+      <ECBuilding key="skv_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.43115234 2.11979294 -3.03295898" rotation="-16.0093231 82.8449707 -6.85463092e-005" scale="1.43326986 1.43326879 1.43326938"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_03"/>
+    </entity>
+    <entity id="15806848e28f2dd">
+      <ECBuilding key="skv_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.8704834 3.03489304 23.7611084" rotation="0 214.048233 0" scale="1.60900319 1.60900295 1.60900319"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_03"/>
+    </entity>
+    <entity id="15806848e27f2d3">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.20861816 11.8520012 13.9462891" rotation="0 147.000061 0" scale="0.9953264 0.995325983 0.9953264"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e27f2d5">
+      <ECBuilding key="skv_wheel_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.77807617 8.72797775 6.09130859" rotation="-12.5057201 -90 0" scale="1.15036857 1.15036917 1.15036857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wheel_01"/>
+    </entity>
+    <entity id="15806848e27f2cb">
+      <ECBuilding key="skv_wooden_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.2531738 0.15266037 22.2762451" rotation="23.1907005 -62.6278992 -25.7536106" scale="0.691197991 0.691197991 0.691197991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_walkway_01"/>
+    </entity>
+    <entity id="15806848e2af302">
+      <ECBuilding key="skv_scaffold_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.0965576 2.60926437 -9.6965332" rotation="-6.73407698 -36.8830872 -3.05353403" scale="0.995326281 0.995326221 0.995326281"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_scaffold_04"/>
+    </entity>
+    <entity id="15806848e28f2df">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.66442871 1.17704391 21.2446289" rotation="22.3569698 253.735535 5.46415104e-005" scale="0.995325804 0.995325923 0.995325983"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e2af2fd">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.20727539 2.60197067 20.9462891" rotation="41.6563721 -26.3472023 -9.47424316" scale="1.19439113 1.19439054 1.19439065"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e29f2eb">
+      <ECBuilding key="skv_rail_cart_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="18.7200928 -0.433887482 11.588501" rotation="-46.9090347 -67.868515 42.8086128" scale="1.19439054 1.19439042 1.19439054"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rail_cart_01"/>
+    </entity>
+    <entity id="15806848e29f2ee">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.5803223 2.73295212 6.84814453" rotation="0 21.9999981 0" scale="0.995325983 0.995325983 0.995325983"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e27f2c7">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.1282959 1.909832 17.097168" rotation="-9.75316811 195.202728 -326.756226" scale="1.19439209 1.19439042 1.19439209"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e29f2f4">
+      <ECBuilding key="skv_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.93469238 3.03495407 22.4122314" rotation="0 186.006927 0" scale="1.60900307 1.60900283 1.60900307"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_03"/>
+    </entity>
+    <entity id="15806848e29f2ec">
+      <ECBuilding key="skv_machinery_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.4224854 2.74988937 11.8161621" rotation="0 250 0" scale="1.43326867 1.43326902 1.43326867"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_machinery_01"/>
+    </entity>
+    <entity id="15806848e28f2d7">
+      <ECPointLight colour="160 255 70 255" colour_scale="6" radius="7" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH" for_light_probes_only="false"/>
+      <ECTransform position="-2.66870117 1.06293869 19.8684082" rotation="0 100.000084 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="15806848e2af304">
+      <ECPointLight colour="160 255 70 255" colour_scale="12" radius="7" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH" for_light_probes_only="false"/>
+      <ECTransform position="1.37072754 1.40595627 -3.01745605" rotation="0 100.000084 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="15806848e2af300">
+      <ECPointLight colour="160 255 70 255" colour_scale="6" radius="7" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH" for_light_probes_only="false"/>
+      <ECTransform position="-11.4222412 -1.5057869 15.3052979" rotation="0 100.000084 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="15806848e2af2ff">
+      <ECBuilding key="skv_rubble_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.8764648 -1.37666702 -16.9398193" rotation="0 36.0000038 0" scale="0.279471338 0.279471368 0.279471338"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rubble_01"/>
+    </entity>
+    <entity id="15806848e29f2ea">
+      <ECBuilding key="skv_wooden_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.1470947 -0.00346755981 -26.4534912" rotation="0 -41.9999962 0" scale="0.691197991 0.691197991 0.691197991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_walkway_01"/>
+    </entity>
+    <entity id="15806848e27f2c8">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.45983887 11.5303154 14.5643311" rotation="-15.9046555 200.000015 -2.73207552e-005" scale="0.995325863 0.995325923 0.99532634"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e28f2da">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.37402344 12.3644218 10.4116211" rotation="0 -52 0" scale="0.995326042 0.995325983 0.995326042"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e26f2c4">
+      <ECBuilding key="skv_cliff_bank_e" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.33251953 0.12821579 11.2731934" rotation="7.90893507 259.872803 4.09811328e-005" scale="1.64882851 1.18858552 1.188586"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_cliff_bank_e"/>
+    </entity>
+    <entity id="15806848e29f2f9">
+      <ECPointLight colour="160 255 70 255" colour_scale="30" radius="7" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH" for_light_probes_only="false"/>
+      <ECTransform position="5.90710449 0.994091034 22.2059326" rotation="0 100.000084 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="15806848e29f2f2">
+      <ECBuilding key="skv_cliff_bank_d" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0572509766 0.785533905 6.07702637" rotation="-4.26370668 -28.8611927 9.74859176e-007" scale="0.691198051 0.691198051 0.691198051"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_cliff_bank_d"/>
+    </entity>
+    <entity id="15806848e2af301">
+      <ECBuilding key="skv_scaffold_post_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.76208496 7.73145676 12.8530273" rotation="13.7348385 22.0000076 -2.99267981e-006" scale="0.671610892 0.671610653 0.671610951"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_scaffold_post_02"/>
+    </entity>
+    <entity id="15806848e2af308">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.6508789 4.22172165 12.8795166" rotation="28.0041656 45.3766823 -36.1791534" scale="0.995325983 0.995326161 0.995326102"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e2af303">
+      <ECBuilding key="skv_rubble_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.6572266 -2.22819901 22.1241455" rotation="0 -42.6655502 0" scale="0.243140593 0.243140593 0.243140593"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rubble_01"/>
+    </entity>
+    <entity id="15806848e28f2e7">
+      <ECBuilding key="skv_wooden_stairs_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.265625 0.720867157 27.121582" rotation="0 130.000046 0" scale="0.691198051 0.691197991 0.691198051"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_02"/>
+    </entity>
+    <entity id="15806848e2af2fa">
+      <ECBuilding key="skv_rubble_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.15991211 -1.28807449 -7.66699219" rotation="0 201 0" scale="0.333332002 0.333332002 0.333332002"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rubble_01"/>
+    </entity>
+    <entity id="15806848e29f2e8">
+      <ECBuilding key="skv_wooden_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-23.0352783 -0.0351142883 26.8579102" rotation="0 160.000046 0" scale="0.575997889 0.575998008 0.575997889"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_walkway_01"/>
+    </entity>
+    <entity id="15806848e29f2f7">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.0354004 -1.73418045 -27.12146" rotation="-7.65449715 17.4422531 -24.1500721" scale="0.691198111 0.691197991 0.691198051"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e28f2e5">
+      <ECBuilding key="skv_rail_cart_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.475708 1.13434982 23.8968506" rotation="-45.3852768 118.672073 -137.768082" scale="1.17691827 1.17691827 1.17691863"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rail_cart_04"/>
+    </entity>
+    <entity id="15806848e28f2dc">
+      <ECBuilding key="skv_wooden_stairs_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.8425293 1.79462814 -17.3310547" rotation="0 246.999985 0" scale="0.691198111 0.691197991 0.691198111"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_02"/>
+    </entity>
+    <entity id="15806848e27f2c9">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.1921387 2.32413864 18.4379883" rotation="32.375946 -19.1266499 -25.2191162" scale="0.995325923 0.995325923 0.995325923"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e28f2d8">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.177002 4.55772018 -3.32836914" rotation="-72.211937 124.431 -99.6532974" scale="0.995325923 0.779288292 0.995325983"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e28f2e3">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.02893066 5.41559982 20.5020752" rotation="0 24.0000038 0" scale="0.995326042 0.995325983 0.995326042"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e2af2fc">
+      <ECBuilding key="skv_wooden_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.4588623 1.27836227 15.2788086" rotation="-18.3263664 -64.0425873 27.5586739" scale="0.575998127 0.575998127 0.575998366"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_walkway_01"/>
+    </entity>
+    <entity id="15806848e27f2c6">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.7076416 7.14475632 -5.10534668" rotation="0 243.681854 0" scale="0.995325744 0.995325983 0.995325744"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e28f2e6">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.99060059 3.23283005 16.2700195" rotation="0 24.0000038 0" scale="0.995326042 0.995325983 0.995326042"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e28f2e0">
+      <ECBuilding key="skv_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-13.7095947 3.19578171 9.84838867" rotation="0 69.6146927 0" scale="1.27472162 1.27472138 1.27472162"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_03"/>
+    </entity>
+    <entity id="15806848e27f2cc">
+      <ECBuilding key="skv_wooden_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-19.5313721 0.474071503 12.135376" rotation="13.7428999 143.918625 24.3530521" scale="0.575998425 0.575997949 0.575998306"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_walkway_01"/>
+    </entity>
+    <entity id="15806848e2af2fe">
+      <ECBuilding key="skv_wooden_stairs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.5297852 5.44840622 12.8129883" rotation="0 -24.9999828 0" scale="0.575998008 0.575998008 0.575998008"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_01"/>
+    </entity>
+    <entity id="15806848e27f2d0">
+      <ECBuilding key="skv_machinery_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.12536621 3.18662643 -7.35217285" rotation="-16.3096695 54.0858879 -50.4376221" scale="0.995325863 0.995325923 0.995326042"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_machinery_01"/>
+    </entity>
+    <entity id="15806848e29f2ef">
+      <ECBuilding key="skv_machinery_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.70092773 3.3150444 5.06433105" rotation="-16.7092991 45.6656265 -14.5659771" scale="1.43326879 1.4332689 1.4332689"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_machinery_01"/>
+    </entity>
+    <entity id="15806848e29f2f3">
+      <ECBuilding key="skv_scaffold_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.05432129 5.28525925 11.4208984" rotation="6.1199584 95.9999847 1.36603776e-005" scale="0.691198111 0.691198051 0.69119817"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_scaffold_01"/>
+    </entity>
+    <entity id="15806848e29f2ed">
+      <ECBuilding key="skv_mudbank_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.9193115 3.03495407 17.7492676" rotation="0 214.048203 0" scale="1.60900354 1.60900307 1.60900354"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_01"/>
+    </entity>
+    <entity id="15806848e27f2cd">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.451416 1.58314133 9.84228516" rotation="-7.50465441 -15.2979307 26.5330791" scale="0.995326042 0.995326042 0.995325983"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e27f2d1">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.2628174 -1.34935379 -16.887207" rotation="0 6.00000048 0" scale="0.691197991 0.691197991 0.691197991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e27f2cf">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.2976074 4.81394577 -6.62231445" rotation="0 175 0" scale="0.995325625 0.995325983 0.995325625"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e28f2d6">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.28161621 2.69562912 -0.727416992" rotation="-27.0138111 -56.2160988 56.980114" scale="0.995326161 0.995326459 0.995326161"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e2af2fb">
+      <ECBuilding key="skv_cliffs_02_pillar_base" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.7003174 -6.7972908 -12.2049561" rotation="52.0511284 -60.1210976 -9.2546521e-005" scale="1 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_cliffs_02_pillar_base"/>
+    </entity>
+    <entity id="15806848e27f2c5">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="19.8598633 -1.93718338 -23.1987305" rotation="0 142 0" scale="0.691197991 0.691197991 0.691197991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e27f2ce">
+      <ECBuilding key="skv_wooden_bridge_planks_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.91894531 6.45692062 6.19067383" rotation="26.5554047 145.0569 36.7133293" scale="0.691197932 0.691197991 0.691197991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_bridge_planks_02"/>
+    </entity>
+    <entity id="15806848e29f2f1">
+      <ECBuilding key="skv_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.05273438 3.19575119 6.89050293" rotation="0 35.3858566 0" scale="1.27472174 1.27472138 1.27472174"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_03"/>
+    </entity>
+    <entity id="15806848e28f2e1">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-20.5769043 0.0556755066 16.7807617" rotation="0 109.000061 0" scale="0.995325923 0.995325983 0.995325923"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e29f2f6">
+      <ECBuilding key="skv_wooden_stairs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.25256348 8.68137741 16.0159912" rotation="-23.5636311 148.492889 -359.746429" scale="0.575998008 0.575997949 0.575998127"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_01"/>
+    </entity>
+    <entity id="15806848e28f2db">
+      <ECBuilding key="skv_rubble_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-16.5743408 -1.90480423 21.0931396" rotation="1.12612057 219.111374 16.0511761" scale="0.24314037 0.243140534 0.243140355"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rubble_01"/>
+    </entity>
+    <entity id="15806848e29f2f0">
+      <ECBuilding key="skv_rubble_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="20.7191162 -2.29784012 20.2380371" rotation="0 82.9999619 0" scale="0.277776986 0.277776957 0.277776986"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_rubble_01"/>
+    </entity>
+    <entity id="15806848e28f2d9">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.368042 5.82777023 11.6071777" rotation="0 243.000061 0" scale="0.995325863 0.995325983 0.995325863"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e2af307">
+      <ECBuilding key="skv_wooden_spikes_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.3616943 2.18125534 18.0473633" rotation="18.9023399 -59.693737 14.1938381" scale="1.19439149 1.19439077 1.19439113"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_spikes_01"/>
+    </entity>
+    <entity id="15806848e26f2c3">
+      <ECBuilding key="skv_scaffold_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.75170898 8.74671555 10.2318115" rotation="-5.00741625 225.218002 -350.491852" scale="0.691197991 0.691197634 0.691198051"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_scaffold_03"/>
+    </entity>
+    <entity id="15806848e27f2d4">
+      <ECBuilding key="skv_mudbank_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.497680664 2.43763351 -4.20385742" rotation="-13.901041 56.8089142 -16.4753437" scale="1.06622887 1.06622922 1.06622922"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_01"/>
+    </entity>
+    <entity id="15806848e27f2d2">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.765625 10.6970024 4.30725098" rotation="0 5.99999666 0" scale="0.99532634 0.995325983 0.99532634"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+    <entity id="15806848e2af305">
+      <ECBuilding key="skv_mudbank_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.5518799 3.091259 16.5688477" rotation="0 115.000038 0" scale="1.43326938 1.43326902 1.43326938"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_01"/>
+    </entity>
+    <entity id="15806848e27f2ca">
+      <ECBuilding key="skv_cliff_bank_d" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.88330078 0.316692352 10.5454102" rotation="0 106.895439 0" scale="1.00836122 1.00836122 1.00836122"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_cliff_bank_d"/>
+    </entity>
+    <entity id="15806848e28f2e4">
+      <ECBuilding key="skv_cliff_bank_e" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.63720703 0.295604706 2.4901123" rotation="19.2535782 -47.7305756 -9.51997208e-006" scale="0.905323505 0.922581196 0.922581196"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_cliff_bank_e"/>
+    </entity>
+    <entity id="15806848e28f2de">
+      <ECBuilding key="skv_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.2630615 4.09894943 -4.26196289" rotation="0 -68.336647 0" scale="1.6090039 1.60900354 1.6090039"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_mudbank_03"/>
+    </entity>
+    <entity id="15806848e2af306">
+      <ECBuilding key="skv_wooden_stairs_join_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.213501 5.76322556 1.05065918" rotation="0 -74.9999847 0" scale="0.995325923 0.995325983 0.995325923"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="skv_wooden_stairs_join_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

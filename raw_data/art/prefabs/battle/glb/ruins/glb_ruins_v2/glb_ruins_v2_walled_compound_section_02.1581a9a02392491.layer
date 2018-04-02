@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="1581a9a0238248b">
+      <ECBuilding key="glb_ruins_03_wall_low_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.09655762 3.3718729 -6.31494141" rotation="0 -90 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_wall_low_01"/>
+    </entity>
+    <entity id="1581a9a0238248c">
+      <ECBuilding key="glb_ruins_03_wall_low_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.78564453 2.51339626 -6.31488037" rotation="0 -90 0" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_wall_low_01"/>
+    </entity>
+    <entity id="1581a9a0238248d">
+      <ECBuilding key="glb_ruins_03_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.18737793 9.18621826 4.3984375" rotation="1.36603776e-005 179.999985 359.999969" scale="0.904112399 0.904112399 1.1667912"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_wall_01"/>
+    </entity>
+    <entity id="1581a9a0238248e">
+      <ECBuilding key="glb_ruins_03_wall_01" damage="100" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0185546875 9.94974899 4.51300049" rotation="-6.90639494e-013 1.00179113e-005 -179.999985" scale="1.16679132 1.16679132 1.16679132"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_wall_01"/>
+    </entity>
+    <entity id="1581a9a0239248f">
+      <ECBuilding key="glb_ruins_03_wall_window_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.318603516 0 -1.70220947" rotation="0 -90 0" scale="1.43999946 1.44000006 1.43999946"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_wall_window_04"/>
+    </entity>
+    <entity id="1581a9a02392490">
+      <ECBuilding key="glb_ruins_03_wall_window_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.7857666 1.04904175e-005 6.31488037" rotation="0 180.000015 0" scale="1.44000006 1.44000006 1.44000006"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_ruins_03_wall_window_04"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

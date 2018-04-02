@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="156e52e353f93e0">
+      <ECBuilding key="wef_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.200073242 1.20650673 15.1303711" rotation="-17.4569206 16.5542126 130.454422" scale="2.3366437 2.33664322 2.33664393"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156e52e354093e1">
+      <ECBuilding key="wef_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.96008301 0.843865395 -15.9182129" rotation="-68.8025818 263.610168 -321.507751" scale="2.33664298 2.3366437 2.3366437"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156e52e354093e2">
+      <ECBuilding key="wef_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.0506592 1.45103931 30.3208008" rotation="53.9397621 140.565948 185.298172" scale="2.3366437 2.33664274 2.33664393"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156e52e354093e3">
+      <ECBuilding key="wef_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.0506592 0 -30.3208008" rotation="-34.0318413 98.6779938 -73.3076248" scale="2.33664298 2.3366437 2.3366437"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156e52e354093e4">
+      <ECBuilding key="wef_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.80383301 2.7656517 0.7890625" rotation="14.8203154 -8.11030102 -37.9312897" scale="2.33664393 2.33664393 2.33664393"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

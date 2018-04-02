@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="religions.xsd" export_time="Fri Jul 21 17:37:39 2017" revision="41" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>003b6770-01d3-4fc1-a26b-bc23bbc75aa0</edit_uuid>
+<religions record_uuid="{b00bc40f-b61b-415c-abe7-d4b27ec836be}" record_timestamp="1497951739772" record_key="wh2_main_religion_skaven">
+<col_blue>0</col_blue>
+<col_green>255</col_green>
+<col_red>125</col_red>
+<destruction_mask_type>skaven</destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_skv]][[/img]]Skaven Corruption" last_edit_user="bob">[[img:icon_corruption_skv]][[/img]]Skaven Corruption</onscreen>
+<religion_key>wh2_main_religion_skaven</religion_key>
+<sort_order>8</sort_order>
+<ui_icon_path>icon_corruption_skv.png</ui_icon_path>
+</religions>
+<religions record_uuid="{2a1a98e9-a856-4138-b51a-d39ca29f1229}" record_timestamp="1500655059699" record_key="wh_main_religion_chaos">
+<col_blue>0</col_blue>
+<col_green>0</col_green>
+<col_red>255</col_red>
+<destruction_mask_type>chaos</destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_chs]][[/img]]Chaos Corruption" last_edit_user="bob">[[img:icon_corruption_chs]][[/img]]Chaos Corruption</onscreen>
+<religion_key>wh_main_religion_chaos</religion_key>
+<sort_order>3</sort_order>
+<ui_icon_path>icon_corruption_chs.png</ui_icon_path>
+</religions>
+<religions record_uuid="{89b11c2c-846d-4805-8f33-a6f2d7b811d1}" record_timestamp="1497951739772" record_key="wh_main_religion_undeath">
+<col_blue>255</col_blue>
+<col_green>0</col_green>
+<col_red>125</col_red>
+<destruction_mask_type>vampire</destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_vmp]][[/img]]Vampiric Corruption" last_edit_user="bob">[[img:icon_corruption_vmp]][[/img]]Vampiric Corruption</onscreen>
+<religion_key>wh_main_religion_undeath</religion_key>
+<sort_order>7</sort_order>
+<ui_icon_path>icon_corruption_vmp.png</ui_icon_path>
+</religions>
+<religions record_uuid="{b21071b1-9eef-4ee9-9d65-05ebab946748}" record_timestamp="1500655059675" record_key="wh_main_religion_untainted">
+<col_blue>0</col_blue>
+<col_green>255</col_green>
+<col_red>0</col_red>
+<destruction_mask_type></destruction_mask_type>
+<onscreen state="APPROVED" last_approved_text="[[img:icon_corruption_untainted]][[/img]]Untainted" last_edit_user="bob">[[img:icon_corruption_untainted]][[/img]]Untainted</onscreen>
+<religion_key>wh_main_religion_untainted</religion_key>
+<sort_order>2</sort_order>
+<ui_icon_path>icon_corruption_untainted.png</ui_icon_path>
+</religions>
+</dataroot>

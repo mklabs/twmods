@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="14e4886c6b048ed" name="building">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="14e4886d8b5491c">
+      <ECBuilding key="dwf_barracks_pillar_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.4656525 5.33055258 -42.182251" rotation="0 0 0" scale="0.999998987 1 0.999998987"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_03"/>
+    </entity>
+    <entity id="14e4886d8b448f9">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-43.0614014 9.43182564 -42.2389221" rotation="0 -0.0395775288 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54910">
+      <ECBuilding key="dwf_barracks_platform_stone_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="50.4343414 0.922048092 -19.1412659" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_stone_01"/>
+    </entity>
+    <entity id="14e4886d8b54907">
+      <ECBuilding key="dwf_barracks_pillar_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.5807953 5.33055258 17.9743042" rotation="0 180 0" scale="0.99999851 1 0.99999851"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_03"/>
+    </entity>
+    <entity id="14e4886d8b5490f">
+      <ECBuilding key="dwf_mining_equip_engine_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.40612793 -0.102560937 -2.09683228" rotation="0 20.0381527 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_equip_engine_01"/>
+    </entity>
+    <entity id="14e4886d8b5490c">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.12896729 9.43182564 -42.2251587" rotation="0 1.7075472e-005 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b5490d">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910477 9.51521873 -28.6890869" rotation="0 89.9802094 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b5491d">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910477 9.51521873 -12.7270203" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54909">
+      <ECBuilding key="dwf_mining_crucible" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.21925402 1.34435034 29.1972046" rotation="0 123.085205 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_crucible"/>
+    </entity>
+    <entity id="14e4886d8b44901">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="22.6778717 9.51524544 15.3700571" rotation="0 218.738815 0" scale="0.999999642 1 0.999999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448f8">
+      <ECBuilding key="dwf_barracks_barrells_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.9225769 -0.0688214302 13.9623117" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_barrells_02"/>
+    </entity>
+    <entity id="14e4886d8b448ee">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.3335724 9.51521873 -4.71844482" rotation="0 269.980194 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b5490b">
+      <ECBuilding key="dwf_barracks_workshop_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.3511047 0.922048092 2.4337759" rotation="0 124.840851 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_workshop_01"/>
+    </entity>
+    <entity id="14e4886d8b5490e">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-17.4575672 -7.12325525 32.3189926" rotation="0 1.90555847 0" scale="2.09279513 2.09279656 2.09279513"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b54917">
+      <ECBuilding key="dwf_mining_forge_metal_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.654541 7.79544401 -16.4404907" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_forge_metal_01"/>
+    </entity>
+    <entity id="14e4886d8b448fa">
+      <ECBuilding key="dwf_mining_coal_pit_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-37.4368439 0.0319571495 -15.4230642" rotation="0 90 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_coal_pit_01"/>
+    </entity>
+    <entity id="14e4886d8b54921">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="28.9047375 9.51524544 10.3779917" rotation="0 218.699326 0" scale="0.999999583 1 0.999999583"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54920">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-19.1184387 9.43182564 -42.2306824" rotation="0 1.7075472e-005 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448ff">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.1098633 9.43182564 -42.2279053" rotation="0 -0.0395570397 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54904">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-35.1403046 9.51520348 24.4161682" rotation="0 179.960449 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448f3">
+      <ECBuilding key="dwf_barracks_housing_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-26.15802 0.922048092 -27.82724" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_housing_01"/>
+    </entity>
+    <entity id="14e4886d8b448f7">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.3335724 9.51521873 -36.6699829" rotation="0 269.980194 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54914">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-33.1462097 -8.49612808 27.5908203" rotation="0 145.810074 0" scale="2.09279513 2.09279633 2.09279513"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b54903">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.2878933 -8.17405128 47.2212563" rotation="0 94.0553589 0" scale="2.09279513 2.09279537 2.09279513"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b54905">
+      <ECBuilding key="dwf_mining_coal_pit_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-18.0764008 0.053781271 16.819519" rotation="0 37.4439964 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_coal_pit_01"/>
+    </entity>
+    <entity id="14e4886d8b448f4">
+      <ECBuilding key="dwf_barracks_housing_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-31.0611115 0.922048092 4.40627956" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_housing_01"/>
+    </entity>
+    <entity id="14e4886d8b5491f">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910629 9.51521873 -20.7079163" rotation="0 90.019783 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b44900">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-43.1212006 9.51520348 24.4134216" rotation="0 180.000015 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54906">
+      <ECBuilding key="dwf_barracks_gateway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.60331726 0.922048092 -41.5815125" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_gateway_01"/>
+    </entity>
+    <entity id="14e4886d8b448f2">
+      <ECBuilding key="dwf_barracks_barrells_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.55787706 0.331949711 18.068573" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_barrells_01"/>
+    </entity>
+    <entity id="14e4886d8b54915">
+      <ECBuilding key="dwf_barracks_housing_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.0250549 0.922051907 -21.9075012" rotation="0 90.019783 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_housing_01"/>
+    </entity>
+    <entity id="14e4886d8b54913">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.6602173 -8.17413712 22.6712036" rotation="2.38738558e-005 62.3082695 2.91091546e-005" scale="2.09279585 2.09279561 2.09279585"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b44902">
+      <ECBuilding key="dwf_mining_shed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.29058838 -0.0282117128 10.6795053" rotation="0 143.375763 0" scale="1.00000024 1 1.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_shed_01"/>
+    </entity>
+    <entity id="14e4886d8b5491b">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.3335724 9.51521873 -20.7079163" rotation="0 269.980194 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b5491e">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-35.0805054 9.43182564 -42.2361755" rotation="0 1.7075472e-005 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448f6">
+      <ECBuilding key="dwf_barracks_stone_shed_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-23.9046001 0.92212826 -17.3420086" rotation="0 212.408249 0" scale="0.999999046 1 0.999999046"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_stone_shed_02"/>
+    </entity>
+    <entity id="14e4886d8b448fd">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="18.6929169 9.43182564 -42.2223816" rotation="0 -0.0395638682 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54908">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.3335876 9.51521873 -12.7270203" rotation="0 -89.9802094 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54911">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.19888115 -8.17405033 45.0418129" rotation="0 96.7704849 0" scale="2.0927949 2.09279561 2.0927949"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b54916">
+      <ECBuilding key="dwf_barracks_pillar_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-29.0478973 5.33055258 23.9515381" rotation="0 180 0" scale="0.999998629 1 0.999998629"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_03"/>
+    </entity>
+    <entity id="14e4886d8b54918">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.309559822 -8.17404938 46.0496521" rotation="0 96.7704849 0" scale="2.0927949 2.09279561 2.0927949"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b448ef">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-27.0993347 9.43182564 -42.233429" rotation="0 -0.0395638682 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448f5">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.3335876 9.51521873 3.26245022" rotation="0 -89.9802094 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b54912">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-18.2146759 -8.17404842 47.8599548" rotation="0 94.0553589 0" scale="2.09279513 2.09279561 2.09279513"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b448fb">
+      <ECBuilding key="dwf_barracks_pillar_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="33.3102875 5.33055162 8.43209839" rotation="0 233.491501 0" scale="0.999997795 1 0.999997795"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_03"/>
+    </entity>
+    <entity id="14e4886d8b5491a">
+      <ECBuilding key="dwf_mining_conveyer_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-36.6389313 -0.649393559 -1.26824951" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_conveyer_01"/>
+    </entity>
+    <entity id="14e4886d8b54919">
+      <ECBuilding key="dwf_barracks_platform_wooden_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.87256432 -7.220469 30.6864319" rotation="0 6.76816034 0" scale="2.09279442 2.09279561 2.09279442"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_platform_wooden_01"/>
+    </entity>
+    <entity id="14e4886d8b448fe">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910629 9.51521873 -36.6699829" rotation="0 90.019783 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b5490a">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="26.673811 9.43182564 -42.219635" rotation="0 1.7075472e-005 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448f1">
+      <ECBuilding key="dwf_barracks_pillar_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-47.9020844 5.33055258 -42.1822205" rotation="0 0 0" scale="0.999998868 1 0.999998868"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_03"/>
+    </entity>
+    <entity id="14e4886d8b448fc">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.3335876 9.51521873 -28.6890869" rotation="0 -89.9802094 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e4886d8b448f0">
+      <ECBuilding key="dwf_barracks_stone_shed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.124557495 0.922051907 -24.0918274" rotation="-1.36603776e-005 169.215149 -359.999969" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_stone_shed_01"/>
+    </entity>
+    <entity id="14e48872df44922">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910477 9.51522064 -4.83158779" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e488748a14923">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910477 9.51522064 3.13997746" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e48875c0a4924">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910477 9.51522064 11.1405649" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e48876dab4925">
+      <ECBuilding key="dwf_barracks_walls_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.1910477 9.51522064 19.1256142" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_walls_01"/>
+    </entity>
+    <entity id="14e48878c804926">
+      <ECBuilding key="dwf_barracks_pillar_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-47.9020844 5.33055162 24.0660133" rotation="0 180 0" scale="0.999998748 1 0.999998748"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_03"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="14e4886c6b048ed">
+        <to id="14e4886d8b5491c"/>
+        <to id="14e4886d8b448f9"/>
+        <to id="14e4886d8b54910"/>
+        <to id="14e4886d8b54907"/>
+        <to id="14e4886d8b5490f"/>
+        <to id="14e4886d8b5490c"/>
+        <to id="14e4886d8b5490d"/>
+        <to id="14e4886d8b5491d"/>
+        <to id="14e4886d8b54909"/>
+        <to id="14e4886d8b44901"/>
+        <to id="14e4886d8b448f8"/>
+        <to id="14e4886d8b448ee"/>
+        <to id="14e4886d8b5490b"/>
+        <to id="14e4886d8b5490e"/>
+        <to id="14e4886d8b54917"/>
+        <to id="14e4886d8b448fa"/>
+        <to id="14e4886d8b54921"/>
+        <to id="14e4886d8b54920"/>
+        <to id="14e4886d8b448ff"/>
+        <to id="14e4886d8b54904"/>
+        <to id="14e4886d8b448f3"/>
+        <to id="14e4886d8b448f7"/>
+        <to id="14e4886d8b54914"/>
+        <to id="14e4886d8b54903"/>
+        <to id="14e4886d8b54905"/>
+        <to id="14e4886d8b448f4"/>
+        <to id="14e4886d8b5491f"/>
+        <to id="14e4886d8b44900"/>
+        <to id="14e4886d8b54906"/>
+        <to id="14e4886d8b448f2"/>
+        <to id="14e4886d8b54915"/>
+        <to id="14e4886d8b54913"/>
+        <to id="14e4886d8b44902"/>
+        <to id="14e4886d8b5491b"/>
+        <to id="14e4886d8b5491e"/>
+        <to id="14e4886d8b448f6"/>
+        <to id="14e4886d8b448fd"/>
+        <to id="14e4886d8b54908"/>
+        <to id="14e4886d8b54911"/>
+        <to id="14e4886d8b54916"/>
+        <to id="14e4886d8b54918"/>
+        <to id="14e4886d8b448ef"/>
+        <to id="14e4886d8b448f5"/>
+        <to id="14e4886d8b54912"/>
+        <to id="14e4886d8b448fb"/>
+        <to id="14e4886d8b5491a"/>
+        <to id="14e4886d8b54919"/>
+        <to id="14e4886d8b448fe"/>
+        <to id="14e4886d8b5490a"/>
+        <to id="14e4886d8b448f1"/>
+        <to id="14e4886d8b448fc"/>
+        <to id="14e4886d8b448f0"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="25">
+  <entities>
+    <entity id="15a611586507fbc">
+      <ECBuilding key="lzd_smallwall_wall02" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.48596191 1.59532928 -7.22045898" rotation="-90 -2.36954165 0" scale="1.70281053 1.88456571 1.88456631"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall02"/>
+    </entity>
+    <entity id="15a611586507fbd">
+      <ECBuilding key="lzd_smallwall_wall02" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.15979 3.34579086 -6.66186523" rotation="-89.9999924 -1.69753778 3.20305702e-007" scale="1.29631233 1.43467844 1.43467772"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall02"/>
+    </entity>
+    <entity id="15a611586507fbe">
+      <ECBuilding key="lzd_bridge01" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.703735352 1.62595749 7.39624023" rotation="0 87.6153336 0" scale="0.999999642 1 0.999999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="bridge01"/>
+    </entity>
+    <entity id="15a611586507fbf">
+      <ECBuilding key="lzd_smallwall_wall02" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.164794922 2.09033394 -7.3963623" rotation="-89.9999542 -2.48816371 1.06822412e-007" scale="1.2963115 1.43467844 1.43467844"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall02"/>
+    </entity>
+    <entity id="15a611586507fc0">
+      <ECBuilding key="lzd_smallwall_wall02" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.159668 3.0675354 -5.6282959" rotation="-89.9999619 1.71273518 -179.999985" scale="1.29631114 1.43467844 1.43467855"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall02"/>
+    </entity>
+    <entity id="15a611586507fc1">
+      <ECBuilding key="lzd_smallwall_wall02" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-13.5411377 4.64806938 -5.17468262" rotation="-90 0 -90.0548019" scale="1.29631209 1.43467844 1.43467844"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall02"/>
+    </entity>
+    <entity id="15a6126967c802e">
+      <ECBuilding key="lzd_smallwall_wall01" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.4229317 3.52523804 -6.8246088" rotation="-89.9999924 -1.69753778 3.20305702e-007" scale="1.30697167 1.43467808 1.50408375"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall01"/>
+    </entity>
+    <entity id="15a6117a87f802d">
+      <ECBuilding key="lzd_smallwall_wall01" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.31237411 3.47741508 -6.66186476" rotation="-89.9999924 -1.69753778 3.20305702e-007" scale="1.6160686 1.36933601 1.50408375"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall01"/>
+    </entity>
+    <entity id="15a612885738030">
+      <ECBuilding key="lzd_smallwall_wall01" damage="20" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.4229317 4.16800308 -3.12045765" rotation="-1.06344676 179.968491 -179.929199" scale="2.89227772 2.97730899 3.1213429"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="smallwall_wall01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

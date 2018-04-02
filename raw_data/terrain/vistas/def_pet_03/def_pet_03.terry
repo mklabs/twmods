@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="20" id="15e2d86e2b037f8">
+  <pc type="QTU::ProjectTileMap">
+    <data terrain_setup="terrain/vistas/def_pet_03/" world_width="0" global_lighting="" ambient_light_environments="" water_plane_material="materials/campaign_water_plane_default.xml.material"/>
+  </pc>
+  <pc type="QTU::Scene">
+    <data version="27"/>
+  </pc>
+  <pc type="QTU::Terrain">
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeight" size="640x640" id="15e2d86e2af37f4"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e2d86e2af37f5" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeightSea" size="160x160" id="15e2d86e2b037f6"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e2d86e2b037f7" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+  </pc>
+</project>

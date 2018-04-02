@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="15d3169bf16d856">
+      <ECBuilding key="glb_crystal_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.1715727 -13.7358856 -12.4176407" rotation="37.1621971 248.445984 142.022568" scale="19.9999962 15.7478237 20.0000076"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_06"/>
+    </entity>
+    <entity id="15d3169bf16d857">
+      <ECBuilding key="glb_crystal_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.96496582 -13.8074112 -12.2070313" rotation="0 52.9999924 0" scale="12.499999 12.5 12.499999"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_05"/>
+    </entity>
+    <entity id="15d3169bf16d858">
+      <ECBuilding key="glb_crystal_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.28304291 -12.378046 12.993844" rotation="-17.5353355 187.768433 -1.36603776e-005" scale="10.4179535 10.4179525 10.4179535"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_05"/>
+    </entity>
+    <entity id="15d3169bf16d859">
+      <ECBuilding key="glb_crystal_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.20214844 2.44815826 1.61767578" rotation="0 181.493958 0" scale="17.2437534 35 17.2437534"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_03"/>
+    </entity>
+    <entity id="15d3169bf16d85a">
+      <ECBuilding key="glb_crystal_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.3316641 -5.514431 -3.28393555" rotation="-38.9809952 94.8996887 -20.1117096" scale="19.384182 13.7488594 19.384182"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_06"/>
+    </entity>
+    <entity id="15d3169bf16d85b">
+      <ECDecal model_path="rigidmodels/decals/skv/skv_warpstone_02.rigid_model_v2" parallax_scale="0.0799999982" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.0265808105 0 -12.0649414" rotation="0 0 0" scale="50 10 50"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15d3169bf17d85c">
+      <ECBuilding key="glb_crystal_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-13.8040304 -8.69257832 11.2144833" rotation="-14.1403074 179.569351 -335.59787" scale="4.99999809 7.68530226 4.99999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_05"/>
+    </entity>
+    <entity id="15d3169bf17d85d">
+      <ECDecal model_path="rigidmodels/decals/skv/skv_warpstone_01.rigid_model_v2" parallax_scale="0.0799999982" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="12.1687012 0 6.44726563" rotation="0 125.000008 0" scale="50.0000038 10 50.0000038"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15d316ce6ccbcfc">
+      <ECBuilding key="glb_crystal_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.36398029 -10.9651556 -21.171587" rotation="-88.2682877 261.769043 -98.9652863" scale="31.6447144 5.22515631 31.6447124"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_06"/>
+    </entity>
+    <entity id="15d316dcd79bcfd">
+      <ECBuilding key="glb_crystal_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-19.1445236 -8.56570244 11.6062927" rotation="-1.36603776e-005 238.477066 -179.999985" scale="14.9999981 5.22515535 14.9999981"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_05"/>
+    </entity>
+    <entity id="15d316e8089bcfe">
+      <ECNoGoRegion/>
+      <ECTransform position="10.9561195 0 24.1347389" rotation="0 0 0" scale="1 1 1"/>
+      <ECTransform2D/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="11.9874115" y="-26.3088303"/>
+          <point x="-0.406570435" y="-40.5552483"/>
+          <point x="-21.1703205" y="-51.3606606"/>
+          <point x="-33.7132721" y="-38.5510216"/>
+          <point x="-34.5798492" y="-6.90301132"/>
+        </polyline>
+      </ECPolyline>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

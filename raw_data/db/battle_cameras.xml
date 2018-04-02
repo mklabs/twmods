@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_cameras.xsd" export_time="Thu Aug 10 15:25:04 2017" revision="36" export_branch="T:/" export_user="bob">
+<edit_uuid>b9a5b0f5-e930-4292-a4e5-ca957b4086a9</edit_uuid>
+<battle_cameras record_uuid="{57c2c60f-b8a6-491f-9f2b-45aaf61b936e}" record_timestamp="1502375104273" record_key="land">
+<key>land</key>
+<max_height_large>85</max_height_large>
+<max_height_small>85</max_height_small>
+<min_fort_max_height>70</min_fort_max_height>
+<min_height>2</min_height>
+<move_fast_multiplier>0</move_fast_multiplier>
+<move_speed_max_multiplier>1.5</move_speed_max_multiplier>
+<move_speed_min_multiplier>0.10000000149011612</move_speed_min_multiplier>
+<playable_area_offset>0</playable_area_offset>
+<turn_speed_multiplier>1.5</turn_speed_multiplier>
+</battle_cameras>
+<battle_cameras record_uuid="{b9992877-a604-427e-a40f-631207e1403c}" record_timestamp="1502375104278" record_key="mixed">
+<key>mixed</key>
+<max_height_large>160</max_height_large>
+<max_height_small>160</max_height_small>
+<min_fort_max_height>70</min_fort_max_height>
+<min_height>4</min_height>
+<move_fast_multiplier>0</move_fast_multiplier>
+<move_speed_max_multiplier>1.5</move_speed_max_multiplier>
+<move_speed_min_multiplier>0.15000000596046448</move_speed_min_multiplier>
+<playable_area_offset>0</playable_area_offset>
+<turn_speed_multiplier>1.5</turn_speed_multiplier>
+</battle_cameras>
+<battle_cameras record_uuid="{2b38cbd7-d889-465e-bbed-a4525cee811b}" record_timestamp="1502375104284" record_key="naval">
+<key>naval</key>
+<max_height_large>140</max_height_large>
+<max_height_small>140</max_height_small>
+<min_fort_max_height>70</min_fort_max_height>
+<min_height>6.5</min_height>
+<move_fast_multiplier>0</move_fast_multiplier>
+<move_speed_max_multiplier>1.5</move_speed_max_multiplier>
+<move_speed_min_multiplier>0.15000000596046448</move_speed_min_multiplier>
+<playable_area_offset>0</playable_area_offset>
+<turn_speed_multiplier>1.5</turn_speed_multiplier>
+</battle_cameras>
+<battle_cameras record_uuid="{7d1d4bc4-d109-4d05-8008-dbd9e817d2d2}" record_timestamp="1495726751362" record_key="settlement_standard">
+<key>settlement_standard</key>
+<max_height_large>80</max_height_large>
+<max_height_small>80</max_height_small>
+<min_fort_max_height>70</min_fort_max_height>
+<min_height>2</min_height>
+<move_fast_multiplier>0</move_fast_multiplier>
+<move_speed_max_multiplier>1.5</move_speed_max_multiplier>
+<move_speed_min_multiplier>0.10000000149011612</move_speed_min_multiplier>
+<playable_area_offset>0</playable_area_offset>
+<turn_speed_multiplier>1.5</turn_speed_multiplier>
+</battle_cameras>
+<battle_cameras record_uuid="{f8894972-d217-4cd2-b12b-715107fff51d}" record_timestamp="1484742315672" record_key="underground_intercept">
+<key>underground_intercept</key>
+<max_height_large>80</max_height_large>
+<max_height_small>80</max_height_small>
+<min_fort_max_height>50</min_fort_max_height>
+<min_height>2</min_height>
+<move_fast_multiplier>0</move_fast_multiplier>
+<move_speed_max_multiplier>1.5</move_speed_max_multiplier>
+<move_speed_min_multiplier>0.10000000149011612</move_speed_min_multiplier>
+<playable_area_offset>0</playable_area_offset>
+<turn_speed_multiplier>1.5</turn_speed_multiplier>
+</battle_cameras>
+</dataroot>

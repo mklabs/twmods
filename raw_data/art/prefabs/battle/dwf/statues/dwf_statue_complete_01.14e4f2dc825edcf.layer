@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="18">
+  <entities>
+    <entity id="14e4f2dc825edca" name="dwf_statue_big_02_body_02_nolods">
+      <ECBuilding key="dwf_statue_big_02_body_02_nolods" damage="83" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="1.15307617 -52.7918396 0.495635986" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="statue_big_02_body_02_nolods"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

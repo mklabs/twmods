@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="153ecdb727557a8">
+      <ECBuilding key="glb_skirt_rural_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.4440165 0 11.1833744" rotation="0 174.345245 0" scale="0.891718686 0.970032454 0.970032334"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_skirt_rural_02"/>
+    </entity>
+    <entity id="153ecdb727557a9">
+      <ECBuilding key="glb_skirt_rural_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.03352737 0 -13.0523634" rotation="0 176.100464 0" scale="0.966104209 0.966104925 0.966104209"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_skirt_rural_03"/>
+    </entity>
+    <entity id="153ecdb727557ab">
+      <ECBuilding key="glb_skirt_rural_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.0619049 0 -9.82108021" rotation="0 269.000244 0" scale="0.787135601 1 0.701191902"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_skirt_rural_04"/>
+    </entity>
+    <entity id="153ecdb727557aa">
+      <ECBuilding key="glb_skirt_rural_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.18945122 0 -11.3000793" rotation="0 176.100449 0" scale="0.966103792 0.966104805 0.966103792"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_skirt_rural_03"/>
+    </entity>
+    <entity id="153ecdb727557a7">
+      <ECBuilding key="glb_skirt_rural_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.30260181 0 6.03530073" rotation="0 265.663513 0" scale="0.954416573 0.95441854 0.954416573"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_skirt_rural_05"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_unit_ability.xsd" export_time="Tue Mar 7 12:55:59 2017" revision="10" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>f23b00b9-cae6-47bd-8ea4-bc39c79ef017</edit_uuid>
+<campaign_bonus_value_ids_unit_ability record_uuid="{7f7e0388-251a-41b8-8db2-71dba9e7a899}" record_timestamp="1488891358223" record_key="cost_mod">
+<key>cost_mod</key>
+<notes>Additive cost modifier for unit abuility for unit in the unit set. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{90d51cde-c337-478f-a9a3-4d4ebd71a648}" record_timestamp="1488891358223" record_key="cost_percentage_mod">
+<key>cost_percentage_mod</key>
+<notes>Percentage cost modifier for unit abuility for unit in the unit set. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{6563f2c2-2614-44ac-802d-f93663b7c832}" record_timestamp="1454079111161" record_key="disable">
+<key>disable</key>
+<notes>Disables unit ability for a unit. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{8c5b27d7-14a5-42d9-b090-551716f8a006}" record_timestamp="1488891358222" record_key="disable_overchage">
+<key>disable_overchage</key>
+<notes>Disables overchage for a unit ability. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{45339e97-432e-4381-b557-198d671d6de7}" record_key="enable">
+<key>enable</key>
+<notes>Enables unit ability for a unit. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{227f9038-1e58-4f60-8f45-896b80a10866}" record_timestamp="1488891358223" record_key="enable_overchage">
+<key>enable_overchage</key>
+<notes>Enables overchage for a unit ability. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{4f0ce743-1838-43e2-837c-9b32f5567ded}" record_timestamp="1488891358616" record_key="miscast_percentage_mod">
+<key>miscast_percentage_mod</key>
+<notes>Percentage modifier that for miscast chance. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{7074251f-4bac-4808-86c1-63abe71f9a69}" record_timestamp="1461152289164" record_key="recharge_mod">
+<key>recharge_mod</key>
+<notes>Percentage modifier that affects unit special ability stats. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+<campaign_bonus_value_ids_unit_ability record_uuid="{316e2d46-caef-4251-9320-cccca696deda}" record_timestamp="1488891358223" record_key="uses_mod">
+<key>uses_mod</key>
+<notes>Additive uses modifier for unit abuility for unit in the unit set. Used at force and at unit commander bonuses</notes>
+</campaign_bonus_value_ids_unit_ability>
+</dataroot>

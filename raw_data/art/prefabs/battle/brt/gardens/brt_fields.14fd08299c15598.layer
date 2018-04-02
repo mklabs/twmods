@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="14fd08299bd553a" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="147.900131 11.3968277 -16.420166" rotation="2.73207552e-005 92.097229 2.73207552e-005" scale="38.7580261 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bd553b" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-51.0798645 11.3968201 18.6259766" rotation="2.78334792e-005 -8.29044056 -1.37248899e-005" scale="38.7579994 99.9999847 19.9999847"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bd553c" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="83.7610016 11.3969727 17.1939697" rotation="2.73207552e-005 173.838028 1.36603776e-005" scale="38.7579803 100.000008 19.9999752"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bd553d" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="33.6242828 11.3968124 0.904907227" rotation="2.78345651e-005 -9.09005737 -1.37321267e-005" scale="38.7579956 99.9999847 19.9999886"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be553e" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="88.1869049 11.3967514 -115.620361" rotation="1.36603776e-005 178.200272 0" scale="38.7580261 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be553f" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-26.4678192 11.3968353 89.8984985" rotation="-8.23655853e-007 86.6527328 -1.08400463e-005" scale="38.7580185 99.9999771 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5540" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-11.8515587 11.3966999 -180.987808" rotation="0 178.533157 0" scale="38.7579803 100.000008 9.08449078"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5541" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="15.5201721 11.3966522 -161.083008" rotation="0 93.2623062 0" scale="52.2091026 99.9999924 15.3247013"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5542" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-15.8902588 11.3968353 78.0587158" rotation="-8.23634934e-007 86.6527328 -1.08400245e-005" scale="38.758007 99.9999771 20.0000019"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5543" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_2.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-31.0787544 23.4147034 -70.2903976" rotation="0 177.748611 0" scale="77.1692123 109.698158 61.6560173"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5544" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-112.451996 23.4148884 32.7601318" rotation="0 -0.0895078108 0" scale="63.3441505 30 24.8284988"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5545" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-26.4678192 11.3968353 120.28009" rotation="-8.23688936e-007 86.6526184 -1.08400682e-005" scale="38.7580338 99.9999771 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5546" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_4.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-36.556118 23.4147339 -16.4219608" rotation="0 173.836182 0" scale="65.4620514 100 76.9297638"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5547" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_2.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-50.3984566 23.414917 37.6048889" rotation="0 -0.123003893 0" scale="70.3467102 30 22.0828228"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5548" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="66.4465942 11.3968048 4.36383057" rotation="2.78345688e-005 -9.09005737 -1.37321267e-005" scale="38.7580032 99.9999847 19.9999943"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5549" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-15.9680176 11.3968048 140.443665" rotation="0 -84.6091385 0" scale="52.2091179 99.9999924 15.3247051"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be554a" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-144.926788 11.396965 115.432007" rotation="1.8564393e-005 -85.7743225 -8.58984367e-006" scale="38.7580338 99.9999847 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be554b" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-62.0396271 11.5449371 -160.157059" rotation="0 267.487701 0" scale="44.5589333 100.000031 10.5115776"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be554c" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-147.900116 11.3969803 41.3413086" rotation="1.85643712e-005 -85.7743225 -8.58982185e-006" scale="38.7580338 99.9999847 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be554d" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-51.2103577 11.3968735 137.938354" rotation="9.99424719e-006 0.328747451 -6.32954254e-007" scale="38.7580338 99.9999847 20.0000057"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be554e" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_2.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="112.607414 23.414732 -32.3527832" rotation="0 177.74852 0" scale="70.3467102 100 22.0828228"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be554f" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_1.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="87.8399048 23.4146709 -77.8837891" rotation="0 177.415146 0" scale="110.197304 100 64.9206696"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5550" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="23.5866852 11.3969727 -0.77734375" rotation="1.36603776e-005 184.220337 1.36603776e-005" scale="38.7580376 100 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5551" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-101.95285 11.3969727 15.1920776" rotation="1.36603776e-005 184.220337 1.36603776e-005" scale="38.7580376 100 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5552" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="6.90037537 11.3966522 -23.802002" rotation="0 84.2490768 0" scale="38.7579994 99.9999924 20.0000019"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5553" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="54.8647461 11.3967209 -116.541626" rotation="1.36603776e-005 178.200272 0" scale="38.7580261 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5554" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-10.2386627 11.3968048 180.987732" rotation="0 -84.6091385 0" scale="52.2091141 99.9999924 15.3247051"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5555" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-118.470734 11.3968201 -6.11035156" rotation="2.78334901e-005 -8.290452 -1.37249071e-005" scale="38.7579193 99.9999924 19.9999485"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5556" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-67.2746887 11.3969574 17.5465088" rotation="2.73207552e-005 173.038406 1.36603776e-005" scale="38.758007 99.9999847 19.9999981"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5557" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="132.06575 11.3967819 77.0536499" rotation="-0.000526483578 87.177002 -0.000551541103" scale="38.7579155 99.9999924 19.9999504"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5558" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="127.315956 11.3968124 141.494629" rotation="-0.000526483287 87.177002 -0.000551540812" scale="38.7579155 99.9999924 19.9999504"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be5559" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="125.243553 11.3967819 -113.64209" rotation="1.36603776e-005 178.200272 0" scale="38.7580261 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be555a" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-79.0446091 11.3966208 -139.756454" rotation="0 178.533157 0" scale="38.7579689 99.9999924 9.08448505"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be555b" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="27.1649628 23.4149513 122.247131" rotation="0 89.2474823 0" scale="63.3442459 100 68.0589981"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299be555c" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="112.15773 23.4147358 -9.16137695" rotation="0 177.782013 0" scale="63.3441696 100 24.8285007"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf555d" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-128.788116 11.3966446 -95.5584717" rotation="-0.000300528307 265.048584 -359.999695" scale="38.7579079 99.9999924 19.9999447"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf555e" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_2.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="36.1961823 23.4148865 16.7452393" rotation="0 -0.123003893 0" scale="70.3467102 30 22.0828247"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf555f" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="17.3450623 11.3966827 -58.0150146" rotation="1.36603776e-005 264.524261 1.36603776e-005" scale="38.7579994 99.9999771 19.9999962"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5560" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-15.0934906 11.3967972 43.1700439" rotation="-8.23607024e-007 86.6527328 -1.08400045e-005" scale="38.7579956 99.9999771 20.0000019"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5561" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="147.680573 11.3968124 -90.5700684" rotation="2.73207552e-005 92.097229 2.73207552e-005" scale="38.7580261 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5562" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-17.5691376 11.3968048 96.4818726" rotation="0 267.393829 0" scale="52.2091141 99.9999924 15.3247023"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5563" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="52.6997681 23.4147358 -38.5499268" rotation="0 -7.07242918 0" scale="63.3441505 30 24.8284969"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5564" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-144.882599 11.3969727 78.5373535" rotation="1.85643767e-005 -85.7743225 -8.58982185e-006" scale="38.7580338 99.9999847 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5565" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="15.253067 11.3966446 -23.1800537" rotation="1.36603776e-005 264.52417 1.36603776e-005" scale="38.7579842 99.9999771 19.9999981"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5567" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="135.291168 11.3968582 7.51074219" rotation="1.41697319e-005 5.08094788 -1.36058443e-005" scale="38.7580299 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5568" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="29.483429 11.3966827 -99.8144531" rotation="1.36603776e-005 264.524261 1.36603776e-005" scale="38.7580261 99.9999771 19.9999962"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5569" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-133.379181 11.3966599 -32.6916504" rotation="-0.000136603776 259.88739 -359.999847" scale="38.7579155 99.9999924 19.9999466"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf556a" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-26.5933342 23.4148903 -148.427124" rotation="0 267.118835 0" scale="63.3442383 100 68.059021"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf556b" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="90.6001129 11.3967743 154.927002" rotation="0 0.661642551 0" scale="38.7579994 99.9999924 9.08449554"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf556c" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-56.8842468 11.3965683 -117.089722" rotation="0 84.249054 0" scale="38.7579842 99.9999771 9.0844965"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf556d" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-7.84498596 11.3968048 96.2824097" rotation="0 88.6187363 0" scale="52.2347221 99.9999924 15.316081"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf556e" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-84.4979553 11.3968201 -0.893432617" rotation="2.78334883e-005 -8.29044533 -1.37248971e-005" scale="38.7579765 100.000008 19.9999733"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf556f" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="98.3939972 23.4149933 38.0811157" rotation="0 175.056015 0" scale="63.3442154 100 24.8285122"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5570" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-136.18869 11.3970108 16.9586792" rotation="1.36603776e-005 187.209412 1.36603776e-005" scale="38.7580414 99.9999847 20.0000057"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5571" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="5.86738586 11.3966522 -159.890381" rotation="0 -85.5128784 0" scale="52.2347145 99.9999924 15.3160839"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5572" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="9.98216248 11.3966522 -76.5250244" rotation="0 266.490265 0" scale="52.2347145 99.9999924 15.3160801"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5573" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-25.0326385 11.3968201 19.300415" rotation="1.41680703e-005 2.09187579 -1.36324225e-005" scale="38.7580299 100 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5574" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_1.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="93.8897247 23.4148254 100.531921" rotation="0 87.4744644 0" scale="110.197334 100 64.9206924"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5575" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-6.64480591 11.3968048 48.7706909" rotation="0 88.6187363 0" scale="52.2347221 99.9999924 15.316082"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5576" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_1.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-85.5985413 23.4148254 100.531921" rotation="0 -0.456387579 0" scale="110.197342 100 64.9207001"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5577" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="53.3943939 11.3967743 154.92688" rotation="0 0.661642551 0" scale="38.7579994 100.000008 9.08449745"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5578" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_4.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="30.2099304 23.4148865 61.1732178" rotation="0 -4.03532934 0" scale="65.4620743 100 76.9297791"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf5579" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-84.5437927 11.396904 138.255432" rotation="9.99425265e-006 0.328747511 -6.32954425e-007" scale="38.7580338 99.9999847 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf557a" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="131.536469 11.3967972 110.148804" rotation="-0.000526483229 87.177002 -0.00055154087" scale="38.7579155 99.9999924 19.9999504"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf557b" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-8.6401825 11.3967819 73.1951294" rotation="0 266.377441 0" scale="38.7580109 99.9999924 20.0000057"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299bf557c" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="16.7430573 11.3966522 -28.928833" rotation="0 85.2655487 0" scale="52.2091141 99.9999924 15.3247023"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0557d" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="10.0869751 11.3966522 -119.161499" rotation="0 -85.5128784 0" scale="52.2347145 99.9999924 15.316083"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0557e" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="133.78952 11.3968124 47.1548462" rotation="-0.000169272491 82.0158386 -0.000195556306" scale="38.7579193 99.9999924 19.9999504"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0557f" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="13.6426697 11.396759 155.332825" rotation="0 0.661642551 0" scale="38.7579994 100.000008 9.08449745"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05580" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-121.648346 11.3969345 137.654724" rotation="9.9942572e-006 0.328747511 -6.3295488e-007" scale="38.7580338 99.9999847 20.0000038"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05581" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-130.546173 11.3966293 -62.5058594" rotation="-0.000300528307 265.048584 -359.999695" scale="38.7579079 99.9999924 19.9999447"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05583" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-16.3689575 11.3968048 48.9701538" rotation="0 267.393768 0" scale="52.2091217 99.9999924 15.3247051"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05584" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="117.904083 11.3969727 21.1455688" rotation="2.73207552e-005 173.838028 1.36603776e-005" scale="38.7579308 99.9999924 19.9999485"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05585" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="146.266159 11.3968201 -53.7025146" rotation="2.73207552e-005 92.097229 2.73207552e-005" scale="38.7580261 99.9999847 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05586" name="brt_landscape_02">
+      <ECBuilding key="brt_landscape_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="26.2852573 0 -58.3078575" rotation="0 71.0734406 0" scale="2.90736389 1.93999791 3.51516318"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05587" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-6.36618042 11.3968048 138.893372" rotation="0 96.6156235 0" scale="52.234726 99.9999924 15.3160849"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05588" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.636825562 11.3968048 179.437439" rotation="0 96.6156235 0" scale="52.234726 99.9999924 15.3160849"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05589" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="60.4819031 11.3967209 134.335754" rotation="0 266.377594 0" scale="38.758007 99.9999771 9.08449936"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0558a" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-123.406281 11.3966599 -126.725952" rotation="-0.000300528307 265.048584 -359.999695" scale="38.7579079 99.9999924 19.9999447"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0558b" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-34.3465881 11.396965 19.7839966" rotation="2.73207552e-005 173.038406 1.36603776e-005" scale="38.7579994 99.9999847 19.9999924"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0558c" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_4.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-111.873596 23.4148331 56.5692368" rotation="0 -4.03532791 0" scale="62.4933929 100.000023 30.8540287"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0558d" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_4.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="51.3244629 23.414732 -16.394165" rotation="0 173.836182 0" scale="62.4933548 100 30.8540096"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0558e" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="19.707016 11.3966522 -76.3631592" rotation="0 85.2653732 0" scale="52.2091026 99.9999924 15.3246984"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c0558f" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="49.640976 11.3969727 -1.07080078" rotation="2.73207552e-005 173.838028 1.36603776e-005" scale="38.7580032 99.9999847 19.9999866"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05590" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-6.72346497 11.3968048 43.4813232" rotation="0 266.377594 0" scale="38.758007 99.9999924 20.0000076"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05591" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-98.3451233 23.4148407 -22.3095703" rotation="0 -7.07244587 0" scale="63.3441887 100 24.8285046"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05592" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_1.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-91.5245056 23.4146709 -84.5500488" rotation="0 265.345947 0" scale="110.197304 100 64.9206848"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05593" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-51.943512 23.4148884 59.920105" rotation="0 175.056061 0" scale="63.3441696 100 24.8285046"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05594" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="28.3550415 11.3966827 -69.4538574" rotation="1.36603776e-005 264.524261 1.36603776e-005" scale="38.758007 99.9999771 19.9999981"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05595" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="101.013382 11.3968201 8.00457764" rotation="1.41680703e-005 2.09187698 -1.36324225e-005" scale="38.7580299 100 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05596" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="19.7397614 11.3966522 -120.354126" rotation="0 93.2623062 0" scale="52.2091103 99.9999924 15.3247023"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fd08299c05597" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="9.91934204 11.3966293 -53.4240723" rotation="0 84.2489471 0" scale="38.7579994 99.9999924 20.0000019"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fe0069a4f401b" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-44.0926857 11.3966274 -51.3935928" rotation="0 176.679138 0" scale="38.7580032 99.9999924 20"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fe006b05b401c" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-15.1288595 11.3966303 -49.6780434" rotation="0 176.679138 0" scale="38.7580147 99.9999924 20.0000076"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fe006bd07401f" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.082286723 11.3966284 9.01638889" rotation="0 82.3048019 0" scale="38.7580223 99.9999924 20.0000153"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fe13e3ad109be" name="field_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/field_3.rigid_model_v2" parallax_scale="0.100000001" tiling="0.0500000007" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-28.3736572 23.4148407 -108.121338" rotation="0 -7.07244444 0" scale="63.3441887 100 24.8285046"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fe13ed76109c1" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-42.2301445 11.3967295 -182.341141" rotation="0 178.533157 0" scale="38.7579422 100.000008 9.08448219"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14fe13f3f3909c2" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-110.751167 11.396637 -141.939499" rotation="0 178.533157 0" scale="38.7579689 99.9999924 9.08448315"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

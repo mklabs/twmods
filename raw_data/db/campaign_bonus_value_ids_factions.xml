@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_factions.xsd" export_time="Mon Feb 27 11:25:08 2017" revision="3" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>814f6038-5dc3-4a8c-a934-8b57c4c5588b</edit_uuid>
+<campaign_bonus_value_ids_factions record_uuid="{47e9c176-5ebe-4cb4-8d85-e13c2a76ae32}" record_timestamp="1470839322476" record_key="diplomatic_mod">
+<key>diplomatic_mod</key>
+<notes>Affects diplomatic relations. Used at faction bonuses.</notes>
+</campaign_bonus_value_ids_factions>
+<campaign_bonus_value_ids_factions record_uuid="{7d8f968e-6277-43b8-85f2-0bc3c989bd68}" record_timestamp="1470839322477" record_key="diplomatic_mod_imperium">
+<key>diplomatic_mod_imperium</key>
+<notes>Affects diplomatic relations. Used at imperium bonuses.</notes>
+</campaign_bonus_value_ids_factions>
+<campaign_bonus_value_ids_factions record_uuid="{5d57bee7-092f-4fd8-8853-eba7f62e4ad2}" record_timestamp="1487849338461" record_key="diplomatic_mod_other">
+<key>diplomatic_mod_other</key>
+<notes>Affects diplomatic relations.</notes>
+</campaign_bonus_value_ids_factions>
+<campaign_bonus_value_ids_factions record_uuid="{4741b4b7-6a85-48b5-b8ef-3f27e9c0dd8a}" record_timestamp="1487849338486" record_key="diplomatic_mod_ritual">
+<key>diplomatic_mod_ritual</key>
+<notes>Affects diplomatic relations. Used at ritual bonuses.</notes>
+</campaign_bonus_value_ids_factions>
+<campaign_bonus_value_ids_factions record_uuid="{a7419738-c50d-4b72-88fb-0ee3cf6e3de0}" record_timestamp="1470839322475" record_key="diplomatic_mod_tech">
+<key>diplomatic_mod_tech</key>
+<notes>Affects diplomatic relations. Used at technology bonuses.</notes>
+</campaign_bonus_value_ids_factions>
+<campaign_bonus_value_ids_factions record_uuid="{4c25aa49-e4ea-453b-9910-ab79025d5639}" record_timestamp="1488194705471" record_key="loyalty_initial_mod">
+<key>loyalty_initial_mod</key>
+<notes>Directly added to the initial loyalty of a lord, will be reflected in the recruitment panel. Capped between min and max. Faction Only</notes>
+</campaign_bonus_value_ids_factions>
+</dataroot>

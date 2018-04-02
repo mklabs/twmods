@@ -1,0 +1,46 @@
+<layer version="16">
+  <entities>
+    <entity id="14c98053a5638f8" name="dwf_statue_big_01_plinth_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_plinth_01" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c98054dc438f9" name="dwf_statue_big_01_plinthside_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_plinthside_01" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c980692db38fa" name="dwf_statue_big_01_body_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_body_01" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c9806a98a38fb" name="dwf_statue_big_01_helmet_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_helmet_01" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c981d36c038fe" name="dwf_statue_big_01_axe_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_axe_01" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c981e138038ff" name="dwf_statue_big_01_helmethorns_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_helmethorns_01" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <LOGICAL/>
+    <TRANSFORM>
+      <from id="14c98053a5638f8">
+        <to id="14c98054dc438f9"/>
+        <to id="14c9806a98a38fb"/>
+        <to id="14c980692db38fa"/>
+        <to id="14c981d36c038fe"/>
+        <to id="14c981e138038ff"/>
+      </from>
+    </TRANSFORM>
+  </associations>
+</layer>

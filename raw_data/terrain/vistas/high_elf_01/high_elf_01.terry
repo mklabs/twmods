@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="20" id="15e09c12e1c7e94">
+  <pc type="QTU::ProjectTileMap">
+    <data terrain_setup="terrain/vistas/high_elf_01/" world_width="0" global_lighting="" ambient_light_environments="" water_plane_material="materials/environment/wh2_env_battle/waterplane/battle_waterplane_lake.xml.material"/>
+  </pc>
+  <pc type="QTU::Scene">
+    <data version="27">
+      <entity id="15e0a21600dbb53" name="Default">
+        <ECFileLayer export="true" bmd_export_type=""/>
+      </entity>
+    </data>
+  </pc>
+  <pc type="QTU::Terrain">
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeight" size="640x640" id="15e09c12e1b7e90"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e09c12e1b7e91" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeightSea" size="160x160" id="15e09c12e1c7e92"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e09c12e1c7e93" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+  </pc>
+</project>

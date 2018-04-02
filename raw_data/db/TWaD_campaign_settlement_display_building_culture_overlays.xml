@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_settlement_display_building_culture_overlays>
+<root>
+<edit_uuid>bc53c1d5-1897-42cb-972f-044427bc1c62</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{4b8f33f6-80b7-4d68-ab6e-0df5494cf2aa}</field_uuid>
+<primary_key>1</primary_key>
+<name>culture</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>cultures</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{8da46c73-e980-45d1-b518-b92109854155}</field_uuid>
+<primary_key>1</primary_key>
+<name>bmd</name>
+<field_type>text</field_type>
+<is_filename>1</is_filename>
+<required>1</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

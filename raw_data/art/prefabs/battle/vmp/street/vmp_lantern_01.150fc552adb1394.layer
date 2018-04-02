@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="20">
+  <entities>
+    <entity id="150fc552ada137c" name="vmp_wall_candles02">
+      <ECBuilding key="vmp_wall_candles02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.895860314 -0.000711143017 -0.48360908" rotation="0 -29.9575386 0" scale="0.777368307 0.777368367 0.777368307"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wall_candles02"/>
+    </entity>
+    <entity id="150fc552ada137d" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.00862532854 0.126017958 -0.115573645" rotation="0 -2.84591215e-006 0" scale="0.149999991 0.150000006 0.149999991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada137e" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.13869774 4.38718081 1.52531791" rotation="0.651103139 26.6102753 -11.4527664" scale="0.149999991 0.150000006 0.150000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada137f" name="vmp_wall_candles02">
+      <ECBuilding key="vmp_wall_candles02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.45478344 0.0165215153 0.724671125" rotation="0 -29.95755 0" scale="0.777368307 0.777368367 0.777368307"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wall_candles02"/>
+    </entity>
+    <entity id="150fc552ada1380" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.0440731 4.35614538 0.906247139" rotation="0.651103377 26.6102753 -11.4527645" scale="0.149999991 0.150000036 0.150000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada1381" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.200923681 0.126017958 0.0623221695" rotation="0 0 0" scale="0.100000024 0.100000009 0.100000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada1382" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.200895548 0.126017973 0.0623018295" rotation="0 0 0" scale="0.100000001 0.100000009 0.100000001"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada1383" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-2.62986755 4.54405117 2.1380794" rotation="0.651103139 26.6102753 -11.4527664" scale="0.149999991 0.150000006 0.150000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada1384" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.00862526894 0.126017973 -0.115573451" rotation="0 2.84591215e-006 0" scale="0.150000006 0.150000021 0.150000006"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada1385" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.00859427452 0.126017958 -0.115528792" rotation="0 0 0" scale="0.150000021 0.150000021 0.150000021"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552ada1386" name="vmp_wall_candles01">
+      <ECBuilding key="vmp_wall_candles01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.40828562 0.0443160459 0.164798692" rotation="-4.48844051 -18.0901146 12.363903" scale="0.777368546 0.777368486 0.777368009"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wall_candles01"/>
+    </entity>
+    <entity id="150fc552ada1388" name="vmp_wall_candles02">
+      <ECBuilding key="vmp_wall_candles02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.18916512 -0.0430992842 -0.501449108" rotation="0 8.00000191 0" scale="0.777368307 0.777368367 0.777368307"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wall_candles02"/>
+    </entity>
+    <entity id="150fc552ada1389" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.261257887 0.543055534 -0.141743481" rotation="0 0 0" scale="0.150000021 0.150000021 0.150000021"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb138a" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.125505805 0.293829203 -0.179864213" rotation="0 0 0" scale="0.100000001 0.100000009 0.100000001"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb138c" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.200895727 0.126017958 0.0623015165" rotation="0 -1.06721709e-005 0" scale="0.099999994 0.100000001 0.099999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb138f" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.125505567 0.293829203 -0.179864407" rotation="0 -1.06721709e-005 0" scale="0.099999994 0.100000001 0.099999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb1390" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.261225104 0.543055594 -0.141795754" rotation="0 -2.84591215e-006 0" scale="0.149999991 0.150000006 0.149999991"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb1391" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.261225343 0.543055654 -0.141795561" rotation="0 2.84591215e-006 0" scale="0.150000006 0.150000021 0.150000006"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb1392" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.52956951 4.57762909 0.441434145" rotation="0.651103139 26.6102753 -11.4527664" scale="0.149999991 0.150000006 0.150000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="150fc552adb1393" name="wh_main_generic_fire_candle">
+      <ECVFX vfx="wh_main_generic_fire_candle" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.125481606 0.293829143 -0.179858536" rotation="0 0 0" scale="0.100000024 0.100000009 0.100000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="150fc552ada137c">
+        <to id="150fc552ada137d"/>
+        <to id="150fc552adb1390"/>
+        <to id="150fc552adb138c"/>
+        <to id="150fc552adb138f"/>
+      </from>
+      <from id="150fc552ada137f">
+        <to id="150fc552adb1391"/>
+        <to id="150fc552adb138a"/>
+        <to id="150fc552ada1382"/>
+        <to id="150fc552ada1384"/>
+      </from>
+      <from id="150fc552ada1386">
+        <to id="150fc552ada137e"/>
+        <to id="150fc552ada1383"/>
+        <to id="150fc552ada1380"/>
+        <to id="150fc552adb1392"/>
+      </from>
+      <from id="150fc552ada1388">
+        <to id="150fc552ada1381"/>
+        <to id="150fc552ada1389"/>
+        <to id="150fc552ada1385"/>
+        <to id="150fc552adb1393"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

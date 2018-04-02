@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_mission_issuers>
+<root>
+<edit_uuid>5a5dfa38-a10e-43af-b9fc-ffec069f6d01</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{d74f5a07-b93e-4922-b3cd-2839dfcc6a37}</field_uuid>
+<primary_key>1</primary_key>
+<name>issuer_key</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{18eac43f-7439-4834-852a-dc26d3663fbd}</field_uuid>
+<primary_key>0</primary_key>
+<name>icon_path</name>
+<field_type>text</field_type>
+<is_filename>1</is_filename>
+<required>0</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{c59949d1-dcc2-4be9-885d-f8fa5f1dbe97}</field_uuid>
+<primary_key>0</primary_key>
+<name>on_screen_name</name>
+<field_type>text</field_type>
+<required>0</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

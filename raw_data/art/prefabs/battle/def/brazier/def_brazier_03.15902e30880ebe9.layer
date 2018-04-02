@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="15902e30880ebe6">
+      <ECBuilding key="def_brazier_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0134277344 0 0.037109375" rotation="0 -30.9999733 0" scale="1.50000024 1.49999988 1.50000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="brazier_01"/>
+    </entity>
+    <entity id="15902e30880ebe8">
+      <ECPointLight colour="213 61 255 255" colour_scale="200000" radius="35" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH" for_light_probes_only="false"/>
+      <ECTransform position="0.0810546875 5.33096504 -0.0174560547" rotation="0 -53.9999809 0" scale="1 1 1"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

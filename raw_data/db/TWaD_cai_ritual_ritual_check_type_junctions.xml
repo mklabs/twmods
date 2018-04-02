@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cai_ritual_ritual_check_type_junctions>
+<root>
+<edit_uuid>34256140-b8d9-49c1-8356-1c3c4e0ecceb</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{e1169978-2d4d-4cf3-9486-97e44fb9cddb}</field_uuid>
+<primary_key>1</primary_key>
+<name>ritual</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>rituals</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{c5fe2a09-3331-492c-a1b5-586b7f45a8e5}</field_uuid>
+<primary_key>1</primary_key>
+<name>ritual_check_type</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>cai_ritual_check_types</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

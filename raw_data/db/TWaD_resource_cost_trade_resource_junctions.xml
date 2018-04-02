@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_resource_cost_trade_resource_junctions>
+<root>
+<edit_uuid>06613ffe-1052-443a-8b12-296aaee0872c</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{5567acb6-79d9-4982-968f-c1dc1faf4a32}</field_uuid>
+<primary_key>1</primary_key>
+<name>resource_cost</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>id</column_source_column>
+<column_source_table>resource_costs</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{f347393c-1404-4e6c-af3a-3e7dc158e6ec}</field_uuid>
+<primary_key>1</primary_key>
+<name>trade_resource</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>resources</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

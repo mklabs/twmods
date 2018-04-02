@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="151342ca0e05b75" name="glb_wood_structure01">
+      <ECBuilding key="glb_wood_structure01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0692138672 0 -5.97668457" rotation="0 -89.8356781 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="glb_wood_structure01"/>
+    </entity>
+    <entity id="151342ca0e05b76" name="emp_flag01">
+      <ECBuilding key="emp_flag01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.48671484 8.29279518 -0.0816792101" rotation="0 -3.82235026 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="flag01"/>
+    </entity>
+    <entity id="151342ca0e05b77" name="emp_flag01">
+      <ECBuilding key="emp_flag01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.9537163 8.29279518 -0.104147084" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="flag01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="151342ca0e05b75">
+        <to id="151342ca0e05b76"/>
+        <to id="151342ca0e05b77"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

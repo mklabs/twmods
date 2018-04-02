@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="20" id="15e096aad517c34">
+  <pc type="QTU::ProjectTileMap">
+    <data terrain_setup="terrain/vistas/dark_elf_01/" world_width="0" global_lighting="" ambient_light_environments="" water_plane_material="materials/environment/wh2_env_battle/riversplines/battle_river_water_rapids.xml.material"/>
+  </pc>
+  <pc type="QTU::Scene">
+    <data version="27">
+      <entity id="15e098e1a6c7c63" name="Default">
+        <ECFileLayer export="true" bmd_export_type=""/>
+      </entity>
+    </data>
+  </pc>
+  <pc type="QTU::Terrain">
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeight" size="640x640" id="15e096aad507c30"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e096aad507c31" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeightSea" size="160x160" id="15e096aad517c32"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e096aad517c33" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+  </pc>
+</project>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="1513ee78e2accd6" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.595581055 0 31.5357819" rotation="0 0 0" scale="0.800000012 0.800000012 0.800000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1513ee78e2accd7" name="vmp_standingbridge_03">
+      <ECBuilding key="vmp_standingbridge_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.595336914 38.6102753 -3.92152405" rotation="0 90 0" scale="0.499999285 0.5 0.499999285"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1513ee78e2accd8" name="vmp_standingbridge_03">
+      <ECBuilding key="vmp_standingbridge_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.595581055 31.3945007 9.93138123" rotation="0 90 0" scale="0.499998987 0.5 0.499998987"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1513ee78e2bccd9" name="vmp_bridge_02">
+      <ECBuilding key="vmp_bridge_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.245483398 51.3832321 2.73829651" rotation="-89.9999313 -77.4999466 89.9999313" scale="0.99999994 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1513ee78e2bccda" name="vmp_standingbridge_03">
+      <ECBuilding key="vmp_standingbridge_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.595336914 24.1435318 23.9941254" rotation="0 90 0" scale="0.499999255 0.5 0.499999255"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1513ee78e2bccdb" name="vmp_standingbridge_03">
+      <ECBuilding key="vmp_standingbridge_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.595581055 45.6073456 -17.6828766" rotation="0 90 0" scale="0.499998957 0.5 0.499998957"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1513ee78e2bccdc" name="vmp_standingbridge_03">
+      <ECBuilding key="vmp_standingbridge_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.595336914 52.8231201 -31.5357819" rotation="0 90 0" scale="0.499999315 0.5 0.499999315"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

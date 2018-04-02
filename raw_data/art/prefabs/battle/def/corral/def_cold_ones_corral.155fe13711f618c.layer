@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="155fe13711f6187">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/glb_bones_03/glb_bones_03_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="1.1962738 0 1.9176712" rotation="0 73.0000076 0" scale="0.419999957 0.419999987 0.419999957"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="155fe13711f6188">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/def_corral/def_corral_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.307342529 3.33786011e-006 0.589561462" rotation="0 0 0" scale="0.419999987 0.419999987 0.419999987"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="155fe13711f6189">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/glb_bones_04/glb_bones_04_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.19628143 9.53674316e-007 0.137626648" rotation="0 243 0" scale="0.419999987 0.419999987 0.419999987"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="155fe13711f618a">
+      <ECVFX vfx="wh_main_generic_fire_nosmoke_loop" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.304000854 2.6288867 -1.9176712" rotation="0 0 0" scale="0.0500000007 0.0500000007 0.0500000007"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="155fe13711f618b">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/glb_animal_bones_04/glb_animal_bones_04_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.10056305 1.90734863e-006 1.84365082" rotation="0 73.0000076 0" scale="0.419999957 0.419999987 0.419999957"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="155fea6de2a0602">
+      <ECPointLight colour="255 181 89 255" colour_scale="30" radius="5" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR" for_light_probes_only="false"/>
+      <ECTransform position="0.323007584 2.66363049 -1.89509416" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

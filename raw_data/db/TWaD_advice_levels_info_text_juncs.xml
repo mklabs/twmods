@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_advice_levels_info_text_juncs>
+<root>
+<edit_uuid>356b6a95-b9b5-4591-b488-8de28960e740</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{d52d4de0-951f-43a3-9485-953d387397b8}</field_uuid>
+<primary_key>1</primary_key>
+<name>advice_level</name>
+<field_type>integer</field_type>
+<required>1</required>
+<column_source_column>key</column_source_column>
+<column_source_column>advice_thread</column_source_column>
+<column_source_table>advice_levels</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{b932939f-74f4-426b-b0a1-2a876ed276f3}</field_uuid>
+<primary_key>1</primary_key>
+<name>advice_info_text</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>advice_info_texts</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

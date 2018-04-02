@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="1506bc269aa2fb8" name="dirt_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/dirt_1.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.142456055 1.86264515e-009 1.1998291" rotation="0 0 0" scale="2.37984109 2.37984109 2.37984109"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506bc269aa2fb9" name="dirt_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/dirt_1.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="1.01745605 0 -0.433349609" rotation="0 69.36129 0" scale="2.37984085 2.37984109 2.37984085"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506bc269aa2fba" name="dirt_1">
+      <ECDecal model_path="rigidmodels/Decals/generic/dirt_1.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.01745605 1.86264515e-009 -1.19970703" rotation="0 69.36129 0" scale="2.37984037 2.37984109 2.37984037"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506bc269aa2fbb" name="glb_sewergridiron_02">
+      <ECDecal model_path="rigidmodels/Decals/sewergrid/glb_sewergridiron_02.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.470825195 0.00957393833 -0.0714111328" rotation="0 0 0" scale="2.60726237 2.60726237 2.60726237"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="1506bc269aa2fbc" name="dirt_2">
+      <ECDecal model_path="rigidmodels/Decals/generic/dirt_2.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.171691895 0.00524759479 -0.466918945" rotation="0 0 0" scale="2.08517861 2.08517861 2.08517861"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

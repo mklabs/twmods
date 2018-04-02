@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="projectile_shrapnels.xsd" export_time="Tue Dec 12 13:32:16 2017" revision="13" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d902255e-be64-447c-bc4e-6c67beaacb0a</edit_uuid>
+<projectile_shrapnels record_uuid="{e1267788-6791-4bd5-ad72-68a7a0fa42e8}" record_timestamp="1488903842193" record_key="blasting_charges">
+<amount>8</amount>
+<key>blasting_charges</key>
+<launch_type>hemisphere</launch_type>
+<projectile>wh_main_spell_metal_searing_doom</projectile>
+<sector_angle>0</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{406e0bec-3f7b-4d6c-88ab-46f70fb43c41}" record_timestamp="1490098046886" record_key="doom_shrapnel">
+<amount>6</amount>
+<key>doom_shrapnel</key>
+<launch_type>sector</launch_type>
+<projectile>wh2_main_hero_abilities_doomrocket_shrapnel</projectile>
+<sector_angle>75</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{8ab7bcdb-f6da-4c86-9ff2-2ef8c53c5a77}" record_timestamp="1502446403216" record_key="dreaded_fireworks">
+<amount>6</amount>
+<key>dreaded_fireworks</key>
+<launch_type>hemisphere</launch_type>
+<projectile>wh2_main_spell_plague_the_dreaded_thirteenth_spell_shrapnel</projectile>
+<sector_angle>0</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{f1dfd14a-3664-4663-9faa-8d5f93ad6276}" record_timestamp="1495030475794" record_key="heal_splosion">
+<amount>16</amount>
+<key>heal_splosion</key>
+<launch_type>hemisphere</launch_type>
+<projectile>wh2_main_army_abilities_vortic_enrichment_shrapnel</projectile>
+<sector_angle>0</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{aefff030-a00c-4744-afda-096bc2966c3a}" record_timestamp="1503672517492" record_key="skarsnik_prodder_mini">
+<amount>12</amount>
+<key>skarsnik_prodder_mini</key>
+<launch_type>hemisphere</launch_type>
+<projectile>wh_dlc06_weapon_abilities_skarsniks_prodder_mini</projectile>
+<sector_angle>0</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{76d752df-fed1-482f-935f-e5a435b02791}" record_timestamp="1495030475793" record_key="skaven_bomb">
+<amount>16</amount>
+<key>skaven_bomb</key>
+<launch_type>hemisphere</launch_type>
+<projectile>wh2_main_army_abilities_vortic_blast_shrapnel</projectile>
+<sector_angle>0</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{358bbc4d-d32c-4128-b2ae-971604bbc337}" record_timestamp="1510250818580" record_key="ushabti_shrapnel">
+<amount>8</amount>
+<key>ushabti_shrapnel</key>
+<launch_type>sector</launch_type>
+<projectile>wh2_tmb_ushabti_shrapnel</projectile>
+<sector_angle>45</sector_angle>
+</projectile_shrapnels>
+<projectile_shrapnels record_uuid="{5eaf47f1-4f90-422c-aeb0-0701e2118a47}" record_timestamp="1508777474178" record_key="wh_dlc09_weapon_abilities_venom_staff_explosion">
+<amount>5</amount>
+<key>wh_dlc09_weapon_abilities_venom_staff_explosion</key>
+<launch_type>hemisphere</launch_type>
+<projectile>wh_dlc09_weapon_abilities_venom_staff_mini</projectile>
+<sector_angle>0</sector_angle>
+</projectile_shrapnels>
+</dataroot>

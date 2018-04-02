@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="150a49d43c9bb23" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="73.9773254 57.2145844 32.8945427" rotation="0 -58.0000496 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43c9bb24" name="emp_wall_dormer01">
+      <ECBuilding key="emp_wall_dormer01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-32.0090027 44.126709 -46.8874397" rotation="0 0 0" scale="1.9999994 2 1.9999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_dormer01"/>
+    </entity>
+    <entity id="150a49d43c9bb25" name="emp_infield_terrace_02">
+      <ECBuilding key="emp_infield_terrace_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-18.8871765 63.0556641 -33.0812874" rotation="0 -8.99999142 0" scale="0.999998808 1 0.999998808"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_02"/>
+    </entity>
+    <entity id="150a49d43c9bb26" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.0017395 17.8814545 -18.1909065" rotation="0 -30.0000038 0" scale="0.499999672 0.5 0.499999672"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43c9bb27" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="19.3211975 43.0796356 0.938976288" rotation="0 -40 0" scale="1.99999976 2 1.99999976"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43c9bb28" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="75.3482971 64.2247162 115.302261" rotation="0 90 0" scale="1.50000024 1.5 1.50000024"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43c9bb29" name="emp_infield_terrace_04">
+      <ECBuilding key="emp_infield_terrace_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="77.7134094 60.9880981 67.3047028" rotation="0 85.9999161 0" scale="0.999999404 1 0.999999404"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_04"/>
+    </entity>
+    <entity id="150a49d43c9bb2a" name="emp_outfield_struc_wall_01_arched">
+      <ECBuilding key="emp_outfield_struc_wall_01_arched" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="36.6183167 17.9185867 -4.44212723" rotation="0 -40 0" scale="0.49999994 0.5 0.49999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched"/>
+    </entity>
+    <entity id="150a49d43cabb2b" name="emp_infield_terrace_02">
+      <ECBuilding key="emp_infield_terrace_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="78.7956848 67.8824463 76.0852203" rotation="0 1.00001323 0" scale="0.999999285 1 0.999999285"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_02"/>
+    </entity>
+    <entity id="150a49d43cabb2e" name="emp_infield_house_06">
+      <ECBuilding key="emp_infield_house_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="79.7934875 54.3476334 147.299698" rotation="0 266.115723 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_06"/>
+    </entity>
+    <entity id="150a49d43cabb30" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-47.2893982 66.0508423 -42.7275276" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43cabb31" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.0046692 52.5775146 -20.4804573" rotation="0 -32.0000191 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cabb33" name="emp_wall_dormer01">
+      <ECBuilding key="emp_wall_dormer01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.6192932 52.6632385 -24.6801643" rotation="0 -30.0000229 0" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_dormer01"/>
+    </entity>
+    <entity id="150a49d43cabb34" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-51.4729919 17.8814621 -36.5141487" rotation="0 0 0" scale="0.499999881 0.5 0.499999881"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cabb35" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="77.2366028 17.8813324 53.6651726" rotation="0 -70 0" scale="0.499999553 0.5 0.499999553"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cabb36" name="emp_outfield_struc_wall_01_arched">
+      <ECBuilding key="emp_outfield_struc_wall_01_arched" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="36.6183167 29.654707 -4.44212723" rotation="0 -40 0" scale="0.25 0.25 0.25"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched"/>
+    </entity>
+    <entity id="150a49d43cabb37" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="85.6170959 47.6772003 105.121109" rotation="0 -90 0" scale="1.99999917 2 1.99999917"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cabb38" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="80.5593567 17.8813553 74.8022614" rotation="0 -90 0" scale="0.499999672 0.49999994 0.499999166"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cabb39" name="emp_wall_dormer01">
+      <ECBuilding key="emp_wall_dormer01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.1055603 58.281662 -36.3815804" rotation="0 -20.0000248 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_dormer01"/>
+    </entity>
+    <entity id="150a49d43cabb3a" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-29.6231384 16.2263107 -32.9958382" rotation="-2.18428063 -10.0801067 -1.94223583" scale="0.499999046 0.499999523 0.499999046"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cbbb3b" name="emp_outfield_struc_wall_house_01">
+      <ECBuilding key="emp_outfield_struc_wall_house_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="80.0066223 68.2292175 121.619766" rotation="-5.72481489 0.376033217 10.257597" scale="1.00000012 0.99999994 0.99999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_house_01"/>
+    </entity>
+    <entity id="150a49d43cbbb3c" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.65963745 17.8814621 -28.2480354" rotation="0 -20 0" scale="0.499999732 0.5 0.499999732"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cbbb3d" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.12930298 33.1063919 -10.5185432" rotation="0 -33.9999924 0" scale="1.99999976 2 1.99999976"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cbbb3e" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-37.1459656 31.0999737 -26.1606331" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cbbb3f" name="emp_outfield_struc_wall_house_02">
+      <ECBuilding key="emp_outfield_struc_wall_house_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.16171265 49.8651505 -33.0640755" rotation="0 68.0000534 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_house_02"/>
+    </entity>
+    <entity id="150a49d43cbbb40" name="emp_infield_terrace_02">
+      <ECBuilding key="emp_infield_terrace_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="50.1949768 71.2635803 9.53236008" rotation="0 35.0000305 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_02"/>
+    </entity>
+    <entity id="150a49d43cbbb42" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="30.344635 43.0797424 10.3541374" rotation="0 -42.0000153 0" scale="1.99999952 2 1.99999952"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cbbb43" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="80.5594788 17.8813553 145.916153" rotation="0 -90 0" scale="0.499999672 0.49999994 0.499999106"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cbbb44" name="emp_infield_walkway_01">
+      <ECBuilding key="emp_infield_walkway_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="38.0525208 49.626091 -6.35557938" rotation="0 -30.000021 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_walkway_01"/>
+    </entity>
+    <entity id="150a49d43cbbb45" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="80.3374329 18.0836182 123.569717" rotation="43.3279991 265.101044 316.776794" scale="0.599999666 0.50000006 0.499999166"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cbbb46" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="70.3114319 66.2585144 34.9817009" rotation="0 -60.0000305 0" scale="1.99999964 2 1.99999964"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43cbbb47" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.0765686 65.668457 -18.618885" rotation="0 -32.0000191 0" scale="1.99999952 2 1.99999952"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43cbbb48" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.1806946 59.0610504 -24.1730843" rotation="0 -32.0000191 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cbbb49" name="emp_outfield_struc_wall_house_02">
+      <ECBuilding key="emp_outfield_struc_wall_house_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-31.9097595 39.2458344 -35.9146614" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_house_02"/>
+    </entity>
+    <entity id="150a49d43ccbb50" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="75.2623596 56.59655 102.645523" rotation="0 90 0" scale="1.99999964 2 1.99999964"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43ccbb51" name="emp_wall_structure01">
+      <ECBuilding key="emp_wall_structure01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="72.1407776 43.3267822 132.896622" rotation="-1.36603776e-005 99.6783447 -1.36603776e-005" scale="2.00000024 2 2.00000024"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure01"/>
+    </entity>
+    <entity id="150a49d43ccbb52" name="emp_infield_terrace_01">
+      <ECBuilding key="emp_infield_terrace_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.6690369 61.0439758 -32.924305" rotation="0 -22.0000153 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_01"/>
+    </entity>
+    <entity id="150a49d43ccbb54" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-53.5287781 54.7577133 -41.7224007" rotation="0 -1.53679248e-005 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43ccbb55" name="emp_wall_structure03">
+      <ECBuilding key="emp_wall_structure03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.04177856 38.4925385 -29.0456429" rotation="0 -22.0000439 0" scale="1.99999917 2 1.99999917"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure03"/>
+    </entity>
+    <entity id="150a49d43ccbb57" name="emp_infield_house_06">
+      <ECBuilding key="emp_infield_house_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="82.8700256 51.4607849 105.166885" rotation="-4.19501703e-006 -90 0" scale="0.999999046 1 0.999999046"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_06"/>
+    </entity>
+    <entity id="150a49d43ccbb59" name="emp_infield_house_04">
+      <ECBuilding key="emp_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-32.1812439 59.9713745 -37.8554573" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_04"/>
+    </entity>
+    <entity id="150a49d43ccbb5a" name="emp_infield_terrace_04">
+      <ECBuilding key="emp_infield_terrace_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="84.5403137 58.6625214 78.2607574" rotation="0 -90 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_04"/>
+    </entity>
+    <entity id="150a49d43ccbb5b" name="emp_outfield_struc_wall_01_arched">
+      <ECBuilding key="emp_outfield_struc_wall_01_arched" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="36.6183167 17.7909393 -4.44212723" rotation="0 -40 0" scale="0.25 0.25 0.25"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched"/>
+    </entity>
+    <entity id="150a49d43cdbb62" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="13.39505 33.1063995 -2.93907547" rotation="0 -33.9999924 0" scale="1.99999976 2 1.99999976"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cdbb63" name="emp_infield_terrace_03">
+      <ECBuilding key="emp_infield_terrace_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="76.9204407 38.3499451 42.082531" rotation="0 205.000381 0" scale="1.49999702 1.5 1.49999702"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_03"/>
+    </entity>
+    <entity id="150a49d43cdbb64" name="emp_wall_dormer01">
+      <ECBuilding key="emp_wall_dormer01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-37.6507263 56.2363205 -41.3019905" rotation="0 0 0" scale="1.99999964 2 1.99999964"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_dormer01"/>
+    </entity>
+    <entity id="150a49d43cdbb65" name="emp_tower_freestanding">
+      <ECBuilding key="emp_tower_freestanding" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-62.9871521 38.3775024 -37.3674202" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_freestanding"/>
+    </entity>
+    <entity id="150a49d43cdbb66" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.8855896 33.1063995 -14.9512825" rotation="0 -20.0000038 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cdbb67" name="emp_wall_dormer01">
+      <ECBuilding key="emp_wall_dormer01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="85.6341858 55.9603271 126.161148" rotation="0 -90 0" scale="1.9999994 2 1.9999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_dormer01"/>
+    </entity>
+    <entity id="150a49d43cdbb68" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="79.6441956 73.0831451 125.092911" rotation="0.000204905664 93.6786575 359.999969" scale="1.99999905 2 1.99999905"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cdbb69" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.1405945 33.1063995 -18.1762581" rotation="0 -20.0000038 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cdbb6a" name="emp_infield_house_04">
+      <ECBuilding key="emp_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="79.9615784 59.9713745 53.9459343" rotation="0 -66.0001373 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_04"/>
+    </entity>
+    <entity id="150a49d43cdbb6f" name="emp_wall_structure03">
+      <ECBuilding key="emp_wall_structure03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="82.1496887 38.4925385 49.816906" rotation="0 -67.9999313 0" scale="1.99999928 2 1.99999928"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure03"/>
+    </entity>
+    <entity id="150a49d43cdbb70" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-31.8371277 52.2247009 -46.4472542" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43cebb72" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="67.3010559 17.8814468 32.2859001" rotation="0 -59.9999771 0" scale="0.499999672 0.5 0.499999672"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cebb73" name="emp_infield_terrace_04">
+      <ECBuilding key="emp_infield_terrace_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="65.2450256 60.9881134 24.026989" rotation="0 -56.0000305 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_04"/>
+    </entity>
+    <entity id="150a49d43cebb74" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="80.5593567 15.1564941 92.0285797" rotation="89.850235 -82.482399 -89.848938" scale="0.499999762 0.499999911 0.499999344"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cebb75" name="emp_wall_structure01">
+      <ECBuilding key="emp_wall_structure01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-69.8249207 51.2033844 -37.2192268" rotation="0 90 0" scale="1.49999917 1.5 1.49999917"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure01"/>
+    </entity>
+    <entity id="150a49d43cebb76" name="emp_infield_terrace_03">
+      <ECBuilding key="emp_infield_terrace_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.31161499 38.011055 -35.5218391" rotation="0 -24.9999962 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="infield_terrace_03"/>
+    </entity>
+    <entity id="150a49d43cebb78" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="75.0960999 68.6249542 124.098404" rotation="0 90 0" scale="1.99999964 2 1.99999964"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43cebb7a" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.95779419 64.5565796 -27.063221" rotation="0 -26.000021 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cebb7f" name="emp_outfield_struc_wall_house_01">
+      <ECBuilding key="emp_outfield_struc_wall_house_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="56.0733948 70.2831879 15.7775993" rotation="0 219.000275 0" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_house_01"/>
+    </entity>
+    <entity id="150a49d43cebb80" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.95779419 42.7830658 -27.063221" rotation="0 -26.000021 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cebb81" name="emp_wall_building01">
+      <ECBuilding key="emp_wall_building01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="74.4239807 58.0317993 121.771133" rotation="0 90 0" scale="1.99999964 2 1.99999964"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building01"/>
+    </entity>
+    <entity id="150a49d43cebb82" name="emp_wall_structure03">
+      <ECBuilding key="emp_wall_structure03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="59.2605286 46.5747147 12.2932243" rotation="0 -47.9999313 0" scale="1.9999994 2 1.9999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure03"/>
+    </entity>
+    <entity id="150a49d43cebb83" name="emp_outfield_struc_wall_02">
+      <ECBuilding key="emp_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="53.4950256 17.8814468 12.7102165" rotation="0 -50.0000153 0" scale="0.499999642 0.5 0.499999642"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150a49d43cebb84" name="emp_wall_building02">
+      <ECBuilding key="emp_wall_building02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-53.551239 67.7203064 -36.4518929" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_building02"/>
+    </entity>
+    <entity id="150a49d43cebb85" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-30.5577087 31.0999737 -26.1606331" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_support01"/>
+    </entity>
+    <entity id="150a49d43cfbb87" name="emp_wall_dormer01">
+      <ECBuilding key="emp_wall_dormer01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.6194153 46.6972427 -24.6801643" rotation="0 -30.000021 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="wall_dormer01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

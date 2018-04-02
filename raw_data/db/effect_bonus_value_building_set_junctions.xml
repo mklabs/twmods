@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_building_set_junctions.xsd" export_time="Wed Nov 29 19:46:34 2017" revision="51" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7d3b4ca0-92fd-4376-b73e-62a0e66aaa03</edit_uuid>
+<effect_bonus_value_building_set_junctions record_uuid="{dd6255b8-5918-4e08-9999-1761fed7f1b2}" record_timestamp="1511810518054" record_key="w2h_main_effect_building_construction_cost_mod_barracks_brtmod_costwh2_main_set_brt_barracks">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_brt_barracks</building_set>
+<effect>w2h_main_effect_building_construction_cost_mod_barracks_brt</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{a66e0674-0090-4141-aef1-e9f613006749}" record_timestamp="1511810516956" record_key="w2h_main_effect_building_construction_cost_mod_coastal_settlement_brtmod_costwh2_main_set_brt_coastal">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_brt_coastal</building_set>
+<effect>w2h_main_effect_building_construction_cost_mod_coastal_settlement_brt</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{75c0da2a-8335-4fb7-a894-133ca89158df}" record_timestamp="1511810518055" record_key="w2h_main_effect_building_construction_cost_mod_worship_brtmod_costwh2_main_set_brt_grail">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_brt_grail</building_set>
+<effect>w2h_main_effect_building_construction_cost_mod_worship_brt</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{255b4a96-9d11-4c25-bf90-7a6bedc3cf5c}" record_timestamp="1511810518051" record_key="w2h_main_effect_building_construction_time_mod_barracks_brtadd_build_timewh2_main_set_brt_barracks">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_brt_barracks</building_set>
+<effect>w2h_main_effect_building_construction_time_mod_barracks_brt</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{4a7622df-ff12-41de-aef0-5f512161ca6a}" record_timestamp="1511810518052" record_key="w2h_main_effect_building_construction_time_mod_worship_brtadd_build_timewh2_main_set_brt_grail">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_brt_grail</building_set>
+<effect>w2h_main_effect_building_construction_time_mod_worship_brt</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{037d020d-871b-4c54-a3df-6b942b2c18b5}" record_timestamp="1510681306613" record_key="wh2_dlc09_effect_building_construction_cost_mod_advanced_militarymod_costwh2_dlc09_set_tomb_kings_military_support">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_military_support</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_advanced_military</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{e020b0bf-21a0-4852-9d75-4a10271a5620}" record_timestamp="1507655042354" record_key="wh2_dlc09_effect_building_construction_cost_mod_constructsmod_costwh2_dlc09_set_tomb_kings_constructs">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_constructs</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_constructs</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{14d202c9-6b05-4078-8438-63b84b82e08b}" record_timestamp="1507655042211" record_key="wh2_dlc09_effect_building_construction_cost_mod_economymod_costwh2_dlc09_set_tomb_kings_economy">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_economy</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_economy</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{b5609a61-cd1d-4d96-b530-9c0d83aa4c77}" record_timestamp="1507655042282" record_key="wh2_dlc09_effect_building_construction_cost_mod_garrisonmod_costwh2_dlc09_set_tomb_kings_garrison">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_garrison</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_garrison</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{60e8c626-5d20-4077-9553-b44b54a3bc64}" record_timestamp="1507655042496" record_key="wh2_dlc09_effect_building_construction_cost_mod_monumentmod_costwh2_main_set_landmark">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_landmark</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_monument</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{5390a138-b8f6-4fa5-aa22-7e5ec19ce371}" record_timestamp="1507655042140" record_key="wh2_dlc09_effect_building_construction_cost_mod_recruitmentmod_costwh2_dlc09_set_tomb_kings_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_recruitment</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{913717d7-453a-404d-b2f0-5fd531ff4cd4}" record_timestamp="1511984782729" record_key="wh2_dlc09_effect_building_construction_cost_mod_tmb_cavalrymod_costwh2_dlc09_set_tomb_kings_cavalry">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_cavalry</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_tmb_cavalry</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{6df43f75-6e19-414e-bd63-3a5dce9f3eac}" record_timestamp="1511984782770" record_key="wh2_dlc09_effect_building_construction_cost_mod_tmb_defence_estate_citadelmod_costwh2_dlc09_set_tomb_kings_estate_citadel">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_estate_citadel</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_tmb_defence_estate_citadel</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{5e044861-c85e-4cb0-a468-864f83f61316}" record_timestamp="1511984782892" record_key="wh2_dlc09_effect_building_construction_cost_mod_tmb_defence_estate_citadelmod_costwh2_dlc09_set_tomb_kings_garrison">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_garrison</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_tmb_defence_estate_citadel</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{17dd39c1-23aa-43d7-90fb-c3dc58bfc15a}" record_timestamp="1511984782851" record_key="wh2_dlc09_effect_building_construction_cost_mod_tmb_income_growth_public_ordermod_costwh2_dlc09_set_tomb_kings_basic_infra">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_basic_infra</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_tmb_income_growth_public_order</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{b81fb4d8-c676-4fee-bb9e-ddd1ec82ab09}" record_timestamp="1511984782688" record_key="wh2_dlc09_effect_building_construction_cost_mod_tmb_infantry_chariotmod_costwh2_dlc09_set_tomb_kings_chariots">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_chariots</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_tmb_infantry_chariot</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{df9ad0bc-b302-4a95-a0e6-19d2e257198a}" record_timestamp="1511984782810" record_key="wh2_dlc09_effect_building_construction_cost_mod_tmb_infantry_chariotmod_costwh2_dlc09_set_tomb_kings_infantry">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_infantry</building_set>
+<effect>wh2_dlc09_effect_building_construction_cost_mod_tmb_infantry_chariot</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{edbb12ef-7463-4cc6-9198-8b846777a897}" record_timestamp="1511554692149" record_key="wh2_main_effect_building_construction_cost_mod_brt_stables_pasturesmod_costwh2_dlc09_set_brt_stables_pastures">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_brt_stables_pastures</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_brt_stables_pastures</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{2d0c6978-1296-40b1-8125-77df26637e2a}" record_timestamp="1498660759498" record_key="wh2_main_effect_building_construction_cost_mod_dwf_rangers_drinkingmod_costwh2_main_set_dwf_rangers_drinking">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_dwf_rangers_drinking</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_dwf_rangers_drinking</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{337506ba-eed4-4df7-9f95-4da2ff5b2d6c}" record_timestamp="1490355555580" record_key="wh2_main_effect_building_construction_cost_mod_hef_defencemod_costwh2_main_set_highelf_defence">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_highelf_defence</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_hef_defence</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{894e0b8e-888e-4a21-939e-f5c84ec68dee}" record_timestamp="1488881776458" record_key="wh2_main_effect_building_construction_cost_mod_hef_embassy_court_entertainmentmod_costwh2_main_set_hef_cultural">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_hef_cultural</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_hef_embassy_court_entertainment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{8424dd97-799e-4c92-8fd8-559763d138f1}" record_timestamp="1488881776536" record_key="wh2_main_effect_building_construction_cost_mod_hef_industry_resourcemod_costwh2_main_set_hef_industry">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_hef_industry</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_hef_industry_resource</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{2a433ff9-60ed-4c98-9078-014784269e76}" record_timestamp="1491842333063" record_key="wh2_main_effect_building_construction_cost_mod_lzd_resource_buildingsmod_costwh2_main_set_resource">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_resource</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_lzd_resource_buildings</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{7b19ad3a-f0db-45ca-805d-3ab2fa9d4553}" record_timestamp="1468924206882" record_key="wh2_main_effect_building_construction_cost_mod_lzd_starchambermod_costwh2_main_set_lizardmen_star_chamber">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_lizardmen_star_chamber</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_lzd_starchamber</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{86f77c6c-6afd-4852-94c2-3630ff1122d9}" record_timestamp="1468924207150" record_key="wh2_main_effect_building_construction_cost_mod_lzd_templesmod_costwh2_main_set_lizardmen_temples">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_lizardmen_temples</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_lzd_temples</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{d560aaed-a249-4546-b242-0c8b932bf868}" record_timestamp="1488881776538" record_key="wh2_main_effect_building_construction_cost_mod_portsmod_costwh_main_set_port">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_port</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_ports</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{6d659c22-db3f-4c5c-9fa5-ed837d30f8b6}" record_timestamp="1482163261264" record_key="wh2_main_effect_building_construction_cost_mod_skv_plague_temple_chainmod_costwh2_main_set_skaven_plague">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_skaven_plague</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_skv_plague_temple_chain</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{f17af0ab-1373-4aee-8f24-aeb4c1116468}" record_timestamp="1497974518381" record_key="wh2_main_effect_building_construction_cost_mod_worship_hef_globalmod_costwh2_main_set_hef_worship">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_hef_worship</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_worship_hef_global</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{915106a3-b7db-4e81-9a52-a0b804dde8dc}" record_timestamp="1497974518427" record_key="wh2_main_effect_building_construction_cost_mod_worship_hefmod_costwh2_main_set_hef_worship">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_hef_worship</building_set>
+<effect>wh2_main_effect_building_construction_cost_mod_worship_hef</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{f800cfe7-b3c2-4975-8b8f-609372c08460}" record_timestamp="1511810516954" record_key="wh2_main_effect_building_construction_time_mod_coastal_settlement_brtadd_build_timewh2_main_set_brt_coastal">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_brt_coastal</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_coastal_settlement_brt</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{fa53f5c1-ac8d-4457-a372-13f013ca657f}" record_timestamp="1498660759462" record_key="wh2_main_effect_building_construction_time_mod_dwf_rangers_drinkingadd_build_timewh2_main_set_dwf_rangers_drinking">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_dwf_rangers_drinking</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_dwf_rangers_drinking</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{0b13cff0-20d3-484a-b1c8-36e7e17a2cc2}" record_timestamp="1488881776457" record_key="wh2_main_effect_building_construction_time_mod_hef_embassy_court_entertainmentadd_build_timewh2_main_set_hef_cultural">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_hef_cultural</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_hef_embassy_court_entertainment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{80f87769-931a-4c7e-a21b-7ef97e1688ae}" record_timestamp="1488881776534" record_key="wh2_main_effect_building_construction_time_mod_hef_industry_resourceadd_build_timewh2_main_set_hef_industry">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_hef_industry</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_hef_industry_resource</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{8fea6016-0083-4fae-83ee-e0fe1ba7806b}" record_timestamp="1491842333113" record_key="wh2_main_effect_building_construction_time_mod_lzd_resource_buildingsadd_build_timewh2_main_set_resource">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_resource</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_lzd_resource_buildings</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{0506909c-a957-408c-858c-5cb922c6f5f2}" record_timestamp="1468924206862" record_key="wh2_main_effect_building_construction_time_mod_lzd_starchamberadd_build_timewh2_main_set_lizardmen_star_chamber">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_lizardmen_star_chamber</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_lzd_starchamber</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{b399525f-6af8-475a-be4b-908c509548ea}" record_timestamp="1468924207121" record_key="wh2_main_effect_building_construction_time_mod_lzd_templesadd_build_timewh2_main_set_lizardmen_temples">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh2_main_set_lizardmen_temples</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_lzd_temples</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{f0ffdb9e-ed03-46fd-b02a-8e47c4e29c6a}" record_timestamp="1511554692150" record_key="wh2_main_effect_building_construction_time_mod_perc_brt_stables_pasturesmod_build_timewh2_dlc09_set_brt_stables_pastures">
+<bonus_value_id>mod_build_time</bonus_value_id>
+<building_set>wh2_dlc09_set_brt_stables_pastures</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_perc_brt_stables_pastures</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{d00075ce-92f0-414f-a6aa-7cba55ce9630}" record_timestamp="1488881776537" record_key="wh2_main_effect_building_construction_time_mod_portsadd_build_timewh_main_set_port">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh_main_set_port</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_ports</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{7e405400-d971-484a-8f0d-90ae4bd5fb5b}" record_timestamp="1510683682102" record_key="wh2_main_effect_building_construction_time_mod_settlement_percentagemod_build_timewh_main_set_settlement_major">
+<bonus_value_id>mod_build_time</bonus_value_id>
+<building_set>wh_main_set_settlement_major</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_settlement_percentage</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{1468145a-36c0-4976-af11-11217fcdbcc9}" record_timestamp="1510683682101" record_key="wh2_main_effect_building_construction_time_mod_settlement_percentagemod_build_timewh_main_set_settlement_minor">
+<bonus_value_id>mod_build_time</bonus_value_id>
+<building_set>wh_main_set_settlement_minor</building_set>
+<effect>wh2_main_effect_building_construction_time_mod_settlement_percentage</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{743593b1-0e6f-4a35-b9da-5ba331534804}" record_timestamp="1498720727277" record_key="wh2_main_effect_force_newhorde_buildings_black_arknum_buildings_to_spawn_for_new_horde_armywh2_main_set_newhorde_def">
+<bonus_value_id>num_buildings_to_spawn_for_new_horde_army</bonus_value_id>
+<building_set>wh2_main_set_newhorde_def</building_set>
+<effect>wh2_main_effect_force_newhorde_buildings_black_ark</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{83190fb4-0bae-43b4-9a29-ec1a3b8a7201}" record_timestamp="1485878366116" record_key="wh2_main_effect_force_newhorde_buildings_roguenum_buildings_to_spawn_for_new_horde_armywh2_main_set_newhorde_rogue">
+<bonus_value_id>num_buildings_to_spawn_for_new_horde_army</bonus_value_id>
+<building_set>wh2_main_set_newhorde_rogue</building_set>
+<effect>wh2_main_effect_force_newhorde_buildings_rogue</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{07fa8024-7411-4788-a30a-5038e6d5d585}" record_timestamp="1507654145135" record_key="wh2_main_effect_region_tradable_resource_productionmod_costwh2_main_set_resource">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_resource</building_set>
+<effect>wh2_main_effect_region_tradable_resource_production</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{00eeb382-321a-4eaf-b3db-e49e3cddcf92}" record_timestamp="1505400593109" record_key="wh2_main_effect_region_tradable_resource_productionmod_resource_productionwh2_main_set_landmark">
+<bonus_value_id>mod_resource_production</bonus_value_id>
+<building_set>wh2_main_set_landmark</building_set>
+<effect>wh2_main_effect_region_tradable_resource_production</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{8d9cb3d5-25ea-4bed-9f2e-3a8968dc942a}" record_timestamp="1460029362621" record_key="wh_dlc03_effect_force_newhorde_building_beastmennum_buildings_to_spawn_for_new_horde_armywh_dlc03_set_newhorde_beastmen">
+<bonus_value_id>num_buildings_to_spawn_for_new_horde_army</bonus_value_id>
+<building_set>wh_dlc03_set_newhorde_beastmen</building_set>
+<effect>wh_dlc03_effect_force_newhorde_building_beastmen</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{4e2d810b-83a7-41b3-b834-3b668e3ca1aa}" record_timestamp="1507654145172" record_key="wh_dlc04_effect_cost_reduction_sigmar_shrinemod_costwh2_dlc09_set_tomb_kings_military_support">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_military_support</building_set>
+<effect>wh_dlc04_effect_cost_reduction_sigmar_shrine</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{3e07ec1e-6731-4e40-a0aa-50fb2593ac5f}" record_timestamp="1470839284606" record_key="wh_dlc04_effect_cost_reduction_sigmar_shrinemod_costwh_main_set_empire_military_support">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_empire_military_support</building_set>
+<effect>wh_dlc04_effect_cost_reduction_sigmar_shrine</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{9d6b07cb-e900-4d31-9727-d41219dc3ba5}" record_timestamp="1444221608619" record_key="wh_main_effect_building_construction_cost_mod_empire_wizardsmod_costwh_main_set_empire_wizards">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_empire_wizards</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_empire_wizards</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{4abdefcc-fe71-46ba-bd5f-04969796f008}" record_timestamp="1507654145001" record_key="wh_main_effect_building_construction_cost_mod_infrastructuremod_costwh2_dlc09_set_tomb_kings_infrastructure">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_infrastructure</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_infrastructure</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{c614b369-6c0e-4158-b711-7dc95521a783}" record_timestamp="1488480069047" record_key="wh_main_effect_building_construction_cost_mod_infrastructuremod_costwh_main_set_empire_economy">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_empire_economy</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_infrastructure</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{decacaf2-c19d-4922-b546-6fc38925a064}" record_timestamp="1453394281645" record_key="wh_main_effect_building_construction_cost_mod_recruitment_vmpmod_costwh_main_set_dwarf_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_dwarf_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment_vmp</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{67941391-277c-473b-a084-818fc77a5937}" record_timestamp="1453394281589" record_key="wh_main_effect_building_construction_cost_mod_recruitment_vmpmod_costwh_main_set_empire_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_empire_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment_vmp</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{0096bd5e-1533-4b9f-be9f-559a0cb876da}" record_timestamp="1453394281577" record_key="wh_main_effect_building_construction_cost_mod_recruitment_vmpmod_costwh_main_set_greenskin_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_greenskin_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment_vmp</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{a948c897-0f07-48c5-9510-983b02b018a0}" record_timestamp="1453394281567" record_key="wh_main_effect_building_construction_cost_mod_recruitment_vmpmod_costwh_main_set_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment_vmp</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{40fe02da-40be-42f4-b9ba-6184941dea9d}" record_timestamp="1453394281556" record_key="wh_main_effect_building_construction_cost_mod_recruitment_vmpmod_costwh_main_set_vampire_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_vampire_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment_vmp</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{cce6c9bf-ff9c-4f23-9ee7-52084d753b47}" record_timestamp="1507654145035" record_key="wh_main_effect_building_construction_cost_mod_recruitmentmod_costwh2_dlc09_set_tomb_kings_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_dlc09_set_tomb_kings_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{270b7f6f-1112-4d1a-9998-e616814d7231}" record_timestamp="1444908804494" record_key="wh_main_effect_building_construction_cost_mod_recruitmentmod_costwh_main_set_dwarf_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_dwarf_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{b596d22a-d619-4d23-a68b-ffd2053d9706}" record_timestamp="1444908804539" record_key="wh_main_effect_building_construction_cost_mod_recruitmentmod_costwh_main_set_empire_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_empire_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{d9843e91-09bc-4097-9a27-6b4b17261730}" record_timestamp="1444908804561" record_key="wh_main_effect_building_construction_cost_mod_recruitmentmod_costwh_main_set_greenskin_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_greenskin_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{205332d3-c88e-4b68-bcc9-904de14b97fe}" record_timestamp="1444908804469" record_key="wh_main_effect_building_construction_cost_mod_recruitmentmod_costwh_main_set_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{b240b783-b298-4912-bbe2-c98c34510a97}" record_timestamp="1444908804518" record_key="wh_main_effect_building_construction_cost_mod_recruitmentmod_costwh_main_set_vampire_military_recruitment">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_vampire_military_recruitment</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_recruitment</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{3991a60a-d654-468b-9be5-b28923facb66}" record_timestamp="1448010877269" record_key="wh_main_effect_building_construction_cost_mod_settlementmod_costwh_main_set_settlement_major">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_settlement_major</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_settlement</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{feba1f5d-d5d3-4bc8-90f8-6f61230c55d2}" record_timestamp="1448010877258" record_key="wh_main_effect_building_construction_cost_mod_settlementmod_costwh_main_set_settlement_minor">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh_main_set_settlement_minor</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_settlement</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{ff0fc517-5231-4202-ac49-c158a1e0be63}" record_timestamp="1507892837980" record_key="wh_main_effect_building_construction_cost_mod_sorcery_defmod_costwh2_main_set_darkelf_sorcery">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_darkelf_sorcery</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_sorcery_def</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{e17bbbd7-4bc6-45af-bc38-4579d3a40ac2}" record_timestamp="1496153595343" record_key="wh_main_effect_building_construction_cost_mod_worship_defmod_costwh2_main_set_darkelf_temples">
+<bonus_value_id>mod_cost</bonus_value_id>
+<building_set>wh2_main_set_darkelf_temples</building_set>
+<effect>wh_main_effect_building_construction_cost_mod_worship_def</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{b1180950-a6ab-4e11-8cfa-aac87163d73e}" record_timestamp="1448541975084" record_key="wh_main_effect_building_construction_time_mod_settlementadd_build_timewh_main_set_settlement_major">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh_main_set_settlement_major</building_set>
+<effect>wh_main_effect_building_construction_time_mod_settlement</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{4b8a9fc8-e6e3-4e8c-8618-01b1a68e2653}" record_timestamp="1448541975103" record_key="wh_main_effect_building_construction_time_mod_settlementadd_build_timewh_main_set_settlement_minor">
+<bonus_value_id>add_build_time</bonus_value_id>
+<building_set>wh_main_set_settlement_minor</building_set>
+<effect>wh_main_effect_building_construction_time_mod_settlement</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{1232347c-de45-49cb-8828-9dbe97264ef2}" record_timestamp="1437392901891" record_key="wh_main_effect_force_newhorde_buildings_chaosnum_buildings_to_spawn_for_new_horde_armywh_main_set_newhorde_chaos">
+<bonus_value_id>num_buildings_to_spawn_for_new_horde_army</bonus_value_id>
+<building_set>wh_main_set_newhorde_chaos</building_set>
+<effect>wh_main_effect_force_newhorde_buildings_chaos</effect>
+</effect_bonus_value_building_set_junctions>
+<effect_bonus_value_building_set_junctions record_uuid="{291caf68-124b-4a7b-a990-9fcea6a26591}" record_timestamp="1438771036177" record_key="wh_main_effect_force_newhorde_buildings_savage_orcsnum_buildings_to_spawn_for_new_horde_armywh_main_set_newhorde_savage_orcs">
+<bonus_value_id>num_buildings_to_spawn_for_new_horde_army</bonus_value_id>
+<building_set>wh_main_set_newhorde_savage_orcs</building_set>
+<effect>wh_main_effect_force_newhorde_buildings_savage_orcs</effect>
+</effect_bonus_value_building_set_junctions>
+</dataroot>

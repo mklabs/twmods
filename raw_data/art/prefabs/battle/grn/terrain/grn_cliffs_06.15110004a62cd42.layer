@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="15110004a61cd2f">
+      <ECBuilding key="grn_cliff_of_c" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.06214666 -6.24121332 13.7872057" rotation="6.65618277 122.127769 8.1953249" scale="1.00000143 0.999999762 1.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliff_of_c"/>
+    </entity>
+    <entity id="15110004a61cd30">
+      <ECBuilding key="grn_rock_of_termite_c" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="44.7490273 42.5867195 18.8667564" rotation="8.19622655e-005 102.519539 5.46415104e-005" scale="2.47954011 2.99463058 2.47953796"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_termite_c"/>
+    </entity>
+    <entity id="15110004a61cd31">
+      <ECBuilding key="grn_rock_of_tall_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.3858643 44.9409294 70.7683868" rotation="0 18.7694588 0" scale="1.47493958 1.47493768 1.47493958"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_b"/>
+    </entity>
+    <entity id="15110004a61cd32">
+      <ECBuilding key="grn_rock_of_tall_c" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="44.0327377 88.419754 35.6559372" rotation="0.000500393216 -66.4952927 2.1808255e-005" scale="1.67411888 1.67411613 1.67411888"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_c"/>
+    </entity>
+    <entity id="15110004a61cd33">
+      <ECBuilding key="grn_rock_of_tall_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.86682129 51.4452744 -31.9954834" rotation="0 134.98877 0" scale="1.41514575 1.41514158 1.41514575"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_a"/>
+    </entity>
+    <entity id="15110004a61cd34">
+      <ECBuilding key="grn_rock_of_termite_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-63.9442787 -3.84076278e-012 -48.5093422" rotation="0.000177584909 94.3756409 0.000218566041" scale="1.88971531 2.11148167 1.88971531"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_termite_a"/>
+    </entity>
+    <entity id="15110004a62cd35">
+      <ECBuilding key="grn_rock_of_termite_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-61.1029968 1.52368613e-012 63.9488487" rotation="6.83018879e-005 102.515335 5.46415104e-005" scale="2.4494586 2.73691297 2.44945788"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_termite_b"/>
+    </entity>
+    <entity id="15110004a62cd36">
+      <ECBuilding key="grn_rock_of_tall_d" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="54.4430618 59.2485962 57.3297729" rotation="-5.16905975 148.154816 -174.224915" scale="1.72274876 1.72275269 1.72275126"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_d"/>
+    </entity>
+    <entity id="15110004a62cd37">
+      <ECBuilding key="grn_rock_of_tall_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.4325981 47.0468903 -48.3073082" rotation="-7.06716204 78.1921234 179.916107" scale="2.02519536 2.02519631 2.02519274"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_a"/>
+    </entity>
+    <entity id="15110004a62cd38">
+      <ECBuilding key="grn_rock_skirt_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.85534668 14.6745396 67.2797241" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_skirt_a"/>
+    </entity>
+    <entity id="15110004a62cd39">
+      <ECBuilding key="grn_rock_of_tall_e" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.0535536 94.1401062 -44.6841621" rotation="11.98384 221.425293 178.215332" scale="2.60865688 2.00671721 2.60865688"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_e"/>
+    </entity>
+    <entity id="15110004a62cd3a">
+      <ECBuilding key="grn_rock_of_tall_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="44.012085 63.6788559 35.7905235" rotation="0 262.75528 0" scale="1.63345253 1.63345218 1.63345253"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_a"/>
+    </entity>
+    <entity id="15110004a62cd3b">
+      <ECBuilding key="grn_rockmed_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="36.6842003 19.5335751 81.2928467" rotation="0 150.502457 0" scale="2.04879832 2.04879975 2.04879832"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_05"/>
+    </entity>
+    <entity id="15110004a62cd3c">
+      <ECBuilding key="grn_rock_skirt_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="13.7860289 37.7268448 -51.1797142" rotation="0 259.743774 0" scale="0.719970882 0.769252479 0.719970882"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_skirt_a"/>
+    </entity>
+    <entity id="15110004a62cd3d">
+      <ECBuilding key="grn_rock_of_termite_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="52.6766396 1.66333502e-005 -91.2364578" rotation="1.36603776e-005 180.216705 1.36603776e-005" scale="2.67512727 2.98906398 2.67512655"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_termite_b"/>
+    </entity>
+    <entity id="15110004a62cd3e">
+      <ECBuilding key="grn_rock_of_tall_c" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.18505812 29.6901226 85.7687912" rotation="0 161.889618 0" scale="1.46898878 1.46898925 1.46898878"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_c"/>
+    </entity>
+    <entity id="15110004a62cd3f">
+      <ECBuilding key="grn_rock_of_termite_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="40.2647629 1.38670373e-006 -97.1559219" rotation="-3.37312849e-005 19.9435368 -1.34313441e-005" scale="1.6241163 1.81471419 1.62411714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_termite_a"/>
+    </entity>
+    <entity id="15110004a62cd40">
+      <ECBuilding key="grn_rock_of_tall_d" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.121582 83.4971848 -44.6269531" rotation="0 102.094765 0" scale="1.48526502 1.48526609 1.48526502"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_d"/>
+    </entity>
+    <entity id="15110004a62cd41">
+      <ECBuilding key="grn_rock_of_tall_d" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.9454308 54.9986954 53.2876587" rotation="0 219.226837 0" scale="1.72274637 1.72275102 1.72274637"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rock_of_tall_d"/>
+    </entity>
+    <entity id="151ab32cd8f8613">
+      <ECBuilding key="grn_plateau_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="18.1251831 -28.8143253 70.3052826" rotation="0 0 0" scale="0.880245626 0.880245626 0.880245626"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="plateau_a"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="18">
+  <entities>
+    <entity id="14e20d5c6832fc3" name="Point Light 36">
+      <ECPointLight colour="188 255 199 255" colour_scale="3" radius="40" animation_type="LAT_NONE" animation_speed_scale="1 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="8.63167572 70.0021744 -23.6106319" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e20d5c6832fc4" name="Point Light 36">
+      <ECPointLight colour="188 255 199 255" colour_scale="3" radius="40" animation_type="LAT_NONE" animation_speed_scale="1 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="-31.9923935 36.4929504 -26.1476402" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e20d5c6832fc5" name="vmp_megabuttress_02_mirror">
+      <ECBuilding key="vmp_megabuttress_02_mirror" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-12.545723 -0.205194473 -7.30817032" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="megabuttress_02_mirror"/>
+    </entity>
+    <entity id="14e20d5c6832fc6" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-24.1212845 6.22727776 -4.40184784" rotation="8.47181511 23.0678654 18.772604" scale="4.78166723 4.78165865 4.78166485"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e20d5c6832fc7" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="24.1563492 5.12820244 -9.0859375" rotation="44.6694336 130.959579 33.6088867" scale="3.24799848 3.24799252 3.24799728"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e20d5c6832fc8" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="42.8436661 6.2272625 -4.40185165" rotation="8.47181606 23.0678711 -23.2273903" scale="4.78166676 4.78165913 4.78166389"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e20d5c6832fc9" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="8.75849152 -20.7791348 -8.08594131" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e20d5c6842fca" name="vmp_megabuttress_02">
+      <ECBuilding key="vmp_megabuttress_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="23.1563492 -0.327810287 -8.3175621" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="megabuttress_02"/>
+    </entity>
+    <entity id="14e20d5c6842fcb" name="vmp_building_01">
+      <ECBuilding key="vmp_building_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-31.9061966 -0.27321434 13.762516" rotation="0 -4.0981151e-005 0" scale="1.4999994 1.5 1.4999994"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="building_01"/>
+    </entity>
+    <entity id="14e20d5c6842fcc" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-42.8436661 6.2272625 26.1476402" rotation="8.47181606 23.0678654 -23.7273846" scale="4.78166628 4.78165913 4.78166533"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

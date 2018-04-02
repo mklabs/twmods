@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effects_additional_tooltip_details.xsd" export_time="Fri Sep 15 09:42:59 2017" revision="46" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>88d67666-dbb8-4742-a60f-70630fbf1a87</edit_uuid>
+<effects_additional_tooltip_details record_uuid="{30847286-e195-456f-9212-80032f860894}" record_timestamp="1489571064053" record_key="wh2_main_effect_agent_action_assist_army_increase_mobility_buff">
+<effect>wh2_main_effect_agent_action_assist_army_increase_mobility_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/campaign_movement.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_increase_mobility}}[[/col]] (Assist Army)\nIncreases the campaign movement range of the parent army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_increase_mobility}}[[/col]] (Assist Army)\nIncreases the campaign movement range of the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{3222aaf6-a1b9-4e93-9b1f-1d26aa8d4699}" record_timestamp="1489571064086" record_key="wh2_main_effect_agent_action_assist_army_replenish_troops_buff">
+<effect>wh2_main_effect_agent_action_assist_army_replenish_troops_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/replenishment.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_replenish_troops}}[[/col]] (Assist Army)\nIncreases replenishment of the parent army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_replenish_troops}}[[/col]] (Assist Army)\nIncreases replenishment of the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{e09c9122-52dd-4282-9cfe-56a6ba9e7b55}" record_timestamp="1489571064120" record_key="wh2_main_effect_agent_action_assist_army_scavenge_buff">
+<effect>wh2_main_effect_agent_action_assist_army_scavenge_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/income.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_scavenge}}[[/col]] (Assist Army)\nIncreases the {{tr:icon_income}}income of post-battle loot earned by the parent army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_scavenge}}[[/col]] (Assist Army)\nIncreases the {{tr:icon_income}}income of post-battle loot earned by the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{57e690d2-a5cf-4f6a-8521-c1daa1ca1758}" record_timestamp="1489571064154" record_key="wh2_main_effect_agent_action_assist_army_scouting_buff">
+<effect>wh2_main_effect_agent_action_assist_army_scouting_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/item_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_scouting}}[[/col]] (Assist Army)\nIncreases the parent army's chance of finding a magic item after winning a battle." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_scouting}}[[/col]] (Assist Army)\nIncreases the parent army's chance of finding a magic item after winning a battle.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{f872d1b2-fb6e-4829-90d6-849fd88a85ed}" record_timestamp="1489571064188" record_key="wh2_main_effect_agent_action_assist_army_training_buff">
+<effect>wh2_main_effect_agent_action_assist_army_training_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/experience.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_training}}[[/col]] (Assist Army)\nGrants experience per turn to units serving in the parent army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_training}}[[/col]] (Assist Army)\nGrants experience per turn to units serving in the parent army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b60055c0-a6e5-4967-9779-945f6ec3d297}" record_timestamp="1489571064838" record_key="wh2_main_effect_agent_action_hinder_agent_assassinate_buff">
+<effect>wh2_main_effect_agent_action_hinder_agent_assassinate_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/subterfuge.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_assassinate}}[[/col]] (Target: Hero)\nKills the target [[img:icon_hero]][[/img]]Hero." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_assassinate}}[[/col]] (Target: Hero)\nKills the target [[img:icon_hero]][[/img]]Hero.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{5ce11cd3-440a-41c0-b00e-26167a974fb9}" record_timestamp="1489571064873" record_key="wh2_main_effect_agent_action_hinder_agent_wound_buff">
+<effect>wh2_main_effect_agent_action_hinder_agent_wound_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/wound_time.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_wound}}[[/col]] (Target: Hero)\nWounds the target [[img:icon_hero]][[/img]]Hero." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_wound}}[[/col]] (Target: Hero)\nWounds the target [[img:icon_hero]][[/img]]Hero.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{04ce8099-66e6-48a7-888f-3564a1961ca5}" record_timestamp="1489571064908" record_key="wh2_main_effect_agent_action_hinder_army_assault_unit_buff">
+<effect>wh2_main_effect_agent_action_hinder_army_assault_unit_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/disaster.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_assault_unit}}[[/col]] (Target: Army)\nInflicts damage upon a unit in the target army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_assault_unit}}[[/col]] (Target: Army)\nInflicts damage upon a unit in the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b57cf219-65f4-4617-9fab-adc575efdf7e}" record_timestamp="1489571064943" record_key="wh2_main_effect_agent_action_hinder_army_assult_units_buff">
+<effect>wh2_main_effect_agent_action_hinder_army_assult_units_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/disaster.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_assault_units}}[[/col]] (Target: Army)\nInflicts damage upon all units in the target army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_assault_units}}[[/col]] (Target: Army)\nInflicts damage upon all units in the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{40a8fd75-b6f3-41d1-b1f6-b1b3c64f9257}" record_timestamp="1489571064979" record_key="wh2_main_effect_agent_action_hinder_army_block_army_buff">
+<effect>wh2_main_effect_agent_action_hinder_army_block_army_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/campaign_movement.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_block_army}}[[/col]] (Target: Army)\nModifies the campaign movement range of the target army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_block_army}}[[/col]] (Target: Army)\nModifies the campaign movement range of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{a253b4a7-9a1e-41e0-89e0-0aa00655e819}" record_timestamp="1489571065014" record_key="wh2_main_effect_agent_action_hinder_army_hinder_replenishment_buff">
+<effect>wh2_main_effect_agent_action_hinder_army_hinder_replenishment_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/replenishment.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_hinder_replenishment}}[[/col]] (Target: Army)\nModifies the replenishment of the target army." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_hinder_replenishment}}[[/col]] (Target: Army)\nModifies the replenishment of the target army.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{5e861f18-c360-46f4-b4d5-a37e32e3ff8b}" record_timestamp="1489670727996" record_key="wh2_main_effect_agent_action_hinder_settlement_assault_garrison_buff">
+<effect>wh2_main_effect_agent_action_hinder_settlement_assault_garrison_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/siege_defence.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_assault_garrison}}[[/col]] (Target: Settlement)\nInflicts damage upon the garrison of the target settlement." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_assault_garrison}}[[/col]] (Target: Settlement)\nInflicts damage upon the garrison of the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{6e1323c4-c6d3-4b1e-af84-ac8160340089}" record_timestamp="1489571065085" record_key="wh2_main_effect_agent_action_hinder_settlement_damage_building_buff">
+<effect>wh2_main_effect_agent_action_hinder_settlement_damage_building_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/siege_attack.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_damage_building}}[[/col]] (Target: Settlement)\nInflicts damage upon a building in the target settlement." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_damage_building}}[[/col]] (Target: Settlement)\nInflicts damage upon a building in the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{2d521977-98f9-4716-8240-bf2d8d48a71a}" record_timestamp="1489571079874" record_key="wh2_main_effect_agent_action_hinder_settlement_damage_walls_buff">
+<effect>wh2_main_effect_agent_action_hinder_settlement_damage_walls_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/siege_attack.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_damage_walls}}[[/col]] (Target: Settlement)\nDamages the walls of the target settlement." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_damage_walls}}[[/col]] (Target: Settlement)\nDamages the walls of the target settlement.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{ea7d8380-3731-4a49-b85a-39386ad5a701}" record_timestamp="1495467401698" record_key="wh2_main_effect_agent_action_hinder_settlement_gain_influence_buff">
+<effect>wh2_main_effect_agent_action_hinder_settlement_gain_influence_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/intrigue.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_gain_influence}}[[/col]] (Target: Settlement)\nGains [[img:icon_influence]][[/img]]influence." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_gain_influence}}[[/col]] (Target: Settlement)\nGains [[img:icon_influence]][[/img]]influence.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{c71218c2-8ed7-4499-ad3b-5a41a1281bda}" record_timestamp="1499674810276" record_key="wh2_main_effect_agent_action_hinder_settlement_steal_technology_buff">
+<effect>wh2_main_effect_agent_action_hinder_settlement_steal_technology_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/technology.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_steal_technology}}[[/col]] (Target: Settlement)\nIncreases research rate for 3 turns." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_steal_technology}}[[/col]] (Target: Settlement)\nIncreases research rate for 3 turns.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{bb49c833-a030-44d4-b7d5-a8f7c8bfeba7}" record_timestamp="1496238337808" record_key="wh2_main_effect_agent_action_passive_boost_income_buff">
+<effect>wh2_main_effect_agent_action_passive_boost_income_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/income.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_boost_income}}[[/col]] (Constant Local Effect)\nIncreases the income generated by buildings in the local province (reduces in enemy provinces)." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_boost_income}}[[/col]] (Constant Local Effect)\nIncreases the income generated by buildings in the local province (reduces in enemy provinces).</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{569446b5-cb86-4e31-b4db-d978d4242731}" record_timestamp="1500372428271" record_key="wh2_main_effect_agent_action_passive_increase_slave_income_buff">
+<effect>wh2_main_effect_agent_action_passive_increase_slave_income_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/slaves.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_increase_slave_income}}[[/col]] (Constant Local Effect)\nIncreases the [[img:icon_income]][[/img]]income from [[img:icon_slaves]][[/img]]slaves in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_increase_slave_income}}[[/col]] (Constant Local Effect)\nIncreases the [[img:icon_income]][[/img]]income from [[img:icon_slaves]][[/img]]slaves in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{ebcdc1d8-8caa-48e0-aa24-b69fcd382ff1}" record_timestamp="1505400437096" record_key="wh2_main_effect_agent_action_passive_increase_trade_buff">
+<effect>wh2_main_effect_agent_action_passive_increase_trade_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/trade_agreement.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_increase_trade}}[[/col]] (Constant Local Effect)\nIncreases tradable resources produced in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_increase_trade}}[[/col]] (Constant Local Effect)\nIncreases tradable resources produced in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{30bb5f70-05dd-4458-a9be-a1da8417050c}" record_timestamp="1502105692380" record_key="wh2_main_effect_agent_action_passive_spread_corruption_buff">
+<effect>wh2_main_effect_agent_action_passive_spread_corruption_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/religion.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_cleanse_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_untainted]][[/img]]Untainted in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_cleanse_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_untainted]][[/img]]Untainted in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{800453d6-f03f-4203-9a5d-1c9e9a1ffac3}" record_timestamp="1489571079756" record_key="wh2_main_effect_agent_action_passive_spread_corruption_buff_chs">
+<effect>wh2_main_effect_agent_action_passive_spread_corruption_buff_chs</effect>
+<icon_path>ui/campaign ui/effect_bundles/religion_chaos.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_spread_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_spread_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_chs]][[/img]]Chaos corruption in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{63ec1b17-17e1-4bff-8c68-1cfabf5ffc60}" record_timestamp="1489571079795" record_key="wh2_main_effect_agent_action_passive_spread_corruption_buff_skv">
+<effect>wh2_main_effect_agent_action_passive_spread_corruption_buff_skv</effect>
+<icon_path>ui/campaign ui/effect_bundles/religion_skaven.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_spread_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_skv]][[/img]]Skaven corruption in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_spread_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_skv]][[/img]]Skaven corruption in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{cdf81e1f-f2a2-440b-b967-085318274fe1}" record_timestamp="1489571079834" record_key="wh2_main_effect_agent_action_passive_spread_corruption_buff_vmp">
+<effect>wh2_main_effect_agent_action_passive_spread_corruption_buff_vmp</effect>
+<icon_path>ui/campaign ui/effect_bundles/religion_undeath.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_spread_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_spread_corruption}}[[/col]] (Constant Local Effect)\nIncreases the amount of [[img:icon_corruption_vmp]][[/img]]Vampiric corruption in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{de493654-eed0-4f8d-954a-e65c1b46a98c}" record_timestamp="1496238337766" record_key="wh2_main_effect_agent_action_passive_spread_public_order_buff">
+<effect>wh2_main_effect_agent_action_passive_spread_public_order_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/public_order.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_spread_public_order}}[[/col]] (Constant Local Effect)\nIncreases {{tr:hp_campaign_public_order_term}} in the local province (reduces in enemy provinces)." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_spread_public_order}}[[/col]] (Constant Local Effect)\nIncreases {{tr:hp_campaign_public_order_term}} in the local province (reduces in enemy provinces).</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{d01aa531-0f63-454d-ab29-43da4fcf59df}" record_timestamp="1496238337726" record_key="wh2_main_effect_agent_action_passive_spread_public_order_horde_buff">
+<effect>wh2_main_effect_agent_action_passive_spread_public_order_horde_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/public_order.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_spread_public_order}}[[/col]] (Constant Local Effect)\nReduces {{tr:hp_campaign_public_order_term}} in the local province." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_spread_public_order}}[[/col]] (Constant Local Effect)\nReduces {{tr:hp_campaign_public_order_term}} in the local province.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b94ff0bc-9694-4cfb-b14b-7cdb890b16b5}" record_timestamp="1496238337849" record_key="wh2_main_effect_agent_action_passive_stimulate_growth_buff">
+<effect>wh2_main_effect_agent_action_passive_stimulate_growth_buff</effect>
+<icon_path>ui/campaign ui/effect_bundles/growth.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="[[col:yellow]]{{tr:agent_action_name_stimulate_growth}}[[/col]] (Constant Local Effect)\nIncreases growth in the local province (reduces in enemy provinces)." last_edit_user="bob">[[col:yellow]]{{tr:agent_action_name_stimulate_growth}}[[/col]] (Constant Local Effect)\nIncreases growth in the local province (reduces in enemy provinces).</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{e22c6e52-5fe0-4639-9398-765a35f429d8}" record_timestamp="1454069543339" record_key="wh_main_effect_character_stat_mod_personal_aura_morale_effect">
+<effect>wh_main_effect_character_stat_mod_personal_aura_morale_effect</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{7f6996a6-dcad-4d69-9a8d-14147664d90b}" record_timestamp="1454069543368" record_key="wh_main_effect_character_stat_mod_personal_aura_size">
+<effect>wh_main_effect_character_stat_mod_personal_aura_size</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{91029e84-9b84-4697-a5e1-26928d645e14}" record_timestamp="1453140107646" record_key="wh_main_effect_character_stat_mod_ward_save">
+<effect>wh_main_effect_character_stat_mod_ward_save</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_ward_save.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Ward save. Any type of damage is reduced by this amount." last_edit_user="bob">Ward save. Any type of damage is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{10cbbe2b-0e9c-47c6-9aa1-93ec3d1f5b76}" record_timestamp="1463569327314" record_key="wh_main_effect_character_stat_mod_ward_save_fire">
+<effect>wh_main_effect_character_stat_mod_ward_save_fire</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_fire.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Fire Resistance. Damage of [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks is reduced by this amount." last_edit_user="bob">Fire Resistance. Damage of [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{8bf967e7-8df2-40dd-8b88-c6a97a98beca}" record_timestamp="1463569327314" record_key="wh_main_effect_character_stat_mod_ward_save_magic">
+<effect>wh_main_effect_character_stat_mod_ward_save_magic</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_magic.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Magic Resistance. Damage of [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks is reduced by this amount." last_edit_user="bob">Magic Resistance. Damage of [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b82ddfb4-7910-4572-8dfa-a0398caa4647}" record_timestamp="1453483192193" record_key="wh_main_effect_character_stat_mod_ward_save_missile">
+<effect>wh_main_effect_character_stat_mod_ward_save_missile</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_missile.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Missile Resistance. Damage of missile attacks is reduced by this amount." last_edit_user="bob">Missile Resistance. Damage of missile attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{18320b08-788e-49af-84c1-aad3931f8062}" record_timestamp="1453134626384" record_key="wh_main_effect_character_stat_mod_ward_save_physical">
+<effect>wh_main_effect_character_stat_mod_ward_save_physical</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_physical.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Physical Resistance. Damage of non-magical attacks is reduced by this amount." last_edit_user="bob">Physical Resistance. Damage of non-magical attacks is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{d70c7ecf-8936-47ae-bde9-fac885942016}" record_timestamp="1457520320561" record_key="wh_main_effect_conquest_enable_night_battles">
+<effect>wh_main_effect_conquest_enable_night_battles</effect>
+<icon_path>ui/campaign ui/effect_bundles/subterfuge.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="The option to carry out a lightning strike battle will appear on the Pre-Battle panel. Enabling this prevents reinforcements from joining the battle." last_edit_user="bob">The option to carry out a lightning strike battle will appear on the Pre-Battle panel. Enabling this prevents reinforcements from joining the battle.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{b05ce590-8b72-4405-84d5-55a3a4931ebf}" record_timestamp="1462358723140" record_key="wh_main_effect_force_ward_save_missile_artillery">
+<effect>wh_main_effect_force_ward_save_missile_artillery</effect>
+<icon_path>ui/campaign ui/effect_bundles/resistance_ward_save.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Ward save. Any type of damage is reduced by this amount." last_edit_user="bob">Ward save. Any type of damage is reduced by this amount.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{4a737071-332d-4f80-a37f-26def5c54ce7}" record_timestamp="1454069543393" record_key="wh_main_effect_general_aura_mod_all_during_ambush">
+<effect>wh_main_effect_general_aura_mod_all_during_ambush</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{af8db426-7601-4c0b-976e-e7162e266daf}" record_timestamp="1454069543425" record_key="wh_main_effect_general_aura_mod_all_during_attack">
+<effect>wh_main_effect_general_aura_mod_all_during_attack</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{726270a3-6edb-4b03-93da-728eb6ba3fad}" record_timestamp="1454069543453" record_key="wh_main_effect_general_aura_mod_all_during_attack_siege">
+<effect>wh_main_effect_general_aura_mod_all_during_attack_siege</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{249d4d26-0708-4205-a408-e4330976e4cd}" record_timestamp="1454069543483" record_key="wh_main_effect_general_aura_mod_all_during_defence">
+<effect>wh_main_effect_general_aura_mod_all_during_defence</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{61c6f59d-44bf-4fd7-9e73-879cdc68da40}" record_timestamp="1454069543508" record_key="wh_main_effect_general_aura_mod_all_during_defence_siege">
+<effect>wh_main_effect_general_aura_mod_all_during_defence_siege</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+<effects_additional_tooltip_details record_uuid="{49abaf60-5b33-4783-af21-e0cf7f30331d}" record_timestamp="1454069543541" record_key="wh_main_effect_general_aura_mod_all_during_night">
+<effect>wh_main_effect_general_aura_mod_all_during_night</effect>
+<icon_path>ui/campaign ui/effect_bundles/general_ability.png</icon_path>
+<localised_description state="APPROVED" last_approved_text="Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus." last_edit_user="bob">Aura. Any unit standing within this character's aura in battle will receive a [[img:icon_morale]][[/img]]leadership bonus.</localised_description>
+</effects_additional_tooltip_details>
+</dataroot>

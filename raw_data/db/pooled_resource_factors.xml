@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pooled_resource_factors.xsd" export_time="Tue Nov 21 16:27:13 2017" revision="45" export_branch="T:/" export_user="bob">
+<edit_uuid>1dda6254-0694-4df3-98d6-679a4609bc55</edit_uuid>
+<pooled_resource_factors record_uuid="{e45f7567-b1ed-4a57-a483-691173ffef0f}" record_timestamp="1499351846720" record_key="bribes">
+<display_name_negative state="APPROVED" last_approved_text="Bribes" last_edit_user="bob">Bribes</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Bribes" last_edit_user="bob">Bribes</display_name_positive>
+<key>bribes</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{37234cb1-b83f-4435-bd18-d29b43cb844a}" record_timestamp="1499341215748" record_key="buildings">
+<display_name_negative state="APPROVED" last_approved_text="Buildings" last_edit_user="bob">Buildings</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Buildings" last_edit_user="bob">Buildings</display_name_positive>
+<key>buildings</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{5c54f0c0-d159-4acc-8f6c-6fd42d42ed5d}" record_timestamp="1499351846760" record_key="canibalism">
+<display_name_negative state="APPROVED" last_approved_text="Cannibalism" last_edit_user="bob">Cannibalism</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Cannibalism" last_edit_user="bob">Cannibalism</display_name_positive>
+<key>canibalism</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{e2663f35-69ee-4af8-b32b-b6cc8a98cc11}" record_timestamp="1507734751842" record_key="captives">
+<display_name_negative state="APPROVED" last_approved_text="Captives" last_edit_user="bob">Captives</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Captives" last_edit_user="bob">Captives</display_name_positive>
+<key>captives</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{cabfca45-e094-4750-8828-1802b20ae08f}" record_timestamp="1499341215702" record_key="colonisation">
+<display_name_negative state="APPROVED" last_approved_text="Colonisation" last_edit_user="bob">Colonisation</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Colonisation" last_edit_user="bob">Colonisation</display_name_positive>
+<key>colonisation</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{94595a2f-a628-410a-8019-5d6273a342b7}" record_timestamp="1502204456294" record_key="commandments">
+<display_name_negative state="APPROVED" last_approved_text="Commandments" last_edit_user="bob">Commandments</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Commandments" last_edit_user="bob">Commandments</display_name_positive>
+<key>commandments</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{9f704581-12b9-4908-b939-667939cb81c6}" record_timestamp="1499251314868" record_key="force_upkeep">
+<display_name_negative state="APPROVED" last_approved_text="Army Upkeep" last_edit_user="bob">Army Upkeep</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Army Upkeep" last_edit_user="bob">Army Upkeep</display_name_positive>
+<key>force_upkeep</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{e6885c9c-cf78-42e1-8912-5ef6575e80b5}" record_timestamp="1500308133427" record_key="looting">
+<display_name_negative state="APPROVED" last_approved_text="Enemy Looting" last_edit_user="bob">Enemy Looting</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Looting" last_edit_user="bob">Looting</display_name_positive>
+<key>looting</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{b57c3608-0da0-428a-bae8-f71151442a8b}" record_timestamp="1499341215660" record_key="raiding">
+<display_name_negative state="APPROVED" last_approved_text="Enemy Raiding" last_edit_user="bob">Enemy Raiding</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Raiding" last_edit_user="bob">Raiding</display_name_positive>
+<key>raiding</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{5f115a78-66bf-4b09-a0bf-f35994306ce8}" record_timestamp="1501606655053" record_key="regions">
+<display_name_negative state="APPROVED" last_approved_text="Settlement Upkeep" last_edit_user="bob">Settlement Upkeep</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Settlement Upkeep" last_edit_user="bob">Settlement Upkeep</display_name_positive>
+<key>regions</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{eb4b5b31-0e14-4dc0-add1-aaaabd326bea}" record_timestamp="1499351846681" record_key="scavenging">
+<display_name_negative state="APPROVED" last_approved_text="Scavenging" last_edit_user="bob">Scavenging</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Scavenging" last_edit_user="bob">Scavenging</display_name_positive>
+<key>scavenging</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{4ec60c0f-e852-43f6-9752-a82cc571231e}" record_timestamp="1509448782615" record_key="wh2_dlc09_resource_factor_events">
+<display_name_negative state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</display_name_positive>
+<key>wh2_dlc09_resource_factor_events</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{cd21f263-4fe3-4328-96b4-6cee774d9972}" record_timestamp="1510827471090" record_key="wh2_dlc09_resource_factor_events_negative">
+<display_name_negative state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</display_name_positive>
+<key>wh2_dlc09_resource_factor_events_negative</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{2415f563-7c5d-4679-9469-3a8c0a926ee1}" record_timestamp="1507801722045" record_key="wh2_dlc09_resource_factor_great_incantation_of_geheb">
+<display_name_negative state="APPROVED" last_approved_text="Great Incantation of Geheb" last_edit_user="bob">Great Incantation of Geheb</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Great Incantation of Geheb" last_edit_user="bob">Great Incantation of Geheb</display_name_positive>
+<key>wh2_dlc09_resource_factor_great_incantation_of_geheb</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{0eee19ae-ea91-4cb6-ac0c-0b41de16cf14}" record_timestamp="1507734752099" record_key="wh2_dlc09_resource_factor_harvest_organs">
+<display_name_negative state="APPROVED" last_approved_text="Harvest Organs (Captives)" last_edit_user="bob">Harvest Organs (Captives)</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Harvest Organs (Captives)" last_edit_user="bob">Harvest Organs (Captives)</display_name_positive>
+<key>wh2_dlc09_resource_factor_harvest_organs</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{2cebd095-85ac-419d-867c-c35066398533}" record_timestamp="1508771443405" record_key="wh2_dlc09_resource_factor_mortuary_cult">
+<display_name_negative state="APPROVED" last_approved_text="Mortuary Cult" last_edit_user="bob">Mortuary Cult</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Mortuary Cult" last_edit_user="bob">Mortuary Cult</display_name_positive>
+<key>wh2_dlc09_resource_factor_mortuary_cult</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{49b9775f-ba5e-45b8-8035-1f226d0537df}" record_timestamp="1510221779727" record_key="wh2_dlc09_resource_factor_technology_tree">
+<display_name_negative state="APPROVED" last_approved_text="Dynasties" last_edit_user="bob">Dynasties</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Dynasties" last_edit_user="bob">Dynasties</display_name_positive>
+<key>wh2_dlc09_resource_factor_technology_tree</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{709e5e31-7661-4d1a-94f1-f6c0c6e64cb1}" record_timestamp="1510650167175" record_key="wh2_main_resource_factor_characters">
+<display_name_negative state="APPROVED" last_approved_text="Characters" last_edit_user="bob">Characters</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Characters" last_edit_user="bob">Characters</display_name_positive>
+<key>wh2_main_resource_factor_characters</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{3dbb0e10-8917-4221-9980-3577efdde487}" record_timestamp="1509448783003" record_key="wh2_main_resource_factor_confederation">
+<display_name_negative state="APPROVED" last_approved_text="Confederation" last_edit_user="bob">Confederation</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Confederation" last_edit_user="bob">Confederation</display_name_positive>
+<key>wh2_main_resource_factor_confederation</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{49383d0a-3f58-4c23-aae9-0e9e3db4c113}" record_timestamp="1509448783374" record_key="wh2_main_resource_factor_diplomacy">
+<display_name_negative state="APPROVED" last_approved_text="Diplomacy" last_edit_user="bob">Diplomacy</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Diplomacy" last_edit_user="bob">Diplomacy</display_name_positive>
+<key>wh2_main_resource_factor_diplomacy</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{762878f1-d39c-4d60-83d0-48fbd762083e}" record_timestamp="1509448783750" record_key="wh2_main_resource_factor_events">
+<display_name_negative state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Events" last_edit_user="bob">Events</display_name_positive>
+<key>wh2_main_resource_factor_events</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{6bfec753-14b9-4835-b95e-b4e728f64cec}" record_timestamp="1509448784129" record_key="wh2_main_resource_factor_faction">
+<display_name_negative state="APPROVED" last_approved_text="Faction" last_edit_user="bob">Faction</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Faction" last_edit_user="bob">Faction</display_name_positive>
+<key>wh2_main_resource_factor_faction</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{08ea55ac-7945-4a17-b3ed-33613950cb6e}" record_timestamp="1495549830149" record_key="wh2_main_resource_factor_menace_below">
+<display_name_negative state="APPROVED" last_approved_text="The Menace Below" last_edit_user="bob">The Menace Below</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="The Menace Below" last_edit_user="bob">The Menace Below</display_name_positive>
+<key>wh2_main_resource_factor_menace_below</key>
+<maximum>0</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{4853be70-e9d9-4fee-8cc8-13387f1f67fd}" record_timestamp="1509089918560" record_key="wh2_main_resource_factor_missions">
+<display_name_negative state="APPROVED" last_approved_text="Missions" last_edit_user="bob">Missions</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Missions" last_edit_user="bob">Missions</display_name_positive>
+<key>wh2_main_resource_factor_missions</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{3e99bc60-0180-4c59-bb37-bc0aac6fc69b}" record_timestamp="1509448784498" record_key="wh2_main_resource_factor_other">
+<display_name_negative state="APPROVED" last_approved_text="Other" last_edit_user="bob">Other</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Other" last_edit_user="bob">Other</display_name_positive>
+<key>wh2_main_resource_factor_other</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{ae0f98c4-5398-4b0a-91ba-9e92e3d85f5a}" record_timestamp="1509448784873" record_key="wh2_main_resource_factor_provinces">
+<display_name_negative state="APPROVED" last_approved_text="Provinces" last_edit_user="bob">Provinces</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Provinces" last_edit_user="bob">Provinces</display_name_positive>
+<key>wh2_main_resource_factor_provinces</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{319bc2c4-83cc-44fd-b0a3-922c799e3aca}" record_timestamp="1508434494551" record_key="wh2_main_resource_factor_rituals">
+<display_name_negative state="APPROVED" last_approved_text="Rituals" last_edit_user="bob">Rituals</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Rituals" last_edit_user="bob">Rituals</display_name_positive>
+<key>wh2_main_resource_factor_rituals</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{1939cb35-37b7-4632-a753-bba69916580d}" record_timestamp="1507728443419" record_key="wh2_main_resource_factor_the_dominating_scheme">
+<display_name_negative state="APPROVED" last_approved_text="The Dominating Scheme" last_edit_user="bob">The Dominating Scheme</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="The Dominating Scheme" last_edit_user="bob">The Dominating Scheme</display_name_positive>
+<key>wh2_main_resource_factor_the_dominating_scheme</key>
+<maximum>2147483647</maximum>
+<minimum>0</minimum>
+</pooled_resource_factors>
+<pooled_resource_factors record_uuid="{7124f346-548c-420e-a8c6-6a86e52b5cab}" record_timestamp="1509448785247" record_key="wh2_main_resource_factor_treasure_hunt">
+<display_name_negative state="APPROVED" last_approved_text="Treasure Hunting" last_edit_user="bob">Treasure Hunting</display_name_negative>
+<display_name_positive state="APPROVED" last_approved_text="Treasure Hunting" last_edit_user="bob">Treasure Hunting</display_name_positive>
+<key>wh2_main_resource_factor_treasure_hunt</key>
+<maximum>2147483647</maximum>
+<minimum>-2147483647</minimum>
+</pooled_resource_factors>
+</dataroot>

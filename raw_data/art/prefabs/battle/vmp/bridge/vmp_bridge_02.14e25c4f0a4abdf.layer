@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="14e25c4f0a3abb8" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-118.74308 36.1929779 3.39561462" rotation="1.77943242 -22.633646 -13.9069023" scale="4.47609997 4.47610998 4.47610188"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abb9" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="25.3884735 124.461128 -7.05581713" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abba" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-83.4063644 84.1366196 -7.05581713" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abbb" name="vmp_building_02">
+      <ECBuilding key="vmp_building_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-125.425636 43.1647186 1.94416809" rotation="0 0 0" scale="1.26265323 1.26265323 1.26265323"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="building_02"/>
+    </entity>
+    <entity id="14e25c4f0a3abbc" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-82.9580917 31.4233856 0.362701416" rotation="0.000324291235 2.00038934 1.20751452e-006" scale="0.793322265 0.793322086 0.793322265"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abbd" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-118.74308 9.4882164 -0.4967345" rotation="1.77943873 -22.6336384 -58.406929" scale="6.62174988 6.62176323 6.62175512"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abbe" name="vmp_rocklrg_01">
+      <ECBuilding key="vmp_rocklrg_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="110.141907 58.460968 6.2114563" rotation="16.5040817 23.3901482 -166.604691" scale="4.38356638 4.38356733 4.3835783"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rocklrg_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abbf" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="87.2182312 38.8616142 -0.496795535" rotation="-5.82811832 161.992645 -330.240509" scale="6.62175989 6.62176943 6.62176418"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abc0" name="vmp_bridge_01">
+      <ECBuilding key="vmp_bridge_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-103.710823 44.9945145 0.94418335" rotation="0 2.3905659e-005 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="bridge_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abc1" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="20" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="39.5185585 123.766159 -7.05583239" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc2" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-129.915833 -29.1083603 8.66075134" rotation="0.000324290944 2.00038934 1.20751497e-006" scale="0.793322265 0.793322146 0.793322265"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abc3" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="25.6265869 124.88826 8.94416809" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc4" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="61.6427956 143.216141 8.94416809" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc5" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-83.4063644 102.891647 8.94415092" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc6" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="61.4046669 144.990341 -7.05581713" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc7" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="20" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="37.3829079 123.766159 7.21334839" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc8" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-83.4063492 84.1366196 8.94418335" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abc9" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="77.6266022 75.7813492 -0.496780276" rotation="-5.8281455 161.992645 -304.240509" scale="6.62175131 6.62176514 6.62175274"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a3abca" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="74.6265869 93.5786667 8.94416809" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a3abcb" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="20" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-16.6652317 123.766159 7.21334839" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abcc" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="20" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-105.74308 83.4416656 -7.05581713" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abcd" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-139.924438 42.8916473 13.9441681" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abce" name="vmp_building_02">
+      <ECBuilding key="vmp_building_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-138.743073 14.5874405 1.40127563" rotation="0 90.019783 0" scale="1.26265323 1.26265323 1.26265323"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="building_02"/>
+    </entity>
+    <entity id="14e25c4f0a4abcf" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="88.7410736 7.81495667 2.82962036" rotation="2.44084531e-005 50.0000381 9.39480117e-007" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd0" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="20" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-105.74308 83.4416656 7.21337891" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abd1" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-131.336578 18.9984322 -0.496795535" rotation="-52.4033813 252.782806 -321.50293" scale="6.62174892 6.62176657 6.62175131"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd2" name="vmp_bridge_01">
+      <ECBuilding key="vmp_bridge_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="39.8479958 85.3190079 0.944152832" rotation="0 2.3905659e-005 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="bridge_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd3" name="vmp_bridge_01">
+      <ECBuilding key="vmp_bridge_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.48381138 85.3190079 0.944168091" rotation="0 2.3905659e-005 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="bridge_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd4" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-132.203217 3.57579041 4.80003357" rotation="1.77943766 -22.6336269 -100.906891" scale="6.62173653 6.62175035 6.62175417"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd5" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="20" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-16.9152012 123.766159 -7.05583191" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abd6" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-83.4116287 104.665848 -7.05581713" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abd7" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="77.6266022 49.8127098 -0.496780276" rotation="86.9618073 -34.9543152 -106.418076" scale="6.62175131 6.62176371 6.62175417"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd8" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="114.910782 24.8409576 1.26452637" rotation="0.000122943398 142.000244 359.999969" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abd9" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-150.298523 61.6057129 0.944168091" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abda" name="vmp_building_02">
+      <ECBuilding key="vmp_building_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="75.5009613 83.489212 1.94416809" rotation="0 0 0" scale="1.26265323 1.26265323 1.26265323"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="building_02"/>
+    </entity>
+    <entity id="14e25c4f0a4abdb" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-141.393158 45.8916473 -13.9441833" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e25c4f0a4abdc" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="104.267853 44.6798935 -0.616638184" rotation="-49.8101234 46.2110825 -43.0114746" scale="6.62176132 6.62177086 6.62176228"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abdd" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="62.4297333 71.747879 0.362701416" rotation="0.000324291294 2.00038934 1.20751781e-006" scale="0.793322265 0.793322206 0.793322265"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e25c4f0a4abde" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="93.2481689 100.067703 13.9441833" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e63ce081a3db1" name="vmp_bridge_04">
+      <ECBuilding key="vmp_bridge_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-16.0101051 61.1492157 0.591371536" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="bridge_04"/>
+    </entity>
+    <entity id="14e63cf99893db2" name="vmp_bridge_04">
+      <ECBuilding key="vmp_bridge_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.4964256 80.2473221 0.591348648" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="bridge_04"/>
+    </entity>
+    <entity id="14e63d0a0e83db6" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-70.5247726 89.8372726 8.94415855" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e63d0a0e83db7" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-70.5300369 91.6114731 -7.05580902" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e63d0da9c3db8" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-48.6571503 104.811195 -7.05581665" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e63d0da9c3db9" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-48.651886 103.036995 8.94415092" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14e63d44abe3dbe" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-17.1195068 71.747879 0.362701416" rotation="0.000324291294 2.00038934 1.20751781e-006" scale="0.793322265 0.793322206 0.793322265"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14e63d44abe3dbf" name="Point Light 57">
+      <ECPointLight colour="207 255 152 255" colour_scale="1.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.200000003 0" colour_min="1" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-18.144577 144.990341 -7.05581713" rotation="0 -8.67323208 0" scale="1.00000024 1 1.00000024"/>
+    </entity>
+    <entity id="14eba7edea73372" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="70.959137 19.6747131 -0.496795982" rotation="-5.82811832 161.992645 -330.240509" scale="11.2883406 11.2883625 11.2883587"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+    <entity id="14eba7f0d143373" name="vmp_rockmed_01">
+      <ECBuilding key="vmp_rockmed_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="110.734474 19.6747169 -0.496805489" rotation="-39.8353424 217.202484 -323.654846" scale="11.2883396 11.2883644 11.2883587"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="rockmed_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

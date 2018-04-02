@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="150fc5f2a1c90a4">
+      <ECBuilding key="brt_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.4931641 18.1210213 -40.7879639" rotation="0 -90 0" scale="0.749999464 0.75 0.749999464"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_05"/>
+    </entity>
+    <entity id="150fc5f2a1c90a6">
+      <ECBuilding key="brt_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.4932251 18.1210213 44.5415039" rotation="0 -90 0" scale="0.749999404 0.75 0.749999404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_05"/>
+    </entity>
+    <entity id="150fc5f2a1c90a7">
+      <ECBuilding key="brt_tower_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.4932251 27.0033264 -10.8468018" rotation="0 0 0" scale="1.10000002 1.10000002 1.10000002"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_03"/>
+    </entity>
+    <entity id="150fc5f2a1c90a8">
+      <ECBuilding key="brt_tower_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.4932251 27.0033264 -30.6442871" rotation="0 0 0" scale="1.10000002 1.10000002 1.10000002"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_03"/>
+    </entity>
+    <entity id="150fc5f2a1c90a9">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.2455435 4.22215128 44.4586678" rotation="-4.66510073e-006 90 0" scale="0.654913366 0.299999952 0.299998552"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90ab">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.17095947 2.11761379 -40.9073486" rotation="0 -1.35703883e-012 0" scale="0.299999505 0.300000012 0.299999505"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90ad">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.82769775 2.11761379 44.4219971" rotation="0 1.02452859e-005 0" scale="0.299999267 0.300000012 0.299999267"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90af">
+      <ECBuilding key="brt_outfield_struc_wall_01_arched" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.2249146 0 23.6810303" rotation="-4.66510483e-006 90 0" scale="0.29999873 0.5 0.29999873"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched"/>
+    </entity>
+    <entity id="150fc5f2a1d90b0">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.82769775 2.11761379 -40.9074707" rotation="0 1.02452859e-005 0" scale="0.299999267 0.300000012 0.299999267"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90b1">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.2249146 4.22215176 68.0650635" rotation="-4.66510483e-006 90 0" scale="0.29999876 0.299999923 0.29999876"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90b3">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.2455444 4.22215176 -66.2556152" rotation="-4.665098e-006 90 0" scale="0.299998581 0.299999923 0.299998581"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90b4">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.2455444 4.2221508 1.27255011" rotation="-4.66509618e-006 90 0" scale="0.611725807 0.299999952 0.299998492"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90b8">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.17095947 2.11761379 44.4221191" rotation="0 -1.35703883e-012 0" scale="0.299999505 0.300000012 0.299999505"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+    <entity id="150fc5f2a1d90b9">
+      <ECBuilding key="brt_outfield_struc_wall_01_arched" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.2249146 0 -21.350708" rotation="-4.66510483e-006 90 0" scale="0.29999876 0.5 0.29999876"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched"/>
+    </entity>
+    <entity id="150fc5f2a1d90bb">
+      <ECBuilding key="brt_tower_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.4932251 27.0033264 34.1849365" rotation="0 0 0" scale="1.10000002 1.10000002 1.10000002"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_03"/>
+    </entity>
+    <entity id="150fc5f2a1d90bc">
+      <ECBuilding key="brt_tower_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.4932251 27.0033264 14.3874512" rotation="0 0 0" scale="1.10000002 1.10000002 1.10000002"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_03"/>
+    </entity>
+    <entity id="1536ce5dc07e485">
+      <ECBuilding key="brt_outfield_struc_wall_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.245533 4.22215128 -42.7749557" rotation="-4.66510119e-006 90 0" scale="0.654913187 0.299999952 0.299998462"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_02"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

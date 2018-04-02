@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="20" id="15e1a199e78f9b7">
+  <pc type="QTU::ProjectTileMap">
+    <data terrain_setup="terrain/vistas/def_bleak_01/" world_width="0" global_lighting="" ambient_light_environments="" water_plane_material="materials/campaign_water_plane_default.xml.material"/>
+  </pc>
+  <pc type="QTU::Scene">
+    <data version="27">
+      <entity id="15e1a266fa4f9ba" name="Default">
+        <ECFileLayer export="true" bmd_export_type=""/>
+      </entity>
+    </data>
+  </pc>
+  <pc type="QTU::Terrain">
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeight" size="640x640" id="15e1a199e77f9b3"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e1a199e77f9b4" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+    <pc type="QTU::TerrainMap">
+      <data type="LowFrequencyHeightSea" size="160x160" id="15e1a199e78f9b5"/>
+      <pc type="QTU::TerrainMapLayer">
+        <data id="15e1a199e78f9b6" name="base" visible="1" opacity="1"/>
+      </pc>
+    </pc>
+  </pc>
+</project>

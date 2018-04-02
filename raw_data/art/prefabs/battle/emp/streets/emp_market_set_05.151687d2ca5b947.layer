@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="151687d2ca3b915">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="22.0105 0 11.5252075" rotation="-3.40295701e-005 88.5376663 6.9350649e-006" scale="8.79837513 2 2.34656763"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca3b916">
+      <ECPrefab key="emp_cart_02"/>
+      <ECTransform position="16.2331543 0 -10.8204956" rotation="0 -39.7161331 0" scale="0.89923054 0.899230599 0.89923054"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca3b91a">
+      <ECBuilding key="glb_anvil_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.96713352 0 -1.93054307" rotation="0 54.3462906 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_anvil_01"/>
+    </entity>
+    <entity id="151687d2ca4b91e">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-21.4001446 -0.0716807842 15.9382925" rotation="0 179.852829 0" scale="0.670318842 0.999999881 0.570225537"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="151687d2ca4b91f">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-22.1043816 0 12.1457367" rotation="0.000191245286 269.723755 359.999847" scale="8.84903526 2 2.18196678"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca4b920">
+      <ECPrefab key="glb_paper01"/>
+      <ECTransform position="-5.37536621 2.29199457 -14.8655396" rotation="0 -0.322794884 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca4b924">
+      <ECBuilding key="glb_barrel_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.4160156 0 1.12841797" rotation="0 -0.322794884 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_barrel_02"/>
+    </entity>
+    <entity id="151687d2ca4b925">
+      <ECPrefab key="emp_street_light"/>
+      <ECTransform position="6.39782715 0 -8.1807251" rotation="-6.94032606e-019 -2.55951381 4.63561063e-019" scale="1.38983226 1.38983727 1.38983226"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca4b926">
+      <ECPrefab key="glb_barrelpack_01"/>
+      <ECTransform position="-11.1063232 0 -2.27813721" rotation="0 -0.322795004 0" scale="0.81716609 0.817165315 0.81716609"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca4b92a">
+      <ECPrefab key="emp_street_light"/>
+      <ECTransform position="12.7537842 0 8.703125" rotation="-1.30986656e-018 -58.0403595 1.54388577e-018" scale="1.38983238 1.38983738 1.38983238"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca4b92f">
+      <ECPrefab key="glb_brazier_01"/>
+      <ECTransform position="-9.71496582 0 7.24206543" rotation="0 -0.322794944 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca4b932">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.3828201 -0.0578351319 5.35876608" rotation="0 -0.532370925 0" scale="0.670319617 1 0.489742219"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="151687d2ca5b93c">
+      <ECPrefab key="emp_cart_01"/>
+      <ECTransform position="18.3620605 0 12.0789795" rotation="0 -0.322794944 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca5b93f">
+      <ECPrefab key="emp_street_light"/>
+      <ECTransform position="-16.2463379 -9.41461535e-013 7.87921" rotation="0 207.817505 -2.73207552e-005" scale="1.38983154 1.38983727 1.38983154"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="151687d2ca5b943">
+      <ECPrefab key="emp_crates"/>
+      <ECTransform position="5.35437012 0 -5.14233398" rotation="0 -0.322794944 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddc77f6b1e5">
+      <ECPrefab key="emp_market_04"/>
+      <ECTransform position="3.84200764 0 10.7645607" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb322">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.49397087 0 16.5032902" rotation="5.99739508e-007 2.20591879 1.56106016e-005" scale="7.49954844 2 1.99985003"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb31e">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="15.650507 0 14.6223917" rotation="0 174.20195 -359.999969" scale="4.35315943 2 1.99999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb320">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="8.39823627 0 16.1918144" rotation="1.45614297e-006 4.20175171 1.98740217e-005" scale="4.35315466 2 1.99999738"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb325">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="10.9238768 0 14.4858589" rotation="1.36603776e-005 178.826248 359.999969" scale="7.99999237 2 1.9999975"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb31f">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="12.1961031 0 16.2201061" rotation="6.97910068e-008 0.20174925 1.9820729e-005" scale="4.35315228 2 1.9999975"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb323">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.1725693 -0.0153431743 15.5972919" rotation="0 -89.7814941 0" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="1516ddde54bb326">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="17.6347332 0 16.3763332" rotation="-2.67384536e-007 -0.772910118 1.98218167e-005" scale="7.49891615 2 1.99999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb327">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="19.2001419 0 14.725585" rotation="0 180.201874 -359.999969" scale="4.35315418 2 1.9999969"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516ddde54bb321">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.58739471 0 14.6812258" rotation="0 182.47998 359.999969" scale="8.00002384 2 2.00000501"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a7fb346">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-8.92071629 0 16.3204479" rotation="6.97910068e-008 0.20174925 1.9820729e-005" scale="4.35315228 2 1.9999975"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a80b34e">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.91667652 0 14.8259268" rotation="0 180.201874 -359.999969" scale="4.35315418 2 1.9999969"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a7fb349">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-17.9417534 0 16.6159172" rotation="5.99739508e-007 2.20591903 1.56106016e-005" scale="7.49954844 2 1.99984992"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a7fb348">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-17.5294247 0 14.7815676" rotation="0 182.47998 359.999969" scale="8.00002384 2 2.00000501"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a7fb34a">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0647194982 -0.0535936356 15.6976337" rotation="0 -89.7814941 0" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="1516dde2a7fb345">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-5.46631193 0 14.7227335" rotation="0 174.20195 -359.999969" scale="4.35315943 2 1.99999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a7fb347">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-12.7185831 0 16.2921562" rotation="1.45614297e-006 4.20175171 1.98740217e-005" scale="4.35315466 2 1.99999738"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a80b34c">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-10.1929426 0 14.5862007" rotation="1.36603776e-005 178.826248 359.999969" scale="7.99999237 2 1.9999975"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516dde2a80b34d">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.4820857 0 16.476675" rotation="-2.67384536e-007 -0.772910118 1.98218167e-005" scale="7.49891615 2 1.99999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de3b170b352">
+      <ECPrefab key="emp_market_03"/>
+      <ECTransform position="-6.86704111 -0.0963346958 3.01733422" rotation="0 -31.7841091 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de3df6bb37c">
+      <ECPrefab key="emp_market_05"/>
+      <ECTransform position="-17.899662 0.065246582 -4.34280872" rotation="0 -88.2536926 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de4176ab3a3">
+      <ECPrefab key="emp_market_06"/>
+      <ECTransform position="-12.010252 0 11.5112419" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de46871b3ce">
+      <ECPrefab key="emp_market_01"/>
+      <ECTransform position="-17.2917156 9.53674316e-006 4.11510897" rotation="0 -67.4222412 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de4aeacb3ec">
+      <ECPrefab key="emp_market_02"/>
+      <ECTransform position="-13.4804955 0 -9.71033192" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de596e4b409">
+      <ECPrefab key="emp_market_05"/>
+      <ECTransform position="4.60899115 -3.81469727e-006 2.53384399" rotation="0 4.70342398 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de5e181b430">
+      <ECPrefab key="emp_market_02"/>
+      <ECTransform position="11.6243305 3.81469727e-006 -3.00201225" rotation="0 70.0138702 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de6160eb44d">
+      <ECPrefab key="emp_market_01"/>
+      <ECTransform position="17.6141949 7.62939453e-006 -3.03742337" rotation="0 -82.3732605 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1516de63657b46b">
+      <ECPrefab key="emp_market_06"/>
+      <ECTransform position="15.253643 0 3.11486244" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323f0">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-10.7885151 0.00503516197 10.7454309" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323eb">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="10.3283062 -0.0233037472 10.6450872" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323ea">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="16.9031811 -0.00145697501 10.5766993" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323ee">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="10.5022717 -0.0144810667 2.9105978" rotation="0 90 0" scale="13.3507929 2 11.4664221"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323f1">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-7.67493248 0.0264258385 2.22919369" rotation="0 -89.5989456 0" scale="13.1353693 2 11.4664297"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323ef">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-17.1211643 0.0268819332 10.7677307" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323ec">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.99565697 -0.00145697501 10.667387" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323f2">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-4.21363974 0.047276739 10.6770411" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a8244d323ed">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="2.14155388 0.0687556118 2.91065884" rotation="0 90 0" scale="13.2743616 2 11.4664221"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a83f79323f3">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.21968222 -0.00145697512 -5.45907593" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a84135323f4">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.91546655 -0.00145697501 -5.48420095" rotation="0 180.201736 0" scale="9.99999523 2 9.99999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1523a842b2c23f7">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-11.7895956 -0.00145697477 -2.86495876" rotation="0 -89.800209 0" scale="9.99999619 2 9.99999619"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="152463c409eebf9">
+      <ECBuilding key="glb_wood_structure01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.84938431 -0.783407629 -12.4568491" rotation="0 -0.322795033 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_wood_structure01"/>
+    </entity>
+    <entity id="15332bf24b1ae6b">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="16.5779858 0 -0.961815357" rotation="0 -89.1998444 0" scale="9.99998665 3.00000048 9.99998665"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae5d">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="22.1734467 0 3.8701582" rotation="-0.000327849062 92.8044891 -0.000327849062" scale="7.49954033 2 1.99984741"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae60">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="16.642168 0 3.6302824" rotation="0 -89.2193985 0" scale="9.99998379 2.99999976 9.99998379"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae6c">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="21.8241901 0 -1.03691196" rotation="-0.000245886797 94.8002853 -0.000245886797" scale="4.35314894 2 1.9999938"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae5c">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="20.1656494 0 -8.26607132" rotation="-0.000191245286 264.800598 -359.999817" scale="4.35314989 2 1.99999499"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae61">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="8.91543102 0 -14.0573349" rotation="2.73207552e-005 180.780594 0" scale="4.35314322 2 1.99999404"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae5f">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="17.5392132 0 -12.6055279" rotation="-2.73207515e-005 0.780609012 -1.00514844e-012" scale="7.9999795 2 1.99999368"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae66">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="17.6142387 0 -14.4284267" rotation="2.73207552e-005 180.780594 0" scale="7.49953747 2 1.99984694"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae64">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="5.47734165 0 -12.4248114" rotation="-3.68234432e-005 -5.21922159 -1.32865407e-005" scale="4.3531518 2 1.99999583"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae5e">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="10.67377 0 -8.80592728" rotation="-2.87871007e-012 0.780608952 -1.03138818e-019" scale="9.99997425 2.99999976 9.99997425"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae5a">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.0827904 -0.0920333862 -13.7979879" rotation="0 0.780609012 0" scale="0.999997675 1 0.999997675"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="15332bf24b1ae63">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="16.5233459 0 -8.88564301" rotation="0 -89.2191544 0" scale="9.99997807 2.99999976 9.99997807"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae57">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.47549438 0 -14.1586084" rotation="2.73207552e-005 180.780594 0" scale="7.49890471 2 1.99999344"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae6a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="1.92686272 0 -12.4921322" rotation="1.73028402e-005 0.780608952 6.23446553e-013" scale="4.35314703 2 1.99999428"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae65">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="10.205102 0 -12.336031" rotation="-3.64244806e-006 0.780608952 -1.3200526e-013" scale="7.99998045 2 1.99999452"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae6d">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="21.8987484 0 -10.2684898" rotation="0.00629994087 89.8275375 0.00624881079" scale="7.49890804 2 1.99999392"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae69">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0542802811 -0.0920336246 -13.343873" rotation="0 90.8006439 0" scale="0.999998331 1 0.999998331"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="15332bf24b1ae62">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="20.2365379 0 -11.4642773" rotation="0.00123856601 -89.1993561 -0.00123868079" scale="4.35315084 2 1.99999547"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae58">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="20.0784988 0 -3.53826118" rotation="0.00174852833 269.424957 359.998291" scale="7.99998379 2 1.99999535"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae5b">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="21.7993584 0 -4.82851744" rotation="0 90.761055 0" scale="4.35314703 2 1.99999535"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b0ae59">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="12.7070503 0 -14.080863" rotation="0 184.780594 359.999969" scale="4.35314941 2 1.99999511"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae67">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="20.3505268 0 3.79576588" rotation="-0.000508669764 -86.9214554 0.000508307887" scale="7.99998474 2 1.99999499"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b1ae68">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.81519938 0 -8.66727829" rotation="0 0.780608952 0" scale="9.9999752 3.00000048 9.9999752"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae94">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-20.1032715 0 -2.39426899" rotation="-3.64245147e-006 90 0" scale="7.99997997 2 1.9999944"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae90">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-21.8419876 0 -1.12816834" rotation="1.98205871e-005 -90 0" scale="4.35314274 2 1.99999392"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae95">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-22.0945358 0 -9.83122444" rotation="1.61533226e-005 -90 0" scale="7.49953699 2 1.99984694"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae93">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-20.2564545 0 2.33184242" rotation="-0.00016392504 84.0001678 -0.000126586368" scale="4.3531518 2 1.99999571"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b6ae9b">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-8.64690971 0 -13.8583431" rotation="0 184.019745 359.999969" scale="4.35314846 2 1.99999368"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae87">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-11.1718092 0 -12.1468906" rotation="1.36603812e-005 -1.35567331 1.73028438e-005" scale="7.99998331 2 1.99999523"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b6ae9a">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-8.64329243 0 -8.61160278" rotation="0 0.0197765827 0" scale="9.99998569 3.00000048 9.99998569"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae8d">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-16.567112 0 -2.8148005" rotation="-2.87871333e-012 90 0" scale="9.9999733 2.99999976 9.9999733"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae89">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-21.4169006 -0.0878350735 -13.290863" rotation="0 90 0" scale="0.999997616 1 0.999997616"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="15332bf24b6ae9c">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-17.8766136 0 -14.0586624" rotation="5.46415104e-005 179.045685 359.999969" scale="7.49890757 2 1.9999938"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b6ae98">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-21.2507915 -0.0878353119 7.85043049" rotation="0 180.01976 0" scale="0.999998271 1 0.999998271"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="15332bf24b5ae8e">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-20.2728271 0 -9.73137093" rotation="-2.73207734e-005 90 0" scale="7.99997902 2 1.99999356"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae86">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-22.0173626 0 4.30988359" rotation="1.9485673e-005 -90 0" scale="7.49890471 2 1.99999332"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae8a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-12.4385004 0 -13.8851681" rotation="0 179.980194 0" scale="4.35314608 2 1.99999523"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b6ae97">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-16.5219154 0 4.04502249" rotation="0 90 0" scale="9.99997425 3.00000048 9.99997425"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae88">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-21.813858 0 -4.91975641" rotation="-0.000286867347 -86.0000153 0.000286867347" scale="4.35314894 2 1.99999499"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae8f">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-4.05074692 0 -8.61321831" rotation="0 1.00179113e-005 0" scale="9.99998283 2.99999976 9.99998283"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b6ae99">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-20.372139 0 5.88107586" rotation="1.73028602e-005 90 0" scale="4.35314655 2 1.99999416"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae92">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_5.rigid_model_v2" parallax_scale="0.170000002" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-16.5671272 0 -8.6649189" rotation="0 1.00179113e-005 0" scale="9.99997711 2.99999976 9.99997711"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae91">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-19.0949364 0 -12.4128981" rotation="-1.51016721e-012 0.0197765846 -1.73028457e-005" scale="4.35314989 2 1.99999535"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae8c">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.73553658 0 -14.1407137" rotation="0 182.02388 359.999969" scale="7.49953985 2 1.99984741"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae8b">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-15.8979931 0 -12.2984428" rotation="-2.35369623e-012 -5.98001242 -1.73028457e-005" scale="4.35314989 2 1.99999475"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15332bf24b5ae96">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.83475685 0 -12.3189783" rotation="1.83347369e-012 2.29797244 2.7320757e-005" scale="7.99998474 2 1.99999499"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15399075afef7f0">
+      <ECBuilding key="glb_marketdeco_panel_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.59635353 9.53674316e-007 -14.301856" rotation="0 -35.9999809 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_marketdeco_panel_04"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

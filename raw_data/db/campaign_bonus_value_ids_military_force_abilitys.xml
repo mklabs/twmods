@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_military_force_abilitys.xsd" export_time="Thu Mar 23 15:59:59 2017" revision="3" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>129ff394-4025-4312-acc5-c6002baaf047</edit_uuid>
+<campaign_bonus_value_ids_military_force_abilitys record_uuid="{40dcd37d-f40d-4107-97de-1e0a540784f3}" record_timestamp="1476891878542" record_key="disable">
+<key>disable</key>
+<note>Disable an ability (Priority over enable)</note>
+</campaign_bonus_value_ids_military_force_abilitys>
+<campaign_bonus_value_ids_military_force_abilitys record_uuid="{c5edef59-4359-4c38-8ad2-ecf873fd9321}" record_timestamp="1476891878543" record_key="enable">
+<key>enable</key>
+<note>Enable an ability, value is number of charges. Stack multiple enables to increase charges from multiple sources. -1 is assumed infinite</note>
+</campaign_bonus_value_ids_military_force_abilitys>
+<campaign_bonus_value_ids_military_force_abilitys record_uuid="{dccd42ec-1af0-4d14-9ebc-42a97a49acbe}" record_timestamp="1490284799852" record_key="uses_mod">
+<key>uses_mod</key>
+<note>Direct additive modification of the number of uses. Wont be applied if the ability has zero uses (implied infinite)</note>
+</campaign_bonus_value_ids_military_force_abilitys>
+</dataroot>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="26">
+  <entities>
+    <entity id="15917e1a454f6cc">
+      <ECBuilding key="hef_infield_fire_brazier_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.12121582 0 -0.0828857422" rotation="0 0 0" scale="3.04718804 3.04718804 3.04718804"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_fire_brazier_01"/>
+    </entity>
+    <entity id="15cab2d68d1fd1d">
+      <ECVFX vfx="wh2_main_enviro_hef_waystone" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.0769419074 8.30210209 0.0489082336" rotation="0 0 0" scale="0.365106404 0.365106404 0.365106404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

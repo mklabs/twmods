@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="resources.xsd" export_time="Tue Dec 5 12:00:23 2017" revision="96" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e1aaae1d-f407-4eba-aa77-ac769c91e230</edit_uuid>
+<resources record_uuid="{d4f565c4-6d22-4a1b-8b04-eacfa8cb722e}" record_timestamp="1511194252818" record_key="res_amber">
+<description state="APPROVED" last_approved_text="The hardened sap of the greenwood is sought after by Wood Elves, but all races know its value." last_edit_user="bob">The hardened sap of the greenwood is sought after by Wood Elves, but all races know its value.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_amber.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_amber</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Amber" last_edit_user="bob">Amber</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources record_uuid="{197ec460-08ef-4b41-99bf-5d63c17a8c04}" record_timestamp="1498835459285" record_key="res_animals">
+<description state="APPROVED" last_approved_text="The hides and furs of creatures from across the Great Ocean fetch a hefty price." last_edit_user="bob">The hides and furs of creatures from across the Great Ocean fetch a hefty price.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_animals.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_animals</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Exotic Animals" last_edit_user="bob">Exotic Animals</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>cages</unit>
+</resources>
+<resources record_uuid="{d4ffa88d-d201-45d4-ba29-129945327e98}" record_timestamp="1457606547037" record_key="res_dyes">
+<description state="APPROVED" last_approved_text="The creation of dyes to feed the burgeoning fashions of the courts of the Old World is a vibrant industry indeed." last_edit_user="bob">The creation of dyes to feed the burgeoning fashions of the courts of the Old World is a vibrant industry indeed.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_dyes.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_dyes</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Dyes" last_edit_user="bob">Dyes</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>ounce</unit>
+</resources>
+<resources record_uuid="{03d54833-bfcf-4190-89e1-86472650aef2}" record_timestamp="1484308746862" record_key="res_fortress">
+<description state="APPROVED" last_approved_text="This location has a large garrison, but cannot have economic buildings." last_edit_user="bob">This location has a large garrison, but cannot have economic buildings.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\siege_defence.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_fortress</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Fortress Gate" last_edit_user="bob">Fortress Gate</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{6ae83150-d6a8-4775-a147-a83efed8a684}" record_timestamp="1459936820438" record_key="res_gems">
+<description state="APPROVED" last_approved_text="Gems hold great value for they are precious and prized, with only the occasional Daemon imprisoned within." last_edit_user="bob">Gems hold great value for they are precious and prized, with only the occasional Daemon imprisoned within.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_gemstones.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_gems</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Gemstones" last_edit_user="bob">Gemstones</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources record_uuid="{c07eaaee-fa99-4f94-ab6d-dab50d4d7659}" record_timestamp="1452785481214" record_key="res_gold">
+<description state="APPROVED" last_approved_text="The presence of gold is a sign that a mine can be placed and the wealth it brings harvested." last_edit_user="bob">The presence of gold is a sign that a mine can be placed and the wealth it brings harvested.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_gold.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_gold</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Gold" last_edit_user="bob">Gold</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit>chests</unit>
+</resources>
+<resources record_uuid="{702ea4a4-f01b-44a7-b0c4-7b0e80562381}" record_timestamp="1510919215055" record_key="res_gold_idols">
+<description state="APPROVED" last_approved_text="The wiser races are capable of sculpting gold into magnificent idols." last_edit_user="bob">The wiser races are capable of sculpting gold into magnificent idols.</description>
+<icon_filepath state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui\campaign ui\effect_bundles\resource_gold_idols.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_gold_idols</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Golden Idols" last_edit_user="bob">Golden Idols</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>chests</unit>
+</resources>
+<resources record_uuid="{43476b5a-3960-44b0-847e-3dea32563802}" record_timestamp="1498749274731" record_key="res_location_brt">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Bretonnian Dukedoms." last_edit_user="bob">This location is of special importance to the Bretonnian Dukedoms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_brt</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{91fe418a-e635-4e0c-968d-073f1a7c6fa5}" record_timestamp="1511984784042" record_key="res_location_brt_wef_hef">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Bretonnian kingdoms, High Elves and Wood Elves." last_edit_user="bob">This location is of special importance to the Bretonnian kingdoms, High Elves and Wood Elves.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_brt_wef_hef</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{8e3abb99-bde6-4a1d-9708-35af981bd5c6}" record_timestamp="1498749274731" record_key="res_location_colony">
+<description state="APPROVED" last_approved_text="This location is the site of an ancient High Elf colony. It increases income from ports." last_edit_user="bob">This location is the site of an ancient High Elf colony. It increases income from ports.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_colony.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_colony</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Elven Colony" last_edit_user="bob">Elven Colony</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{34eb161e-e958-4a17-a195-27b28e2dc216}" record_timestamp="1475833511950" record_key="res_location_def">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dark Elves." last_edit_user="bob">This location is of special importance to the Dark Elves.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_def</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{975b7d41-ab12-46e3-85c3-6f633760fc4c}" record_timestamp="1456481693227" record_key="res_location_dwf">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dwarf realms." last_edit_user="bob">This location is of special importance to the Dwarf realms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_dwf</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{ca53bbdc-afa4-4058-8ffd-e3cc5895c6e4}" record_timestamp="1474903541068" record_key="res_location_dwf_grn">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dwarf realms and the Greenskin Tribes." last_edit_user="bob">This location is of special importance to the Dwarf realms and the Greenskin Tribes.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_dwf_grn</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{00ae5b1e-ae55-4f22-ac3e-5014d4d8c6ce}" record_timestamp="1505227950147" record_key="res_location_dwf_grn_skv">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dwarf realms, the Greenskin Tribes and the Skaven." last_edit_user="bob">This location is of special importance to the Dwarf realms, the Greenskin Tribes and the Skaven.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_dwf_grn_skv</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{d4ac8505-b2ee-467e-a398-fdc1245983fa}" record_timestamp="1456481693227" record_key="res_location_emp">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire provinces." last_edit_user="bob">This location is of special importance to the Empire provinces.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{584c2645-6947-413b-83a0-9bda6eb87d5d}" record_timestamp="1456481693227" record_key="res_location_emp_brt">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire provinces and Bretonnian kingdoms." last_edit_user="bob">This location is of special importance to the Empire provinces and Bretonnian kingdoms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp_brt</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{c66ed2d3-22eb-4ddc-b942-1eda3512148e}" record_timestamp="1508244586778" record_key="res_location_emp_vmp">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire and the Vampire Counts." last_edit_user="bob">This location is of special importance to the Empire and the Vampire Counts.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp_vmp</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{d3b4c99b-b48c-49a3-b583-d625c61640d6}" record_timestamp="1508244587254" record_key="res_location_emp_vmp_brt">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Empire, Bretonnia, and the Vampire Counts." last_edit_user="bob">This location is of special importance to the Empire, Bretonnia, and the Vampire Counts.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_emp_vmp_brt</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{ffd2c31c-c025-4673-a244-04e42dfd2a7c}" record_timestamp="1475833511950" record_key="res_location_generic">
+<description state="APPROVED" last_approved_text="This location is of special importance." last_edit_user="bob">This location is of special importance.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_generic</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{fbc44e12-e929-4ac0-8647-b58c8fc04166}" record_timestamp="1456481693227" record_key="res_location_grn">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Greenskin Tribes." last_edit_user="bob">This location is of special importance to the Greenskin Tribes.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_grn</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{7bc68869-21c0-42e2-af14-64f7d95f81a9}" record_timestamp="1475833511950" record_key="res_location_hef">
+<description state="APPROVED" last_approved_text="This location is of special importance to the High Elves." last_edit_user="bob">This location is of special importance to the High Elves.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_hef</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{e7c07639-be77-4a4a-a6d1-e4337665c4f0}" record_timestamp="1475833511950" record_key="res_location_hef_def">
+<description state="APPROVED" last_approved_text="This location is of special importance to the High Elves and Dark Elves." last_edit_user="bob">This location is of special importance to the High Elves and Dark Elves.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_hef_def</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{f47ddf39-b1d5-4f33-885e-ed1d443f3f98}" record_timestamp="1512067583079" record_key="res_location_hef_wef">
+<description state="APPROVED" last_approved_text="This location is of special importance to the High Elves and the Wood Elves." last_edit_user="bob">This location is of special importance to the High Elves and the Wood Elves.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_hef_wef</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{712a82a3-8581-4c66-9837-251244c49baf}" record_timestamp="1475858927047" record_key="res_location_lzd">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Lizardmen." last_edit_user="bob">This location is of special importance to the Lizardmen.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_lzd</key>
+<long_description></long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{e2f5bf09-7be4-44b4-a852-03c8e5812c00}" record_timestamp="1484045632679" record_key="res_location_skv">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Skaven." last_edit_user="bob">This location is of special importance to the Skaven.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_skv</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{a940a066-2107-4f8f-9fb1-3cbe4ddde008}" record_timestamp="1498749274731" record_key="res_location_skv_lzd">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Skaven and Lizardmen." last_edit_user="bob">This location is of special importance to the Skaven and Lizardmen.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_skv_lzd</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{d89f3d3a-6008-4cc6-adf3-050ce8a78278}" record_timestamp="1456481693227" record_key="res_location_teb">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Southern realms." last_edit_user="bob">This location is of special importance to the Southern realms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_teb</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{c51386f9-4c2f-43d0-85cc-6340183f3b6a}" record_timestamp="1507820114512" record_key="res_location_tmb">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Tomb Kings." last_edit_user="bob">This location is of special importance to the Tomb Kings.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_tmb</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{3b60c06f-e1ad-4cf6-b808-70b90a3ec902}" record_timestamp="1507820114480" record_key="res_location_vmp">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Vampire Counts." last_edit_user="bob">This location is of special importance to the Vampire Counts.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_vmp</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{1749ac0d-374e-4d13-bff1-f21ddfbf6517}" record_timestamp="1512067583021" record_key="res_location_vmp_arkhan">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Vampire Counts and the Followers of Nagash." last_edit_user="bob">This location is of special importance to the Vampire Counts and the Followers of Nagash.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_vmp_arkhan</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{24826dd0-abe3-4699-8d21-84b5be5501bb}" record_timestamp="1512141264960" record_key="res_location_vmp_dwf_grn_skv_arkhan">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Dwarf Realms, Greenskin Tribes, Skaven, Vampire Counts and the Followers of Nagash." last_edit_user="bob">This location is of special importance to the Dwarf Realms, Greenskin Tribes, Skaven, Vampire Counts and the Followers of Nagash.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_vmp_dwf_grn_skv_arkhan</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{62216361-b0ec-4dea-9eed-42f8e879cf6b}" record_timestamp="1512067583050" record_key="res_location_xef_emp_brt">
+<description state="APPROVED" last_approved_text="This location is of special importance to the Elves, Empire provinces and Bretonnian kingdoms." last_edit_user="bob">This location is of special importance to the Elves, Empire provinces and Bretonnian kingdoms.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\strategic_location.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_location_xef_emp_brt</key>
+<long_description state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Strategic Location" last_edit_user="bob">Strategic Location</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{ddfe56f1-cbd7-45b8-800e-8838da7da372}" record_timestamp="1497527281750" record_key="res_medicine">
+<description state="APPROVED" last_approved_text="Herbs and flora with medicinal properties are always valued by apothecaries." last_edit_user="bob">Herbs and flora with medicinal properties are always valued by apothecaries.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_medicine.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_medicine</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Medicinal Plants" last_edit_user="bob">Medicinal Plants</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>bundle</unit>
+</resources>
+<resources record_uuid="{39c9f834-df63-4876-8f1c-b49faf718ad1}" record_timestamp="1497527281751" record_key="res_obsidian">
+<description state="APPROVED" last_approved_text="It takes an artisan to carve and fashion obsidian. Dark Elves are the true masters of this art, although others have produced fine pieces too." last_edit_user="bob">It takes an artisan to carve and fashion obsidian. Dark Elves are the true masters of this art, although others have produced fine pieces too.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_obsidian.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_obsidian</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Carved Obsidian" last_edit_user="bob">Carved Obsidian</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>chests</unit>
+</resources>
+<resources record_uuid="{057084b4-1981-467c-89b9-154d3c894c93}" record_timestamp="1502187974983" record_key="res_ritual_currency">
+<description state="APPROVED" last_approved_text="This location contains many components deemed essential for rituals." last_edit_user="bob">This location contains many components deemed essential for rituals.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_vortex_site.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_ritual_currency</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Vital Ritual Location" last_edit_user="bob">Vital Ritual Location</onscreen_text>
+<show_on_city_infobar>0</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{07ef6c1d-d3a4-4b3f-91b0-7e672d5520ac}" record_timestamp="1459936820437" record_key="res_rom_furs">
+<description state="APPROVED" last_approved_text="Fauna and game are worth hunting for both food and furs. Of course, in the Old World's forests, a hunter must be wary of becoming the hunted." last_edit_user="bob">Fauna and game are worth hunting for both food and furs. Of course, in the Old World's forests, a hunter must be wary of becoming the hunted.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_furs.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_furs</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Furs" last_edit_user="bob">Furs</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>bundle</unit>
+</resources>
+<resources record_uuid="{0bd514c4-c8b2-4688-a575-b1a758b4b9a2}" record_timestamp="1459936820444" record_key="res_rom_glass">
+<description state="APPROVED" last_approved_text="Beer is incredibly important to Dwarfs and men alike, although the watery brews of the umgi are rightly shunned by thirsty Dawi." last_edit_user="bob">Beer is incredibly important to Dwarfs and men alike, although the watery brews of the umgi are rightly shunned by thirsty Dawi.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_dwarf_beer.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_glass</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Dwarf Beer" last_edit_user="bob">Dwarf Beer</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>kegs</unit>
+</resources>
+<resources record_uuid="{b89a390e-1e85-46a8-8afb-782c7ea58df0}" record_timestamp="1452785481215" record_key="res_rom_iron">
+<description state="APPROVED" last_approved_text="Iron ore can be fashioned into many things, but in these lands it is mainly used for weapons. Of course, some races are better at metallurgy than others." last_edit_user="bob">Iron ore can be fashioned into many things, but in these lands it is mainly used for weapons. Of course, some races are better at metallurgy than others.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_iron.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_iron</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Iron" last_edit_user="bob">Iron</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>ingot</unit>
+</resources>
+<resources record_uuid="{1dd4b13f-929a-47f3-9511-066966d12152}" record_timestamp="1452785481216" record_key="res_rom_lead">
+<description state="APPROVED" last_approved_text="Salt can be taken from the sea or the mines. It is a useful commodity and not just a way for Halfling cooks to season meat." last_edit_user="bob">Salt can be taken from the sea or the mines. It is a useful commodity and not just a way for Halfling cooks to season meat.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_salt.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_lead</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Salt" last_edit_user="bob">Salt</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>barrels</unit>
+</resources>
+<resources record_uuid="{3bcf4390-c46a-4b27-b38c-4b19186d2964}" record_timestamp="1459936820443" record_key="res_rom_marble">
+<description state="APPROVED" last_approved_text="Marble is a valuable and exotic material mainly used in grandstanding buildings, having great value within the nations of man." last_edit_user="bob">Marble is a valuable and exotic material mainly used in grandstanding buildings, having great value within the nations of man.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_marble.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_marble</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Marble" last_edit_user="bob">Marble</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>slabs</unit>
+</resources>
+<resources record_uuid="{da16f764-690e-4e87-9cf7-6ddef46bd4cb}" record_timestamp="1452785481215" record_key="res_rom_oil">
+<description state="APPROVED" last_approved_text="Pastures are rare places of peace for animals to graze, where farmers can tend to their herds and flocks." last_edit_user="bob">Pastures are rare places of peace for animals to graze, where farmers can tend to their herds and flocks.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_grain.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_oil</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Pastures" last_edit_user="bob">Pastures</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{c8cc4c82-336b-452c-a0a6-855d709288f7}" record_timestamp="1452785481216" record_key="res_rom_textiles">
+<description state="APPROVED" last_approved_text="From clay comes ceramics that range from basic bowls to more delicate and extravagant items." last_edit_user="bob">From clay comes ceramics that range from basic bowls to more delicate and extravagant items.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_pottery.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_textiles</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Pottery" last_edit_user="bob">Pottery</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>kilnful</unit>
+</resources>
+<resources record_uuid="{cdf31148-2ea6-43e3-948d-094b669acd7a}" record_timestamp="1452785481218" record_key="res_rom_timber">
+<description state="APPROVED" last_approved_text="Wood is a flexible resource, used in anything from buildings to hand weapons. Just be careful which trees you take it from, as some won't take kindly to being felled." last_edit_user="bob">Wood is a flexible resource, used in anything from buildings to hand weapons. Just be careful which trees you take it from, as some won't take kindly to being felled.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_timber.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_timber</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Timber" last_edit_user="bob">Timber</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>logs</unit>
+</resources>
+<resources record_uuid="{72af667c-7baa-48c4-b3e3-52e643a4a11e}" record_timestamp="1452785481218" record_key="res_rom_wine">
+<description state="APPROVED" last_approved_text="While a High Elf would turn his nose up at it, Bretonnian wine is said to be the best - although the southern wineries of the Empire are now challenging its prominence." last_edit_user="bob">While a High Elf would turn his nose up at it, Bretonnian wine is said to be the best - although the southern wineries of the Empire are now challenging its prominence.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_wine.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_rom_wine</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Wine" last_edit_user="bob">Wine</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>barrels</unit>
+</resources>
+<resources record_uuid="{5b99c4ad-2de1-41f2-bb69-3c1b802aa414}" record_timestamp="1452785481217" record_key="res_savage">
+<description state="APPROVED" last_approved_text="This area is sacred to the Savage Orcs; at some point the Greenskins' tribal migration will bring them to this area." last_edit_user="bob">This area is sacred to the Savage Orcs; at some point the Greenskins' tribal migration will bring them to this area.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_savage_orcs.png</icon_filepath>
+<in_encyclopedia>1</in_encyclopedia>
+<key>res_savage</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Savage Orcs" last_edit_user="bob">Savage Orcs</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>0</strategic_value>
+<trade_value>0</trade_value>
+<unit></unit>
+</resources>
+<resources record_uuid="{1775ea86-eb2b-479f-b518-a4acc17fe96a}" record_timestamp="1497527281751" record_key="res_spices">
+<description state="APPROVED" last_approved_text="The spices and seasonings sourced in far Cathay and Ind hold great value due to their rarity." last_edit_user="bob">The spices and seasonings sourced in far Cathay and Ind hold great value due to their rarity.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_spices.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_spices</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Spices" last_edit_user="bob">Spices</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>sacks</unit>
+</resources>
+<resources record_uuid="{815930dc-d83a-425c-a144-a4d244af031e}" record_timestamp="1497527281751" record_key="res_trinkets">
+<description state="APPROVED" last_approved_text="Elven baubles lack the practicality of Dwarf-made items, but the finesse within makes then undeniably exquisite." last_edit_user="bob">Elven baubles lack the practicality of Dwarf-made items, but the finesse within makes then undeniably exquisite.</description>
+<icon_filepath>ui\campaign ui\effect_bundles\resource_trinkets.png</icon_filepath>
+<in_encyclopedia>0</in_encyclopedia>
+<key>res_trinkets</key>
+<long_description state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</long_description>
+<onscreen_text state="APPROVED" last_approved_text="Elven Trinkets" last_edit_user="bob">Elven Trinkets</onscreen_text>
+<show_on_city_infobar>1</show_on_city_infobar>
+<strategic_value>500</strategic_value>
+<trade_value>50</trade_value>
+<unit>chests</unit>
+</resources>
+</dataroot>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="153d0fb3911f9d1">
+      <ECPrefab key="emp_castle_small_06"/>
+      <ECTransform position="-234.532227 15.099823 242.544434" rotation="1.36603776e-005 202.000427 359.999969" scale="2.99999905 3.00000048 2.99999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3911f9d2">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="80.8564453 82.1798401 268.595215" rotation="0 162.510712 0" scale="1.49999893 1.49999964 1.49999893"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3911f9d3">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="344.187012 18.1117554 -304.455444" rotation="0 92.2707291 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9d4">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="398.955811 173.428986 60.0341797" rotation="8.19622655e-005 251.236618 2.73207552e-005" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9d5">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-98.0776367 82.1798401 69.3125" rotation="0 128.000198 0" scale="1.49999845 1.49999964 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9d6">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-202.675537 18.111618 -162.345093" rotation="0 -57.448719 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9d7">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="323.586426 173.428986 -153.108154" rotation="0 -20.0000191 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9d8">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-104.483154 82.1799316 -20.8311768" rotation="0 49.9999199 0" scale="1.49999845 1.49999952 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9d9">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="83.2797852 173.429108 -185.021729" rotation="0 21.9999866 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9da">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-38.6650391 82.1798706 125.443115" rotation="0 131.301178 0" scale="1.49999928 1.5 1.49999928"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9db">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="180.143066 82.1797791 246.630371" rotation="0 222.055893 0" scale="1.49999821 1.4999994 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9dc">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="347.719971 18.1117401 -215.355347" rotation="0 92.2707291 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9dd">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="42.7475586 82.1798706 -157.076416" rotation="0 21.9999809 0" scale="1.49999869 1.49999952 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9de">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-206.199951 18.1117401 -6.90161133" rotation="0 174.654846 0" scale="1.49999833 1.49999964 1.49999833"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9df">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="357.833008 18.1117401 -175.30249" rotation="0 -87.7290115 0" scale="1.49999821 1.49999964 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e0">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-178.546387 18.111618 -124.544678" rotation="0 -57.448719 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e1">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="315.079102 82.1797485 -144.495483" rotation="0 -20.0000134 0" scale="1.49999821 1.49999928 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e2">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-113.867676 82.1798401 40.0258789" rotation="0 104.000137 0" scale="1.49999821 1.49999964 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e3">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-255.454102 18.1116333 -229.196045" rotation="0 122.551292 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e4">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="117.090332 82.1798401 273.555664" rotation="0 180.291382 0" scale="1.49999905 1.49999976 1.49999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e5">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="283.922607 82.179718 174.070801" rotation="0 214.055984 359.999969" scale="1.49999774 1.49999964 1.49999774"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e6">
+      <ECPrefab key="emp_castle_small_05"/>
+      <ECTransform position="-363.972168 21.3577881 81.0102539" rotation="0 116.999786 0" scale="3 3.00000048 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e7">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-231.479736 18.111618 -191.637817" rotation="0 122.551292 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e8">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-222.233643 18.1116791 137.291992" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9e9">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-207.47583 18.111618 -154.033691" rotation="0 122.551292 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9ea">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-70.6564941 82.1798401 94.8549805" rotation="0 143.301239 0" scale="1.49999893 1.49999976 1.49999893"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9eb">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-295.746582 18.1117401 -15.2797852" rotation="0 174.654846 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3912f9ec">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-218.060791 18.1116638 334.728027" rotation="0 203.065948 0" scale="1.49999702 1.49999964 1.49999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9ed">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="213.151611 82.179718 216.850586" rotation="0 222.055817 0" scale="1.49999869 1.4999994 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9ee">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-76.3105469 82.1799316 -49.5646973" rotation="0 39.9999466 0" scale="1.49999845 1.49999952 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9ef">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="347.187256 82.1797791 -127.9552" rotation="0 -38.0000267 0" scale="1.49999821 1.4999994 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f0">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-296.868408 18.1116943 178.332275" rotation="0 203.065948 0" scale="1.49999714 1.49999964 1.49999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f1">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="150.454834 82.1798096 266.184814" rotation="0 202.213791 -1.36603776e-005" scale="1.49999893 1.49999952 1.49999893"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f2">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="84.4008789 82.1798401 -173.905884" rotation="0 21.9999809 0" scale="1.49999857 1.4999994 1.49999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f3">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-30.7949219 173.429108 165.151611" rotation="0 103.3013 0" scale="2.50000024 2.5 2.50000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f4">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="318.230957 82.1797791 148.546387" rotation="0 218.056076 -2.73207552e-005" scale="1.49999774 1.49999964 1.49999774"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f5">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="11.0234375 82.1798401 -137.688843" rotation="0 37.9999886 0" scale="1.49999869 1.49999952 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f6">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-250.653809 18.1116333 -237.507324" rotation="0 -57.448719 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f7">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-94.7595215 18.1116486 282.222168" rotation="0 203.065948 0" scale="1.49999714 1.49999964 1.49999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f8">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="16.6311035 82.1798706 225.901123" rotation="0 137.301376 0" scale="1.49999893 1.49999976 1.49999893"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9f9">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="345.952148 18.1117401 -259.932617" rotation="0 92.2707291 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9fa">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-180.973877 18.1116791 119.722168" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9fb">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-173.567139 18.1116791 125.826416" rotation="0 203.065948 0" scale="1.49999726 1.49999964 1.49999726"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9fc">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="198.300781 82.1798706 -184.993652" rotation="0 -16.0000229 0" scale="1.49999857 1.4999994 1.49999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9fd">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-343.774902 18.1117401 -28.3288574" rotation="0 -5.34515524 0" scale="1.49999845 1.49999964 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9fe">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-60.6784668 18.1116486 258.451172" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913f9ff">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-183.34668 18.111618 -116.233276" rotation="0 122.551292 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913fa00">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="275.439697 82.1797485 -155.509277" rotation="0 -12.0000238 0" scale="1.49999821 1.49999928 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913fa01">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-214.827148 18.1116791 143.396484" rotation="0 203.065948 0" scale="1.49999726 1.49999964 1.49999726"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913fa02">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-340.164795 18.1117401 -19.435791" rotation="0 174.654846 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913fa03">
+      <ECBuilding key="emp_hero_tower_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="346.776611 0.000335693359 -347.718994" rotation="0 1.71991003 0" scale="4.00000048 4 4.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913fa04">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="249.432617 82.1797485 194.076416" rotation="0 204.055954 0" scale="1.49999762 1.49999952 1.49999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3913fa05">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-42.1447754 82.1799316 -78.2333984" rotation="0 39.9999466 0" scale="1.49999869 1.49999952 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa06">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="216.67041 173.428986 227.273682" rotation="0 222.055817 0" scale="2.49999976 2.5 2.49999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa07">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="121.814697 82.1799011 -185.029663" rotation="0 9.99997902 0" scale="1.49999869 1.4999994 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa08">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-255.872803 18.1116791 160.875244" rotation="0 203.065948 0" scale="1.49999726 1.49999964 1.49999726"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa09">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-20.7570801 82.1798401 163.182617" rotation="0 103.301369 0" scale="1.49999976 1.49999976 1.49999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa0a">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-177.065186 18.1116486 317.270996" rotation="0 203.065948 0" scale="1.49999714 1.49999964 1.49999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa0b">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="352.523193 18.1117554 -309.21228" rotation="0 -87.7290115 0" scale="1.49999821 1.49999964 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa0c">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-139.486084 18.1116791 102.05542" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa0d">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-209.810059 18.1117401 -15.7949219" rotation="0 -5.34515524 0" scale="1.49999845 1.49999964 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa0e">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="349.496826 18.1117401 -170.54541" rotation="0 92.2707291 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa0f">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="234.882813 82.1799011 -170.903076" rotation="0 -28.0000229 0" scale="1.49999857 1.4999994 1.49999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa10">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="75.1726074 173.429108 278.93042" rotation="0 162.510727 0" scale="2.50000024 2.5 2.50000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa11">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-159.084473 18.111618 -78.2242432" rotation="0 122.551292 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa12">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="349.891113 82.1797485 120.730957" rotation="0 224.056076 -2.73207552e-005" scale="1.49999857 1.49999952 1.49999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa13">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="388.643066 173.429047 -105.663086" rotation="0 -47.8924294 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa14">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-226.679443 18.111618 -199.949097" rotation="0 -57.448719 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa15">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-12.8728027 82.1799011 -110.148682" rotation="0 55.9999733 0" scale="1.49999857 1.49999952 1.49999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa16">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-161.308105 18.1117401 -2.70068359" rotation="0 174.654846 0" scale="1.49999785 1.49999964 1.49999785"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa17">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-263.279297 18.1116791 154.770752" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa18">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-132.079346 18.1116791 108.159668" rotation="0 203.065948 0" scale="1.49999726 1.49999964 1.49999726"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa19">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-299.356689 18.1117401 -24.1729736" rotation="0 -5.34515476 0" scale="1.49999857 1.49999964 1.49999857"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa1a">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-6.49365234 82.1798401 197.89917" rotation="0 119.301323 0" scale="1.49999964 1.49999976 1.49999964"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa1b">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="161.44751 82.1798706 -188.988647" rotation="0 -1.94233453e-005 0" scale="1.49999869 1.49999928 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa1c">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-184.47168 18.1116486 311.166504" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3914fa1d">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-126.165039 173.429108 39.1000977" rotation="0 104.000107 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa1e">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-384.528809 18.1117554 -23.5865479" rotation="0 174.654846 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa1f">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-304.274902 18.1116943 172.228027" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa20">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.41381836 173.429108 -147.775269" rotation="0 37.9999962 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa21">
+      <ECPrefab key="emp_castle_small_01"/>
+      <ECTransform position="103.318359 181.992493 64.9438477" rotation="0 89.0002365 0" scale="3.15321541 3.15321565 3.15321541"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa22">
+      <ECBuilding key="emp_hero_gyro_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="149.052246 394.050598 -137.591064" rotation="1.36603776e-005 216.000076 359.999969" scale="5.00000191 5 5.00000191"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa23">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="372.496338 82.179718 91.168457" rotation="6.83018879e-005 240.056198 359.999969" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa24">
+      <ECPrefab key="emp_castle_small_06"/>
+      <ECTransform position="-151.786133 18.342804 -240.746948" rotation="1.36603776e-005 114.000427 359.999969" scale="3.00000072 2.99999976 3.00000072"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa25">
+      <ECPrefab key="emp_castle_small_04"/>
+      <ECTransform position="136.700439 255.540039 55.6320801" rotation="0 90 0" scale="3.15321469 3.15321612 3.15321469"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa26">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-254.706543 18.1117401 -19.9954834" rotation="0 -5.34515524 0" scale="1.49999845 1.49999964 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa27">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="356.912354 173.428986 128.769043" rotation="0 224.056091 359.999969" scale="2.50000048 2.5 2.50000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa28">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="423.222656 173.429047 -35.0244141" rotation="0 -80.8858032 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa29">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-251.096436 18.1117401 -11.1022949" rotation="0 174.654846 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa2a">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-143.426025 18.1116486 293.687744" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa2b">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="377.0896 82.1797791 -100.663208" rotation="0 -47.8924408 0" scale="1.49999845 1.4999994 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa2c">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="354.28833 18.1117401 -264.689575" rotation="0 -87.7290115 0" scale="1.49999821 1.49999964 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa2d">
+      <ECBuilding key="emp_hero_tower_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-337.084717 3.05175781e-005 191.323242" rotation="0 112.000038 0" scale="3.99999976 4 3.99999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa2e">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-102.16626 18.1116486 276.11792" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa2f">
+      <ECBuilding key="emp_hero_tower_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-258.2771 0 347.718994" rotation="0 112.000038 0" scale="3.99999976 4 3.99999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3915fa30">
+      <ECBuilding key="emp_hero_tower_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-275.981689 0.000213623047 -269.381104" rotation="0 32.0004425 0" scale="4.00000048 4 4.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa31">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="150.342285 173.429108 278.070068" rotation="0 202.213791 -1.36603776e-005" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa32">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-53.2717285 18.1116486 264.55542" rotation="0 203.065948 0" scale="1.49999714 1.49999964 1.49999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa33">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-136.019531 18.1116486 299.792236" rotation="0 203.065948 0" scale="1.49999714 1.49999964 1.49999714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa34">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="398.950195 82.1797791 -69.9307861" rotation="0 -64.0918274 0" scale="1.49999869 1.4999994 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa35">
+      <ECBuilding key="emp_hero_observ_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="126.727539 445.759338 87.5900879" rotation="0 95.9999313 0" scale="3.40031695 3.40031719 3.40031695"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa36">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-164.817139 18.1117401 -11.5849609" rotation="0 -5.34515142 0" scale="1.49999869 1.49999964 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa37">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-135.178955 18.111618 -40.7739258" rotation="0 122.551292 0" scale="1.49999797 1.49999952 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa38">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-388.138916 18.1117554 -32.4796143" rotation="0 -5.34515524 0" scale="1.49999845 1.49999964 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa39">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="388.553711 82.179718 55.157959" rotation="8.19622655e-005 251.236618 2.73207552e-005" scale="1.49999845 1.4999994 1.49999845"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa3a">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="356.056152 18.1117401 -220.112427" rotation="0 -87.7290115 0" scale="1.49999821 1.49999964 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa3b">
+      <ECPrefab key="emp_castle_small_04"/>
+      <ECTransform position="137.128174 187.982574 -105.244263" rotation="0.000136603776 268.000427 359.999969" scale="3.15321469 3.1532166 3.15321469"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa3c">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-225.467285 18.1116638 328.623779" rotation="0 23.0658989 0" scale="1.49999797 1.49999964 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa3d">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="410.806641 82.1797791 -35.1265869" rotation="0 -80.885788 0" scale="1.49999869 1.4999994 1.49999869"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa3e">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-113.102051 173.42923 -27.6739502" rotation="0 49.9999275 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa3f">
+      <ECBuilding key="emp_hero_tower_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-423.2229 1.52587891e-005 -32.9150391" rotation="0 84.0004654 0" scale="4.00000048 4 4.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa40">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="288.30542 173.428986 183.660889" rotation="0 214.055984 -2.73207552e-005" scale="2.50000024 2.5 2.50000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa41">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.84228516 173.429108 232.992188" rotation="0 137.301376 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3916fa42">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="407.476563 82.1797791 8.26928711" rotation="0 252.817581 0" scale="1.9014281 1.49999952 1.49999797"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa43">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="242.026855 173.429169 -179.501221" rotation="0 -28.0000343 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa44">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="48.862793 82.1798706 252.893799" rotation="0 143.130661 0" scale="1.49999785 1.49999964 1.49999785"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa45">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-130.253418 18.1116028 -48.8874512" rotation="0 -57.4487114 0" scale="1.49999821 1.49999952 1.49999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa46">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-48.2460938 173.42923 -86.833374" rotation="0 39.999958 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa47">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-81.2705078 173.429108 99.3728027" rotation="0 143.301254 0" scale="2.50000048 2.5 2.50000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa48">
+      <ECBuilding key="emp_hero_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="164.482422 173.429108 -199.90332" rotation="0 -1.94233489e-005 0" scale="2.5 2.5 2.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa49">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-154.28418 18.111618 -86.5356445" rotation="0 -57.448719 0" scale="1.49999809 1.49999964 1.49999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa4a">
+      <ECPrefab key="emp_wall_section_03"/>
+      <ECTransform position="-115.745361 82.1798706 6.75439453" rotation="0 79.9998932 0" scale="1.49999833 1.49999964 1.49999833"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="153d0fb3917fa4b">
+      <ECPrefab key="emp_castle_small_05"/>
+      <ECTransform position="-325.997559 21.3579407 -140.702393" rotation="0 60.9999847 0" scale="3.00000024 3.00000048 3.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

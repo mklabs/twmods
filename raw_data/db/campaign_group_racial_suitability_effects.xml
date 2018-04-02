@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_racial_suitability_effects.xsd" export_time="Tue Dec 13 11:17:55 2016" revision="3" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e5970f5a-4bec-4fe0-8854-ad2839ef851b</edit_uuid>
+<campaign_group_racial_suitability_effects record_uuid="{f4763695-3bf7-4d36-a70c-27e73f312bfb}" record_timestamp="1481627854367" record_key="wh2_climate_suitable">
+<campaign_group>wh2_climate_suitable</campaign_group>
+<effect_bundle>wh2_main_climate_suitable</effect_bundle>
+</campaign_group_racial_suitability_effects>
+<campaign_group_racial_suitability_effects record_uuid="{77c295bc-59ba-422d-a544-53098d60df9c}" record_timestamp="1481045693261" record_key="wh2_climate_uninhabitable">
+<campaign_group>wh2_climate_uninhabitable</campaign_group>
+<effect_bundle>wh2_main_climate_uninhabitable</effect_bundle>
+</campaign_group_racial_suitability_effects>
+<campaign_group_racial_suitability_effects record_uuid="{94e64b2a-40e5-4cd4-8948-753284db6d87}" record_timestamp="1481045693638" record_key="wh2_climate_unsuitable">
+<campaign_group>wh2_climate_unsuitable</campaign_group>
+<effect_bundle>wh2_main_climate_unsuitable</effect_bundle>
+</campaign_group_racial_suitability_effects>
+</dataroot>

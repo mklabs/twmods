@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_cai_ritual_weights>
+<root>
+<edit_uuid>b60486aa-ab12-42f4-8c2a-7b0556b99515</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{13e1592c-5407-491e-bfae-09245ce783a1}</field_uuid>
+<primary_key>1</primary_key>
+<name>ritual</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>rituals</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{e2bd46ef-ae6b-4d13-a663-d4f8769c3e38}</field_uuid>
+<primary_key>0</primary_key>
+<name>weight</name>
+<field_type>double</field_type>
+<required>1</required>
+<default_value>0</default_value>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

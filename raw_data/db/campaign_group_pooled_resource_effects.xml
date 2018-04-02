@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_group_pooled_resource_effects.xsd" export_time="Fri May 12 15:25:39 2017" revision="3" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d7f17539-e583-4450-85a8-6dacdd244e61</edit_uuid>
+<campaign_group_pooled_resource_effects record_uuid="{02baa9de-a4f4-42dc-8e6f-f1709f7fea15}" record_timestamp="1494599139344" record_key="wh2_pooled_resource_skaven_food_average">
+<campaign_group>wh2_pooled_resource_skaven_food_average</campaign_group>
+<effect_bundle>wh2_pooled_resource_skaven_food_average</effect_bundle>
+<effect_type>PERCENTAGE_OF_CAPACITY</effect_type>
+</campaign_group_pooled_resource_effects>
+<campaign_group_pooled_resource_effects record_uuid="{4bdc7bef-2975-425a-8086-ba37358bf2b8}" record_timestamp="1494599139354" record_key="wh2_pooled_resource_skaven_food_plentiful">
+<campaign_group>wh2_pooled_resource_skaven_food_plentiful</campaign_group>
+<effect_bundle>wh2_pooled_resource_skaven_food_plentiful</effect_bundle>
+<effect_type>PERCENTAGE_OF_CAPACITY</effect_type>
+</campaign_group_pooled_resource_effects>
+<campaign_group_pooled_resource_effects record_uuid="{a5148156-b1e6-4282-9958-4fdee5cf3f1b}" record_timestamp="1494599139366" record_key="wh2_pooled_resource_skaven_food_shortage">
+<campaign_group>wh2_pooled_resource_skaven_food_shortage</campaign_group>
+<effect_bundle>wh2_pooled_resource_skaven_food_shortage</effect_bundle>
+<effect_type>PERCENTAGE_OF_CAPACITY</effect_type>
+</campaign_group_pooled_resource_effects>
+<campaign_group_pooled_resource_effects record_uuid="{7c078c8d-f301-47aa-947f-0dd5d8684835}" record_timestamp="1494599139377" record_key="wh2_pooled_resource_skaven_food_starvation">
+<campaign_group>wh2_pooled_resource_skaven_food_starvation</campaign_group>
+<effect_bundle>wh2_pooled_resource_skaven_food_starvation</effect_bundle>
+<effect_type>PERCENTAGE_OF_CAPACITY</effect_type>
+</campaign_group_pooled_resource_effects>
+<campaign_group_pooled_resource_effects record_uuid="{2eea61e5-c08a-445a-bf17-5788b128badd}" record_timestamp="1494599139388" record_key="wh2_pooled_resource_skaven_food_surplus">
+<campaign_group>wh2_pooled_resource_skaven_food_surplus</campaign_group>
+<effect_bundle>wh2_pooled_resource_skaven_food_surplus</effect_bundle>
+<effect_type>PERCENTAGE_OF_CAPACITY</effect_type>
+</campaign_group_pooled_resource_effects>
+</dataroot>

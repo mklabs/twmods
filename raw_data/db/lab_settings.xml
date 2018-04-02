@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lab_settings.xsd" export_time="Wed Nov 22 16:53:23 2017" revision="20" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>6fa8573e-297d-44c2-80f0-9f104c590c1f</edit_uuid>
+<lab_settings record_uuid="{ae9168c9-2a0e-4798-ae24-abb90b22ba56}" record_timestamp="1511190110684" record_key="ability_cooldown">
+<default_value>0</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>ability_cooldown</key>
+<localised_name state="APPROVED" last_approved_text="Ability recharge reduction" last_edit_user="bob">Ability recharge reduction</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Reduces ability recharge times." last_edit_user="bob">Reduces ability recharge times.</localised_tooltip>
+<max_value>1</max_value>
+<min_value>0</min_value>
+<sort_order>11</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{f14fa126-f5f4-47d1-ba19-a150c408f6df}" record_timestamp="1511190110684" record_key="ability_radius">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>ability_radius</key>
+<localised_name state="APPROVED" last_approved_text="Ability radius" last_edit_user="bob">Ability radius</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase the effect radius of abilities." last_edit_user="bob">Increase the effect radius of abilities.</localised_tooltip>
+<max_value>3</max_value>
+<min_value>1</min_value>
+<sort_order>10</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{8998d919-b58a-42ef-b0b9-7baf0cd0d2ae}" record_timestamp="1511190110684" record_key="ammunition">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>ammunition</key>
+<localised_name state="APPROVED" last_approved_text="Ammunition" last_edit_user="bob">Ammunition</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase unit ammunition." last_edit_user="bob">Increase unit ammunition.</localised_tooltip>
+<max_value>3</max_value>
+<min_value>1</min_value>
+<sort_order>7</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{e6a6c208-f7ad-46e8-a406-8918ce4871e6}" record_timestamp="1511190110684" record_key="blood">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>blood</key>
+<localised_name state="APPROVED" last_approved_text="Blood" last_edit_user="bob">Blood</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase the amount of blood emitted by entities." last_edit_user="bob">Increase the amount of blood emitted by entities.</localised_tooltip>
+<max_value>3</max_value>
+<min_value>1</min_value>
+<sort_order>14</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{effc2b54-cd9c-421c-85bd-13fe48897091}" record_timestamp="1511190110684" record_key="charge_duration">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>charge_duration</key>
+<localised_name state="APPROVED" last_approved_text="Charge duration" last_edit_user="bob">Charge duration</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase the duration it takes for charge bonus to fade out." last_edit_user="bob">Increase the duration it takes for charge bonus to fade out.</localised_tooltip>
+<max_value>3</max_value>
+<min_value>1</min_value>
+<sort_order>12</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{f6967287-fcc4-41f5-b476-3dc2f3bd27b8}" record_timestamp="1511190110684" record_key="damage">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>damage</key>
+<localised_name state="APPROVED" last_approved_text="Damage" last_edit_user="bob">Damage</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Modify the amount of damage caused to entities." last_edit_user="bob">Modify the amount of damage caused to entities.</localised_tooltip>
+<max_value>3</max_value>
+<min_value>0.25</min_value>
+<sort_order>0</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{def93060-8cfb-428e-adb3-8b01e032ec08}" record_timestamp="1511190110684" record_key="entity_scale">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>entity_scale</key>
+<localised_name state="APPROVED" last_approved_text="Entity scale" last_edit_user="bob">Entity scale</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Changes the scale of single entity units. Does not apply to entities mounted on vehicles." last_edit_user="bob">Changes the scale of single entity units. Does not apply to entities mounted on vehicles.</localised_tooltip>
+<max_value>2.5</max_value>
+<min_value>0.5</min_value>
+<sort_order>13</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{907ca544-a82a-4052-a519-05c94ac8f700}" record_timestamp="1511190110684" record_key="explosions">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>explosions</key>
+<localised_name state="APPROVED" last_approved_text="Explosions" last_edit_user="bob">Explosions</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase size of explosions and Vortex spells." last_edit_user="bob">Increase size of explosions and Vortex spells.</localised_tooltip>
+<max_value>1.5</max_value>
+<min_value>1</min_value>
+<sort_order>4</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{e6543cce-44db-4970-bb08-2cf3d2eef732}" record_timestamp="1511190110685" record_key="gravity">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>gravity</key>
+<localised_name state="APPROVED" last_approved_text="Gravity" last_edit_user="bob">Gravity</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Modify the effect of gravity on entities knocked flying." last_edit_user="bob">Modify the effect of gravity on entities knocked flying.</localised_tooltip>
+<max_value>1</max_value>
+<min_value>0.10000000149011612</min_value>
+<sort_order>9</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{b68203f7-0e90-485d-970e-bba8409eb405}" record_timestamp="1511190110685" record_key="impact">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>impact</key>
+<localised_name state="APPROVED" last_approved_text="Impact Force" last_edit_user="bob">Impact Force</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase the force of impacts and detonations to send entities flying further away." last_edit_user="bob">Increase the force of impacts and detonations to send entities flying further away.</localised_tooltip>
+<max_value>10</max_value>
+<min_value>1</min_value>
+<sort_order>1</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{d61afdca-0d54-422e-bbe4-933f91d58917}" record_timestamp="1511190110685" record_key="morale">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>morale</key>
+<localised_name state="APPROVED" last_approved_text="Leadership" last_edit_user="bob">Leadership</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase unit base leadership to make units less likely to rout." last_edit_user="bob">Increase unit base leadership to make units less likely to rout.</localised_tooltip>
+<max_value>2</max_value>
+<min_value>1</min_value>
+<sort_order>2</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{17981021-2f5a-477e-9284-f3912ce58b21}" record_timestamp="1511190110685" record_key="projectile_penetration">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>projectile_penetration</key>
+<localised_name state="APPROVED" last_approved_text="Projectile penetration" last_edit_user="bob">Projectile penetration</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase the distance that a projectile can penetrate entities." last_edit_user="bob">Increase the distance that a projectile can penetrate entities.</localised_tooltip>
+<max_value>3</max_value>
+<min_value>1</min_value>
+<sort_order>8</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{31e8ceb6-8cc9-43c4-9a15-6e44d481987c}" record_timestamp="1511190110684" record_key="reload_time">
+<default_value>0</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>reload_time</key>
+<localised_name state="APPROVED" last_approved_text="Reload time" last_edit_user="bob">Reload time</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Reduce reload times to increase ranged unit damage per second." last_edit_user="bob">Reduce reload times to increase ranged unit damage per second.</localised_tooltip>
+<max_value>0.5</max_value>
+<min_value>0</min_value>
+<sort_order>6</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{0f5c693d-576c-49ec-8b9b-7bce1fe2664b}" record_timestamp="1511190110685" record_key="unit_size">
+<default_value>1</default_value>
+<display_as_percentage>0</display_as_percentage>
+<key>unit_size</key>
+<localised_name state="APPROVED" last_approved_text="Unit size" last_edit_user="bob">Unit size</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase unit size and single-entity health. Beware that large unit sizes can greatly reduce performance." last_edit_user="bob">Increase unit size and single-entity health. Beware that large unit sizes can greatly reduce performance.</localised_tooltip>
+<max_value>10</max_value>
+<min_value>1</min_value>
+<sort_order>-1</sort_order>
+<step_size>1</step_size>
+</lab_settings>
+<lab_settings record_uuid="{d1014957-9c13-4e97-857c-4de61049337a}" record_timestamp="1511190110684" record_key="vigour">
+<default_value>0</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>vigour</key>
+<localised_name state="APPROVED" last_approved_text="Vigour cost reduction" last_edit_user="bob">Vigour cost reduction</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Reduce the vigour cost of actions to keep units fresh for longer." last_edit_user="bob">Reduce the vigour cost of actions to keep units fresh for longer.</localised_tooltip>
+<max_value>1</max_value>
+<min_value>0</min_value>
+<sort_order>5</sort_order>
+<step_size>0.009999999776482582</step_size>
+</lab_settings>
+<lab_settings record_uuid="{171448da-fc84-4ef2-816d-d0440f704ac2}" record_timestamp="1511190110684" record_key="winds_of_magic">
+<default_value>1</default_value>
+<display_as_percentage>1</display_as_percentage>
+<key>winds_of_magic</key>
+<localised_name state="APPROVED" last_approved_text="Winds of Magic" last_edit_user="bob">Winds of Magic</localised_name>
+<localised_tooltip state="APPROVED" last_approved_text="Increase the availability of the Winds of Magic for spellcasting" last_edit_user="bob">Increase the availability of the Winds of Magic for spellcasting</localised_tooltip>
+<max_value>2</max_value>
+<min_value>1</min_value>
+<sort_order>3</sort_order>
+<step_size>0.05000000074505806</step_size>
+</lab_settings>
+</dataroot>

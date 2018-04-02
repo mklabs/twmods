@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="autoresolver_player_types.xsd" export_time="Tue Jun 20 14:37:28 2017" revision="3" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>9c86766f-0d12-4293-9331-f93ecd94cd9c</edit_uuid>
+<autoresolver_player_types record_uuid="{0b4e501f-6b19-4651-946b-a2fe45ec815e}" record_timestamp="1486633839960" record_key="ai_vs_human">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>true</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>ai_vs_human</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human>false</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{c2cc9092-8dd9-4dc7-bbd9-d4c8539913de}" record_timestamp="1486633839961" record_key="any">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human></enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>any</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human></player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{fa8080fd-e18f-4deb-ba16-f7ffc1cdc587}" record_timestamp="1486633839960" record_key="attacker_target">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human></enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>0</if_player_is_defender>
+<key>attacker_target</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human></player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{a8de6516-acce-49e7-b089-c7b297fc1acb}" record_timestamp="1486633839960" record_key="defender_target">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human></enemy_player_is_human>
+<if_player_is_attacker>0</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>defender_target</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human></player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{78a9f649-caae-475f-8cab-48a1d7270531}" record_timestamp="1497965847941" record_key="defending_ai_vs_human">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>true</enemy_player_is_human>
+<if_player_is_attacker>0</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>defending_ai_vs_human</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human>false</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{f31139c5-328d-408c-a344-90ac46fd7d43}" record_timestamp="1486633839960" record_key="defending_human_vs_ai">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>0</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>defending_human_vs_ai</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{11b93830-37a9-4120-8828-54ce1ceb73f0}" record_timestamp="1486633839961" record_key="human_vs_ai">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>human_vs_ai</key>
+<player_campaign_difficulty></player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{6377abf2-2fa0-4a8a-b08a-1e790f0d2eb1}" record_timestamp="1486996097711" record_key="human_vs_ai_easy">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>human_vs_ai_easy</key>
+<player_campaign_difficulty>easy</player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{3a113cb6-68dd-4a6d-85ed-0d79ebc3cc09}" record_timestamp="1486996097689" record_key="human_vs_ai_hard">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>human_vs_ai_hard</key>
+<player_campaign_difficulty>hard</player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{c9ff1518-609c-4570-960a-e86009efb616}" record_timestamp="1486996097719" record_key="human_vs_ai_legendary">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>human_vs_ai_legendary</key>
+<player_campaign_difficulty>legendary</player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{35cbebd4-461e-430e-8c77-0f3f0fb1fbb1}" record_timestamp="1486996097702" record_key="human_vs_ai_normal">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>human_vs_ai_normal</key>
+<player_campaign_difficulty>normal</player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+<autoresolver_player_types record_uuid="{be213f20-d5a0-4856-b3f2-738f95df5753}" record_timestamp="1486996097728" record_key="human_vs_ai_vhard">
+<enemy_player_campaign_difficulty></enemy_player_campaign_difficulty>
+<enemy_player_is_human>false</enemy_player_is_human>
+<if_player_is_attacker>1</if_player_is_attacker>
+<if_player_is_defender>1</if_player_is_defender>
+<key>human_vs_ai_vhard</key>
+<player_campaign_difficulty>very_hard</player_campaign_difficulty>
+<player_is_human>true</player_is_human>
+</autoresolver_player_types>
+</dataroot>

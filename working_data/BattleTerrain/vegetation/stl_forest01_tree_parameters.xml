@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trees>
+
+<!-- VERY HIGH 0.9 # 1.0 #########################################################################################################-->
+<!--##########################################################################################################################-->
+<!--##########################################################################################################################-->
+	<group group_name="large_trees_stl_forest_blend_01">
+		<texture>forest01</texture>					<!-- texture channel that must exist in order to pick group (well, actually the value must be above 0.05) --> 
+		<texture_for_probability>forest01</texture_for_probability>	<!-- texture channel to use for probability, if not defined texture is used -->
+
+		<group_channel_range_low>0.9</group_channel_range_low>		<!-- bottom of blend map value range -->
+		<group_channel_range_high>1.1</group_channel_range_high>		<!-- top of blend map value range -->
+		<group_channel_range_falloff>0</group_channel_range_falloff>	<!-- range within the defined range that is always the top probability, in this case the whole range -->
+
+		<height_range_low>-5000</height_range_low>			<!-- bottom of height map range -->
+		<height_range_high>5000</height_range_high>			<!-- top of height map range -->
+		<height_range_falloff>10000</height_range_falloff>			<!-- range within the defined range that is always the top probability, in this case only the very centre -->
+		
+		<probability>0.1</probability>					<!-- the base probability which is adjusted based upon the above -->
+		
+		<grouping_probability>0</grouping_probability>		<!-- the probability of swapping out near objects with objects from the same group -->
+		<grouping_radius>0</grouping_radius>				<!-- the radius within which objects may be swapped out -->
+
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.3</size_low>				<!-- lowest possible scale -->
+			<size_high>0.4</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.08</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.4</size_low>				<!-- lowest possible scale -->
+			<size_high>0.8</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.05</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>7</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>		
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_d</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1.2</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.05</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>6</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>				
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.3</size_low>				<!-- lowest possible scale -->
+			<size_high>0.4</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.075</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>8</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_d</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.8</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_stl_shrub/shrub_bush_rich_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>1.5</size_low>				<!-- lowest possible scale -->
+			<size_high>2</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.4</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_stl_shrub/shrub_bush_rich_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>1.5</size_low>				<!-- lowest possible scale -->
+			<size_high>2</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0.8</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.4</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		
+	</group>
+<!-- HIGH 0.7 # 0.92 #########################################################################################################-->
+<!--##########################################################################################################################-->
+<!--##########################################################################################################################-->
+	
+		<group group_name="medium_trees_stl_forest_blend_01">
+		<texture>forest01</texture>					<!-- texture channel that must exist in order to pick group (well, actually the value must be above 0.05) --> 
+		<texture_for_probability>forest01</texture_for_probability>	<!-- texture channel to use for probability, if not defined texture is used -->
+
+		<group_channel_range_low>0.73</group_channel_range_low>		<!-- bottom of blend map value range -->
+		<group_channel_range_high>0.92</group_channel_range_high>		<!-- top of blend map value range -->
+		<group_channel_range_falloff>0</group_channel_range_falloff>	<!-- range within the defined range that is always the top probability, in this case the whole range -->
+
+		<height_range_low>-5000</height_range_low>			<!-- bottom of height map range -->
+		<height_range_high>5000</height_range_high>			<!-- top of height map range -->
+		<height_range_falloff>10000</height_range_falloff>			<!-- range within the defined range that is always the top probability, in this case only the very centre -->
+		
+		<probability>0.1</probability>					<!-- the base probability which is adjusted based upon the above -->
+		
+		<grouping_probability>0</grouping_probability>		<!-- the probability of swapping out near objects with objects from the same group -->
+		<grouping_radius>0</grouping_radius>				<!-- the radius within which objects may be swapped out -->
+	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.15</size_low>				<!-- lowest possible scale -->
+			<size_high>0.3</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.04</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>6</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.2</size_low>				<!-- lowest possible scale -->
+			<size_high>0.36</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.3</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>0.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.15</size_low>				<!-- lowest possible scale -->
+			<size_high>0.2</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>1.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.23</size_low>				<!-- lowest possible scale -->
+			<size_high>0.28</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.1</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>		
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_d</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.15</size_low>				<!-- lowest possible scale -->
+			<size_high>0.23</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.1</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>					
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.15</size_low>				<!-- lowest possible scale -->
+			<size_high>0.36</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.06</size_low>				<!-- lowest possible scale -->
+			<size_high>0.14</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>		
+	
+	</group>
+	
+	<!-- MED SMALL TREES 0.5 # 0.75 #########################################################################################################-->
+<!--##########################################################################################################################-->
+<!--##########################################################################################################################-->
+			<group group_name="medium_small_trees_stl_forest_blend_01">
+		<texture>forest01</texture>					<!-- texture channel that must exist in order to pick group (well, actually the value must be above 0.05) --> 
+		<texture_for_probability>forest01</texture_for_probability>	<!-- texture channel to use for probability, if not defined texture is used -->
+
+		<group_channel_range_low>0.48</group_channel_range_low>		<!-- bottom of blend map value range -->
+		<group_channel_range_high>0.76</group_channel_range_high>		<!-- top of blend map value range -->
+		<group_channel_range_falloff>0</group_channel_range_falloff>	<!-- range within the defined range that is always the top probability, in this case the whole range -->
+
+		<height_range_low>-5000</height_range_low>			<!-- bottom of height map range -->
+		<height_range_high>5000</height_range_high>			<!-- top of height map range -->
+		<height_range_falloff>10000</height_range_falloff>			<!-- range within the defined range that is always the top probability, in this case only the very centre -->
+		
+		<probability>0.1</probability>					<!-- the base probability which is adjusted based upon the above -->
+		
+		<grouping_probability>0</grouping_probability>		<!-- the probability of swapping out near objects with objects from the same group -->
+		<grouping_radius>0</grouping_radius>				<!-- the radius within which objects may be swapped out -->
+
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.15</size_low>				<!-- lowest possible scale -->
+			<size_high>0.25</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.04</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>1.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.12</size_low>				<!-- lowest possible scale -->
+			<size_high>0.2</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.1</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.15</size_low>				<!-- lowest possible scale -->
+			<size_high>0.35</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.1</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.24</size_low>				<!-- lowest possible scale -->
+			<size_high>0.39</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.1</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>		
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_jungle_tree_palmsmall_d</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.2</size_low>				<!-- lowest possible scale -->
+			<size_high>0.35</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.1</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+		</tree>				
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_mangrove/wh_jungle_tree_mangrove_A</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.1</size_low>				<!-- lowest possible scale -->
+			<size_high>0.21</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.15</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.04</size_low>				<!-- lowest possible scale -->
+			<size_high>0.08</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.33</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree> 								<!-- type of object, may be tree, prop, decal or vfx. Needs corresponding closing tag -->
+			<model>trees/wh_palm/wh_lizardmen_tree_palmbig_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.03</size_low>				<!-- lowest possible scale -->
+			<size_high>0.07</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>			<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>				<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>		
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_palm_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.7</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_palm_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.6</size_low>				<!-- lowest possible scale -->
+			<size_high>0.99</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_palm_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.7</size_low>				<!-- lowest possible scale -->
+			<size_high>0.99</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_fern_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.8</size_low>				<!-- lowest possible scale -->
+			<size_high>1.3</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_fern_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.9</size_low>				<!-- lowest possible scale -->
+			<size_high>1.3</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_fern_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.9</size_low>				<!-- lowest possible scale -->
+			<size_high>1.3</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_groundcover_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.9</size_low>				<!-- lowest possible scale -->
+			<size_high>1.4</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_philodendron_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_philodendron_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_philodendron_c</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1.4</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_lzd_shrub/shrub_philodendron_d</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.25</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+	
+	</group>
+	
+	
+	
+	
+<!-- LOW/MED SHRUBS ONLY 0.25 # 0.5 #########################################################################################################-->
+<!--##########################################################################################################################-->
+<!--##########################################################################################################################-->	
+	
+			<group group_name="small_trees_and_undergrowth_stl_forest_blend_01">
+		<texture>forest01</texture>					<!-- texture channel that must exist in order to pick group (well, actually the value must be above 0.05) --> 
+		<texture_for_probability>forest01</texture_for_probability>	<!-- texture channel to use for probability, if not defined texture is used -->
+
+		<group_channel_range_low>0.25</group_channel_range_low>		<!-- bottom of blend map value range -->
+		<group_channel_range_high>0.49</group_channel_range_high>		<!-- top of blend map value range -->
+		<group_channel_range_falloff>0</group_channel_range_falloff>	<!-- range within the defined range that is always the top probability, in this case the whole range -->
+
+		<height_range_low>-5000</height_range_low>			<!-- bottom of height map range -->
+		<height_range_high>5000</height_range_high>			<!-- top of height map range -->
+		<height_range_falloff>10000</height_range_falloff>			<!-- range within the defined range that is always the top probability, in this case only the very centre -->
+		
+		<probability>0.1</probability>					<!-- the base probability which is adjusted based upon the above -->
+		
+		<grouping_probability>0</grouping_probability>		<!-- the probability of swapping out near objects with objects from the same group -->
+		<grouping_radius>0</grouping_radius>				<!-- the radius within which objects may be swapped out -->
+
+		
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_fern_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.6</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.7</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>1.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_fern_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.6</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.7</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_bush_rich_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>2</size_low>				<!-- lowest possible scale -->
+			<size_high>3</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.7</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>1.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_philodendron_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.4</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>1.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_philodendron_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.4</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>1.5</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>		
+	</group>
+	
+	<!-- LOW SHRUBS AND FLOWERS ONLY 0 # 0.26 #########################################################################################################-->
+<!--##########################################################################################################################-->
+<!--##########################################################################################################################-->
+	
+				<group group_name="small_undergrowth_flowers_etc_stl_forest_blend_01">
+		<texture>forest01</texture>					<!-- texture channel that must exist in order to pick group (well, actually the value must be above 0.05) --> 
+		<texture_for_probability>forest01</texture_for_probability>	<!-- texture channel to use for probability, if not defined texture is used -->
+
+		<group_channel_range_low>0</group_channel_range_low>		<!-- bottom of blend map value range -->
+		<group_channel_range_high>0.26</group_channel_range_high>		<!-- top of blend map value range -->
+		<group_channel_range_falloff>0</group_channel_range_falloff>	<!-- range within the defined range that is always the top probability, in this case the whole range -->
+
+		<height_range_low>-5000</height_range_low>			<!-- bottom of height map range -->
+		<height_range_high>5000</height_range_high>			<!-- top of height map range -->
+		<height_range_falloff>10000</height_range_falloff>			<!-- range within the defined range that is always the top probability, in this case only the very centre -->
+		
+		<probability>0.1</probability>					<!-- the base probability which is adjusted based upon the above -->
+		
+		<grouping_probability>0</grouping_probability>		<!-- the probability of swapping out near objects with objects from the same group -->
+		<grouping_radius>0</grouping_radius>				<!-- the radius within which objects may be swapped out -->
+
+						
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_palm_a_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.4</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_palm_a_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.4</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_palm_b_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.4</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_fern_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_fern_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.5</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_bush_rich_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.4</size_low>				<!-- lowest possible scale -->
+			<size_high>0.8</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>2</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_groundcover_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.6</size_low>				<!-- lowest possible scale -->
+			<size_high>1</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.5</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>3</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_philodendron_a</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.25</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+		<tree>
+		<model>trees/wh_stl_shrub/shrub_philodendron_b</model>		<!-- path to the object, tree in this case -->
+
+			<size_low>0.25</size_low>				<!-- lowest possible scale -->
+			<size_high>0.9</size_high>					<!-- top possible scale -->
+
+			<blendmap_range_low>0</blendmap_range_low>		<!-- // same as at group level but for object within group -->
+			<blendmap_range_high>1.1</blendmap_range_high>
+			<blendmap_range_falloff>0</blendmap_range_falloff>
+			<height_low>-5000</height_low>
+			<height_high>5000</height_high>
+			<height_falloff>0</height_falloff>					<!-- // -->
+
+			<humidities>						<!-- Supported humidities, not actually used, we may want to remove this -->
+				<humidity>arid</humidity>
+				<humidity>humid</humidity>
+			</humidities>
+
+			<categories>						<!-- Supported categories, these categories are defined in generation_categories.xml -->
+				<category>stl</category>					
+			</categories>
+
+			<probability>0.2</probability>						<!-- Base probability of choosing this object -->
+			<minimum_seperation>4</minimum_seperation>		<!-- Minimum distance this must be from other objects if chosen -->
+
+		</tree>	
+
+	</group>
+</trees>

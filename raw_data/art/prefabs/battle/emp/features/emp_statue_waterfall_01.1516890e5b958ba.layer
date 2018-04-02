@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="20">
+  <entities>
+    <entity id="1516890e5b858b6" name="emp_hero_tower_06">
+      <ECBuilding key="emp_hero_tower_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.515991211 0.00989055634 4.5234375" rotation="0 -1.92195201 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_tower_06"/>
+    </entity>
+    <entity id="1516890e5b958b9" name="emp_death_statue_01">
+      <ECBuilding key="emp_death_statue_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.488769531 25.0872841 4.38085938" rotation="0 -0.0655527711 0" scale="2.89273119 2.89273119 2.89273119"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="death_statue_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

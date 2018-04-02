@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="14f16ea4c846e55" name="wh_main_cine_waterfall">
+      <ECVFX vfx="wh_main_cine_waterfall" autoplay="true" scale="7" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.84611535 92.9583511 -0.888408899" rotation="-71.0352249 85.462265 4.99776745" scale="0.999997914 0.999997973 0.999998868"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14f16ea4c846e56" name="wh_waterfall_01">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/Buildings/wh_waterfall_01/wh_waterfall_01.wsmodel" opacity="1" burn="false" burn_amount="0" glow_amount="0" animation_path=""/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-7.60030365 0 -1.24200022" rotation="0.00341585372 -89.944046 -0.00308836391" scale="0.999999821 1 0.999998987"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14f16ea4c846e57" name="wh_main_cine_waterfall_splash">
+      <ECVFX vfx="wh_main_cine_waterfall_splash" autoplay="true" scale="7" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="7.77204132 97.6249008 0.616615176" rotation="-67.1224365 76.7980042 -5.98129482e-005" scale="0.999997854 0.999998093 0.999998868"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

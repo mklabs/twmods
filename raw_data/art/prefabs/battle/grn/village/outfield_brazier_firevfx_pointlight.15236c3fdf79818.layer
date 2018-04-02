@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="20">
+  <entities>
+    <entity id="15236c3fdf79815" name="Point Light 2">
+      <ECPointLight colour="255 136 0 255" colour_scale="30" radius="50" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-0.162475586 26.3656006 0.629272461" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="15236c3fdf79816" name="wh_main_generic_fire_smoke_loop">
+      <ECVFX vfx="wh_main_generic_fire_smoke_loop" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.787719727 24.1353149 -0.566894531" rotation="0 0 0" scale="4 4 4"/>
+    </entity>
+    <entity id="15236c3fdf79817" name="grn_brazier_01">
+      <ECBuilding key="grn_brazier_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.787597656 0 -0.629211426" rotation="0 225.405899 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

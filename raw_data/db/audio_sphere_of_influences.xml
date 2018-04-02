@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="audio_sphere_of_influences.xsd" export_time="Fri Oct 13 12:08:33 2017" revision="9" export_branch="C:/TW/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>9b3ae018-e8a6-4a7c-a251-79f0efcd7b98</edit_uuid>
+<audio_sphere_of_influences record_uuid="{4806192e-b084-46ea-8df4-c3db05a9b9cf}" record_timestamp="1507892913068" record_key="hero_combat">
+<group>hero</group>
+<is_reversed>0</is_reversed>
+<key>hero_combat</key>
+<max_camera_distance>25</max_camera_distance>
+<max_influence>0.1</max_influence>
+<max_influence_distance>40</max_influence_distance>
+<max_visual_attenuation>1</max_visual_attenuation>
+<min_camera_distance>10</min_camera_distance>
+<min_influence_distance>20</min_influence_distance>
+<priority>0.1</priority>
+</audio_sphere_of_influences>
+<audio_sphere_of_influences record_uuid="{2bd33ee0-d04f-4520-8b7b-de3db6914421}" record_timestamp="1507892913068" record_key="hero_default">
+<group>hero</group>
+<is_reversed>0</is_reversed>
+<key>hero_default</key>
+<max_camera_distance>15</max_camera_distance>
+<max_influence>0.05</max_influence>
+<max_influence_distance>40</max_influence_distance>
+<max_visual_attenuation>1</max_visual_attenuation>
+<min_camera_distance>8</min_camera_distance>
+<min_influence_distance>20</min_influence_distance>
+<priority>0.25</priority>
+</audio_sphere_of_influences>
+<audio_sphere_of_influences record_uuid="{4cdd6efe-0727-4541-8876-6110d212bc11}" record_timestamp="1491839823465" record_key="large_creature_combat">
+<group>combat</group>
+<is_reversed>0</is_reversed>
+<key>large_creature_combat</key>
+<max_camera_distance>15</max_camera_distance>
+<max_influence>0.1</max_influence>
+<max_influence_distance>30</max_influence_distance>
+<max_visual_attenuation>1</max_visual_attenuation>
+<min_camera_distance>8</min_camera_distance>
+<min_influence_distance>10</min_influence_distance>
+<priority>0.25</priority>
+</audio_sphere_of_influences>
+<audio_sphere_of_influences record_uuid="{5dae251e-ccca-4704-bc9a-0f223384d0a1}" record_timestamp="1503418615578" record_key="large_explosion">
+<group>explosion</group>
+<is_reversed>0</is_reversed>
+<key>large_explosion</key>
+<max_camera_distance>50</max_camera_distance>
+<max_influence>0.15</max_influence>
+<max_influence_distance>20</max_influence_distance>
+<max_visual_attenuation>0.6</max_visual_attenuation>
+<min_camera_distance>30</min_camera_distance>
+<min_influence_distance>10</min_influence_distance>
+<priority>0.7</priority>
+</audio_sphere_of_influences>
+<audio_sphere_of_influences record_uuid="{ea7036aa-af5c-4a72-8cbe-6ed24d323989}" record_timestamp="1505216117240" record_key="magic_global_mute">
+<group>magic</group>
+<is_reversed>0</is_reversed>
+<key>magic_global_mute</key>
+<max_camera_distance>250</max_camera_distance>
+<max_influence>1</max_influence>
+<max_influence_distance>550</max_influence_distance>
+<max_visual_attenuation>1</max_visual_attenuation>
+<min_camera_distance>50</min_camera_distance>
+<min_influence_distance>150</min_influence_distance>
+<priority>1</priority>
+</audio_sphere_of_influences>
+<audio_sphere_of_influences record_uuid="{f8ccbd11-4762-49d7-8c4d-fffef6f31c81}" record_timestamp="1505216117240" record_key="magic_total_mute">
+<group>magic</group>
+<is_reversed>0</is_reversed>
+<key>magic_total_mute</key>
+<max_camera_distance>500</max_camera_distance>
+<max_influence>1</max_influence>
+<max_influence_distance>1100</max_influence_distance>
+<max_visual_attenuation>1</max_visual_attenuation>
+<min_camera_distance>100</min_camera_distance>
+<min_influence_distance>1000</min_influence_distance>
+<priority>1</priority>
+</audio_sphere_of_influences>
+<audio_sphere_of_influences record_uuid="{be65dd59-af7c-41f6-8f4f-d7fe8003d793}" record_timestamp="1489597428245" record_key="matched_combat">
+<group>combat</group>
+<is_reversed>0</is_reversed>
+<key>matched_combat</key>
+<max_camera_distance>80</max_camera_distance>
+<max_influence>0.5</max_influence>
+<max_influence_distance>25</max_influence_distance>
+<max_visual_attenuation>0.8</max_visual_attenuation>
+<min_camera_distance>60</min_camera_distance>
+<min_influence_distance>15</min_influence_distance>
+<priority>0.35</priority>
+</audio_sphere_of_influences>
+</dataroot>

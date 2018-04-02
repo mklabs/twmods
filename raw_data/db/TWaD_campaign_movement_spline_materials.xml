@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_movement_spline_materials>
+<root>
+<edit_uuid>3d8bb081-2afc-413b-9e82-aa1279ee2d26</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{e49d1ed0-6d6f-4e05-bfb0-83410d7e4cf4}</field_uuid>
+<primary_key>1</primary_key>
+<name>id</name>
+<field_type>integer</field_type>
+<required>1</required>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{515d8580-4524-4402-8ecf-b68201c1ddf6}</field_uuid>
+<primary_key>0</primary_key>
+<name>shaft_material</name>
+<field_type>text</field_type>
+<is_filename>1</is_filename>
+<required>1</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{88e88df8-b5fa-474b-9b86-63a3f894ac1b}</field_uuid>
+<primary_key>0</primary_key>
+<name>head_material</name>
+<field_type>text</field_type>
+<is_filename>1</is_filename>
+<required>1</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

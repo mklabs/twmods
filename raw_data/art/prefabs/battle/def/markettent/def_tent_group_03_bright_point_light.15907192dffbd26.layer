@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="23">
+  <entities>
+    <entity id="15907192dfebcf6">
+      <ECBuilding key="def_market_shelving_empty" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.89819336 2.66102123 -0.625244141" rotation="36.9646797 257.387024 321.630585" scale="1.99999976 1.99999988 1.99999988"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="market_shelving_empty"/>
+    </entity>
+    <entity id="15907192dfebcf7">
+      <ECBuilding key="def_market_table_c_alchemy" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.47753906 2.77053928 1.03356934" rotation="-11.9198875 -50.5252457 7.17987347" scale="2.00000048 1.99999976 2.00000048"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="market_table_c_alchemy"/>
+    </entity>
+    <entity id="15907192dfebcf8">
+      <ECVFX vfx="wh_main_generic_fire_smoke_loop" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.0296256542 2.0165422 0.0277671814" rotation="0 -8.99999714 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebcf9">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-38.1445313 2.97198963 -1.24938965" rotation="43.1016884 258.920715 315.360809" scale="20.0000019 9.19631481 20.0000019"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebcfa">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-21.9277344 3.39405251 25.5172119" rotation="8.5209198 207.601242 353.954285" scale="20.0000019 9.19631481 20.0000019"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebcfb">
+      <ECDecal model_path="rigidmodels/decals/generic/global_terrain_erossion_12.rigid_model_v2" parallax_scale="0.140000001" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-32.3239746 2.17623425 -27.4682617" rotation="7.5563612 176.89035 358.337372" scale="20 6.91663456 40.0000076"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebcfc">
+      <ECNoGoRegion/>
+      <ECTransform position="-25.1203613 5.10511589 5.78601074" rotation="7.5563612 176.89035 358.337372" scale="2 1.99999976 2"/>
+      <ECTransform2D/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="0.110013008" y="2.78355575"/>
+          <point x="-2.8880825" y="3.02387929"/>
+          <point x="-2.89543819" y="-0.216890812"/>
+        </polyline>
+      </ECPolyline>
+    </entity>
+    <entity id="15907192dfebcfd">
+      <ECBuilding key="def_cage_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.07080078 3.03999901 14.3995361" rotation="-10.769372 45.3542709 -9.7816267" scale="2.00000024 1.99999988 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_a"/>
+    </entity>
+    <entity id="15907192dfebcfe">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="17.7348633 2.14355278 -12.1141357" rotation="-52.3592987 -80.4549637 49.8974495" scale="20 9.19631481 19.9999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebcff">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-3.85620117 3.08435154 20.0975342" rotation="10.6344948 135.359497 5.44110584" scale="20 9.19631386 19.9999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebd00">
+      <ECBuilding key="def_brazier_02" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.15893555 1.99360752 -30.5661621" rotation="7.58439255 185.812241 357.152588" scale="2.00000072 1.99999988 2.00000048"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="brazier_02"/>
+    </entity>
+    <entity id="15907192dfebd01">
+      <ECBuilding key="def_cage_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="25.5588379 1.89828014 -12.2789307" rotation="-7.58815098 -6.08345747 -1.26603746" scale="2.00000024 1.99999976 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_b"/>
+    </entity>
+    <entity id="15907192dfebd02">
+      <ECBuilding key="def_tent_throne" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-33.3181152 3.40395832 18.6542969" rotation="-21.2973232 -68.8062744 17.8994503" scale="2 1.99999976 1.99999964"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_throne"/>
+    </entity>
+    <entity id="15907192dfebd03">
+      <ECBuilding key="def_cage_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-29.7580566 2.76269817 -7.16699219" rotation="7.55036402 177.881699 358.205811" scale="2.00000048 1.99999988 2.00000048"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_a"/>
+    </entity>
+    <entity id="15907192dfebd04">
+      <ECVFX vfx="wh_main_generic_fire_smoke_loop" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.00841712952 2.01654911 0.149829388" rotation="0 28.9999886 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebd05">
+      <ECBuilding key="def_cage_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="13.0463867 2.82412815 13.0639648" rotation="-11.1681309 47.3177376 -10.332778" scale="2.00000024 1.99999976 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_b"/>
+    </entity>
+    <entity id="15907192dfebd06">
+      <ECBuilding key="def_cage_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.4406738 2.79947567 16.1181641" rotation="-13.046236 -54.4309235 8.59917545" scale="2.00000024 1.99999976 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_b"/>
+    </entity>
+    <entity id="15907192dfebd07">
+      <ECBuilding key="def_tent_d" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.10131836 3.32180119 34.7658691" rotation="-24.5415325 -71.57061 21.346632" scale="2.00000024 1.99999988 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_d"/>
+    </entity>
+    <entity id="15907192dfebd08">
+      <ECBuilding key="def_brazier_02" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-21.8935547 2.95059395 3.55078125" rotation="16.3374977 117.826622 12.4582644" scale="1.99999964 1.99999988 1.99999952"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="brazier_02"/>
+    </entity>
+    <entity id="15907192dfebd09">
+      <ECBuilding key="def_market_shelving" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.16723633 2.73308659 2.36962891" rotation="11.1681376 227.317719 349.667206" scale="2.00000024 1.99999988 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="market_shelving"/>
+    </entity>
+    <entity id="15907192dfebd0a">
+      <ECBuilding key="def_tent_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-33.7319336 3.32109642 14.8657227" rotation="-21.2973232 -68.8062744 17.8994503" scale="2 1.99999976 1.99999964"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_b"/>
+    </entity>
+    <entity id="15907192dfebd0b">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.15869141 2.26352215 -20.6689453" rotation="-8.46568871 -26.8828163 1.77531421" scale="20.0000038 9.19631386 20.0000019"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebd0c">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-11.1010742 1.86898899 -34.6348877" rotation="-7.81306601 -15.0026417 -0.040594548" scale="20 9.19631386 20"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebd0d">
+      <ECBuilding key="def_market_crates" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.9375 2.80205345 4.69335938" rotation="-30.7514 -75.1194611 27.8247585" scale="1.99999988 1.99999988 1.99999976"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="market_crates"/>
+    </entity>
+    <entity id="15907192dfebd0e">
+      <ECBuilding key="def_cage_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.861084 1.94671917 -22.5806885" rotation="-9.55903625 -37.7483406 3.81121087" scale="2.00000024 1.99999976 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_a"/>
+    </entity>
+    <entity id="15907192dfebd0f">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="23.3024902 2.47940826 2.98034668" rotation="13.6206398 236.110779 346.552185" scale="20.0000057 9.19631481 20.0000057"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dfebd10">
+      <ECBuilding key="def_cage_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.47070313 2.30368233 -21.8820801" rotation="16.1931076 241.910706 343.55545" scale="2.00000024 1.99999988 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_a"/>
+    </entity>
+    <entity id="15907192dffbd11">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="13.3291016 2.87168884 16.0758057" rotation="7.80320358 194.731583 355.92926" scale="20.0000019 9.19631386 20.0000019"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd12">
+      <ECBuilding key="def_tent_e" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.8344727 2.4393425 7.18164063" rotation="-7.56465101 -4.10092545 -1.53076386" scale="2 1.99999988 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_e"/>
+    </entity>
+    <entity id="15907192dffbd13">
+      <ECPointLight colour="255 98 25 255" colour_scale="120" radius="100" animation_type="LAT_NONE" animation_speed_scale="7 10" colour_min="0.5" random_offset="0" falloff_type="WPLFT_LINEAR" for_light_probes_only="false"/>
+      <ECTransform position="-0.677490234 8.48296261 -8.25561523" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="15907192dffbd14">
+      <ECBuilding key="def_corral" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-32.5446777 2.15654469 -28.0257568" rotation="9.9340868 220.435379 351.444366" scale="2.00000024 1.99999988 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="corral"/>
+    </entity>
+    <entity id="15907192dffbd15">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-20.4921875 2.67869186 -9.19799805" rotation="-7.68121719 10.7680073 -3.51834536" scale="20 9.19631481 20"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd16">
+      <ECBuilding key="def_cage_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.5893555 1.93639278 -17.7435303" rotation="-9.55903625 -37.7483406 3.81121087" scale="2.00000024 1.99999976 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_a"/>
+    </entity>
+    <entity id="15907192dffbd17">
+      <ECBuilding key="def_cage_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-17.6772461 3.07910538 12.1253662" rotation="25.8537407 107.524414 22.7261429" scale="2.00000048 1.99999988 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_b"/>
+    </entity>
+    <entity id="15907192dffbd18">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="29.7285156 2.89369965 23.4180908" rotation="40.6847572 101.620232 38.0242462" scale="20.0000057 9.19631481 20.0000019"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd19">
+      <ECBuilding key="def_market_shelving" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.80004883 2.59595871 -3.90478516" rotation="83.075058 262.399078 274.910828" scale="1.99999988 1.99999988 1.99999988"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="market_shelving"/>
+    </entity>
+    <entity id="15907192dffbd1a">
+      <ECBuilding key="def_cage_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.92236328 2.96687794 17.027832" rotation="-8.8902483 -31.8256874 2.64058089" scale="2 1.99999988 2.00000024"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_a"/>
+    </entity>
+    <entity id="15907192dffbd1b">
+      <ECBuilding key="def_tent_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.1965332 0.814854622 -26.5570068" rotation="-12.3744793 52.2129745 -11.9115143" scale="2 1.99999988 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_a"/>
+    </entity>
+    <entity id="15907192dffbd1c">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-18.0766602 3.06354141 11.0614014" rotation="-14.3677826 58.0514832 -14.3376961" scale="20 9.19631386 19.9999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd1d">
+      <ECBuilding key="def_tent_throne" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-34.8913574 3.26283073 11.7182617" rotation="-21.2973232 -68.8062744 17.8994503" scale="2 1.99999976 1.99999964"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_throne"/>
+    </entity>
+    <entity id="15907192dffbd1e">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="38.1445313 1.7843132 -5.81494141" rotation="17.4859123 115.913002 13.7454548" scale="20.0000057 9.19631481 20.0000057"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd1f">
+      <ECDecal model_path="rigidmodels/decals/generic/road_6.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_BLEND" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="8.00146484 1.4581213 -34.7657471" rotation="-11.1681299 47.3177338 -10.3327742" scale="20.0000038 9.19631386 20.0000019"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd20">
+      <ECVFX vfx="wh_main_generic_fire_smoke_loop" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.125062108 2.01664257 0.124070168" rotation="0 60.0000114 0" scale="0.50000006 0.5 0.50000006"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15907192dffbd21">
+      <ECNoGoRegion/>
+      <ECTransform position="19.21875 2.54969501 -1.37438965" rotation="7.5563612 176.89035 358.337372" scale="2 1.99999976 2"/>
+      <ECTransform2D/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="-0.150210381" y="2.9146173"/>
+          <point x="-3.11860943" y="2.96681643"/>
+          <point x="-2.7080431" y="0.0179746151"/>
+        </polyline>
+      </ECPolyline>
+    </entity>
+    <entity id="15907192dffbd22">
+      <ECBuilding key="def_tent_c" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.8503418 2.66399384 -2.72961426" rotation="-9.82919884 -39.719799 4.24292278" scale="1.99999988 1.99999976 1.99999976"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tent_c"/>
+    </entity>
+    <entity id="15907192dffbd23">
+      <ECBuilding key="def_brazier_02" damage="0" indestructible="true" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.6386719 2.32873917 -3.49230957" rotation="8.89025593 148.174301 2.6405921" scale="2.00000048 1.99999988 2.00000048"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="brazier_02"/>
+    </entity>
+    <entity id="15907192dffbd24">
+      <ECNoGoRegion/>
+      <ECTransform position="-11.0703125 0 -28.890625" rotation="7.5563612 176.89035 358.337372" scale="2 1.99999976 2"/>
+      <ECTransform2D/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="-0.1300807" y="2.93261528"/>
+          <point x="-3.39226103" y="3.04426765"/>
+          <point x="-3.30779648" y="-0.18655777"/>
+        </polyline>
+      </ECPolyline>
+    </entity>
+    <entity id="15907192dffbd25">
+      <ECBuilding key="def_cage_b" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.918945313 2.02656746 -26.5234375" rotation="-63.0392761 -81.5284958 60.7095451" scale="2 1.99999976 1.99999988"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cage_b"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="15907192dfebd00">
+        <to id="15907192dfebcf8"/>
+      </from>
+      <from id="15907192dfebd08">
+        <to id="15907192dffbd20"/>
+      </from>
+      <from id="15907192dffbd23">
+        <to id="15907192dfebd04"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

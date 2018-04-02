@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="trait_to_antitraits.xsd" export_time="Tue Oct 17 18:01:56 2017" revision="26" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c9cefb15-6c4a-4b4e-8b10-4ff96d6b7130</edit_uuid>
+<trait_to_antitraits record_uuid="{73f3b523-18a9-4de2-9713-58d6d6224bf6}" record_timestamp="1508259713350" record_key="wh2_dlc09_trait_settra_title_startwh2_dlc09_trait_settra_title">
+<antitrait>wh2_dlc09_trait_settra_title</antitrait>
+<trait>wh2_dlc09_trait_settra_title_start</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{da017957-9c01-4c63-9332-ee17e37a60d9}" record_timestamp="1508259713389" record_key="wh2_dlc09_trait_settra_titlewh2_dlc09_trait_settra_title_start">
+<antitrait>wh2_dlc09_trait_settra_title_start</antitrait>
+<trait>wh2_dlc09_trait_settra_title</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{d3e159a8-209f-4163-a278-bc313b9f79dd}" record_timestamp="1495211478782" record_key="wh2_main_trait_agent_target_failwh2_main_trait_agent_target_success">
+<antitrait>wh2_main_trait_agent_target_success</antitrait>
+<trait>wh2_main_trait_agent_target_fail</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{f60fc14e-700e-4c49-b2da-df4f0321e5a5}" record_timestamp="1499259021132" record_key="wh2_main_trait_agent_target_successwh2_main_trait_agent_target_fail">
+<antitrait>wh2_main_trait_agent_target_fail</antitrait>
+<trait>wh2_main_trait_agent_target_success</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b71074a3-fcac-43bd-a43a-31ca4dbac05a}" record_timestamp="1499259021129" record_key="wh2_main_trait_attacking_defeatwh2_main_trait_attacking_victory">
+<antitrait>wh2_main_trait_attacking_victory</antitrait>
+<trait>wh2_main_trait_attacking_defeat</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{a1b426b8-aab1-4e40-bffe-72d37e37bd0f}" record_timestamp="1494943458241" record_key="wh2_main_trait_attacking_victorywh2_main_trait_attacking_defeat">
+<antitrait>wh2_main_trait_attacking_defeat</antitrait>
+<trait>wh2_main_trait_attacking_victory</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{ec6d217a-859c-4b44-84ed-194bacc53d2c}" record_timestamp="1495544300616" record_key="wh2_main_trait_corrupted_chaoswh2_main_trait_non_corrupted">
+<antitrait>wh2_main_trait_non_corrupted</antitrait>
+<trait>wh2_main_trait_corrupted_chaos</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{4e5dbb66-2a47-4c22-b312-30818bed0e0f}" record_timestamp="1495544300616" record_key="wh2_main_trait_corrupted_vampirewh2_main_trait_non_corrupted">
+<antitrait>wh2_main_trait_non_corrupted</antitrait>
+<trait>wh2_main_trait_corrupted_vampire</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{2caffba2-6a6b-4f4e-8cbb-a35ad4b08649}" record_timestamp="1499259021143" record_key="wh2_main_trait_defeats_at_seawh2_main_trait_wins_at_sea">
+<antitrait>wh2_main_trait_wins_at_sea</antitrait>
+<trait>wh2_main_trait_defeats_at_sea</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{d6e246b3-4fc3-44c5-b82a-cd44da7f3466}" record_timestamp="1499259021147" record_key="wh2_main_trait_defeatswh2_main_trait_wins">
+<antitrait>wh2_main_trait_wins</antitrait>
+<trait>wh2_main_trait_defeats</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{c908af83-efca-40bb-a5b6-94ee795461d0}" record_timestamp="1499259021154" record_key="wh2_main_trait_defending_defeatwh2_main_trait_defending_victory">
+<antitrait>wh2_main_trait_defending_victory</antitrait>
+<trait>wh2_main_trait_defending_defeat</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{b7d7d00f-1791-4f4b-b751-d97c79590bc5}" record_timestamp="1494943458233" record_key="wh2_main_trait_defending_victorywh2_main_trait_defending_defeat">
+<antitrait>wh2_main_trait_defending_defeat</antitrait>
+<trait>wh2_main_trait_defending_victory</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{12d7acbc-0723-4bca-a793-917208893b09}" record_timestamp="1494943458237" record_key="wh2_main_trait_fighterwh2_main_trait_routed">
+<antitrait>wh2_main_trait_routed</antitrait>
+<trait>wh2_main_trait_fighter</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{a86ec231-9ce1-4c46-885f-2dec554b8c23}" record_timestamp="1499259021140" record_key="wh2_main_trait_lazywh2_main_trait_lone_wolf">
+<antitrait>wh2_main_trait_lone_wolf</antitrait>
+<trait>wh2_main_trait_lazy</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{0b767d27-283c-4ffb-8026-dba1d4b4ac1f}" record_timestamp="1495211478218" record_key="wh2_main_trait_lone_wolfwh2_main_trait_lazy">
+<antitrait>wh2_main_trait_lazy</antitrait>
+<trait>wh2_main_trait_lone_wolf</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{06035a2b-0861-4ae8-b26e-b3bbdf679ad4}" record_timestamp="1499259021150" record_key="wh2_main_trait_routedwh2_main_trait_fighter">
+<antitrait>wh2_main_trait_fighter</antitrait>
+<trait>wh2_main_trait_routed</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{0804d61c-d2db-4fca-8169-891bca1c6c5a}" record_timestamp="1499259021136" record_key="wh2_main_trait_siege_defeatwh2_main_trait_siege_victory">
+<antitrait>wh2_main_trait_siege_victory</antitrait>
+<trait>wh2_main_trait_siege_defeat</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{0923a7b7-278e-4f1a-9c74-f3dd4878f197}" record_timestamp="1494943458235" record_key="wh2_main_trait_siege_victorywh2_main_trait_siege_defeat">
+<antitrait>wh2_main_trait_siege_defeat</antitrait>
+<trait>wh2_main_trait_siege_victory</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{78647df9-e43e-4693-a059-024501adee7b}" record_timestamp="1495211478886" record_key="wh2_main_trait_wins_at_seawh2_main_trait_defeats_at_sea">
+<antitrait>wh2_main_trait_defeats_at_sea</antitrait>
+<trait>wh2_main_trait_wins_at_sea</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{3104d276-5812-4c42-9454-5aefeff8172c}" record_timestamp="1494943458239" record_key="wh2_main_trait_winswh2_main_trait_defeats">
+<antitrait>wh2_main_trait_defeats</antitrait>
+<trait>wh2_main_trait_wins</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{188cd787-f427-4b39-bd5a-823271e5b710}" record_timestamp="1499259021126" record_key="wh_dlc07_trait_brt_lord_bad_attackerwh_dlc07_trait_brt_lord_good_attacker">
+<antitrait>wh_dlc07_trait_brt_lord_good_attacker</antitrait>
+<trait>wh_dlc07_trait_brt_lord_bad_attacker</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{d6ec113d-3885-46a1-9d64-71b539037a11}" record_timestamp="1499259021123" record_key="wh_dlc07_trait_brt_lord_bad_defenderwh_dlc07_trait_brt_lord_good_defender">
+<antitrait>wh_dlc07_trait_brt_lord_good_defender</antitrait>
+<trait>wh_dlc07_trait_brt_lord_bad_defender</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{fd6daa69-9bc5-45d0-b653-66e2cd1cdacc}" record_timestamp="1488558704124" record_key="wh_dlc07_trait_brt_lord_good_attackerwh_dlc07_trait_brt_lord_bad_attacker">
+<antitrait>wh_dlc07_trait_brt_lord_bad_attacker</antitrait>
+<trait>wh_dlc07_trait_brt_lord_good_attacker</trait>
+</trait_to_antitraits>
+<trait_to_antitraits record_uuid="{3e489fe0-a896-47e2-b1dd-3b19beb5352e}" record_timestamp="1488558704126" record_key="wh_dlc07_trait_brt_lord_good_defenderwh_dlc07_trait_brt_lord_bad_defender">
+<antitrait>wh_dlc07_trait_brt_lord_bad_defender</antitrait>
+<trait>wh_dlc07_trait_brt_lord_good_defender</trait>
+</trait_to_antitraits>
+</dataroot>

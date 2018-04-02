@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="25">
+  <entities>
+    <entity id="15890d35fc0086c">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-61.010498 4.79620361 43.954895" rotation="32.0701637 32.0171967 -167.013748" scale="11.2786617 11.2786608 11.2786655"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15890d35fc0086e">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="39.5131836 0 9.84912109" rotation="-15.8161907 215.979996 -168.790604" scale="14.9999952 14.9999933 14.9999962"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15890d35fc0086f">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="120.471191 119.233276 0.448120117" rotation="0.0415421613 50.3946838 -1.00359929" scale="15.0000029 14.999999 14.9999971"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15890d35fc10870">
+      <ECBuilding key="lzd_rockpillar_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-55.8466797 125.727661 14.1730347" rotation="0.0415421613 50.3946838 -1.00359929" scale="15.0000029 14.999999 14.9999971"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="rockpillar_02"/>
+    </entity>
+    <entity id="15890d35fc10873">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="74.6882324 158.845337 -8.19799805" rotation="-7.42341852 184.394669 -1.03357148" scale="8.00000095 9.293293 7.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15890d35fc10874">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-90.7061234 152.901382 28.6676769" rotation="-3.13830781 216.85791 -172.8069" scale="7.99998951 10.597291 8.00000477"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+    <entity id="15890d35fc10876">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.77294922 169.917847 -17.0350952" rotation="72.1259232 -78.2559128 113.498802" scale="9.08201504 11.8798275 9.08201408"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="150950d4c8e9679" name="emp_hero_add_lft_02">
+      <ECBuilding key="emp_hero_add_lft_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.361100912 31.4268417 -3.25537395" rotation="0 0 0" scale="1.69999921 1.70000029 1.69999921"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_02"/>
+    </entity>
+    <entity id="150950d4c8e967a" name="emp_outfield_struc_wall_01_arched">
+      <ECBuilding key="emp_outfield_struc_wall_01_arched" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.383895874 0 0.653649569" rotation="0 90 0" scale="0.299999982 0.300000012 0.299999982"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="outfield_struc_wall_01_arched"/>
+    </entity>
+    <entity id="150950d4c8e967b" name="emp_hero_add_sgn_01">
+      <ECBuilding key="emp_hero_add_sgn_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.674636781 30.4441929 10.7896738" rotation="0 180 0" scale="2.99999785 3 2.99999785"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_sgn_01"/>
+    </entity>
+    <entity id="150950d4c8f967d" name="emp_hero_add_lft_05">
+      <ECBuilding key="emp_hero_add_lft_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.60671711 17.3665371 9.0845871" rotation="0 180 0" scale="0.999998689 1 0.999998689"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_05"/>
+    </entity>
+    <entity id="150a4eb8b47e37e" name="emp_hero_add_lft_03">
+      <ECBuilding key="emp_hero_add_lft_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.42923832 30.8223839 -3.75144863" rotation="0 90 0" scale="0.999999523 1 0.999999523"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150a5218be7fe2a" name="emp_infield_house_02">
+      <ECBuilding key="emp_infield_house_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.588411331 26.2572899 4.03541851" rotation="0 0 0" scale="0.899999976 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150a522d356fe2c" name="emp_hero_add_lft_02">
+      <ECBuilding key="emp_hero_add_lft_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.361100852 31.4268379 6.99139357" rotation="0 180 0" scale="1.69999921 1.70000005 1.69999921"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_02"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

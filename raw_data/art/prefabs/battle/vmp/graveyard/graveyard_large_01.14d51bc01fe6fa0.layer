@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="20">
+  <entities>
+    <entity id="14d51bd4d636fa1" name="wh_main_fire_cast">
+      <ECVFX vfx="wh_main_fire_the_burning_head_target" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-31.7938156 0 -7.01955223" rotation="0 0 0" scale="0.200000003 0.200000003 0.200000003"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d51beb16f6fa2" name="wh_main_fire_cast">
+      <ECVFX vfx="wh_main_fire_the_burning_head_target" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-31.880558 0 -4.09608984" rotation="0 0 0" scale="0.200000003 0.200000003 0.200000003"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d51c19c6e6fa5" name="Point Light 1">
+      <ECPointLight colour="255 228 129 255" colour_scale="0.300000012" radius="5" animation_type="LAT_NONE" animation_speed_scale="4 3" colour_min="1" random_offset="28" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="-30.5255089 2.34239721 -4.58009624" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d51cc2daf6fab" name="wh_main_machine_steam_central">
+      <ECVFX vfx="wh_main_machine_smoke_exhaust" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-27.9153252 0 -26.0298805" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d51ce73006faf" name="wh_main_fire_cast">
+      <ECVFX vfx="wh_main_fire_the_burning_head_target" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-17.9146652 0 -12.4933662" rotation="0 0 0" scale="0.200000003 0.200000003 0.200000003"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14d51cf9cdf6fb2" name="Point Light 2">
+      <ECPointLight colour="128 255 175 255" colour_scale="0.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-3.00791931 5.23191929 -1.05298996" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d51d24e676fb5" name="Point Light 2">
+      <ECPointLight colour="181 255 172 255" colour_scale="0.5" radius="5" animation_type="LAT_NONE" animation_speed_scale="2 4" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="-22.1289063 9.76878452 -21.7153072" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d51d5046e6fb6" name="Point Light 2">
+      <ECPointLight colour="255 130 47 255" colour_scale="0.5" radius="5" animation_type="LAT_NONE" animation_speed_scale="1 1.20000005" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="2.06922483 10.0765572 -16.4143982" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14d51d8b6d36fb7" name="Point Light 2">
+      <ECPointLight colour="172 255 207 255" colour_scale="0.5" radius="10" animation_type="LAT_NONE" animation_speed_scale="0.5 1" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="5.02672195 25.467535 -8.12102413" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

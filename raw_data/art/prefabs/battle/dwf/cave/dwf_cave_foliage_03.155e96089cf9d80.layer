@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="155e96089ce9d78">
+      <ECBuilding key="wh_cave_of_foliage_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.32563639 0 15.3526287" rotation="-8.29432201 171.312149 -4.35472345" scale="2.00000095 2 2.00000072"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_03"/>
+    </entity>
+    <entity id="155e96089ce9d79">
+      <ECBuilding key="wh_cave_of_foliage_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.610107422 0 6.21765137" rotation="-3.09529138 171.388748 -14.4826365" scale="2.00000024 2 2.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_03"/>
+    </entity>
+    <entity id="155e96089ce9d7a">
+      <ECBuilding key="wh_cave_of_foliage_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.162597656 0 -12.753418" rotation="22.7572479 171.925308 4.64686441" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_04"/>
+    </entity>
+    <entity id="155e96089ce9d7b">
+      <ECBuilding key="wh_cave_of_foliage_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.38708496 0 6.94445801" rotation="-3.09529138 171.388748 -14.4826365" scale="2.00000024 2 2.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_05"/>
+    </entity>
+    <entity id="155e96089ce9d7c">
+      <ECBuilding key="wh_cave_of_foliage_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.07617188 0 -3.2722168" rotation="1.89697564 170.824387 349.289124" scale="1.99999905 2 1.99999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_02"/>
+    </entity>
+    <entity id="155e96089cf9d7d">
+      <ECBuilding key="wh_cave_of_foliage_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.83044434 0 -8.21142578" rotation="1.89697564 170.824387 349.289124" scale="1.99999905 2 1.99999905"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_03"/>
+    </entity>
+    <entity id="155e96089cf9d7f">
+      <ECBuilding key="wh_cave_of_foliage_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.83056641 0 -6.69750977" rotation="1.87558353 176.821152 349.090607" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

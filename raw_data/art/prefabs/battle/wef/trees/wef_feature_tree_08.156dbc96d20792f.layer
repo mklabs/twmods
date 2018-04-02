@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="156dbc96d1f7927">
+      <ECBuilding key="wef_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.76489258 1.32436752 -6.25292969" rotation="-0.559206665 -12.6461811 1.47781181" scale="5.3988409 5.39884138 5.39883995"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_01"/>
+    </entity>
+    <entity id="156dbc96d1f7928">
+      <ECVegetation key="trees/wh_oak_tree/wh_oak_tree_c_broken"/>
+      <ECTransform position="5.54783964 1.36198437 -1.65318835" rotation="-1.11409938 221.193436 -359.09845" scale="1.99999964 1.99999988 1.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156dbc96d1f7929">
+      <ECVegetation key="trees/wh_oak_tree/wh_oak_tree_g"/>
+      <ECTransform position="-2.10644531 1.24294269 -7.79662657" rotation="1.007972 227.196289 359.372131" scale="1.99999952 2.00000048 1.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156dbc96d1f792a">
+      <ECVFX vfx="wh_dlc05_campaign_enviro_forest_spirits" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="2.14697266 7.94549942 -5.22290039" rotation="16.3939152 177.236588 269.044312" scale="5.32902002 5.32901907 5.32902145"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156dbc96d1f792c">
+      <ECBuilding key="wef_boulder_group_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.591064453 0 -4.77978516" rotation="-0.818573534 46.7986336 -0.281058341" scale="1.49999988 1.5 1.50000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_group_01"/>
+    </entity>
+    <entity id="156dbc96d1f792d">
+      <ECVegetation key="trees/wh_oak_tree/wh_oak_tree_j"/>
+      <ECTransform position="0.559570253 1.40348053 10.4970703" rotation="4.04380798 -84.7337723 -4.00298262" scale="1.00000024 1 1.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="156dbc96d1f792e">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.45117188 1.23041534 -6.1315918" rotation="-0.718967855 46.7963562 -0.847908914" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="156dbd24ac18ec7">
+      <ECBuilding key="wef_boulder_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.24422789 3.81469727e-006 -12.2368736" rotation="0 131.800003 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_04"/>
+    </entity>
+    <entity id="156dbd2920f8ec8">
+      <ECBuilding key="wef_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.81523132 -1.90734863e-006 3.56257296" rotation="0 227.800003 0" scale="4 4 4"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_01"/>
+    </entity>
+    <entity id="1583e83d7e5fbd6">
+      <ECNoGoRegion/>
+      <ECTransform position="8.8032074 0 9.1618309" rotation="0 0 0" scale="1 1 1"/>
+      <ECTransform2D/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="-14.3001709" y="-1.80527115"/>
+          <point x="-17.376091" y="-19.9645996"/>
+          <point x="-4.64910126" y="-26.7370968"/>
+          <point x="6.91159058" y="-12.3276978"/>
+        </polyline>
+      </ECPolyline>
+    </entity>
+    <entity id="1583e909d48e91e">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_05"/>
+      <ECTransform position="-9.68216515 0 1.70779347" rotation="-1.07328224 252.37941 -359.380035" scale="1.60004699 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e918">
+      <ECVegetation key="trees/wh_wef_shrub/wef_garlic_01"/>
+      <ECTransform position="-10.7905598 0 7.40724659" rotation="0.489152104 48.3812904 -0.0373147503" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e91c">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_01"/>
+      <ECTransform position="4.11275673 0 -0.191810608" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d48e91f">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-2.96963835 0 13.1003008" rotation="-0.757864118 115.38427 -1.08770764" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e912">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_04"/>
+      <ECTransform position="0.585591793 0 9.11447334" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e915">
+      <ECVegetation key="trees/wh_wef_shrub/wef_tallbush_02"/>
+      <ECTransform position="-1.43825769 0 -5.85234451" rotation="-0.757864118 115.38427 -1.08770764" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e916">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_03"/>
+      <ECTransform position="5.99453402 0 9.7286644" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e91a">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_02"/>
+      <ECTransform position="-9.60602951 0 11.0269289" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e90f">
+      <ECVegetation key="trees/wh_wef_shrub/wef_garlic_01"/>
+      <ECTransform position="6.25363731 0 4.08234406" rotation="-1.07328224 252.37941 -359.380035" scale="1.60004699 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e914">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="13.6483345 0 -6.37995434" rotation="0.678270757 61.3806229 0.192407295" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d48e91d">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_04"/>
+      <ECTransform position="7.40610695 0 -6.87220955" rotation="-1.07328224 252.37941 -359.380035" scale="1.60004699 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e919">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_01"/>
+      <ECTransform position="-6.53712225 0 -3.24039698" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e90e">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="14.6795712 0 7.17974281" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e913">
+      <ECVegetation key="trees/wh_wef_shrub/wef_tallbush_01"/>
+      <ECTransform position="-5.01500845 0 6.59932232" rotation="-0.757864118 115.38427 -1.08770764" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e911">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_01"/>
+      <ECTransform position="10.2140884 0 -0.709031582" rotation="-0.330294281 190.382141 -0.343476534" scale="1.60004747 1.6000483 1.60004699"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e910">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="0.393964291 0 1.32986534" rotation="-1.30772161 104.38591 -1.66973531" scale="1.60004711 1.6000483 1.60004747"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e917">
+      <ECVegetation key="trees/wh_wef_shrub/wef_tallbush_01"/>
+      <ECTransform position="4.27556944 0 15.4950113" rotation="-0.757864118 115.38427 -1.08770764" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d47e91b">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_03"/>
+      <ECTransform position="10.739151 0 11.8803234" rotation="-0.757864118 115.38427 -1.08770764" scale="1.60004711 1.6000483 1.60004735"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be946">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_01"/>
+      <ECTransform position="-3.82770085 0 -8.80381584" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be940">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_03"/>
+      <ECTransform position="-8.97561073 0 -14.3576202" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be93b">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_01"/>
+      <ECTransform position="-7.49872541 0 -6.04457188" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be949">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-4.62254858 0 -20.0710297" rotation="0.54269582 -32.5311203 -0.533934236" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be947">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_04"/>
+      <ECTransform position="-3.25910091 0 -3.24712229" rotation="-1.83080482 104.474747 -2.01482368" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be93e">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-7.42181492 0 -1.07316875" rotation="7.52109051 -86.5022202 -7.74933052" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be948">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_05"/>
+      <ECTransform position="4.18147945 0 -15.5063362" rotation="-1.83080482 104.474747 -2.01482368" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be943">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_01"/>
+      <ECTransform position="4.15424061 0 -11.1093664" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be945">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_03"/>
+      <ECTransform position="-12.8477478 0 -13.8346558" rotation="0.54269582 -32.5311203 -0.533934236" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be941">
+      <ECVegetation key="trees/wh_wef_shrub/wef_tallbush_01"/>
+      <ECTransform position="-10.1805077 0 -18.7063332" rotation="0.54269582 -32.5311203 -0.533934236" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be944">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_02"/>
+      <ECTransform position="0.42052269 0 -21.3973675" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be938">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-13.4790516 0 -9.2781601" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be942">
+      <ECVegetation key="trees/wh_wef_shrub/wef_garlic_01"/>
+      <ECTransform position="2.61524773 0 -19.569313" rotation="-2.76081705 260.456848 -357.519409" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be93c">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_04"/>
+      <ECTransform position="-5.29382896 0 -16.1221352" rotation="0.620255589 42.4660339 0.176687166" scale="1.19999993 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be939">
+      <ECVegetation key="trees/wh_wef_shrub/wef_garlic_01"/>
+      <ECTransform position="-6.89086437 0 -10.6667385" rotation="-1.83080482 104.474747 -2.01482368" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be93d">
+      <ECVegetation key="trees/wh_wef_shrub/wef_tallbush_01"/>
+      <ECTransform position="-0.732950211 0 -16.7551384" rotation="0.54269582 -32.5311203 -0.533934236" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be93f">
+      <ECVegetation key="trees/wh_wef_shrub/wef_tallbush_02"/>
+      <ECTransform position="1.95473242 0 -7.41849232" rotation="0.54269582 -32.5311203 -0.533934236" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1583e909d4be93a">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-2.07081175 0 -11.2521496" rotation="0.631095767 -43.5305443 -0.676760077" scale="1.19999981 1.19999957 1.19999981"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

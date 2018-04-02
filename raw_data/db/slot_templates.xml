@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="slot_templates.xsd" export_time="Fri Dec 1 15:14:32 2017" revision="83" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>02eb529a-da3b-461d-85ad-f111a1f98525</edit_uuid>
+<slot_templates record_uuid="{7a94dd3e-4fae-4bd0-b457-2886a57777a0}" record_timestamp="1430930279232" record_key="horde_primary">
+<key>horde_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{b7ab79ef-aea5-4273-9b37-31f3202c4b9c}" record_timestamp="1430930279327" record_key="horde_secondary">
+<key>horde_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{81977ea2-84cf-452e-a0ea-4516e8e95bfa}" record_timestamp="1507820114560" record_key="wh2_dlc09_special_bhagar_primary">
+<key>wh2_dlc09_special_bhagar_primary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{8540b052-1a14-4126-a1f3-fd713edd3486}" record_timestamp="1506949680101" record_key="wh2_dlc09_special_bhagar_secondary">
+<key>wh2_dlc09_special_bhagar_secondary</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{8d2f25d4-3504-406b-bf34-637f75857324}" record_timestamp="1507820114524" record_key="wh2_dlc09_special_black_tower_of_arkhan_secondary">
+<key>wh2_dlc09_special_black_tower_of_arkhan_secondary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{698a853b-a734-4c0f-ac2a-a719dcd23bdc}" record_timestamp="1507820115160" record_key="wh2_dlc09_special_ka_sabar_primary">
+<key>wh2_dlc09_special_ka_sabar_primary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{e3a917b9-1c30-4a83-b99a-d8b1e65c691d}" record_timestamp="1506949680070" record_key="wh2_dlc09_special_ka_sabar_secondary">
+<key>wh2_dlc09_special_ka_sabar_secondary</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{fcd99ac4-92fa-48e1-b718-a3ea44840aef}" record_timestamp="1507820114569" record_key="wh2_dlc09_special_numas_primary">
+<key>wh2_dlc09_special_numas_primary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{ebccef27-df95-4385-bb94-bb333a635764}" record_timestamp="1507820114533" record_key="wh2_dlc09_special_numas_secondary">
+<key>wh2_dlc09_special_numas_secondary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{5d522314-cd51-4547-93d7-cc7b42c7bbbe}" record_timestamp="1507820114550" record_key="wh2_dlc09_special_quatar_primary">
+<key>wh2_dlc09_special_quatar_primary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{c73ad4c7-2dcb-4e24-bcf0-a90dc3c602f1}" record_timestamp="1507820114541" record_key="wh2_dlc09_special_quatar_secondary">
+<key>wh2_dlc09_special_quatar_secondary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{c258e1b3-f1cd-477b-9462-980728f3db29}" record_timestamp="1510139566080" record_key="wh2_dlc09_special_zandri_primary">
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_special_zandri_primary</key>
+<resource>res_location_tmb</resource>
+</slot_templates>
+<slot_templates record_uuid="{db41333e-e15a-4a25-8ac8-066baf57c664}" record_timestamp="1506949680158" record_key="wh2_dlc09_special_zandri_secondary">
+<key>wh2_dlc09_special_zandri_secondary</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{55676535-e129-4b0f-992c-bcdbbaf0ac61}" record_timestamp="1468315812211" record_key="wh2_main_human_major_secondary_amber">
+<key>wh2_main_human_major_secondary_amber</key>
+<resource>res_amber</resource>
+</slot_templates>
+<slot_templates record_uuid="{a9e0624a-bf7c-4868-b9ca-95e2d984b495}" record_timestamp="1467215379879" record_key="wh2_main_human_major_secondary_animals">
+<key>wh2_main_human_major_secondary_animals</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{409fb265-c55a-4f52-8699-7457debf04a9}" record_timestamp="1476186530856" record_key="wh2_main_human_major_secondary_beer">
+<key>wh2_main_human_major_secondary_beer</key>
+<resource>res_rom_glass</resource>
+</slot_templates>
+<slot_templates record_uuid="{9634a86c-889e-440d-a873-676847a7fb61}" record_timestamp="1467281464910" record_key="wh2_main_human_major_secondary_gems">
+<key>wh2_main_human_major_secondary_gems</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{d848758e-f3df-4778-98ba-f2235984fafc}" record_timestamp="1467215461978" record_key="wh2_main_human_major_secondary_medicine">
+<key>wh2_main_human_major_secondary_medicine</key>
+<resource>res_medicine</resource>
+</slot_templates>
+<slot_templates record_uuid="{70337745-5109-49af-bf3f-69baf3cb07d3}" record_timestamp="1467215379904" record_key="wh2_main_human_major_secondary_obsidian">
+<key>wh2_main_human_major_secondary_obsidian</key>
+<resource>res_obsidian</resource>
+</slot_templates>
+<slot_templates record_uuid="{15002011-3a57-44f6-b148-528999a752a1}" record_timestamp="1467215379890" record_key="wh2_main_human_major_secondary_spices">
+<key>wh2_main_human_major_secondary_spices</key>
+<resource>res_spices</resource>
+</slot_templates>
+<slot_templates record_uuid="{a24eeccd-095d-40bf-b700-84127778f3c6}" record_timestamp="1468315812206" record_key="wh2_main_human_minor_secondary_amber">
+<key>wh2_main_human_minor_secondary_amber</key>
+<resource>res_amber</resource>
+</slot_templates>
+<slot_templates record_uuid="{ceb325ba-ddf9-43e6-ae6a-70f87ddefef3}" record_timestamp="1467215379884" record_key="wh2_main_human_minor_secondary_animals">
+<key>wh2_main_human_minor_secondary_animals</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{785fa415-80df-4fc5-80f3-c7d5cd9b56dd}" record_timestamp="1476186530942" record_key="wh2_main_human_minor_secondary_beer">
+<key>wh2_main_human_minor_secondary_beer</key>
+<resource>res_rom_glass</resource>
+</slot_templates>
+<slot_templates record_uuid="{8a280264-0ca6-43b1-9950-b9bcb5ff4719}" record_timestamp="1467281464830" record_key="wh2_main_human_minor_secondary_gems">
+<key>wh2_main_human_minor_secondary_gems</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{dca0b8a3-dd58-4e16-b0aa-0cd86e59a647}" record_timestamp="1467215461993" record_key="wh2_main_human_minor_secondary_medicine">
+<key>wh2_main_human_minor_secondary_medicine</key>
+<resource>res_medicine</resource>
+</slot_templates>
+<slot_templates record_uuid="{2d3231cb-02f4-4cbc-af1a-545c7910f998}" record_timestamp="1467215379910" record_key="wh2_main_human_minor_secondary_obsidian">
+<key>wh2_main_human_minor_secondary_obsidian</key>
+<resource>res_obsidian</resource>
+</slot_templates>
+<slot_templates record_uuid="{1116b40a-c2ca-42f4-9f89-119ef3f8c951}" record_timestamp="1467215379897" record_key="wh2_main_human_minor_secondary_spices">
+<key>wh2_main_human_minor_secondary_spices</key>
+<resource>res_spices</resource>
+</slot_templates>
+<slot_templates record_uuid="{220d9b38-055e-4953-a8b5-14c57d997360}" record_timestamp="1496137105672" record_key="wh2_main_special_altar_of_the_horned_rat_primary_ritual">
+<key>wh2_main_special_altar_of_the_horned_rat_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{8bab7b34-cbab-465b-ba17-4f6f9cd76d07}" record_timestamp="1494612154532" record_key="wh2_main_special_altar_of_the_horned_rat_secondary_ritual">
+<key>wh2_main_special_altar_of_the_horned_rat_secondary_ritual</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{383c4b30-1402-4243-98c8-7610ad28c410}" record_timestamp="1493820396076" record_key="wh2_main_special_altar_of_ultimate_darkness_primary">
+<key>wh2_main_special_altar_of_ultimate_darkness_primary</key>
+<resource>res_location_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{7fe1e4aa-563a-4a1d-8954-f20947adf04d}" record_timestamp="1493820396051" record_key="wh2_main_special_altar_of_ultimate_darkness_primary_major">
+<key>wh2_main_special_altar_of_ultimate_darkness_primary_major</key>
+<resource>res_location_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{93b78b77-89ed-422d-adef-57842b3c75e7}" record_timestamp="1496137105770" record_key="wh2_main_special_altar_of_ultimate_darkness_primary_ritual">
+<key>wh2_main_special_altar_of_ultimate_darkness_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{e7cd6a9d-6a9a-44bd-86df-7f22deef0ef6}" record_timestamp="1475770836500" record_key="wh2_main_special_altar_of_ultimate_darkness_secondary">
+<key>wh2_main_special_altar_of_ultimate_darkness_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{cbd06bc4-5442-49c6-a81f-0ee99eae3967}" record_timestamp="1492006965173" record_key="wh2_main_special_altar_of_ultimate_darkness_secondary_major">
+<key>wh2_main_special_altar_of_ultimate_darkness_secondary_major</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{013af9a0-5393-40b1-9a2f-e885c738db4f}" record_timestamp="1493820396026" record_key="wh2_main_special_altar_of_ultimate_darkness_secondary_ritual">
+<key>wh2_main_special_altar_of_ultimate_darkness_secondary_ritual</key>
+<resource>res_location_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{650a3ce8-6962-4b09-8f7a-fbb8de28251c}" record_timestamp="1476177142119" record_key="wh2_main_special_axlotl_minor_primary">
+<key>wh2_main_special_axlotl_minor_primary</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{ed4653ac-fabb-4299-99a0-ce8a9731c3c2}" record_timestamp="1476177142131" record_key="wh2_main_special_axlotl_minor_secondary">
+<key>wh2_main_special_axlotl_minor_secondary</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{8c11a1a3-f1ef-4827-9fd7-57f2961a512a}" record_timestamp="1475858971863" record_key="wh2_main_special_axlotl_primary">
+<key>wh2_main_special_axlotl_primary</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{05077d41-e151-45cb-9a5d-ebd59f6f59d0}" record_timestamp="1475858260799" record_key="wh2_main_special_axlotl_secondary">
+<key>wh2_main_special_axlotl_secondary</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{6594e453-68d5-416d-b965-936619e440c9}" record_timestamp="1496137105572" record_key="wh2_main_special_caverns_of_sotek_primary_ritual">
+<key>wh2_main_special_caverns_of_sotek_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{f416b86b-9b4c-4e52-9903-bc8fb68e77b0}" record_timestamp="1494611969050" record_key="wh2_main_special_caverns_of_sotek_secondary_ritual">
+<key>wh2_main_special_caverns_of_sotek_secondary_ritual</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{2e8c4634-860b-4dd8-bbf7-b984fd927730}" record_timestamp="1475858260762" record_key="wh2_main_special_chamber_of_visions_primary">
+<key>wh2_main_special_chamber_of_visions_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{b231d5df-a3cf-450d-8094-34cc7f7bed0c}" record_timestamp="1496137105810" record_key="wh2_main_special_chamber_of_visions_primary_ritual">
+<key>wh2_main_special_chamber_of_visions_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{440e2b70-f892-4be8-9fa8-d0371973484f}" record_timestamp="1475858260799" record_key="wh2_main_special_chamber_of_visions_secondary">
+<key>wh2_main_special_chamber_of_visions_secondary</key>
+<resource>res_medicine</resource>
+</slot_templates>
+<slot_templates record_uuid="{947e3884-5335-4074-bbbd-291bdda4eadd}" record_timestamp="1494412774496" record_key="wh2_main_special_chamber_of_visions_secondary_ritual">
+<key>wh2_main_special_chamber_of_visions_secondary_ritual</key>
+<resource>res_medicine</resource>
+</slot_templates>
+<slot_templates record_uuid="{372ab929-39b8-4fb7-91c6-d0fc0798ab80}" record_timestamp="1475833511953" record_key="wh2_main_special_clar_karond_primary">
+<key>wh2_main_special_clar_karond_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{c3bc991b-772a-478e-8430-ada936e83b2e}" record_timestamp="1475770838385" record_key="wh2_main_special_clar_karond_secondary">
+<key>wh2_main_special_clar_karond_secondary</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{25aa44fc-0b00-4fa8-99c7-c8fb4be4e612}" record_timestamp="1496836350719" record_key="wh2_main_special_clarak_spire_primary">
+<key>wh2_main_special_clarak_spire_primary</key>
+<resource>res_location_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{db0665be-0795-4fc7-a8ca-03b2e9d0bbc6}" record_timestamp="1496836350755" record_key="wh2_main_special_clarak_spire_secondary">
+<key>wh2_main_special_clarak_spire_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{cb065e8a-5a9c-4773-8a8e-7b8c78d4e7b2}" record_timestamp="1475833511953" record_key="wh2_main_special_def_vauls_anvil_primary">
+<key>wh2_main_special_def_vauls_anvil_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{97d8cbb7-cc5a-466a-a653-6ad129182120}" record_timestamp="1496137105591" record_key="wh2_main_special_def_vauls_anvil_primary_ritual">
+<key>wh2_main_special_def_vauls_anvil_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{2e9f493f-4221-4cda-824a-4cb51420477d}" record_timestamp="1475770836617" record_key="wh2_main_special_def_vauls_anvil_secondary">
+<key>wh2_main_special_def_vauls_anvil_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{39e45722-d059-4b6e-a77d-ceddc9dfbc13}" record_timestamp="1493218339580" record_key="wh2_main_special_def_vauls_anvil_secondary_ritual">
+<key>wh2_main_special_def_vauls_anvil_secondary_ritual</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{60529d06-c3a8-4a25-b156-4d08955e8ec6}" record_timestamp="1491233432285" record_key="wh2_main_special_elven_colony_major_primary">
+<key>wh2_main_special_elven_colony_major_primary</key>
+<resource>res_location_colony</resource>
+</slot_templates>
+<slot_templates record_uuid="{f0d708f2-e29c-4d8a-b9cc-c6febfa1275c}" record_timestamp="1491233432308" record_key="wh2_main_special_elven_colony_minor_primary">
+<key>wh2_main_special_elven_colony_minor_primary</key>
+<resource>res_location_colony</resource>
+</slot_templates>
+<slot_templates record_uuid="{7d8df6fc-41ad-4f71-9f44-cca10d86ab41}" record_timestamp="1496848758333" record_key="wh2_main_special_fallen_gates_primary">
+<key>wh2_main_special_fallen_gates_primary</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{245f1433-e5b4-4402-ae2a-109f685efaa9}" record_timestamp="1496848758368" record_key="wh2_main_special_fallen_gates_secondary">
+<key>wh2_main_special_fallen_gates_secondary</key>
+<resource>res_spices</resource>
+</slot_templates>
+<slot_templates record_uuid="{b176c1b2-a07f-4736-9999-7f4b7f84177f}" record_timestamp="1484930508424" record_key="wh2_main_special_fortress_gate_eagle_primary">
+<key>wh2_main_special_fortress_gate_eagle_primary</key>
+<resource>res_fortress</resource>
+</slot_templates>
+<slot_templates record_uuid="{36100016-962e-4a07-9221-dc35241b837b}" record_timestamp="1484930508340" record_key="wh2_main_special_fortress_gate_griffon_primary">
+<key>wh2_main_special_fortress_gate_griffon_primary</key>
+<resource>res_fortress</resource>
+</slot_templates>
+<slot_templates record_uuid="{268e16de-0d8b-409f-8696-8c3994e09319}" record_timestamp="1484930508382" record_key="wh2_main_special_fortress_gate_phoenix_primary">
+<key>wh2_main_special_fortress_gate_phoenix_primary</key>
+<resource>res_fortress</resource>
+</slot_templates>
+<slot_templates record_uuid="{a769ea0b-31d6-453c-b599-3a360c6c8081}" record_timestamp="1484246509306" record_key="wh2_main_special_fortress_gate_secondary">
+<key>wh2_main_special_fortress_gate_secondary</key>
+<resource>res_fortress</resource>
+</slot_templates>
+<slot_templates record_uuid="{7c69b783-db9a-4261-8342-5e76fcdc7001}" record_timestamp="1484930508297" record_key="wh2_main_special_fortress_gate_unicorn_primary">
+<key>wh2_main_special_fortress_gate_unicorn_primary</key>
+<resource>res_fortress</resource>
+</slot_templates>
+<slot_templates record_uuid="{5d2b74bb-66d8-44ab-8b25-3b08d4bcb904}" record_timestamp="1475833511953" record_key="wh2_main_special_gaean_vale_primary">
+<key>wh2_main_special_gaean_vale_primary</key>
+<resource>res_location_hef_wef</resource>
+</slot_templates>
+<slot_templates record_uuid="{2061a6c6-8999-411b-97da-db1323cdc8e7}" record_timestamp="1475599015023" record_key="wh2_main_special_gaean_vale_secondary">
+<key>wh2_main_special_gaean_vale_secondary</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{a7a61b23-5cdf-4bc2-b6bf-7b0de6001534}" record_timestamp="1512067583172" record_key="wh2_main_special_galbaraz_primary">
+<key>wh2_main_special_galbaraz_primary</key>
+<resource>res_location_vmp_dwf_grn_skv_arkhan</resource>
+</slot_templates>
+<slot_templates record_uuid="{f49276ba-aedf-43a5-89da-3a1e6c22ae98}" record_timestamp="1512067583203" record_key="wh2_main_special_galbaraz_secondary">
+<key>wh2_main_special_galbaraz_secondary</key>
+<resource>res_savage</resource>
+</slot_templates>
+<slot_templates record_uuid="{5dc92ff0-3b9a-4a8c-9bd6-e1d20e822081}" record_timestamp="1475833511952" record_key="wh2_main_special_ghrond_primary">
+<key>wh2_main_special_ghrond_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{8d9f0532-3f5f-408a-8de5-5909a4ac9197}" record_timestamp="1496137105535" record_key="wh2_main_special_ghrond_primary_ritual">
+<key>wh2_main_special_ghrond_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{8f8c2881-b0f0-411a-9f30-53242cb1c0b7}" record_timestamp="1475770838323" record_key="wh2_main_special_ghrond_secondary">
+<key>wh2_main_special_ghrond_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{6d54be4c-25bc-419a-987d-f55466ace32e}" record_timestamp="1494611718142" record_key="wh2_main_special_ghrond_secondary_ritual">
+<key>wh2_main_special_ghrond_secondary_ritual</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{45e63ed5-37e6-4760-8315-2096f9a3740b}" record_timestamp="1475833511953" record_key="wh2_main_special_glittering_tower_primary">
+<key>wh2_main_special_glittering_tower_primary</key>
+<resource>res_location_hef</resource>
+</slot_templates>
+<slot_templates record_uuid="{8bb53c24-922f-4ceb-9c82-8a9e3536a21f}" record_timestamp="1475599015023" record_key="wh2_main_special_glittering_tower_secondary">
+<key>wh2_main_special_glittering_tower_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{2be74723-f497-45b7-ab30-bcf3d9d8306e}" record_timestamp="1496137105692" record_key="wh2_main_special_golden_colossus_primary_ritual">
+<key>wh2_main_special_golden_colossus_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{e3b558bd-9a06-4e3c-9719-346ecbb37caf}" record_timestamp="1493218339423" record_key="wh2_main_special_golden_colossus_secondary_ritual">
+<key>wh2_main_special_golden_colossus_secondary_ritual</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{a514d277-650b-4604-9f85-41cd492481d0}" record_timestamp="1497971487334" record_key="wh2_main_special_golden_tower_of_the_gods_primary">
+<key>wh2_main_special_golden_tower_of_the_gods_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{d1f3d9a7-ac20-4cad-8225-cd605478edd0}" record_timestamp="1497971488530" record_key="wh2_main_special_golden_tower_of_the_gods_primary_ritual">
+<key>wh2_main_special_golden_tower_of_the_gods_primary_ritual</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{cbeef9dc-4d34-4a08-94b1-e8aa99415d17}" record_timestamp="1497971488466" record_key="wh2_main_special_golden_tower_of_the_gods_secondary">
+<key>wh2_main_special_golden_tower_of_the_gods_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{a880c201-b5a4-44a6-91fd-c38649b75fa9}" record_timestamp="1497971488498" record_key="wh2_main_special_golden_tower_of_the_gods_secondary_ritual">
+<key>wh2_main_special_golden_tower_of_the_gods_secondary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{4653ddbd-a9b0-4c99-84d6-7e4eb8dfae43}" record_timestamp="1509531725764" record_key="wh2_main_special_gor_gazan_primary">
+<key>wh2_main_special_gor_gazan_primary</key>
+<resource>res_savage</resource>
+</slot_templates>
+<slot_templates record_uuid="{0bbc4aa0-d2f3-4011-91da-f7b2e43b2827}" record_timestamp="1509531725776" record_key="wh2_main_special_gor_gazan_secondary">
+<key>wh2_main_special_gor_gazan_secondary</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{2f7b8c40-b8ca-4c19-9836-5a7131792851}" record_timestamp="1475833511953" record_key="wh2_main_special_hag_graef_primary">
+<key>wh2_main_special_hag_graef_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{f93f1862-9e5c-43e6-bd4f-5cdc0403c8fc}" record_timestamp="1475770836444" record_key="wh2_main_special_hag_graef_secondary">
+<key>wh2_main_special_hag_graef_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{1e3934e6-1ba2-4d62-827e-0c3c633e6740}" record_timestamp="1475833511953" record_key="wh2_main_special_har_ganeth_primary">
+<key>wh2_main_special_har_ganeth_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{21b8dd11-4150-420c-8845-f960282b1e97}" record_timestamp="1475770836852" record_key="wh2_main_special_har_ganeth_secondary">
+<key>wh2_main_special_har_ganeth_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{eec527f0-cc04-4948-aad2-ec0bed76c03c}" record_timestamp="1475833511953" record_key="wh2_main_special_hef_vauls_anvil_primary">
+<key>wh2_main_special_hef_vauls_anvil_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{da5e8491-6176-4d02-9fb2-cfb937a223e3}" record_timestamp="1496137105731" record_key="wh2_main_special_hef_vauls_anvil_primary_ritual">
+<key>wh2_main_special_hef_vauls_anvil_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{f7c4ce61-7fbf-45c7-95a4-776a701e3a12}" record_timestamp="1475770860555" record_key="wh2_main_special_hef_vauls_anvil_secondary">
+<key>wh2_main_special_hef_vauls_anvil_secondary</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{9a011dfb-9fcd-4e9f-be50-1fd1b2893377}" record_timestamp="1493218339611" record_key="wh2_main_special_hef_vauls_anvil_secondary_ritual">
+<key>wh2_main_special_hef_vauls_anvil_secondary_ritual</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{18b9a3de-4590-48c2-8e7f-8df5a044b1de}" record_timestamp="1486571621663" record_key="wh2_main_special_hellpit_primary">
+<key>wh2_main_special_hellpit_primary</key>
+<resource>res_location_skv</resource>
+</slot_templates>
+<slot_templates record_uuid="{caf5ae00-fe87-4200-84d3-b5fc5d697c03}" record_timestamp="1486572750058" record_key="wh2_main_special_hellpit_secondary">
+<key>wh2_main_special_hellpit_secondary</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{5c57c89c-ad8c-4008-94d4-00651285dc05}" record_timestamp="1475858260762" record_key="wh2_main_special_hexoatl_primary">
+<key>wh2_main_special_hexoatl_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{635e6f35-cb19-4f68-b49a-858ed0d877bb}" record_timestamp="1475858260799" record_key="wh2_main_special_hexoatl_secondary">
+<key>wh2_main_special_hexoatl_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{010b451f-f05f-492d-9e36-6a82eaa7e287}" record_timestamp="1475858260762" record_key="wh2_main_special_itza_primary">
+<key>wh2_main_special_itza_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{d8025a1a-ba6b-415b-a532-a58472c10999}" record_timestamp="1475858260799" record_key="wh2_main_special_itza_secondary">
+<key>wh2_main_special_itza_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{33bd002b-cc90-4882-b1d5-2fbaa8edf8b5}" record_timestamp="1496404219804" record_key="wh2_main_special_karag_orrud_primary">
+<key>wh2_main_special_karag_orrud_primary</key>
+<resource>res_location_skv</resource>
+</slot_templates>
+<slot_templates record_uuid="{855506bf-ddad-4cdd-a91c-468cbce54d6b}" record_timestamp="1496404219804" record_key="wh2_main_special_karag_orrud_secondary">
+<key>wh2_main_special_karag_orrud_secondary</key>
+<resource>res_obsidian</resource>
+</slot_templates>
+<slot_templates record_uuid="{1e941cc6-02cc-4dc5-aa82-057ad91720b1}" record_timestamp="1475833511953" record_key="wh2_main_special_karond_kar_primary">
+<key>wh2_main_special_karond_kar_primary</key>
+<resource>res_location_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{e2cd1d1a-dc19-4462-b5a9-335f01e84289}" record_timestamp="1475770836909" record_key="wh2_main_special_karond_kar_secondary">
+<key>wh2_main_special_karond_kar_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{f05de2d5-de1f-4f53-bbb3-5809732c3e26}" record_timestamp="1488881778781" record_key="wh2_main_special_khemri_primary">
+<key>wh2_main_special_khemri_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{9543c07c-b93e-4880-a324-e91606bfa0cf}" record_timestamp="1488881778781" record_key="wh2_main_special_khemri_secondary">
+<key>wh2_main_special_khemri_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{261985c0-6418-4f53-96a7-a77b4fbe672c}" record_timestamp="1488881781082" record_key="wh2_main_special_lahmia_primary">
+<key>wh2_main_special_lahmia_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{b3b23289-cf5e-497b-a18c-da6adcfd3416}" record_timestamp="1488881781082" record_key="wh2_main_special_lahmia_secondary">
+<key>wh2_main_special_lahmia_secondary</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{3fba5ade-352c-48d0-a5e3-eef9553e4e4c}" record_timestamp="1475599015023" record_key="wh2_main_special_lothern_port">
+<key>wh2_main_special_lothern_port</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{7f7be763-ee6c-434e-9d5f-9b486e98efcf}" record_timestamp="1475833511952" record_key="wh2_main_special_lothern_primary">
+<key>wh2_main_special_lothern_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{92330e28-491d-42c1-9d1a-e4dadd8a60c1}" record_timestamp="1475599015023" record_key="wh2_main_special_lothern_secondary">
+<key>wh2_main_special_lothern_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{99ee6209-5a9d-415a-9ef9-16425dbfa69e}" record_timestamp="1496137105554" record_key="wh2_main_special_marks_of_the_old_ones_primary_ritual">
+<key>wh2_main_special_marks_of_the_old_ones_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{6c8f3665-70b6-4f0a-860f-4ab7009d65d2}" record_timestamp="1493218339392" record_key="wh2_main_special_marks_of_the_old_ones_secondary_ritual">
+<key>wh2_main_special_marks_of_the_old_ones_secondary_ritual</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{9bcf7c10-93c7-475b-aa61-d7e752b9ad54}" record_timestamp="1496137105750" record_key="wh2_main_special_mirror_pool_of_tepok_primary_ritual">
+<key>wh2_main_special_mirror_pool_of_tepok_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{858a7350-0e6c-4d1b-9acf-755484515689}" record_timestamp="1493218339517" record_key="wh2_main_special_mirror_pool_of_tepok_secondary_ritual">
+<key>wh2_main_special_mirror_pool_of_tepok_secondary_ritual</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{008a29c0-4cf5-4646-a385-b1e50318eb38}" record_timestamp="1494499227354" record_key="wh2_main_special_mousillon_primary">
+<key>wh2_main_special_mousillon_primary</key>
+<resource>res_location_vmp</resource>
+</slot_templates>
+<slot_templates record_uuid="{5365171e-5c47-42c6-8d3f-a61f648e5007}" record_timestamp="1494499227340" record_key="wh2_main_special_mousillon_secondary">
+<key>wh2_main_special_mousillon_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{b9ab8fdf-d39f-4641-8572-e0cad2aa5e79}" record_timestamp="1493820396149" record_key="wh2_main_special_naggarond_primary">
+<key>wh2_main_special_naggarond_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{aec9eb73-8df6-47b3-ac23-7426b51f3948}" record_timestamp="1475770838260" record_key="wh2_main_special_naggarond_secondary">
+<key>wh2_main_special_naggarond_secondary</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{a71371ea-45f8-46cd-8c93-de5b8445580f}" record_timestamp="1496404269638" record_key="wh2_main_special_oyxl_minor_primary">
+<key>wh2_main_special_oyxl_minor_primary</key>
+<resource>res_location_skv_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{2fef9ab5-3889-4046-8638-a207747af53b}" record_timestamp="1476177142148" record_key="wh2_main_special_oyxl_minor_secondary">
+<key>wh2_main_special_oyxl_minor_secondary</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{10a974ea-4dfd-4e98-a0d8-fef7f44ac817}" record_timestamp="1496404269604" record_key="wh2_main_special_oyxl_primary">
+<key>wh2_main_special_oyxl_primary</key>
+<resource>res_location_skv_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{c6cadf95-310e-40ac-bbd0-00f2252ba40b}" record_timestamp="1475858260799" record_key="wh2_main_special_oyxl_secondary">
+<key>wh2_main_special_oyxl_secondary</key>
+<resource>res_animals</resource>
+</slot_templates>
+<slot_templates record_uuid="{266c7f46-fdfd-46ae-9ed3-c42f10447861}" record_timestamp="1511984784002" record_key="wh2_main_special_parravon_primary">
+<key>wh2_main_special_parravon_primary</key>
+<resource>res_location_brt_wef_hef</resource>
+</slot_templates>
+<slot_templates record_uuid="{4ad6bd93-81e1-4ac0-a699-1589a2294856}" record_timestamp="1511984783962" record_key="wh2_main_special_parravon_secondary">
+<key>wh2_main_special_parravon_secondary</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{62805f7d-69dd-42f3-a7a8-7222287906e5}" record_timestamp="1494510147097" record_key="wh2_main_special_pyramid_of_nagash_primary">
+<key>wh2_main_special_pyramid_of_nagash_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{b9d1e127-b07e-4da3-93e1-263c340fa929}" record_timestamp="1494510147068" record_key="wh2_main_special_pyramid_of_nagash_primary_ritual">
+<key>wh2_main_special_pyramid_of_nagash_primary_ritual</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{4b4b3d34-e6ac-46c6-bbd8-4424147bc4b0}" record_timestamp="1494510147125" record_key="wh2_main_special_pyramid_of_nagash_secondary">
+<key>wh2_main_special_pyramid_of_nagash_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{ab4b332d-531a-4e88-b6bb-90fd4f87213a}" record_timestamp="1496137105652" record_key="wh2_main_special_pyramid_of_nagash_secondary_ritual">
+<key>wh2_main_special_pyramid_of_nagash_secondary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{fa81bf25-aa8c-4d6e-9a08-71358d179f7b}" record_timestamp="1475858971811" record_key="wh2_main_special_quetza_primary">
+<key>wh2_main_special_quetza_primary</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{c5153bf1-5a77-4f8f-8e10-9939b3eedb8b}" record_timestamp="1475858260762" record_key="wh2_main_special_quetza_secondary">
+<key>wh2_main_special_quetza_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{635ead82-8175-4fac-8fe0-c415bd808655}" record_timestamp="1475833511952" record_key="wh2_main_special_quintex_primary">
+<key>wh2_main_special_quintex_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{d085d5f4-04f7-4efe-a128-52ce32ae81b6}" record_timestamp="1475770838447" record_key="wh2_main_special_quintex_secondary">
+<key>wh2_main_special_quintex_secondary</key>
+<resource>res_obsidian</resource>
+</slot_templates>
+<slot_templates record_uuid="{ce7245cf-d3ef-49d6-8942-dd5aacada8d7}" record_timestamp="1512067583114" record_key="wh2_main_special_salzenmund_primary">
+<key>wh2_main_special_salzenmund_primary</key>
+<resource>res_location_xef_emp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{51c6b85d-3195-4ffe-aed4-bde99c99201c}" record_timestamp="1512067583143" record_key="wh2_main_special_salzenmund_secondary">
+<key>wh2_main_special_salzenmund_secondary</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{11ee5e8d-72ce-4911-b89e-d829cc2e2832}" record_timestamp="1493820396174" record_key="wh2_main_special_shrine_of_asuryan_primary">
+<key>wh2_main_special_shrine_of_asuryan_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{71b4cc88-2209-4c73-829a-2b5a8f1d667e}" record_timestamp="1475599015023" record_key="wh2_main_special_shrine_of_asuryan_secondary">
+<key>wh2_main_special_shrine_of_asuryan_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{e1d9cf01-7194-4ca7-87ef-18f029786b56}" record_timestamp="1477326096094" record_key="wh2_main_special_shrine_of_khaine_primary">
+<key>wh2_main_special_shrine_of_khaine_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{e672ddd2-28c7-4d0e-8d31-03a25caac742}" record_timestamp="1496137105633" record_key="wh2_main_special_shrine_of_khaine_primary_ritual">
+<key>wh2_main_special_shrine_of_khaine_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{de799c55-ef72-46cd-a0ec-481e867fde40}" record_timestamp="1475599015023" record_key="wh2_main_special_shrine_of_khaine_secondary">
+<key>wh2_main_special_shrine_of_khaine_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{babe7835-5cc7-4859-ab7b-0cd63bff9860}" record_timestamp="1493218339642" record_key="wh2_main_special_shrine_of_khaine_secondary_ritual">
+<key>wh2_main_special_shrine_of_khaine_secondary_ritual</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{3c041785-c4f2-4246-bc4b-614dbb47c547}" record_timestamp="1484045653575" record_key="wh2_main_special_skavenblight_primary">
+<key>wh2_main_special_skavenblight_primary</key>
+<resource>res_location_skv</resource>
+</slot_templates>
+<slot_templates record_uuid="{42da4213-55a8-4956-b6a1-afa2d642708b}" record_timestamp="1484045589389" record_key="wh2_main_special_skavenblight_secondary">
+<key>wh2_main_special_skavenblight_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{28006bed-dc4c-4699-ba32-a29456a8e17d}" record_timestamp="1475858971972" record_key="wh2_main_special_tlaxtlan_primary">
+<key>wh2_main_special_tlaxtlan_primary</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{3ed3f4f5-2ba6-4ad7-bb38-5a026b5cdfcc}" record_timestamp="1496137105614" record_key="wh2_main_special_tlaxtlan_primary_ritual">
+<key>wh2_main_special_tlaxtlan_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{809e7dfa-dc13-42a4-a58c-5623abb39057}" record_timestamp="1478109689890" record_key="wh2_main_special_tlaxtlan_secondary">
+<key>wh2_main_special_tlaxtlan_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{f269b35f-e07d-467a-884f-722ebadbaef8}" record_timestamp="1493218339486" record_key="wh2_main_special_tlaxtlan_secondary_ritual">
+<key>wh2_main_special_tlaxtlan_secondary_ritual</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{a1a6535a-a0be-4cda-af7d-d9b5099526f5}" record_timestamp="1496836350649" record_key="wh2_main_special_tor_achare_primary">
+<key>wh2_main_special_tor_achare_primary</key>
+<resource>res_location_hef</resource>
+</slot_templates>
+<slot_templates record_uuid="{9d5acb67-acb4-43cd-9cb4-047bb8813ce3}" record_timestamp="1496836350684" record_key="wh2_main_special_tor_achare_secondary">
+<key>wh2_main_special_tor_achare_secondary</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{2144d770-5e74-412a-a59e-c5b5d7a925c5}" record_timestamp="1475833511952" record_key="wh2_main_special_tor_anlec_primary">
+<key>wh2_main_special_tor_anlec_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{9625ccd5-f0db-4415-9698-6c5193d7bf13}" record_timestamp="1475599015023" record_key="wh2_main_special_tor_anlec_secondary">
+<key>wh2_main_special_tor_anlec_secondary</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{c16395c4-879c-4c03-bda9-2b9d8b5cf9bf}" record_timestamp="1504118393364" record_key="wh2_main_special_tor_anroc_primary">
+<key>wh2_main_special_tor_anroc_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{8c58c720-30e9-4dfa-93ae-e2200d5831c4}" record_timestamp="1475599015023" record_key="wh2_main_special_tor_anroc_secondary">
+<key>wh2_main_special_tor_anroc_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{2be538ee-a8b5-47f8-aee7-5868b8a67289}" record_timestamp="1475833511952" record_key="wh2_main_special_tor_elyr_primary">
+<key>wh2_main_special_tor_elyr_primary</key>
+<resource>res_location_hef</resource>
+</slot_templates>
+<slot_templates record_uuid="{dac971ec-4e04-4fdf-910e-8815487fc93a}" record_timestamp="1476176559164" record_key="wh2_main_special_tor_elyr_primary_nonport">
+<key>wh2_main_special_tor_elyr_primary_nonport</key>
+<resource>res_location_hef</resource>
+</slot_templates>
+<slot_templates record_uuid="{4e45f3f6-fc93-4521-a7ac-ff31bcae1fff}" record_timestamp="1475599015023" record_key="wh2_main_special_tor_elyr_secondary">
+<key>wh2_main_special_tor_elyr_secondary</key>
+<resource>res_rom_wine</resource>
+</slot_templates>
+<slot_templates record_uuid="{7b0934b7-5ac3-44ea-b132-b37cf19ef1b8}" record_timestamp="1496836350580" record_key="wh2_main_special_tor_koruali_primary">
+<key>wh2_main_special_tor_koruali_primary</key>
+<resource>res_location_hef</resource>
+</slot_templates>
+<slot_templates record_uuid="{b3ef0cbe-a840-402b-a34a-8fd616088f19}" record_timestamp="1496836350615" record_key="wh2_main_special_tor_koruali_secondary">
+<key>wh2_main_special_tor_koruali_secondary</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{36e9357d-7fdb-478a-a047-e6b9af7471a1}" record_timestamp="1496137105790" record_key="wh2_main_special_tor_surpindar_primary_ritual">
+<key>wh2_main_special_tor_surpindar_primary_ritual</key>
+<resource>res_ritual_currency</resource>
+</slot_templates>
+<slot_templates record_uuid="{507f866e-481f-466a-8639-b4470be5dff4}" record_timestamp="1493218339328" record_key="wh2_main_special_tor_surpindar_secondary_ritual">
+<key>wh2_main_special_tor_surpindar_secondary_ritual</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{ba4494e2-2aeb-47c6-9bef-0d52e6b7c17f}" record_timestamp="1505309232609" record_key="wh2_main_special_tor_yvresse_primary">
+<key>wh2_main_special_tor_yvresse_primary</key>
+<resource>res_location_hef_def</resource>
+</slot_templates>
+<slot_templates record_uuid="{f5894b64-9cff-4cf5-b7bb-f03904d05682}" record_timestamp="1475599015023" record_key="wh2_main_special_tor_yvresse_secondary">
+<key>wh2_main_special_tor_yvresse_secondary</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{d2468f25-3c98-4360-88fb-0d302d284391}" record_timestamp="1475833512111" record_key="wh2_main_special_tower_of_hoeth_primary">
+<key>wh2_main_special_tower_of_hoeth_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{4a97b313-d1f5-4d1c-b5b5-5c473fbd7664}" record_timestamp="1475599015023" record_key="wh2_main_special_tower_of_hoeth_secondary">
+<key>wh2_main_special_tower_of_hoeth_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{0cb488c5-df13-4570-95f8-a4a9f40d5fc6}" record_timestamp="1475858971759" record_key="wh2_main_special_xlanhuapec_primary">
+<key>wh2_main_special_xlanhuapec_primary</key>
+<resource>res_location_lzd</resource>
+</slot_templates>
+<slot_templates record_uuid="{c55cb9f0-333e-42db-94cf-b1164e7ecba2}" record_timestamp="1475858260799" record_key="wh2_main_special_xlanhuapec_secondary">
+<key>wh2_main_special_xlanhuapec_secondary</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{b25e415e-795a-47b8-a744-164713d57625}" record_timestamp="1496404219586" record_key="wh2_main_special_yuatek_primary">
+<key>wh2_main_special_yuatek_primary</key>
+<resource>res_location_skv</resource>
+</slot_templates>
+<slot_templates record_uuid="{b46d75f8-a861-4eef-baf6-ca76bdb4c4c2}" record_timestamp="1496404219586" record_key="wh2_main_special_yuatek_secondary">
+<key>wh2_main_special_yuatek_secondary</key>
+<resource>res_medicine</resource>
+</slot_templates>
+<slot_templates record_uuid="{fb85bf5f-c2d1-4882-a2c6-2f0e03cd323c}" record_timestamp="1475858260762" record_key="wh2_main_special_ziggurat_of_dawn_primary">
+<key>wh2_main_special_ziggurat_of_dawn_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{71022729-8463-4aa1-85fc-83c040b89084}" record_timestamp="1475858260762" record_key="wh2_main_special_ziggurat_of_dawn_secondary">
+<key>wh2_main_special_ziggurat_of_dawn_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{351d8367-f8e6-4003-90a0-c0d34187aaec}" record_timestamp="1499958401806" record_key="wh2_main_special_zoishenk_primary">
+<key>wh2_main_special_zoishenk_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{e4a180cb-c383-4590-b85b-4920f86c905a}" record_timestamp="1499958401762" record_key="wh2_main_special_zoishenk_secondary">
+<key>wh2_main_special_zoishenk_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{e5edab25-f549-444d-8f2b-708593878225}" record_timestamp="1439372338764" record_key="wh_dlc05_elf_major_primary">
+<key>wh_dlc05_elf_major_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{8807261c-e3f9-4a85-9b6f-15b11531b706}" record_timestamp="1439372338817" record_key="wh_dlc05_elf_major_primary_coast">
+<key>wh_dlc05_elf_major_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{8d752cfb-4d6c-4ecc-b8f8-32f938a1a8c3}" record_timestamp="1496413376749" record_key="wh_dlc05_elf_major_primary_oak_of_ages">
+<key>wh_dlc05_elf_major_primary_oak_of_ages</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{064f8765-80a1-461b-92a1-8c98b1733cbc}" record_timestamp="1478784434570" record_key="wh_dlc05_elf_major_primary_oak_of_ages_mini">
+<key>wh_dlc05_elf_major_primary_oak_of_ages_mini</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{a0a40dd3-8fdc-40f8-be44-0d36c1f31844}" record_timestamp="1439372338656" record_key="wh_dlc05_elf_major_secondary">
+<key>wh_dlc05_elf_major_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{a7be7877-9e13-4289-8318-c326d01d7bf3}" record_timestamp="1439372338710" record_key="wh_dlc05_elf_major_secondary_dyes">
+<key>wh_dlc05_elf_major_secondary_dyes</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{f6440323-635e-40cd-ace3-3abeb5876fd7}" record_timestamp="1439372338977" record_key="wh_dlc05_elf_major_secondary_furs">
+<key>wh_dlc05_elf_major_secondary_furs</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{4a7a7841-28a9-4480-9fe3-d5f7a3bf8fac}" record_timestamp="1439372339030" record_key="wh_dlc05_elf_major_secondary_gold">
+<key>wh_dlc05_elf_major_secondary_gold</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{0531dfc3-f658-4de6-b6e8-f36c4418643b}" record_timestamp="1439372338870" record_key="wh_dlc05_elf_major_secondary_iron">
+<key>wh_dlc05_elf_major_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{284c4886-f32b-4d20-b9a9-b569364def95}" record_timestamp="1439372338923" record_key="wh_dlc05_elf_major_secondary_marble">
+<key>wh_dlc05_elf_major_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{a06c88ba-a2ab-4218-85c7-aade2f6630a2}" record_timestamp="1462808097109" record_key="wh_dlc05_elf_major_secondary_oak_of_ages">
+<key>wh_dlc05_elf_major_secondary_oak_of_ages</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{8a59ebf5-5e88-4962-b571-c25826128f96}" record_timestamp="1478784434571" record_key="wh_dlc05_elf_major_secondary_oak_of_ages_mini">
+<key>wh_dlc05_elf_major_secondary_oak_of_ages_mini</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{318d4f58-4184-4e9f-b176-2533e86a78fc}" record_timestamp="1439372339194" record_key="wh_dlc05_elf_major_secondary_pastures">
+<key>wh_dlc05_elf_major_secondary_pastures</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{2a6464d8-6be4-401a-819d-1b3e7c4f0930}" record_timestamp="1439372339248" record_key="wh_dlc05_elf_major_secondary_pottery">
+<key>wh_dlc05_elf_major_secondary_pottery</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{b1df34eb-23ae-4d37-9d80-fd41b46b3a99}" record_timestamp="1439372339084" record_key="wh_dlc05_elf_major_secondary_salt">
+<key>wh_dlc05_elf_major_secondary_salt</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{99f9b9f6-f327-42ac-8c86-bb16b6424eb4}" record_timestamp="1439372339140" record_key="wh_dlc05_elf_major_secondary_timber">
+<key>wh_dlc05_elf_major_secondary_timber</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{120a4944-f012-43c1-baaf-94aed7f4bd31}" record_timestamp="1439372339410" record_key="wh_dlc05_elf_major_secondary_wine">
+<key>wh_dlc05_elf_major_secondary_wine</key>
+<resource>res_rom_wine</resource>
+</slot_templates>
+<slot_templates record_uuid="{1fee5b75-b0a7-43c8-8aee-83ea432dafdd}" record_timestamp="1439372339463" record_key="wh_dlc05_elf_minor_primary">
+<key>wh_dlc05_elf_minor_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{5b4d70fc-dd55-4a37-a0e1-8f455b8d1337}" record_timestamp="1439372339302" record_key="wh_dlc05_elf_minor_primary_coast">
+<key>wh_dlc05_elf_minor_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{1977b9ac-4606-46e2-81bf-d0b726766239}" record_timestamp="1439372339355" record_key="wh_dlc05_elf_minor_secondary">
+<key>wh_dlc05_elf_minor_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{c6be6b63-01f9-4eb5-8b04-4d89eae10114}" record_timestamp="1439372339623" record_key="wh_dlc05_elf_minor_secondary_dyes">
+<key>wh_dlc05_elf_minor_secondary_dyes</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{56c2dc51-2d8c-45b7-8cad-49bcd49338d6}" record_timestamp="1439372339677" record_key="wh_dlc05_elf_minor_secondary_furs">
+<key>wh_dlc05_elf_minor_secondary_furs</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{f78973f0-3130-47a5-9482-5cd6c0ca012a}" record_timestamp="1439372339516" record_key="wh_dlc05_elf_minor_secondary_gold">
+<key>wh_dlc05_elf_minor_secondary_gold</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{21c2e0a6-7f49-497b-9ac9-f26200a8d9b4}" record_timestamp="1439372339570" record_key="wh_dlc05_elf_minor_secondary_iron">
+<key>wh_dlc05_elf_minor_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{6030b30d-309d-45c4-8067-b371cfc8b6f8}" record_timestamp="1439372339839" record_key="wh_dlc05_elf_minor_secondary_marble">
+<key>wh_dlc05_elf_minor_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{92345398-9d00-4d18-92b2-e106caff657b}" record_timestamp="1439372339893" record_key="wh_dlc05_elf_minor_secondary_pastures">
+<key>wh_dlc05_elf_minor_secondary_pastures</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{f35f2bf8-e173-42c0-b371-a83f7c5c0637}" record_timestamp="1439372339731" record_key="wh_dlc05_elf_minor_secondary_pottery">
+<key>wh_dlc05_elf_minor_secondary_pottery</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{e1d33811-3b05-41cf-af0a-f1ed268c7c39}" record_timestamp="1439372339786" record_key="wh_dlc05_elf_minor_secondary_salt">
+<key>wh_dlc05_elf_minor_secondary_salt</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{2c8ddc1c-6092-4ea9-a3a8-6cd9ddf22000}" record_timestamp="1439372339947" record_key="wh_dlc05_elf_minor_secondary_timber">
+<key>wh_dlc05_elf_minor_secondary_timber</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{f16c1801-8cbf-4e2d-ac2f-cbdc48379039}" record_timestamp="1439372340001" record_key="wh_dlc05_elf_minor_secondary_wine">
+<key>wh_dlc05_elf_minor_secondary_wine</key>
+<resource>res_rom_wine</resource>
+</slot_templates>
+<slot_templates record_uuid="{cdc749eb-292a-42c6-af61-7aba332d6079}" record_timestamp="1430222072749" record_key="wh_main_dwarf_orc_major_primary">
+<key>wh_main_dwarf_orc_major_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{9f207b26-1f3f-410b-80f6-691b37a8392c}" record_timestamp="1430147109575" record_key="wh_main_dwarf_orc_major_primary_coast">
+<key>wh_main_dwarf_orc_major_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{e0e9d5a2-df5d-424f-a7d9-64899f17cc9f}" record_timestamp="1429182251528" record_key="wh_main_dwarf_orc_major_secondary">
+<key>wh_main_dwarf_orc_major_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{2b045b6b-be43-445f-b47f-976539f21d28}" record_timestamp="1429814693434" record_key="wh_main_dwarf_orc_major_secondary_beer">
+<key>wh_main_dwarf_orc_major_secondary_beer</key>
+<resource>res_rom_glass</resource>
+</slot_templates>
+<slot_templates record_uuid="{261c9323-21d5-4f4f-9585-a2e3625d9abf}" record_timestamp="1429809904440" record_key="wh_main_dwarf_orc_major_secondary_dyes">
+<key>wh_main_dwarf_orc_major_secondary_dyes</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{9df1c70e-74d3-440f-bcd2-3b0d646d7b9c}" record_timestamp="1429814690831" record_key="wh_main_dwarf_orc_major_secondary_furs">
+<key>wh_main_dwarf_orc_major_secondary_furs</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{3e129212-49ed-4786-a994-d84393aa53bd}" record_timestamp="1429809904440" record_key="wh_main_dwarf_orc_major_secondary_gems">
+<key>wh_main_dwarf_orc_major_secondary_gems</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{7c8c170b-229c-4e51-8236-b78c8221eb98}" record_timestamp="1429809904440" record_key="wh_main_dwarf_orc_major_secondary_gold">
+<key>wh_main_dwarf_orc_major_secondary_gold</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{affa4805-c61b-4caf-8560-0dc02247f749}" record_timestamp="1429814697787" record_key="wh_main_dwarf_orc_major_secondary_iron">
+<key>wh_main_dwarf_orc_major_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{eb39a81e-7917-4822-937a-c1e2fef9204c}" record_timestamp="1429814700390" record_key="wh_main_dwarf_orc_major_secondary_marble">
+<key>wh_main_dwarf_orc_major_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{25d1b836-e441-4f8f-968e-c5ad3d8106d8}" record_timestamp="1429814688415" record_key="wh_main_dwarf_orc_major_secondary_pastures">
+<key>wh_main_dwarf_orc_major_secondary_pastures</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{77ab6909-254d-41ab-aa08-f32590274411}" record_timestamp="1429814702348" record_key="wh_main_dwarf_orc_major_secondary_salt">
+<key>wh_main_dwarf_orc_major_secondary_salt</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{a10a51d3-a6d0-4a3e-8e06-41261610d6dd}" record_timestamp="1438785126314" record_key="wh_main_dwarf_orc_major_secondary_savage">
+<key>wh_main_dwarf_orc_major_secondary_savage</key>
+<resource>res_savage</resource>
+</slot_templates>
+<slot_templates record_uuid="{1b4485c4-8507-4fac-b456-0b6f92525a9f}" record_timestamp="1429814695826" record_key="wh_main_dwarf_orc_major_secondary_timber">
+<key>wh_main_dwarf_orc_major_secondary_timber</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{8c45b979-af5c-4a64-9c27-6eff3d382b5f}" record_timestamp="1430222072842" record_key="wh_main_dwarf_orc_minor_primary">
+<key>wh_main_dwarf_orc_minor_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{85039b53-2f11-4e5c-a879-6834f0a06e4b}" record_timestamp="1430147110435" record_key="wh_main_dwarf_orc_minor_primary_coast">
+<key>wh_main_dwarf_orc_minor_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{6167ed83-12ee-4a18-b3f9-eeb5e0970a36}" record_timestamp="1429182251722" record_key="wh_main_dwarf_orc_minor_secondary">
+<key>wh_main_dwarf_orc_minor_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{ec01730f-5324-4b3c-8bb7-17989649aa42}" record_timestamp="1429814693002" record_key="wh_main_dwarf_orc_minor_secondary_beer">
+<key>wh_main_dwarf_orc_minor_secondary_beer</key>
+<resource>res_rom_glass</resource>
+</slot_templates>
+<slot_templates record_uuid="{da1b9b63-507b-485d-88fc-e5f44a87b8b5}" record_timestamp="1429809904440" record_key="wh_main_dwarf_orc_minor_secondary_dyes">
+<key>wh_main_dwarf_orc_minor_secondary_dyes</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{83534663-ca76-4962-9889-0b1eb965d54c}" record_timestamp="1429814691264" record_key="wh_main_dwarf_orc_minor_secondary_furs">
+<key>wh_main_dwarf_orc_minor_secondary_furs</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{29e33c0c-f2df-4da0-92db-f649e43079c1}" record_timestamp="1429809904440" record_key="wh_main_dwarf_orc_minor_secondary_gems">
+<key>wh_main_dwarf_orc_minor_secondary_gems</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{fe3046fa-9b2b-42ba-b774-c55f6670b57f}" record_timestamp="1429809904440" record_key="wh_main_dwarf_orc_minor_secondary_gold">
+<key>wh_main_dwarf_orc_minor_secondary_gold</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{418dbcdb-8801-47d6-8e24-fe3f8a47f1c7}" record_timestamp="1429814698435" record_key="wh_main_dwarf_orc_minor_secondary_iron">
+<key>wh_main_dwarf_orc_minor_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{6e0d9935-725a-4ec3-92e4-43a8b692b896}" record_timestamp="1429814700173" record_key="wh_main_dwarf_orc_minor_secondary_marble">
+<key>wh_main_dwarf_orc_minor_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{51888606-574a-4c84-88b9-2f2f7c97f07c}" record_timestamp="1429814688193" record_key="wh_main_dwarf_orc_minor_secondary_pastures">
+<key>wh_main_dwarf_orc_minor_secondary_pastures</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{73efebfb-ad85-4325-93c0-af5cf96a1453}" record_timestamp="1429814702131" record_key="wh_main_dwarf_orc_minor_secondary_salt">
+<key>wh_main_dwarf_orc_minor_secondary_salt</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{77849d2e-737c-4231-ae90-0bfce835fee5}" record_timestamp="1438785125980" record_key="wh_main_dwarf_orc_minor_secondary_savage">
+<key>wh_main_dwarf_orc_minor_secondary_savage</key>
+<resource>res_savage</resource>
+</slot_templates>
+<slot_templates record_uuid="{7134fdf7-b97d-49c8-a3ca-63c548ee84e5}" record_timestamp="1429814696477" record_key="wh_main_dwarf_orc_minor_secondary_timber">
+<key>wh_main_dwarf_orc_minor_secondary_timber</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{d177fb24-781f-4eba-bf80-0832908d5242}" record_timestamp="1429882775783" record_key="wh_main_human_major_primary">
+<key>wh_main_human_major_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{3a251718-febc-4c6c-a470-09ca4fb61877}" record_timestamp="1429890844297" record_key="wh_main_human_major_primary_coast">
+<key>wh_main_human_major_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{a49f54d9-1eea-4ec3-8897-ec03476899d2}" record_timestamp="1429882780452" record_key="wh_main_human_major_secondary">
+<key>wh_main_human_major_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{8c5ed67c-2182-430b-b647-bb53011f2f78}" record_timestamp="1429882792504" record_key="wh_main_human_major_secondary_dyes">
+<key>wh_main_human_major_secondary_dyes</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{ae7ab9a6-1418-4526-825d-6a8e795e1c10}" record_timestamp="1429882793042" record_key="wh_main_human_major_secondary_furs">
+<key>wh_main_human_major_secondary_furs</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{87124a04-99a4-461c-b5e3-5378dd769093}" record_timestamp="1429882794262" record_key="wh_main_human_major_secondary_gold">
+<key>wh_main_human_major_secondary_gold</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{68d682d8-d212-451f-bcf4-4ae0012bb5ae}" record_timestamp="1429882792234" record_key="wh_main_human_major_secondary_iron">
+<key>wh_main_human_major_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{1ea7480c-a0c6-4eeb-8c94-765488781f2b}" record_timestamp="1429882792369" record_key="wh_main_human_major_secondary_marble">
+<key>wh_main_human_major_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{da9baa0a-0dc0-4bf4-9a2c-f57d34707ceb}" record_timestamp="1429882792773" record_key="wh_main_human_major_secondary_pastures">
+<key>wh_main_human_major_secondary_pastures</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{f0777cc0-2c5f-44f6-8507-f2e28ce1f2c4}" record_timestamp="1429882794398" record_key="wh_main_human_major_secondary_pottery">
+<key>wh_main_human_major_secondary_pottery</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{1c4883c0-34a8-4c41-81b1-034ff3abe65d}" record_timestamp="1429882793586" record_key="wh_main_human_major_secondary_salt">
+<key>wh_main_human_major_secondary_salt</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{ca93c0de-756b-4d29-aa94-1cd43efcabd5}" record_timestamp="1429882792097" record_key="wh_main_human_major_secondary_timber">
+<key>wh_main_human_major_secondary_timber</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{f9253cce-9146-4144-9629-2641135ae718}" record_timestamp="1429882793315" record_key="wh_main_human_major_secondary_wine">
+<key>wh_main_human_major_secondary_wine</key>
+<resource>res_rom_wine</resource>
+</slot_templates>
+<slot_templates record_uuid="{49278807-4ecd-4539-b7ac-d0c2103fe14a}" record_timestamp="1429882785345" record_key="wh_main_human_minor_primary">
+<key>wh_main_human_minor_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{4da8b233-811a-49b8-b1b6-70cbbad7c561}" record_timestamp="1429890843497" record_key="wh_main_human_minor_primary_coast">
+<key>wh_main_human_minor_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{f7659be9-3fc9-42a3-a0c7-9e3ecd731d22}" record_timestamp="1429882791826" record_key="wh_main_human_minor_secondary">
+<key>wh_main_human_minor_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{fc45be6e-c752-4a6c-9573-e085bd71bb62}" record_timestamp="1429882792907" record_key="wh_main_human_minor_secondary_dyes">
+<key>wh_main_human_minor_secondary_dyes</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{09914fa1-fca5-4dea-a7fc-7259ac4a7556}" record_timestamp="1429882791962" record_key="wh_main_human_minor_secondary_furs">
+<key>wh_main_human_minor_secondary_furs</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{55b90f1c-b5e4-4a3b-b531-fbf14a59272b}" record_timestamp="1429882793179" record_key="wh_main_human_minor_secondary_gold">
+<key>wh_main_human_minor_secondary_gold</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{dd392c04-2c4e-4fd9-9809-bece695de97a}" record_timestamp="1429882794127" record_key="wh_main_human_minor_secondary_iron">
+<key>wh_main_human_minor_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{c827ff26-4c57-4f5d-af04-7944937f9d90}" record_timestamp="1429882792638" record_key="wh_main_human_minor_secondary_marble">
+<key>wh_main_human_minor_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{8a12c8c4-8a88-45da-820b-bad8a3b77657}" record_timestamp="1429882794537" record_key="wh_main_human_minor_secondary_pastures">
+<key>wh_main_human_minor_secondary_pastures</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{c711d5aa-4335-497a-be7a-d8c0e08c12cd}" record_timestamp="1429882793451" record_key="wh_main_human_minor_secondary_pottery">
+<key>wh_main_human_minor_secondary_pottery</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{8b1ce854-8f81-4cc6-9ea9-7c02f1b8c1da}" record_timestamp="1429882793856" record_key="wh_main_human_minor_secondary_salt">
+<key>wh_main_human_minor_secondary_salt</key>
+<resource>res_rom_lead</resource>
+</slot_templates>
+<slot_templates record_uuid="{892aa603-060b-4741-b8e4-751eeb081066}" record_timestamp="1429882793991" record_key="wh_main_human_minor_secondary_timber">
+<key>wh_main_human_minor_secondary_timber</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{340f9b7c-4dd0-40d7-8f8d-96f9c9a14c4c}" record_timestamp="1429882793722" record_key="wh_main_human_minor_secondary_wine">
+<key>wh_main_human_minor_secondary_wine</key>
+<resource>res_rom_wine</resource>
+</slot_templates>
+<slot_templates record_uuid="{f2bed7aa-94ad-415d-b5f8-81a7be32132d}" record_timestamp="1491578482911" record_key="wh_main_norsca_major_primary">
+<key>wh_main_norsca_major_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{e5a771ee-c545-47f6-a7a3-84962856adf5}" record_timestamp="1491578482911" record_key="wh_main_norsca_major_primary_coast">
+<key>wh_main_norsca_major_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{86f439a4-f6d1-4613-b835-51b241623cdf}" record_timestamp="1491578482911" record_key="wh_main_norsca_major_secondary">
+<key>wh_main_norsca_major_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{3b49dc50-afb3-4667-8f7e-c03dd1d8d230}" record_timestamp="1499706220873" record_key="wh_main_norsca_major_secondary_iron">
+<key>wh_main_norsca_major_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{59889b74-a813-4b29-856d-e13d3b2e48eb}" record_timestamp="1499706221003" record_key="wh_main_norsca_major_secondary_marble">
+<key>wh_main_norsca_major_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{ffcb5727-f85c-4332-85a3-3164bf48efd7}" record_timestamp="1499706220971" record_key="wh_main_norsca_major_secondary_obsidian">
+<key>wh_main_norsca_major_secondary_obsidian</key>
+<resource>res_obsidian</resource>
+</slot_templates>
+<slot_templates record_uuid="{39488bb0-5c3f-4b6b-a10e-ec0b2d2e8f47}" record_timestamp="1491578482911" record_key="wh_main_norsca_minor_primary">
+<key>wh_main_norsca_minor_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{5bca659b-aa7b-47d8-afe0-9a5ee4f8397f}" record_timestamp="1491578482911" record_key="wh_main_norsca_minor_primary_coast">
+<key>wh_main_norsca_minor_primary_coast</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{b3588a91-e331-49d2-b654-cdbedebef064}" record_timestamp="1491578482911" record_key="wh_main_norsca_minor_secondary">
+<key>wh_main_norsca_minor_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{0f75531d-0749-4777-a3bc-3f7d2a370a3e}" record_timestamp="1499706220906" record_key="wh_main_norsca_minor_secondary_iron">
+<key>wh_main_norsca_minor_secondary_iron</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{82e8e148-43ec-4717-910b-b3811b7e0c11}" record_timestamp="1499706221035" record_key="wh_main_norsca_minor_secondary_marble">
+<key>wh_main_norsca_minor_secondary_marble</key>
+<resource>res_rom_marble</resource>
+</slot_templates>
+<slot_templates record_uuid="{5506fa60-711f-4e3b-8ba5-155fc6b22893}" record_timestamp="1499706220938" record_key="wh_main_norsca_minor_secondary_obsidian">
+<key>wh_main_norsca_minor_secondary_obsidian</key>
+<resource>res_obsidian</resource>
+</slot_templates>
+<slot_templates record_uuid="{ca95b77b-f06e-40b9-a37e-e04fa53b3d8c}" record_timestamp="1429288706787" record_key="wh_main_norsca_port">
+<key>wh_main_norsca_port</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{edb9ea2f-7070-42cd-a3dd-b77e71b3a84e}" record_timestamp="1429288706649" record_key="wh_main_norsca_primary">
+<key>wh_main_norsca_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{9d8fd48c-7179-4f2b-a468-f4f9cf9f654e}" record_timestamp="1429288706718" record_key="wh_main_norsca_secondary">
+<key>wh_main_norsca_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{e0f3c9a3-a87e-42aa-bf45-b25679bc2526}" record_timestamp="1422618839399" record_key="wh_main_port">
+<key>wh_main_port</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{a16dfb61-e114-4f83-bac5-aea933d7ad41}" record_timestamp="1456228651054" record_key="wh_main_special_altdorf_primary">
+<key>wh_main_special_altdorf_primary</key>
+<resource>res_location_emp_vmp</resource>
+</slot_templates>
+<slot_templates record_uuid="{f486aced-bb50-417e-9d9a-5c71dff5065f}" record_timestamp="1433869675412" record_key="wh_main_special_altdorf_secondary">
+<key>wh_main_special_altdorf_secondary</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{492e21eb-24f2-4297-923a-3f4be4d00ac6}" record_timestamp="1456228651160" record_key="wh_main_special_black_crag_primary">
+<key>wh_main_special_black_crag_primary</key>
+<resource>res_location_grn</resource>
+</slot_templates>
+<slot_templates record_uuid="{41eab989-d0dd-4d29-903d-473b8b3fde36}" record_timestamp="1455285439757" record_key="wh_main_special_black_crag_secondary">
+<key>wh_main_special_black_crag_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{84a231d4-f44c-41e0-9d94-c5740e94c66e}" record_timestamp="1488480062709" record_key="wh_main_special_bordeleaux_port">
+<key>wh_main_special_bordeleaux_port</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{82531d70-ca10-482d-b673-d4a2457610d8}" record_timestamp="1456228651114" record_key="wh_main_special_bordeleux_primary">
+<key>wh_main_special_bordeleux_primary</key>
+<resource>res_location_emp_vmp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{fa6418d9-2406-4a89-9c39-ccdd9ad7e157}" record_timestamp="1436894964408" record_key="wh_main_special_bordeleux_secondary">
+<key>wh_main_special_bordeleux_secondary</key>
+<resource>res_rom_wine</resource>
+</slot_templates>
+<slot_templates record_uuid="{99237cbb-f50f-4f88-a128-e93823411f9d}" record_timestamp="1496413425356" record_key="wh_main_special_carcassonne_primary">
+<key>wh_main_special_carcassonne_primary</key>
+<resource>res_location_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{224346f2-fd05-43f0-8ea9-9df614bf3e55}" record_timestamp="1488480066228" record_key="wh_main_special_carcassonne_secondary">
+<key>wh_main_special_carcassonne_secondary</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{911c2ac4-46be-4bcf-9129-865c45ef6ec0}" record_timestamp="1456228650959" record_key="wh_main_special_carroburg_primary">
+<key>wh_main_special_carroburg_primary</key>
+<resource>res_location_emp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{1417b2c1-32bc-4ad9-8bb8-4fa1beb0b7fe}" record_timestamp="1433869675019" record_key="wh_main_special_carroburg_secondary">
+<key>wh_main_special_carroburg_secondary</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{0132c6cd-8e96-4b48-8a7f-fa983fa7f824}" record_timestamp="1456228651068" record_key="wh_main_special_castle_drakenhof_primary">
+<key>wh_main_special_castle_drakenhof_primary</key>
+<resource>res_location_vmp</resource>
+</slot_templates>
+<slot_templates record_uuid="{b49f842c-c633-4338-b5c9-8ad6ff6a02aa}" record_timestamp="1455285437664" record_key="wh_main_special_castle_drakenhof_secondary">
+<key>wh_main_special_castle_drakenhof_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{31ef54a6-9532-4c45-8170-d0a74340dd01}" record_timestamp="1456228651098" record_key="wh_main_special_couronne_primary">
+<key>wh_main_special_couronne_primary</key>
+<resource>res_location_emp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{de8c2a95-a0d3-43b0-9b52-3010bc675908}" record_timestamp="1433869675188" record_key="wh_main_special_couronne_secondary">
+<key>wh_main_special_couronne_secondary</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{defb57e4-3cb7-44cc-8e6e-b7c47aea31c3}" record_timestamp="1476808933098" record_key="wh_main_special_crag_halls_primary">
+<key>wh_main_special_crag_halls_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{ff50cd02-6035-426c-b43f-46c119160607}" record_timestamp="1476808933101" record_key="wh_main_special_crag_halls_secondary">
+<key>wh_main_special_crag_halls_secondary</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{bf61ba5a-3cac-47f6-8af1-574111429f12}" record_timestamp="1505222777617" record_key="wh_main_special_eight_peaks_primary">
+<key>wh_main_special_eight_peaks_primary</key>
+<resource>res_location_dwf_grn_skv</resource>
+</slot_templates>
+<slot_templates record_uuid="{c361b796-e5c5-4398-8123-b772c80e59d4}" record_timestamp="1474903541055" record_key="wh_main_special_eight_peaks_secondary">
+<key>wh_main_special_eight_peaks_secondary</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{67898202-fdf0-4e8e-8bbf-3f04636d63af}" record_timestamp="1433869686155" record_key="wh_main_special_erengrad_port">
+<key>wh_main_special_erengrad_port</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{90aef2ac-a043-4c5c-8f94-aa94a096a40e}" record_timestamp="1493820396125" record_key="wh_main_special_erengrad_primary">
+<key>wh_main_special_erengrad_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{2ed2bc79-1966-4d25-9b83-ccdd2174ef0d}" record_timestamp="1500395897715" record_key="wh_main_special_erengrad_secondary">
+<key>wh_main_special_erengrad_secondary</key>
+<resource>res_rom_textiles</resource>
+</slot_templates>
+<slot_templates record_uuid="{9b45c16e-489d-4720-bc52-1f5e23c04cef}" record_timestamp="1498660757187" record_key="wh_main_special_karag_dromar_primary">
+<key>wh_main_special_karag_dromar_primary</key>
+<resource>res_location_dwf</resource>
+</slot_templates>
+<slot_templates record_uuid="{db87289e-7ab8-4133-bc7e-c897b444c6f4}" record_timestamp="1498660757234" record_key="wh_main_special_karag_dromar_secondary">
+<key>wh_main_special_karag_dromar_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{6e80449a-1f2f-4d5b-97f1-30afe74d856e}" record_timestamp="1456228651040" record_key="wh_main_special_karak_kadrin_primary">
+<key>wh_main_special_karak_kadrin_primary</key>
+<resource>res_location_dwf</resource>
+</slot_templates>
+<slot_templates record_uuid="{634e2dae-13c3-4b50-8b02-3fbeb095b950}" record_timestamp="1498660756039" record_key="wh_main_special_karak_kadrin_secondary">
+<key>wh_main_special_karak_kadrin_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{505a0ac5-6281-4a04-bdc6-c03b1d0e70bb}" record_timestamp="1456228651083" record_key="wh_main_special_karaz_a_karak_primary">
+<key>wh_main_special_karaz_a_karak_primary</key>
+<resource>res_location_dwf</resource>
+</slot_templates>
+<slot_templates record_uuid="{d44f1ff5-5c4f-48ce-b5c7-e747ed4ae073}" record_timestamp="1433869675300" record_key="wh_main_special_karaz_a_karak_secondary">
+<key>wh_main_special_karaz_a_karak_secondary</key>
+<resource>res_gems</resource>
+</slot_templates>
+<slot_templates record_uuid="{6550c455-6108-471d-9123-137bddf0551c}" record_timestamp="1456228651129" record_key="wh_main_special_kislev_primary">
+<key>wh_main_special_kislev_primary</key>
+<resource>res_location_emp_vmp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{73fe2a7a-586a-4af7-adf7-c1669c0865b6}" record_timestamp="1433869674850" record_key="wh_main_special_kislev_secondary">
+<key>wh_main_special_kislev_secondary</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{46d8fd37-5575-4c86-a738-6ae8e5fc71f0}" record_timestamp="1456228651488" record_key="wh_main_special_magritta_primary">
+<key>wh_main_special_magritta_primary</key>
+<resource>res_location_emp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{29343081-2e42-4560-b285-91efef01ff55}" record_timestamp="1433869674907" record_key="wh_main_special_magritta_secondary">
+<key>wh_main_special_magritta_secondary</key>
+<resource>res_rom_iron</resource>
+</slot_templates>
+<slot_templates record_uuid="{afb8d5a8-9190-4fcc-a878-791fdb520add}" record_timestamp="1433869675131" record_key="wh_main_special_marienburg_port">
+<key>wh_main_special_marienburg_port</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{701948d8-ed38-4d18-b4a7-9fbc1083e027}" record_timestamp="1493820396100" record_key="wh_main_special_marienburg_primary">
+<key>wh_main_special_marienburg_primary</key>
+<resource>res_location_generic</resource>
+</slot_templates>
+<slot_templates record_uuid="{9da4677b-f201-4737-a845-4ff96d214346}" record_timestamp="1500561811351" record_key="wh_main_special_marienburg_secondary">
+<key>wh_main_special_marienburg_secondary</key>
+<resource>res_dyes</resource>
+</slot_templates>
+<slot_templates record_uuid="{06395fca-d799-4a92-b8b4-88bc73c64440}" record_timestamp="1456228651626" record_key="wh_main_special_middenheim_primary">
+<key>wh_main_special_middenheim_primary</key>
+<resource>res_location_emp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{0433d20d-26ff-491e-b0c2-01253367f314}" record_timestamp="1433869675356" record_key="wh_main_special_middenheim_secondary">
+<key>wh_main_special_middenheim_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{14e740c3-f613-468e-b473-0d5592ab7e9b}" record_timestamp="1456228651144" record_key="wh_main_special_miragliano_primary">
+<key>wh_main_special_miragliano_primary</key>
+<resource>res_location_teb</resource>
+</slot_templates>
+<slot_templates record_uuid="{362b4ad0-8251-48e1-8416-08ebd21410ac}" record_timestamp="1455285438624" record_key="wh_main_special_miragliano_secondary">
+<key>wh_main_special_miragliano_secondary</key>
+<resource>res_rom_oil</resource>
+</slot_templates>
+<slot_templates record_uuid="{eb936949-5155-4ff4-9edc-378e6d6bc8e8}" record_timestamp="1456827483722" record_key="wh_main_special_mount_gunbad_primary">
+<key>wh_main_special_mount_gunbad_primary</key>
+<resource>res_location_dwf</resource>
+</slot_templates>
+<slot_templates record_uuid="{7c800659-a434-4065-9610-b3b53e78d746}" record_timestamp="1433869675075" record_key="wh_main_special_mount_gunbad_secondary">
+<key>wh_main_special_mount_gunbad_secondary</key>
+<resource>res_gold</resource>
+</slot_templates>
+<slot_templates record_uuid="{19d1f5cc-2c98-4e94-9176-5d10e5785f38}" record_timestamp="1484246504185" record_key="wh_main_special_nuln_primary">
+<key>wh_main_special_nuln_primary</key>
+<resource>res_location_emp_vmp</resource>
+</slot_templates>
+<slot_templates record_uuid="{bf4111be-3b15-482b-a144-410bbc6eea62}" record_timestamp="1433869675469" record_key="wh_main_special_nuln_secondary">
+<key>wh_main_special_nuln_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{8eff98b0-6408-47b2-9f5d-a9ae00f55d4f}" record_timestamp="1456228650972" record_key="wh_main_special_talabheim_primary">
+<key>wh_main_special_talabheim_primary</key>
+<resource>res_location_emp_brt</resource>
+</slot_templates>
+<slot_templates record_uuid="{f2b82568-c0b4-4f19-bf41-ff2a197918b1}" record_timestamp="1433869675244" record_key="wh_main_special_talabheim_secondary">
+<key>wh_main_special_talabheim_secondary</key>
+<resource>res_rom_furs</resource>
+</slot_templates>
+<slot_templates record_uuid="{92f9cd30-b290-40fe-b44b-9a5606d8e400}" record_timestamp="1476808933097" record_key="wh_main_special_vauls_anvil_primary">
+<key>wh_main_special_vauls_anvil_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{9fc400d5-ba88-4d5d-8f1c-cbcf57dd4fc9}" record_timestamp="1476808933100" record_key="wh_main_special_vauls_anvil_secondary">
+<key>wh_main_special_vauls_anvil_secondary</key>
+<resource>res_rom_timber</resource>
+</slot_templates>
+<slot_templates record_uuid="{749bb3bd-ccb5-4ec4-9e33-66abf8652505}" record_timestamp="1476808933099" record_key="wh_main_special_waterfall_palace_primary">
+<key>wh_main_special_waterfall_palace_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{cfc50b6f-67b4-470d-8d1c-aa831d57e7ab}" record_timestamp="1476808933102" record_key="wh_main_special_waterfall_palace_secondary">
+<key>wh_main_special_waterfall_palace_secondary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{c7560948-5e87-4036-95fa-2950cebbe8f6}" record_timestamp="1476808933098" record_key="wh_main_special_yn_edryl_korian_primary">
+<key>wh_main_special_yn_edryl_korian_primary</key>
+<resource></resource>
+</slot_templates>
+<slot_templates record_uuid="{b3bbdfa5-ad4f-4ae0-a40a-6d149c0b8cd7}" record_timestamp="1476808933100" record_key="wh_main_special_yn_edryl_korian_secondary">
+<key>wh_main_special_yn_edryl_korian_secondary</key>
+<resource></resource>
+</slot_templates>
+</dataroot>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_bonus_value_ids_ritual_chains.xsd" export_time="Thu Oct 19 18:34:58 2017" revision="3" export_branch="C:/Users/peter.ellsum/AppData/Roaming/TWDaemon/629/dave" export_user="bob">
+<edit_uuid>2d6b63bb-5163-4f62-991c-49d3cf23d52e</edit_uuid>
+<campaign_bonus_value_ids_ritual_chains record_uuid="{7c38ca5b-4068-43b2-b31d-4962beef60eb}" record_timestamp="1479232511561" record_key="disable">
+<key>disable</key>
+<notes>Disable this ritual chain. Only valid target is a faction. Take priority over enable</notes>
+</campaign_bonus_value_ids_ritual_chains>
+<campaign_bonus_value_ids_ritual_chains record_uuid="{35392361-754d-4fd0-b7bd-f227559aac49}" record_timestamp="1479232511561" record_key="enable">
+<key>enable</key>
+<notes>Enable this ritual chain. Only valid target is a faction</notes>
+</campaign_bonus_value_ids_ritual_chains>
+<campaign_bonus_value_ids_ritual_chains record_uuid="{1ad72c4d-9e8e-4104-93d0-410be4a93c2d}" record_timestamp="1508434495790" record_key="percentage_cost_mod">
+<key>percentage_cost_mod</key>
+<notes>Modify the cost of this ritual chain. Percentage</notes>
+</campaign_bonus_value_ids_ritual_chains>
+<campaign_bonus_value_ids_ritual_chains record_uuid="{fd2ce32d-1424-48d2-91e2-39c969868120}" record_timestamp="1496656954284" record_key="slave_cost_mod">
+<key>slave_cost_mod</key>
+<notes>Modify the slave cost of this ritual chain. Numeric additive</notes>
+</campaign_bonus_value_ids_ritual_chains>
+<campaign_bonus_value_ids_ritual_chains record_uuid="{c9f4fd8f-1d58-4cf7-8ed8-9261b357005e}" record_timestamp="1496656954295" record_key="slave_percentage_cost_mod">
+<key>slave_percentage_cost_mod</key>
+<notes>Modify the slave cost of this ritual chain. Percentage</notes>
+</campaign_bonus_value_ids_ritual_chains>
+</dataroot>

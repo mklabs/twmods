@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="1588b9a792f2d2d">
+      <ECBuilding key="hef_infield_house_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="13.7160149 61.337738 -9.15216827" rotation="0 55.4546509 0" scale="1.14666164 1.14666164 1.14666164"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_01"/>
+    </entity>
+    <entity id="1588b9a792f2d2e">
+      <ECBuilding key="hef_tower_capital_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.3980331 98.9010925 10.6413651" rotation="0 -37.7238083 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_capital_03"/>
+    </entity>
+    <entity id="1588b9a792f2d2f">
+      <ECBuilding key="hef_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.23484254 60.608036 11.0306339" rotation="0 -3.29193783 0" scale="1.49756515 1.35554135 1.35554159"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_04"/>
+    </entity>
+    <entity id="1588b9a792f2d30">
+      <ECBuilding key="hef_infield_house_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-38.5774536 65.4086151 1.18049526" rotation="0 43.4880524 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_03"/>
+    </entity>
+    <entity id="1588b9a792f2d32">
+      <ECBuilding key="hef_tower_shaft_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="26.9973202 26.1659927 27.6365795" rotation="0 -85.5943298 0" scale="1.71226156 1.70506644 1.71226156"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_shaft_03"/>
+    </entity>
+    <entity id="1588b9a792f2d33">
+      <ECBuilding key="hef_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="29.1955147 61.4513702 -12.3064375" rotation="0 -37.8852005 0" scale="1.48457289 1.34378064 1.34378064"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_04"/>
+    </entity>
+    <entity id="1588b9a792f2d34">
+      <ECBuilding key="hef_hero_stairs_curved_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="33.3097153 68.9138565 21.4734898" rotation="0 249.531281 0" scale="0.727510393 0.886877298 0.727510393"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_stairs_curved_01"/>
+    </entity>
+    <entity id="1588b9b6eaa72ae">
+      <ECBuilding key="hef_tower_shaft_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.0450106 48.8425865 10.5977945" rotation="0 -37.7238235 0" scale="1.32044446 1.0341835 1.23904765"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_shaft_03"/>
+    </entity>
+    <entity id="1588b9e3f0572b8">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-27.5204659 -19.5567875 7.0912466" rotation="0 134.443222 0" scale="0.476781577 0.500235021 0.500234604"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="1588b9f043672b9">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.1947556 -19.556715 19.3776417" rotation="0 151.716522 0" scale="0.476781666 0.500234902 0.500234783"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="1588b9f514f72ba">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.36855316 -19.5567684 26.3460579" rotation="0 169.093216 0" scale="0.476781785 0.500234962 0.500234902"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="1588b9f934672bb">
+      <ECBuilding key="hef_hero_wall_01_curved" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-28.4189434 -38.9483414 -12.6536436" rotation="0 66.5206985 0" scale="0.471401066 0.494589806 0.494589418"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01_curved"/>
+    </entity>
+    <entity id="1588b9fb43772bc">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.7255373 -40.047226 -28.5002613" rotation="0 12.3932409 0" scale="0.476781547 0.500235021 0.500234604"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="1588b9ff42472bd">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="18.233326 -40.0472298 -30.8050537" rotation="0 -0.151261434 0" scale="0.476781547 0.500235081 0.500234723"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="1588ba0160972be">
+      <ECBuilding key="hef_hero_arch_thin_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="38.6430473 -40.0472221 -27.5107498" rotation="0 -18.1845264 0" scale="0.476781487 0.500235081 0.500234663"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_arch_thin_01"/>
+    </entity>
+    <entity id="1588ba1586d72c1">
+      <ECBuilding key="hef_tower_shaft_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-37.5214157 -19.1798935 0.897339344" rotation="0 268.568481 0" scale="1.82693648 1.72670984 1.82693648"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_shaft_03"/>
+    </entity>
+    <entity id="1588bb89ea10e46">
+      <ECBuilding key="hef_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.9133968 63.6465683 26.5863419" rotation="0 -11.3989153 0" scale="1.63772738 1.48241043 1.45770383"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_04"/>
+    </entity>
+    <entity id="1588bbb02530e47">
+      <ECBuilding key="hef_infield_fountain_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="26.6085796 110.114357 27.6900482" rotation="0 0.791939199 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_fountain_01"/>
+    </entity>
+    <entity id="1588bbedaaf0e48">
+      <ECBuilding key="hef_infield_house_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="49.231514 52.8678627 30.7116127" rotation="0 264.118164 0" scale="1.6668973 1.50881362 1.48366773"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_02"/>
+    </entity>
+    <entity id="15a7f6c97ff17e4">
+      <ECVFX vfx="wh2_main_enviro_sparkles" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-11.8271255 110.888687 11.0209522" rotation="0 221.000015 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a3859cde7f">
+      <ECBuilding key="hef_platform_02_corner_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.52361155 43.2976494 -16.8500366" rotation="0 -90 0" scale="1.15051508 1.34355319 1.26345098"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_02_corner_01"/>
+    </entity>
+    <entity id="15c10a3859cde80">
+      <ECBuilding key="hef_platform_02_corner_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="26.8430862 43.2976456 -7.30748367" rotation="0 180 0" scale="1.26345181 1.3435533 1.15051591"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_02_corner_01"/>
+    </entity>
+    <entity id="15c10a38da5dea9">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="39.7716255 72.3974075 3.80485678" rotation="-1.21274948 19.4937782 0.0246658549" scale="3.60863519 3.58575535 3.60863328"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb1">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="34.8889427 48.5513344 -18.6013107" rotation="-1.53638363 41.9148293 -0.597060144" scale="1 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb4">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="32.9261894 41.8304901 36.3626823" rotation="-12.4988632 105.762993 -355.516541" scale="1.28440785 1.28440773 1.28440714"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deaa">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_k"/>
+      <ECTransform position="7.80862999 11.5243835 -1.78115034" rotation="11.1946917 -61.3132019 -4.80161619" scale="2.48832107 2.48832083 2.48831987"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb3">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_j"/>
+      <ECTransform position="63.942688 22.3815899 -7.31273317" rotation="18.2251167 201.587036 350.795807" scale="1.23426282 1.23426223 1.23426259"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5de9e">
+      <ECBuilding key="hef_cliffs_01_pillar_base" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="34.169117 28.250946 13.3011103" rotation="0 -1.99999952 0" scale="3.21964979 2.74232173 3.21964979"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01_pillar_base"/>
+    </entity>
+    <entity id="15c10a38da5deb5">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="39.2050858 54.3543434 -11.5122166" rotation="-3.23097324 69.2680511 -2.59273887" scale="1.7383672 1.73836696 1.73836696"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea2">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="19.4312916 51.7981415 -9.96259212" rotation="2.09289289 123.115028 2.18261409" scale="2.98598456 2.98598456 2.98598409"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb8">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="62.052002 47.9660416 12.2001534" rotation="-1.15235853 -7.2191 0.574248791" scale="2.98598361 2.98598409 2.98598361"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deab">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="14.3409786 61.3324318 5.50725317" rotation="-2.57781315 63.6660728 -1.88117695" scale="2.98598361 2.98598433 2.98598409"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea8">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="34.3338013 35.0133095 3.37691879" rotation="-1.57553792 19.1537495 0.46981439" scale="1.92633224 1.92633307 1.92633164"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea3">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="40.5267143 74.9820557 17.6622467" rotation="-1.15235865 -7.2191 0.574248672" scale="2.98598385 2.98598385 2.98598313"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea4">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="17.0965691 41.1569595 36.700901" rotation="-12.4989443 105.763023 -355.516602" scale="1 1.00000012 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deaf">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="61.1443825 28.6821842 27.2109413" rotation="5.0222621 39.0040665 4.29590082" scale="1.38185894 1.38185859 1.38185811"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea0">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="28.9371643 72.7265701 24.3675499" rotation="-1.212749 19.4937782 0.024665786" scale="4.59201717 4.56290007 4.59201384"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb7">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="13.7376308 50.2632065 23.5332336" rotation="1.5791533 103.504105 2.33052874" scale="3.15743494 2.98598433 3.15743399"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deac">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="43.4671364 52.623024 -4.37708092" rotation="-1.15235817 -7.2191 0.574248672" scale="2.98598385 2.9859848 2.98598385"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dead">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="14.3720894 45.4155579 -12.8044605" rotation="-1.20258927 -18.0768547 0.802624226" scale="2.98598409 2.9859848 2.98598409"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea7">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="40.4884796 21.2459602 33.4858475" rotation="-2.29660273 49.5983124 -0.76239109" scale="1.42631972 1.42631996 1.42632043"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea6">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="41.2046814 66.5586395 29.7718601" rotation="-1.15235865 -7.2191 0.574248672" scale="2.98598385 2.98598385 2.98598313"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb2">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="40.2795525 46.464035 -15.7807837" rotation="-1.21274912 19.4937801 0.0246657562" scale="2.98598409 2.98598409 2.98598313"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea5">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="25.9669228 18.6219521 9.89427185" rotation="5.08194733 252.949692 356.127197" scale="2.48831964 2.48832273 2.4883194"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb6">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="29.1785889 68.1194916 27.7681103" rotation="1.5791533 103.504105 2.33052874" scale="3.15743542 2.98598433 3.15743446"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5de9f">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="35.1247673 67.4161835 -3.41001606" rotation="-1.21274924 19.4937782 0.0246658418" scale="3.33873057 3.31756067 3.33872914"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deb0">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="19.2029037 60.2582321 27.9513988" rotation="1.5791533 103.504105 2.33052874" scale="2.98598456 2.98598433 2.98598361"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5dea1">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="68.5897369 32.7414131 -2.09256458" rotation="-1.15235853 -7.21910048 -13.3407679" scale="1.79857254 1.79857254 1.79857254"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c10a38da5deae">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="13.9502068 36.8401489 -19.9468365" rotation="-1.77804542 -49.982151 1.79130685" scale="2.98598433 2.9859848 2.98598361"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cee0c0a1a3e12">
+      <ECBuilding key="hef_platform_02_straight_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.29192305 43.2977066 -16.4503059" rotation="0 0 0" scale="1.2634517 1.3435533 1.15051591"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_02_straight_01"/>
+    </entity>
+    <entity id="15cee0dca213e13">
+      <ECBuilding key="hef_platform_02_corner_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.9747839 43.2977448 -7.58807611" rotation="0 0.0798934698 0" scale="1.38658381 1.3435533 1.26345098"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_02_corner_01"/>
+    </entity>
+    <entity id="15cee0e46b23e14">
+      <ECBuilding key="hef_platform_02_straight_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.40225315 43.2977028 1.50299346" rotation="0 178.853821 0" scale="1.26345158 1.34355319 1.15051579"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_02_straight_01"/>
+    </entity>
+    <entity id="15cee1004083e15">
+      <ECBuilding key="hef_cliffs_01_pillar_base" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.9103756 39.2106476 13.816433" rotation="0 -20.7704411 0" scale="2.07292795 2.07292819 2.07292795"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01_pillar_base"/>
+    </entity>
+    <entity id="15cee128a353e57">
+      <ECBuilding key="hef_door_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="34.7245941 76.2510529 26.8916874" rotation="0 -75.8357391 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="door_03"/>
+    </entity>
+    <entity id="15cee1460793e58">
+      <ECBuilding key="hef_infield_house_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.07598019 61.1523247 -5.27321577" rotation="0 -1.75583994 0" scale="1.21740496 1.21740472 1.21740496"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="infield_house_02"/>
+    </entity>
+    <entity id="15cee158b713e59">
+      <ECBuilding key="hef_platform_inset_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.63860774 46.4668274 -16.6545238" rotation="0 0 0" scale="1.26345158 1.15196776 1.15051579"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_inset_01"/>
+    </entity>
+    <entity id="15cee1607bd3e5a">
+      <ECBuilding key="hef_platform_inset_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.310751 46.4668274 -16.6545258" rotation="0 0 0" scale="1.26345158 1.15196776 1.15051579"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_inset_01"/>
+    </entity>
+    <entity id="15cee1621d63e5b">
+      <ECBuilding key="hef_platform_inset_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="25.9072399 46.4668274 -14.656002" rotation="0 -44.6843719 0" scale="1.26345158 1.15196776 1.15051579"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_inset_06"/>
+    </entity>
+    <entity id="15cee1676943e5c">
+      <ECBuilding key="hef_platform_inset_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.7954893 46.0360184 -15.0292864" rotation="0 42.5581131 0" scale="1.26345134 1.15196788 1.15051556"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_inset_06"/>
+    </entity>
+    <entity id="15cee16f3a03e5d">
+      <ECBuilding key="hef_platform_inset_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.63451 44.9069252 -6.01030111" rotation="0 86.0159225 0" scale="1.26345158 1.15196776 1.15051579"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="platform_inset_01"/>
+    </entity>
+    <entity id="15cee1d6e963e61">
+      <ECBuilding key="hef_hero_wall_01_curved" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="58.0774231 -30.8846512 -10.1975393" rotation="0 -51.7627792 0" scale="0.425627857 0.446565121 0.446564645"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01_curved"/>
+    </entity>
+    <entity id="15d50db6f11fb05">
+      <ECBuilding key="hef_hero_stairs_curved_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="58.198349 50.5254517 12.3390226" rotation="0 -20.4687195 0" scale="0.727510333 0.886877298 0.727510333"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="hero_stairs_curved_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

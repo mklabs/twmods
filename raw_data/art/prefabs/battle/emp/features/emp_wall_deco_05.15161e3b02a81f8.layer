@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="15161e3b02a81f6" name="emp_wall_structure03">
+      <ECBuilding key="emp_wall_structure03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.67272949 0 6.10351563e-005" rotation="0 -2.8849895 0" scale="1.5 1.49999952 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure03"/>
+    </entity>
+    <entity id="15161e3b02a81f7" name="emp_wall_structure03">
+      <ECBuilding key="emp_wall_structure03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.67272949 0 -6.10351563e-005" rotation="0 -2.88453078 0" scale="1.5 1.49999952 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="wall_structure03"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="15692d1000d8ebc" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="15692d150028ec1">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.65926677 -9.53674316e-007 54.6451073" rotation="0 27.9999981 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15692d148428ec0">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="21.689146 0 47.1798401" rotation="0 4 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15692d8079f8ecd" name="vegetation">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1569371c2fe8a20">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="0.387134612 0 -7.55458879" rotation="0 157.409348 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1569371d3e38a22">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_01"/>
+      <ECTransform position="3.64661264 -1.71661432e-005 -2.44796467" rotation="0 12.0000048 0" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1569371ba998a1f">
+      <ECVegetation key="trees/wh_def_shrub/shrub_flowers_c"/>
+      <ECTransform position="3.90275383 -1.90734863e-006 -5.2825489" rotation="0 12 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1569372a15c8a2d">
+      <ECVegetation key="trees/wh_def_shrub/shrub_flowers_d"/>
+      <ECTransform position="0.195847988 -5.7220459e-006 -1.81284809" rotation="0 -63.0000114 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1569371e3648a24">
+      <ECVegetation key="trees/wh_def_shrub/shrub_cover_a"/>
+      <ECTransform position="-0.165338516 0 -5.62848091" rotation="0 12 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1569371cd3c8a21">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_01"/>
+      <ECTransform position="1.08550906 0 -3.80466533" rotation="0 12.0000019 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1569371dd6f8a23">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_02"/>
+      <ECTransform position="4.84634113 7.62939453e-006 -7.50555038" rotation="0 12.0000019 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15693720f9b8a26">
+      <ECVegetation key="trees/wh_def_shrub/shrub_cover_a"/>
+      <ECTransform position="0.859387398 -5.7220459e-006 -0.678030014" rotation="0 73.9999924 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="159d66f54f0f6e6">
+      <ECVegetation key="trees/wh_def_shrub/shrub_heather_a"/>
+      <ECTransform position="1.91782284 4.54747351e-013 -8.43568897" rotation="0 101.999977 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf86f2d510a8e">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_01"/>
+      <ECTransform position="6.41203833 -1.90734863e-006 -3.16268373" rotation="0 12.0000019 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf86f34620a8f">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-1.89617896 -1.33514404e-005 -2.39557791" rotation="0 235.020721 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf86f91f50a90">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_01"/>
+      <ECTransform position="-1.21102762 -9.53675044e-006 -6.01711607" rotation="0 12.0000067 0" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf8877a076d7e">
+      <ECDecal model_path="rigidmodels/decals/hef/scree/hef_scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.23331237 0 -9.37427616" rotation="0 -24.1443443 0" scale="6.59904337 4 6.59904337"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf88c51906d7f">
+      <ECDecal model_path="rigidmodels/decals/lzd/erosion/glb_screeline_01.rigid_model_v2" parallax_scale="0.0900000036" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="4.74311781 0.161597148 -4.59914875" rotation="0 159.489105 0" scale="7.61928844 2.93315887 8.88646317"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf88f0c076d80">
+      <ECDecal model_path="rigidmodels/decals/hef/scree/hef_scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-2.03519106 1.90734863e-006 -7.1694212" rotation="0 26.571249 0" scale="6.59904337 4 6.59904337"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf88f4d596d81">
+      <ECDecal model_path="rigidmodels/decals/hef/scree/hef_scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-1.83043981 1.90734863e-006 -1.38425469" rotation="0 -68.914978 0" scale="6.59904289 4 6.59904289"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15cf8901b306d83">
+      <ECDecal model_path="rigidmodels/decals/hef/scree/hef_scree_a_dark.rigid_model_v2" parallax_scale="0.100000001" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="3.16236496 2.86102295e-006 -0.00302863121" rotation="0 -5.59901142 0" scale="6.59904289 4 6.59904289"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="15692d1000d8ebc">
+        <to id="15692d150028ec1"/>
+        <to id="15692d148428ec0"/>
+      </from>
+      <from id="15692d8079f8ecd">
+        <to id="1569371c2fe8a20"/>
+        <to id="1569371d3e38a22"/>
+        <to id="1569371ba998a1f"/>
+        <to id="1569372a15c8a2d"/>
+        <to id="1569371e3648a24"/>
+        <to id="1569371cd3c8a21"/>
+        <to id="1569371dd6f8a23"/>
+        <to id="15693720f9b8a26"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

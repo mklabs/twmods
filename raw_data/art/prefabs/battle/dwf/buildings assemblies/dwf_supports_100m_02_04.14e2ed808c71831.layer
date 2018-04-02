@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="14e2ed808c517ff">
+      <ECBuilding key="dwf_underway_inset_shop_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.40835571 18.0291901 -22.8707886" rotation="2.46894789 28.5254097 1.21467167e-007" scale="1 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="underway_inset_shop_03"/>
+    </entity>
+    <entity id="14e2ed808c51800">
+      <ECBuilding key="dwf_banner_small_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-26.9131165 93.5222473 -8.1986084" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="banner_small_01"/>
+    </entity>
+    <entity id="14e2ed808c51802">
+      <ECBuilding key="dwf_barracks_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-16.164856 70.5118484 -15.7646484" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_01"/>
+    </entity>
+    <entity id="14e2ed808c51803">
+      <ECBuilding key="dwf_banner_small_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.86883545 69.9439774 -29.4612427" rotation="3.31388927 28.5254097 -4.85868668e-007" scale="1 0.99999994 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="banner_small_02"/>
+    </entity>
+    <entity id="14e2ed808c51804">
+      <ECBuilding key="dwf_house_doublestorey_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="19.2612915 0 -41.409729" rotation="0 -61.7693672 0" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="house_doublestorey_02"/>
+    </entity>
+    <entity id="14e2ed808c51807">
+      <ECBuilding key="dwf_mining_trap_door_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.6269226 100.051262 25.0441284" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_trap_door_01"/>
+    </entity>
+    <entity id="14e2ed808c51808">
+      <ECBuilding key="dwf_defense_bastion_door_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.515564 4.58503723 43.4460449" rotation="0 162.66629 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="defense_bastion_door_01"/>
+    </entity>
+    <entity id="14e2ed808c5180b">
+      <ECVFX vfx="wh_main_machine_steam_exhaust" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="31.8567505 120.839882 -10.1995239" rotation="0 28.5254154 0" scale="4.99999714 4.99999809 4.99999619"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14e2ed808c5180c">
+      <ECVFX vfx="wh_main_machine_steam_exhaust" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-39.0147095 28.9272804 -10.8735962" rotation="0 28.5254192 0" scale="2.99999785 2.99999905 2.9999969"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="14e2ed808c5180d">
+      <ECBuilding key="dwf_chimney_big_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-38.6405945 18.6385155 -10.6964111" rotation="0 28.5254421 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="chimney_big_02"/>
+    </entity>
+    <entity id="14e2ed808c5180e">
+      <ECBuilding key="dwf_banner_small_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.5792236 93.5222473 -31.2944336" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="banner_small_01"/>
+    </entity>
+    <entity id="14e2ed808c5180f">
+      <ECBuilding key="dwf_house_blacksmith_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.6829834 100.078453 6.62445068" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="house_blacksmith_01"/>
+    </entity>
+    <entity id="14e2ed808c51812">
+      <ECBuilding key="dwf_mining_trap_door_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.03881836 100.051315 -12.8295898" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="mining_trap_door_01"/>
+    </entity>
+    <entity id="14e2ed808c51813">
+      <ECBuilding key="dwf_grimms_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.50762939 65.4884872 -19.8614502" rotation="0 28.5254192 0" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="grimms_04"/>
+    </entity>
+    <entity id="14e2ed808c61816">
+      <ECBuilding key="dwf_supports_100m_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.12014771 18.0297508 -5.71612549" rotation="0 -61.4548187 0" scale="0.800000072 0.800000012 0.800000072"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="supports_100m_02"/>
+    </entity>
+    <entity id="14e2ed808c61817">
+      <ECBuilding key="dwf_banner_small_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.28042603 93.5222473 -23.522644" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="banner_small_01"/>
+    </entity>
+    <entity id="14e2ed808c61819">
+      <ECBuilding key="dwf_banner_small_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-12.9720154 93.5222473 -15.776001" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="banner_small_01"/>
+    </entity>
+    <entity id="14e2ed808c6181a">
+      <ECBuilding key="dwf_defense_bastion_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="20.9952698 10.9360886 27.7693481" rotation="0 207.757385 0" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="defense_bastion_02"/>
+    </entity>
+    <entity id="14e2ed808c6181c">
+      <ECBuilding key="dwf_defense_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-25.1065063 100.125908 0.740356445" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="defense_tower_01"/>
+    </entity>
+    <entity id="14e2ed808c6181e">
+      <ECBuilding key="dwf_defense_bastion_door_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.4104614 19.4529724 14.3173218" rotation="0 208.499985 0" scale="1.00000048 1 1.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="defense_bastion_door_01"/>
+    </entity>
+    <entity id="14e2ed808c61821">
+      <ECBuilding key="dwf_defense_bastion_door_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="39.01474 4.6166687 28.7171631" rotation="0 254.748016 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="defense_bastion_door_01"/>
+    </entity>
+    <entity id="14e2ed808c61822">
+      <ECBuilding key="dwf_banner_small_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-17.0805359 69.9375687 -17.9487915" rotation="3.31388927 28.5254097 -4.85868668e-007" scale="1 0.99999994 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="banner_small_02"/>
+    </entity>
+    <entity id="14e2ed808c61824">
+      <ECBuilding key="dwf_barracks_pillar_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.42581177 70.5118484 -26.9562988" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="barracks_pillar_01"/>
+    </entity>
+    <entity id="14e2ed808c61827">
+      <ECBuilding key="dwf_forge_drophammer_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.78353882 99.720932 12.2092285" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="forge_drophammer_03"/>
+    </entity>
+    <entity id="14e2ed808c6182a">
+      <ECBuilding key="dwf_chimney_big_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="32.1997681 99.943634 -9.91937256" rotation="0 28.5254192 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="chimney_big_01"/>
+    </entity>
+    <entity id="14e2ed808c6182c">
+      <ECBuilding key="dwf_roof_big_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.32266235 4.94898987 -10.1127319" rotation="0 -61.4466286 0" scale="0.680064023 0.599999964 0.753651142"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="roof_big_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

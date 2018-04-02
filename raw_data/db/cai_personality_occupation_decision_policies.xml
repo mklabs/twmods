@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_occupation_decision_policies.xsd" export_time="Wed Nov 29 16:03:02 2017" revision="8" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d53c092c-723d-4f01-a68e-27a95fb178c7</edit_uuid>
+<cai_personality_occupation_decision_policies record_uuid="{ceb1d262-193d-4bf7-ad4a-d2ab77734439}" record_timestamp="1484132675515" record_key="default">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>default</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{be150fcb-9433-4a5d-b39d-c21f584fd07d}" record_timestamp="1484754657546" record_key="default_early">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>default_early</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{57b3d462-928b-47d2-ab88-174dd82527be}" record_timestamp="1484754657783" record_key="default_early_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>default_early_uncapturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{b77b1dbe-3660-4f82-8a68-18188931f2b8}" record_timestamp="1484754657841" record_key="default_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>default_uncapturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{2cbd5720-63fc-4e2a-835a-860b31e6aecb}" record_timestamp="1484754657487" record_key="destroyer">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>destroyer</id>
+<min_attitude>0</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{b972858e-7054-41d5-b896-4faff977d290}" record_timestamp="1484754657723" record_key="destroyer_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>destroyer_uncapturable</id>
+<min_attitude>0</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{aad7a42b-cab9-449a-9abf-e0a5e94eb038}" record_timestamp="1484754657428" record_key="dlc05_wood_elves">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>dlc05_wood_elves</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{61f7acec-dee5-43d0-80f6-81ba0bc81f8f}" record_timestamp="1484754657664" record_key="dlc05_wood_elves_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>dlc05_wood_elves_uncapturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{50835f35-92b8-454e-9245-5f6645f3f101}" record_timestamp="1509468200185" record_key="dlc09_tomb_kings">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>dlc09_tomb_kings</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{cc0390f4-e587-42ac-a62b-37a2e5e1b4de}" record_timestamp="1509468200243" record_key="dlc09_tomb_kings_uncapaturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">dlc09_tomb_kings_uncapaturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{1c3f945c-efc9-4ccc-b8bb-9f762518e897}" record_timestamp="1496935912916" record_key="looter">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>looter</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{29a5d8cb-272a-4087-be01-8ee0ed4f01f4}" record_timestamp="1496935912888" record_key="looter_early">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>looter_early</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{3fbf6bbc-40b4-497a-a105-ca87c16c420c}" record_timestamp="1496935912900" record_key="looter_early_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>looter_early_uncapturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{dc105715-477c-4213-864a-16af3b54d3c0}" record_timestamp="1496935912910" record_key="looter_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>looter_uncapturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{7d61aae8-6d5b-4012-869c-e932864fae44}" record_timestamp="1484754657901" record_key="noraze">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>noraze</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{0eab6cea-9b2d-40f5-8546-fa93eb20fce2}" record_timestamp="1484754657605" record_key="noraze_uncapturable">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>noraze_uncapturable</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+<cai_personality_occupation_decision_policies record_uuid="{c1deea2e-12d6-4eb9-ae32-5b7b15e9fb8f}" record_timestamp="1486926718199" record_key="raider">
+<food_excess_cap>6</food_excess_cap>
+<food_shortage_cap>-2</food_shortage_cap>
+<id>raider</id>
+<min_attitude>-30</min_attitude>
+<squalor_cap>-4</squalor_cap>
+</cai_personality_occupation_decision_policies>
+</dataroot>

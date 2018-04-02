@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_ritual_categories>
+<root>
+<edit_uuid>bed6cdd3-3a18-4ce7-a3b6-1b46be6cf335</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{00af906d-8b92-41b3-af9f-28f51bf152c7}</field_uuid>
+<primary_key>1</primary_key>
+<name>id</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{10d8a0cf-1d30-48fe-aeb7-95414616b22e}</field_uuid>
+<primary_key>0</primary_key>
+<name>trigger_events</name>
+<field_type>yesno</field_type>
+<required>1</required>
+<default_value>true</default_value>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{40922fb3-9d18-4f97-bd3f-2b38a7f8afff}</field_uuid>
+<primary_key>0</primary_key>
+<name>display_name</name>
+<field_type>text</field_type>
+<required>1</required>
+<default_value>INVALID</default_value>
+<max_length>255</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

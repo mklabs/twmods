@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_subculture_settlement_occupation_effect_bundle_suitabilities>
+<root>
+<edit_uuid>59529861-5e0d-4b6d-9204-8f63c3af3bd5</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{2f60525b-ffbc-4d48-8eb4-2bc9019fbffd}</field_uuid>
+<primary_key>1</primary_key>
+<name>effect_bundle</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>effect_bundles</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{fc99082c-8dce-45bb-83b7-e689a48e4f29}</field_uuid>
+<primary_key>0</primary_key>
+<name>suitability</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>suitability</column_source_column>
+<column_source_table>subculture_settlement_occupation_suitability_types</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

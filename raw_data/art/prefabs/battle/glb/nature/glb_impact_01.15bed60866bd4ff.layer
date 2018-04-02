@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="25">
+  <entities>
+    <entity id="15bed60866bd4fd">
+      <ECBuilding key="glb_meteor_c" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.189208984 6.99110508 -0.0607910156" rotation="0 84.0000687 0" scale="0.299999982 0.300000012 0.299999982"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15bed60866bd4fe">
+      <ECDecal model_path="rigidmodels/decals/generic/crater_a.rigid_model_v2" parallax_scale="0" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="true" render_above_snow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.188964844 6.8621645 0.060546875" rotation="0 69 0" scale="14.999999 9.99999905 14.999999"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

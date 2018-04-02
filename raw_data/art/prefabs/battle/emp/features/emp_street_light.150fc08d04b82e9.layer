@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="150fc08d04b82e7" name="emp_street_lights01">
+      <ECBuilding key="emp_street_lights01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.16430664 0 -0.0957641602" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="street_lights01"/>
+    </entity>
+    <entity id="150fc08d04b82e8" name="Point Light 3">
+      <ECPointLight colour="255 228 146 255" colour_scale="7" radius="7" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="-2.32861328 1.66398191 -0.111660004" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="150fc08d04b82e7">
+        <to id="150fc08d04b82e8"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

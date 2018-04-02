@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_personality_occupation_decision_components.xsd" export_time="Wed Nov 29 16:03:02 2017" revision="19" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>45e63199-af70-4053-8a4c-d7443bb7a944</edit_uuid>
+<cai_personality_occupation_decision_components record_uuid="{f3bf9d67-faf1-4fe9-b522-77fee67fd65f}" record_timestamp="1495635161463" record_key="capture_all_climate">
+<id>capture_all_climate</id>
+<policy_suitable>default</policy_suitable>
+<policy_uncapturable>default_uncapturable</policy_uncapturable>
+<policy_uninhabitable>default</policy_uninhabitable>
+<policy_unsuitable>default</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{3d665eac-b5ed-4bf8-b9df-17fb1af8b100}" record_timestamp="1495635161606" record_key="capture_all_climate_early">
+<id>capture_all_climate_early</id>
+<policy_suitable>default_early</policy_suitable>
+<policy_uncapturable>default_uncapturable</policy_uncapturable>
+<policy_uninhabitable>default_early_uncapturable</policy_uninhabitable>
+<policy_unsuitable>default_early</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{27a512f8-a3e9-49d2-bab7-d1d988606008}" record_timestamp="1490113472574" record_key="default">
+<id>default</id>
+<policy_suitable>default</policy_suitable>
+<policy_uncapturable>default_uncapturable</policy_uncapturable>
+<policy_uninhabitable>default_uncapturable</policy_uninhabitable>
+<policy_unsuitable>default</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{9cc6d015-6cf5-4e04-89d4-79160ff0ad23}" record_timestamp="1490113472602" record_key="default_early">
+<id>default_early</id>
+<policy_suitable>default_early</policy_suitable>
+<policy_uncapturable>default_early_uncapturable</policy_uncapturable>
+<policy_uninhabitable>default_early_uncapturable</policy_uninhabitable>
+<policy_unsuitable>default_early_uncapturable</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{878529a7-c341-4482-8ede-b9a331efd0d0}" record_timestamp="1490113472629" record_key="destroyer">
+<id>destroyer</id>
+<policy_suitable>destroyer</policy_suitable>
+<policy_uncapturable>destroyer_uncapturable</policy_uncapturable>
+<policy_uninhabitable>destroyer_uncapturable</policy_uninhabitable>
+<policy_unsuitable>destroyer</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{5ee6df43-ff52-4301-bce1-bedd53069a9e}" record_timestamp="1490113472656" record_key="dlc05_wood_elves">
+<id>dlc05_wood_elves</id>
+<policy_suitable>dlc05_wood_elves</policy_suitable>
+<policy_uncapturable>dlc05_wood_elves_uncapturable</policy_uncapturable>
+<policy_uninhabitable>dlc05_wood_elves_uncapturable</policy_uninhabitable>
+<policy_unsuitable>dlc05_wood_elves_uncapturable</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{14b8311f-424c-4b35-b8a0-3cd8532ce55e}" record_timestamp="1509468201615" record_key="dlc09_tomb_kings">
+<id>dlc09_tomb_kings</id>
+<policy_suitable>dlc09_tomb_kings</policy_suitable>
+<policy_uncapturable>dlc09_tomb_kings_uncapaturable</policy_uncapturable>
+<policy_uninhabitable>dlc09_tomb_kings_uncapaturable</policy_uninhabitable>
+<policy_unsuitable>dlc09_tomb_kings</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{acf660aa-9335-4415-a522-1969fef7f41f}" record_timestamp="1509468201668" record_key="dlc09_tomb_kings_early">
+<id>dlc09_tomb_kings_early</id>
+<policy_suitable>dlc09_tomb_kings</policy_suitable>
+<policy_uncapturable>dlc09_tomb_kings_uncapaturable</policy_uncapturable>
+<policy_uninhabitable>dlc09_tomb_kings_uncapaturable</policy_uninhabitable>
+<policy_unsuitable>dlc09_tomb_kings_uncapaturable</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{989b98ea-33b5-434f-9e56-5750f68eb5d2}" record_timestamp="1510582388970" record_key="dwarfs">
+<id>dwarfs</id>
+<policy_suitable>default</policy_suitable>
+<policy_uncapturable>default_uncapturable</policy_uncapturable>
+<policy_uninhabitable>default_uncapturable</policy_uninhabitable>
+<policy_unsuitable>default_uncapturable</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{5937323f-1aac-4384-96e3-35e8e8250069}" record_timestamp="1510582388936" record_key="dwarfs_early">
+<id>dwarfs_early</id>
+<policy_suitable>default_early</policy_suitable>
+<policy_uncapturable>default_early_uncapturable</policy_uncapturable>
+<policy_uninhabitable>default_early_uncapturable</policy_uninhabitable>
+<policy_unsuitable>default_early_uncapturable</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{59edc5f2-9882-42c9-a64b-0df78541c503}" record_timestamp="1496936226643" record_key="looter">
+<id>looter</id>
+<policy_suitable>looter</policy_suitable>
+<policy_uncapturable>looter_uncapturable</policy_uncapturable>
+<policy_uninhabitable>looter_uncapturable</policy_uninhabitable>
+<policy_unsuitable>looter</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{ce688ab4-d809-487d-8d0b-17e71b44dfa2}" record_timestamp="1496936226664" record_key="looter_early">
+<id>looter_early</id>
+<policy_suitable>looter_early</policy_suitable>
+<policy_uncapturable>looter_early_uncapturable</policy_uncapturable>
+<policy_uninhabitable>looter_early_uncapturable</policy_uninhabitable>
+<policy_unsuitable>looter_early_uncapturable</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+<cai_personality_occupation_decision_components record_uuid="{008ffaff-c60c-4c25-9d10-2b79712478a9}" record_timestamp="1490113472684" record_key="noraze">
+<id>noraze</id>
+<policy_suitable>noraze</policy_suitable>
+<policy_uncapturable>noraze_uncapturable</policy_uncapturable>
+<policy_uninhabitable>noraze_uncapturable</policy_uninhabitable>
+<policy_unsuitable>noraze</policy_unsuitable>
+</cai_personality_occupation_decision_components>
+</dataroot>

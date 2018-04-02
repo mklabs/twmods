@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_campaign_map_settlements>
+<root>
+<edit_uuid>a31ec0e2-23fa-4df9-a112-ddf51e2035b9</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{342d9df4-fc40-4c6a-8ff5-886a1ecd420c}</field_uuid>
+<primary_key>1</primary_key>
+<name>settlement_id</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>50</max_length>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{e8dd0559-1c3a-46c6-9ecf-57cc3441957d}</field_uuid>
+<primary_key>0</primary_key>
+<name>climate_type</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>type</column_source_column>
+<column_source_table>settlement_climate_types</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{458992bb-9e35-4b9b-938e-95d8c11a1d16}</field_uuid>
+<primary_key>0</primary_key>
+<name>citybar_height_offset</name>
+<field_type>integer</field_type>
+<required>1</required>
+<default_value>0</default_value>
+<field_description>Height offset of citybar UI element, use to raise over forests for example</field_description>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

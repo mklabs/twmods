@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="1568dc727c8a0f5" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="1568dc76f97a0f9">
+      <ECPropMesh/>
+      <ECMesh model_path="rigidmodels/buildings/ref_group_human/ref_group_human_piece01_destruct01.rigid_model_v2" opacity="1" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-7.60592651 -1.52587891e-005 24.6964779" rotation="0 157 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568dc7857ba0fa" name="mudbanks">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568dca11cda0fb">
+      <ECBuilding key="wef_mudbank_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.472809792 0.750001907 7.32288265" rotation="0 4 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_01"/>
+    </entity>
+    <entity id="1568dca581ea0fc">
+      <ECBuilding key="wef_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.26891327 0.75 5.53230572" rotation="0 27 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_03"/>
+    </entity>
+    <entity id="1568dcaa533a0fd">
+      <ECBuilding key="wef_mudbank_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.0452824 0.749998093 4.0735321" rotation="0 31.0000019 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_05"/>
+    </entity>
+    <entity id="1568dcac124a0fe">
+      <ECBuilding key="wef_mudbank_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="13.6180735 0.750003815 0.242105484" rotation="0 91.9999847 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_01"/>
+    </entity>
+    <entity id="1568dcae70aa0ff">
+      <ECBuilding key="wef_mudbank_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.8270664 0.75 -3.78551102" rotation="0 149.999985 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_02"/>
+    </entity>
+    <entity id="1568dcaff68a100">
+      <ECBuilding key="wef_mudbank_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.47063446 0.750003815 -5.19451714" rotation="0 167 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_03"/>
+    </entity>
+    <entity id="1568dcb1ad4a101">
+      <ECBuilding key="wef_mudbank_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.55011249 0.75 -4.95775604" rotation="0 206 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_05"/>
+    </entity>
+    <entity id="1568dcbac72a102">
+      <ECBuilding key="wef_mudbank_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.04254532 -0.130394027 1.84936941" rotation="0 -76.9999847 0" scale="1.70000005 1.70000029 1.70000005"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_mudbank_04"/>
+    </entity>
+    <entity id="1568dd31a16a105" name="rocks">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568dd5af0ba107">
+      <ECBuilding key="wef_boulder_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.2796154 0.749996185 -2.19028091" rotation="0 -76.9999847 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_04"/>
+    </entity>
+    <entity id="1568dd5ff99a109">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="8.32033443 0.749998093 8.97106457" rotation="0 137 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568dd65453a10a">
+      <ECBuilding key="wef_boulder_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.68154049 1.44857764 10.5695028" rotation="0 211 0" scale="4 4 4"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_03"/>
+    </entity>
+    <entity id="1568dd7739da10c">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.2064414 0.930231094 5.89483356" rotation="0 239 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568dd8a08ca10e">
+      <ECBuilding key="wef_boulder_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="17.8026466 1.15899098 1.98150122" rotation="-67.620369 160.477005 -29.9149151" scale="2.00000024 2 2.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_04"/>
+    </entity>
+    <entity id="1568dd978cea10f">
+      <ECBuilding key="wef_boulder_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="14.1862335 1.41667604 -5.9204154" rotation="-25.3738403 -13.609458 6.36776018" scale="5.00000048 5 5.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_02"/>
+    </entity>
+    <entity id="1568dda89baa111">
+      <ECBuilding key="wef_boulder_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.64401579 1.35576999 -6.25967884" rotation="0 202 0" scale="4.99999952 5 4.99999952"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_02"/>
+    </entity>
+    <entity id="1568ddac770a112">
+      <ECBuilding key="wef_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.61935997 -0.936671138 -3.82258201" rotation="0 38 0" scale="6 6 6"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_01"/>
+    </entity>
+    <entity id="1568ddb9325a114">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.2528496 0.992452621 -8.77147865" rotation="66.1397171 110.97393 323.389343" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568ddbbbb8a115">
+      <ECBuilding key="wef_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="19.6916904 -3.81469727e-006 -2.69553185" rotation="0 122.000008 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_01"/>
+    </entity>
+    <entity id="1568ddbe3dba116">
+      <ECBuilding key="wef_boulder_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.7947588 1.90734863e-006 -9.74075127" rotation="0 219.000015 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_04"/>
+    </entity>
+    <entity id="1568ddbfa03a117">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.26425362 -1.90734863e-006 -11.1538067" rotation="0 -4.99998856 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568ddc181fa118">
+      <ECBuilding key="wef_boulder_06" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.64074135 0 -8.63537216" rotation="0 172 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_06"/>
+    </entity>
+    <entity id="1568ddc49e8a119">
+      <ECBuilding key="wef_boulder_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.17568588 -1.90734863e-006 12.6623096" rotation="0 233.000015 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_03"/>
+    </entity>
+    <entity id="1568ddcbd5ca11b">
+      <ECBuilding key="wef_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="11.6432886 0 12.81954" rotation="0 112.999992 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_01"/>
+    </entity>
+    <entity id="1568ddce3dda11c">
+      <ECBuilding key="wef_boulder_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="21.8110676 0 6.44225883" rotation="0 204.999985 0" scale="3 3 3"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_01"/>
+    </entity>
+    <entity id="1568ddd1f41a11d">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-6.02497816 3.81469727e-006 10.7885513" rotation="0 235 0" scale="0.5 0.5 0.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568e3d5f5de78f">
+      <ECBuilding key="wef_waystone_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0931777954 1.65171289 3.60795116" rotation="0 260 0" scale="7 7 7"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_waystone_03"/>
+    </entity>
+    <entity id="1568e3dbe74e790">
+      <ECBuilding key="wef_boulder_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.73490715 -1.90734863e-006 0.840269744" rotation="0 260 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_04"/>
+    </entity>
+    <entity id="1568e3dd60fe791">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.27979469 9.53674316e-007 5.82405758" rotation="0 161.000015 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568e3e1445e792">
+      <ECBuilding key="wef_boulder_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.71771717 -0.605273664 1.36152613" rotation="36.1703453 149.851227 2.64581037" scale="2.99999952 2.99999952 2.99999928"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_02"/>
+    </entity>
+    <entity id="1568dd5c62ea108">
+      <ECBuilding key="wef_boulder_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.76887703 0.749998093 -7.4688015" rotation="0 -47.9999924 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wef_boulder_05"/>
+    </entity>
+    <entity id="1568ddd859ca11e" name="vegetation">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568ddeadb1a125">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_02"/>
+      <ECTransform position="-6.02963924 1.97275257 -0.585225105" rotation="-7.05636358 237.805923 -354.081604" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddec6b5a126">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="-4.58177662 1.93300629 3.4884491" rotation="85.6312943 265.746552 265.631012" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddeeb6ea127">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_02"/>
+      <ECTransform position="1.20800972 2.76162338 -6.2935729" rotation="-69.6250458 -86.8840332 72.961792" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddf9694a129">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_01"/>
+      <ECTransform position="5.45154762 1.49999952 1.04505253" rotation="0 8.99999714 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddfd2b8a12a">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_02"/>
+      <ECTransform position="9.46929359 1.50000191 -0.491832256" rotation="0 143 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddfd9b1a12b">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_02"/>
+      <ECTransform position="1.39515877 1.49999809 -0.11855793" rotation="0 269.000061 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddfe1e9a12c">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_02"/>
+      <ECTransform position="8.0660553 1.50000191 3.40421724" rotation="0 22.9999981 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568ddff40da12d">
+      <ECVegetation key="trees/wh_wef_shrub/wef_anemone_02"/>
+      <ECTransform position="6.16384315 1.5 -3.31069994" rotation="0 85.0000076 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de0079da12e">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_02"/>
+      <ECTransform position="11.2149563 2.76363516 5.24287844" rotation="75.89151 86.3328476 72.4846268" scale="0.999999881 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de08a6da131">
+      <ECVegetation key="trees/wh_wef_shrub/wef_mushrooms_01"/>
+      <ECTransform position="17.6467514 3.25817204 1.94555569" rotation="8.33411407 154.282715 349.137665" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de097dfa132">
+      <ECVegetation key="trees/wh_wef_shrub/wef_mushrooms_02"/>
+      <ECTransform position="18.6623421 3.24504566 1.91246033" rotation="14.4338007 228.814499 345.687042" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de0b546a133">
+      <ECVegetation key="trees/wh_wef_shrub/wef_mushrooms_01"/>
+      <ECTransform position="17.4048271 3.35237408 2.24858356" rotation="-7.35719728 -56.9152489 -25.3416958" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de0d110a134">
+      <ECVegetation key="trees/wh_wef_shrub/wef_mushrooms_01"/>
+      <ECTransform position="2.98281193 3.99056149 -9.31603527" rotation="40.9356422 -43.9602509 -47.2051773" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de0e06ca135">
+      <ECVegetation key="trees/wh_wef_shrub/wef_mushrooms_02"/>
+      <ECTransform position="-5.02164698 2.87891436 -3.20202255" rotation="30.0789604 -49.2107811 -39.8894653" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568de12f81a136">
+      <ECVegetation key="trees/wh_wef_shrub/wef_mushrooms_01"/>
+      <ECTransform position="-1.58909369 2.79737711 12.0987949" rotation="0 3 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eeb1978f6bb" name="outside">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568eeb5103f6bc">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_04"/>
+      <ECTransform position="19.0561905 0 -6.39573669" rotation="0 168.999985 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eeb7f35f6be">
+      <ECVegetation key="trees/wh_wef_shrub/wef_fern_03"/>
+      <ECTransform position="-12.8637037 0 -1.59243202" rotation="0 221 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eebc1f6f6c0">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_01"/>
+      <ECTransform position="18.0762558 0 10.5259361" rotation="0 263.000031 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eebced5f6c1">
+      <ECVegetation key="trees/wh_wef_shrub/wef_clover_01"/>
+      <ECTransform position="1.12285995 0 14.6307888" rotation="0 236 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eebf081f6c2">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_01"/>
+      <ECTransform position="8.29039764 0 13.066988" rotation="0 -63.9999733 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eeb662ef6bd">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bush_03"/>
+      <ECTransform position="7.370749 0 -14.5368462" rotation="0 168.999985 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568eeb9736f6bf">
+      <ECVegetation key="trees/wh_wef_shrub/wef_bigbush_04"/>
+      <ECTransform position="-6.08152866 0 -11.6451073" rotation="0 221 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568df71985a13c" name="vfx">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568dfa60fca13e">
+      <ECVFX vfx="wh_dlc05_enviro_forest_spirits" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="5.4761982 5.28348351 1.42974842" rotation="0 0 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568e3ee11ee793">
+      <ECVFX vfx="wh_dlc05_enviro_waystone" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0.174213409 2.59391737 3.98596478" rotation="0 0 0" scale="1.00000012 1 1.00000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1568e413d77e796" name="terrain_blend">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568ee99416f6b4" name="nogo">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568ee9e586f6b5">
+      <ECNoGoRegion/>
+      <ECTransform position="-13.2742395 0 3.77106476" rotation="0 0 0" scale="1 1 1"/>
+      <ECTransform2D/>
+      <ECPolyline>
+        <polyline closed="true">
+          <point x="0" y="0"/>
+          <point x="7.24215126" y="-17.8739948"/>
+          <point x="18.9677525" y="-19.5901527"/>
+          <point x="34.237751" y="-8.12282276"/>
+          <point x="37.9762993" y="3.83805084"/>
+          <point x="24.7822113" y="12.1106873"/>
+          <point x="7.51543093" y="10.4035759"/>
+        </polyline>
+      </ECPolyline>
+    </entity>
+    <entity id="1568eea5324f6b8" name="water">
+      <ECLayer export="true" bmd_export_type=""/>
+    </entity>
+    <entity id="1568dd051b7a104">
+      <ECBuilding key="glb_water_plane_15x" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.82454062 1.63495052 0.67023772" rotation="0 269.714722 0" scale="1.02310705 1.70000005 1.41198874"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_water_plane_15x"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="1568dc727c8a0f5">
+        <to id="1568dc76f97a0f9"/>
+      </from>
+      <from id="1568dc7857ba0fa">
+        <to id="1568dca11cda0fb"/>
+        <to id="1568dca581ea0fc"/>
+        <to id="1568dcaa533a0fd"/>
+        <to id="1568dcac124a0fe"/>
+        <to id="1568dcae70aa0ff"/>
+        <to id="1568dcaff68a100"/>
+        <to id="1568dcb1ad4a101"/>
+        <to id="1568dcbac72a102"/>
+      </from>
+      <from id="1568dd31a16a105">
+        <to id="1568dd5af0ba107"/>
+        <to id="1568dd5ff99a109"/>
+        <to id="1568dd65453a10a"/>
+        <to id="1568dd7739da10c"/>
+        <to id="1568dd8a08ca10e"/>
+        <to id="1568dd978cea10f"/>
+        <to id="1568dda89baa111"/>
+        <to id="1568ddac770a112"/>
+        <to id="1568ddb9325a114"/>
+        <to id="1568ddbbbb8a115"/>
+        <to id="1568ddbe3dba116"/>
+        <to id="1568ddbfa03a117"/>
+        <to id="1568ddc181fa118"/>
+        <to id="1568ddc49e8a119"/>
+        <to id="1568ddcbd5ca11b"/>
+        <to id="1568ddce3dda11c"/>
+        <to id="1568ddd1f41a11d"/>
+        <to id="1568e3d5f5de78f"/>
+        <to id="1568e3dbe74e790"/>
+        <to id="1568e3dd60fe791"/>
+        <to id="1568e3e1445e792"/>
+        <to id="1568dd5c62ea108"/>
+      </from>
+      <from id="1568ddd859ca11e">
+        <to id="1568ddeadb1a125"/>
+        <to id="1568ddec6b5a126"/>
+        <to id="1568ddeeb6ea127"/>
+        <to id="1568ddf9694a129"/>
+        <to id="1568ddfd2b8a12a"/>
+        <to id="1568ddfd9b1a12b"/>
+        <to id="1568ddfe1e9a12c"/>
+        <to id="1568ddff40da12d"/>
+        <to id="1568de0079da12e"/>
+        <to id="1568de08a6da131"/>
+        <to id="1568de097dfa132"/>
+        <to id="1568de0b546a133"/>
+        <to id="1568de0d110a134"/>
+        <to id="1568de0e06ca135"/>
+        <to id="1568de12f81a136"/>
+        <to id="1568eeb1978f6bb"/>
+      </from>
+      <from id="1568eeb1978f6bb">
+        <to id="1568eeb5103f6bc"/>
+        <to id="1568eeb7f35f6be"/>
+        <to id="1568eebc1f6f6c0"/>
+        <to id="1568eebced5f6c1"/>
+        <to id="1568eebf081f6c2"/>
+        <to id="1568eeb662ef6bd"/>
+        <to id="1568eeb9736f6bf"/>
+      </from>
+      <from id="1568df71985a13c">
+        <to id="1568dfa60fca13e"/>
+        <to id="1568e3ee11ee793"/>
+      </from>
+      <from id="1568ee99416f6b4">
+        <to id="1568ee9e586f6b5"/>
+      </from>
+      <from id="1568eea5324f6b8">
+        <to id="1568dd051b7a104"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

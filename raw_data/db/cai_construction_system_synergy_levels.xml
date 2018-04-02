@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cai_construction_system_synergy_levels.xsd" export_time="Thu May 25 14:14:31 2017" revision="10" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>df3c37ba-fe03-4555-8818-751500d48e85</edit_uuid>
+<cai_construction_system_synergy_levels record_uuid="{7194cbb9-802a-44a1-851b-71b1817c7f70}" record_timestamp="1495718070773" record_key="cai_cs_negative_level_high">
+<absolute_effect>0</absolute_effect>
+<key>cai_cs_negative_level_high</key>
+<priority>30</priority>
+<relative_effect>-2.5</relative_effect>
+</cai_construction_system_synergy_levels>
+<cai_construction_system_synergy_levels record_uuid="{9679a79f-56c3-43e0-911b-17b2d1d07719}" record_timestamp="1495718070758" record_key="cai_cs_negative_level_low">
+<absolute_effect>0</absolute_effect>
+<key>cai_cs_negative_level_low</key>
+<priority>10</priority>
+<relative_effect>-0.15000000596046448</relative_effect>
+</cai_construction_system_synergy_levels>
+<cai_construction_system_synergy_levels record_uuid="{c1baab29-0943-4c98-873e-a3349d397363}" record_timestamp="1495718070742" record_key="cai_cs_negative_level_medium">
+<absolute_effect>0</absolute_effect>
+<key>cai_cs_negative_level_medium</key>
+<priority>20</priority>
+<relative_effect>-0.75</relative_effect>
+</cai_construction_system_synergy_levels>
+<cai_construction_system_synergy_levels record_uuid="{d09f513e-12e3-4f60-80d7-6a463fe19dea}" record_timestamp="1435921928070" record_key="cai_cs_synergy_level_high">
+<absolute_effect>0</absolute_effect>
+<key>cai_cs_synergy_level_high</key>
+<priority>30</priority>
+<relative_effect>2.5</relative_effect>
+</cai_construction_system_synergy_levels>
+<cai_construction_system_synergy_levels record_uuid="{8277e21d-1296-4f70-b9c2-82f25eb42d0b}" record_timestamp="1435921928080" record_key="cai_cs_synergy_level_low">
+<absolute_effect>0</absolute_effect>
+<key>cai_cs_synergy_level_low</key>
+<priority>10</priority>
+<relative_effect>0.15000000596046448</relative_effect>
+</cai_construction_system_synergy_levels>
+<cai_construction_system_synergy_levels record_uuid="{cd5b99d2-28b8-4004-ac05-f66467a396f1}" record_timestamp="1435921928087" record_key="cai_cs_synergy_level_medium">
+<absolute_effect>0</absolute_effect>
+<key>cai_cs_synergy_level_medium</key>
+<priority>20</priority>
+<relative_effect>0.75</relative_effect>
+</cai_construction_system_synergy_levels>
+</dataroot>

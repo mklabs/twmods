@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_unique_agent_spawn_vfx_junctions>
+<root>
+<edit_uuid>d2976118-3875-4229-b2bd-a0fb22ecb37a</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{9d268906-15f2-4d0b-bc86-b8a9457444ac}</field_uuid>
+<primary_key>1</primary_key>
+<name>unique_agent</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>agent_subtype</column_source_column>
+<column_source_table>unique_agents</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{154a118e-7939-4b55-b1ed-fbbf49db8a5a}</field_uuid>
+<primary_key>0</primary_key>
+<name>composite_scene</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>id</column_source_column>
+<column_source_table>campaign_composite_scenes</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="157ae09662f5cc0" name="Reference">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="157ae1c67c75e54">
+      <ECBuilding key="def_basalt_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.72306347 -9.53674316e-007 0.935336351" rotation="0 222 0" scale="3 3 3"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_02"/>
+    </entity>
+    <entity id="157ae1c7abf5e55">
+      <ECBuilding key="def_basalt_sml_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.95847321 -9.53674316e-007 -0.74979496" rotation="0 128 0" scale="3 3 3"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_03"/>
+    </entity>
+    <entity id="157ae1c8fba5e56">
+      <ECBuilding key="def_basalt_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.05672455 9.53674316e-007 -2.15391493" rotation="0 128 0" scale="2 2 2"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_01"/>
+    </entity>
+    <entity id="157ae1c9f915e57">
+      <ECBuilding key="def_basalt_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.34467506 -9.53674316e-007 2.42129469" rotation="0 246.999985 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_01"/>
+    </entity>
+    <entity id="157ae1ca34b5e58">
+      <ECBuilding key="def_basalt_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.85468578 -9.53674316e-007 0.756059885" rotation="0 162 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_01"/>
+    </entity>
+    <entity id="157ae1ca73e5e59">
+      <ECBuilding key="def_basalt_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.92473793 -1.90734863e-006 -2.96102881" rotation="0 34.9999962 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_01"/>
+    </entity>
+    <entity id="157ae1cac0f5e5a">
+      <ECBuilding key="def_basalt_sml_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.221221924 -9.53674316e-007 1.63860834" rotation="0 34.9999962 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_01"/>
+    </entity>
+    <entity id="157ae1cb8755e5b">
+      <ECBuilding key="def_basalt_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.960250854 1.90734863e-006 -0.698827744" rotation="0 34.9999962 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_02"/>
+    </entity>
+    <entity id="157ae1ccc695e5c">
+      <ECBuilding key="def_basalt_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.10597992 0 3.16628551" rotation="0 98.0000305 0" scale="0.800000012 0.800000012 0.800000012"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_02"/>
+    </entity>
+    <entity id="157ae1d16a95e5e">
+      <ECDecal model_path="rigidmodels/decals/generic/scree_a_light.rigid_model_v2" parallax_scale="0.0399999991" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="false" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-2.74452496 -9.53674316e-007 -0.0321173668" rotation="0 -52.7999649 0" scale="9 3 9"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1d78f65e5f">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_dryb_c"/>
+      <ECTransform position="-5.25884676 0 -0.0236821175" rotation="0 -50.7999802 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1d7da85e60">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_dryb_c"/>
+      <ECTransform position="-2.17589664 -9.53674316e-007 -1.71724796" rotation="0 64.2000198 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1d818a5e61">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_dryb_c"/>
+      <ECTransform position="-1.44453764 -9.53674316e-007 2.6827426" rotation="0 196.199997 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1d8e235e62">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_drya_c"/>
+      <ECTransform position="-4.40495491 0 -1.67384624" rotation="0 196.199997 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1da2525e63">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_sticksa"/>
+      <ECTransform position="-3.40176296 -9.53674316e-007 0.51447916" rotation="0 196.199997 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1dbd685e64">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_hogweedc"/>
+      <ECTransform position="-1.50093985 0 2.25898361" rotation="0 77.2000275 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1dd0905e65">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_nettlesc"/>
+      <ECTransform position="-1.72596121 0 -0.518584251" rotation="0 78.2000198 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1ddf915e66">
+      <ECVegetation key="trees/wh_def_desert_shrub/shrub_nettlesc"/>
+      <ECTransform position="-6.39776516 9.53674316e-007 0.285848618" rotation="0 -12.799983 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="157ae1e464d5e67">
+      <ECBuilding key="def_basalt_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.10838127 0 1.14521885" rotation="0 98.0000305 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_02"/>
+    </entity>
+    <entity id="157ae1e4c105e68">
+      <ECBuilding key="def_basalt_sml_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.7472744 0 -0.401052475" rotation="0 162 0" scale="1.67060745 1.67060733 1.67060769"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_02"/>
+    </entity>
+    <entity id="157ae1e556b5e69">
+      <ECBuilding key="def_basalt_sml_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.62363577 0 -4.98872948" rotation="0 -80.0000076 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_03"/>
+    </entity>
+    <entity id="157ae1e64305e6a">
+      <ECBuilding key="def_basalt_sml_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.34591293 0 -1.03137684" rotation="0 -80.0000076 0" scale="1 1 1"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="basalt_sml_03"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

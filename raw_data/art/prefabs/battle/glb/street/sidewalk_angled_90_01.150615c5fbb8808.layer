@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="150615c5fba87ec" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="69.7845078 76.6980667 -44.2542839" rotation="1.73028384e-005 -90 0" scale="4.35315275 5 1.99999654"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87ed" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="71.5069046 78.4651718 -28.5419693" rotation="1.61533007e-005 90 0" scale="7.49954605 0.999999881 1.99984932"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87ee" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="53.2471085 76.6980667 -26.0542145" rotation="0 182.297958 -2.73207552e-005" scale="7.99998856 5 1.99999595"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87ef" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="67.2889786 78.4777145 -24.3145275" rotation="5.08412231e-005 -0.954310298 1.894655e-005" scale="7.49891472 0.99999994 1.99999571"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f0" name="road_4">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_4.rigid_model_v2" parallax_scale="0.170000002" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="65.9342804 78.9428864 -41.8335037" rotation="0 90 0" scale="9.99999142 0.100000001 9.99999142"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f1" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="69.6851959 76.6980667 -28.6418228" rotation="-2.73207443e-005 -90 0" scale="7.99998856 5 1.99999595"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f2" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="68.5073013 76.6980667 -25.9602928" rotation="0 180.01976 2.73207552e-005" scale="4.35315371 4.99999952 1.99999678"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f3" name="glb_sidewalk01">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="70.6631622 78.9428864 -46.2236404" rotation="0 0.0197631549 0" scale="0.999999225 1 0.999999225"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="150615c5fba87f4" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="65.3103561 76.6980667 -26.074749" rotation="0 174.019974 -359.999969" scale="4.35315418 4.99999857 1.99999762"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f5" name="brt_cliff_02">
+      <ECBuilding key="brt_cliff_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-61.7001305 0.16494751 46.2236404" rotation="0 39.9408607 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f6" name="road_4">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_4.rigid_model_v2" parallax_scale="0.170000002" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="58.0556488 78.9428864 -29.7615929" rotation="0 0.0197631512 0" scale="9.99999237 0.100000001 9.99999237"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f7" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="71.4297333 78.4777145 -42.6830902" rotation="1.94856511e-005 90 0" scale="7.49891376 0.99999994 1.99999571"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f8" name="brt_cliff_04">
+      <ECBuilding key="brt_cliff_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-22.7412987 0 23.3017654" rotation="0 79.691925 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87f9" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="61.8508606 78.4532013 -24.4880219" rotation="0 -0.019800717 0" scale="4.35315084 0.999999881 1.99999714"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87fa" name="brt_cliff_02">
+      <ECBuilding key="brt_cliff_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-43.2194061 0.16494751 37.9094429" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87fb" name="road_4">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_4.rigid_model_v2" parallax_scale="0.170000002" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="65.9794922 78.9428864 -28.8590946" rotation="0 90 0" scale="9.99999142 0.100000001 9.99999142"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fba87fc" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="53.1478882 78.4651718 -24.2324772" rotation="5.50310233e-007 2.02388144 1.56084934e-005" scale="7.499547 0.999999881 1.99984932"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb87fd" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="58.0592651 78.4532013 -24.5148468" rotation="1.39289364e-006 4.01973963 1.9869276e-005" scale="4.35315275 0.999999881 1.99999607"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb87fe" name="waterfall_01">
+      <ECPrefab key="waterfall_01"/>
+      <ECTransform position="-71.5069046 54.3094101 37.656353" rotation="0 -31.7747116 0" scale="0.198213488 0.198213518 0.198213488"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb87ff" name="road_4">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_4.rigid_model_v2" parallax_scale="0.170000002" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="65.9794769 78.9428864 -33.4516411" rotation="0 90 0" scale="9.99999142 0.100000001 9.99999142"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8800" name="road_4">
+      <ECDecal model_path="rigidmodels/Decals/generic/road_4.rigid_model_v2" parallax_scale="0.170000002" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="53.4630966 78.9428864 -29.7599773" rotation="0 0.0197631512 0" scale="9.99999237 0.100000001 9.99999237"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8801" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="71.2262268 78.4532013 -33.4534416" rotation="-0.000286867929 93.9999695 -0.000286867929" scale="4.35315323 0.999999881 1.9999969"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8802" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="60.5841675 76.6980667 -26.2263012" rotation="1.36603776e-005 178.644302 359.999969" scale="7.99999094 5 1.99999714"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8803" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_a.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="69.5156403 76.6980667 -35.9789314" rotation="-3.6424492e-006 -90 0" scale="7.99998951 5 1.99999678"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8804" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="71.2543564 78.4532013 -37.2450333" rotation="1.98205653e-005 90 0" scale="4.35314894 0.999999881 1.9999963"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8805" name="wh_border_a">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_border_b.rigid_model_v2" parallax_scale="0.0700000003" tiling="0" override_gbuffer_normal="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="69.6688232 76.6980667 -40.7050476" rotation="-0.000163924531 264.000122 -359.999847" scale="4.353158 5 1.99999821"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="150615c5fbb8806" name="glb_sidewalk01">
+      <ECBuilding key="glb_sidewalk01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="70.8292694 78.9428864 -25.082325" rotation="0 -90 0" scale="0.999999166 1 0.999999166"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="glb_sidewalk01"/>
+    </entity>
+    <entity id="150615c5fbb8807" name="brt_cliff_03">
+      <ECBuilding key="brt_cliff_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-34.4355164 2.05409241 -1.03959084" rotation="5.57490969 123.179619 0.503425896" scale="0.999998152 1 0.999998391"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battlefield_siege_vehicles.xsd" export_time="Thu Nov 9 09:02:17 2017" revision="170" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>99974de5-6220-4f63-bf01-68e51babc231</edit_uuid>
+<battlefield_siege_vehicles record_uuid="{3c2f6c2e-150e-4088-8e84-f5b61658d6fe}" record_timestamp="1497965848157" record_key="brt_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>brt_battering_ram</key>
+<model>brt_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Bretonnian Battering Ram" last_edit_user="bob">Bretonnian Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{7ae1e227-51da-4217-8a36-b38c59ad78ec}" record_timestamp="1497965848166" record_key="brt_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>brt_batteringram</key>
+<model>brt_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{eaeba7e3-0365-48f3-ab0b-8ec5b41f01c2}" record_timestamp="1504538693685" record_key="brt_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type>wh_war_machine_brt_large</audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>brt_siege_tower_15m</key>
+<model>brt_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Bretonnian Siege Tower" last_edit_user="bob">Bretonnian Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>6</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{faa1026f-9fd5-45ff-8323-81e82ac62c44}" record_timestamp="1497965848174" record_key="bst_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break both gates and the morale of those inside." last_edit_user="bob">Used to break both gates and the morale of those inside.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>bst_battering_ram</key>
+<model>bst_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Beastmen Battering Ram" last_edit_user="bob">Beastmen Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>13</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{e343268c-fbae-40f6-8fad-6c10b77c570a}" record_timestamp="1497965848181" record_key="bst_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>bst_batteringram</key>
+<model>bst_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{84b5bc38-4726-45e1-b4df-2ccd8d45ff57}" record_timestamp="1504538693723" record_key="bst_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>bst_siege_tower_15m</key>
+<model>bst_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Beastmen Siege Tower" last_edit_user="bob">Beastmen Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>14</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{8582efd5-9096-4801-8c47-9879256471af}" record_timestamp="1497965848190" record_key="chs_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>chs_battering_ram</key>
+<model>chs_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Chaos Battering Ram" last_edit_user="bob">Chaos Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>1</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{04a16f91-ba2e-497f-892c-f8112393c021}" record_timestamp="1497965848199" record_key="chs_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>chs_batteringram</key>
+<model>chs_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{e2f7361e-bb02-4a4f-957f-e699741ff043}" record_timestamp="1504538693761" record_key="chs_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>chs_siege_tower_15m</key>
+<model>chs_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Chaos Siege Tower" last_edit_user="bob">Chaos Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>7</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{ffc70f6d-29ff-4d15-83a1-0a4e5c0c75d6}" record_timestamp="1497965848208" record_key="def_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>def_battering_ram</key>
+<model>def_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Dark Elf Battering Ram" last_edit_user="bob">Dark Elf Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>3</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{1affe2a2-6b66-4258-a53e-6c68c5a405d1}" record_timestamp="1497965848216" record_key="def_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>def_batteringram</key>
+<model>def_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{181e76e3-c1e6-4d3d-b622-908705fca1de}" record_timestamp="1504538693800" record_key="def_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>def_siege_tower_15m</key>
+<model>def_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Dark Elf Siege Tower" last_edit_user="bob">Dark Elf Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>14</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{f3ee1063-953c-483b-83df-9b75a8dac73a}" record_timestamp="1497965848225" record_key="dwf_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>dwf_battering_ram</key>
+<model>dwf_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Dwarf Battering Ram" last_edit_user="bob">Dwarf Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>2</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{c7b884c0-0776-48f0-a03a-8229e29b9a53}" record_timestamp="1497965848234" record_key="dwf_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>dwf_batteringram</key>
+<model>dwf_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{edc637f8-d567-4187-b61e-5860097f3958}" record_timestamp="1504538693839" record_key="dwf_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.1</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>dwf_siege_tower_15m</key>
+<model>dwf_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Dwarf Siege Tower" last_edit_user="bob">Dwarf Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>8</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{67e23b69-9a60-441f-a81d-c481bb1f4ef1}" record_timestamp="1497965848242" record_key="emp_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>emp_battering_ram</key>
+<model>emp_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Empire Battering Ram" last_edit_user="bob">Empire Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>3</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{49d85fa9-695b-4520-8a65-69a1227df86e}" record_timestamp="1497965848251" record_key="emp_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>emp_batteringram</key>
+<model>emp_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{8ed2a56d-4d7a-464f-a465-9fdc21c2eafd}" record_timestamp="1504538693879" record_key="emp_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>emp_siege_tower_15m</key>
+<model>emp_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Empire Siege Tower" last_edit_user="bob">Empire Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>10</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{524738c6-9534-4a8e-ad27-9fd0daf94b6c}" record_timestamp="1497965848259" record_key="grn_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>grn_battering_ram</key>
+<model>grn_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Greenskins Battering Ram" last_edit_user="bob">Greenskins Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>4</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{0a663a7d-0373-4838-8667-e6b3179e8d1a}" record_timestamp="1497965848268" record_key="grn_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>grn_batteringram</key>
+<model>grn_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{b8d29a03-954b-4218-9972-c90c09cad729}" record_timestamp="1504538693918" record_key="grn_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>grn_siege_tower_15m</key>
+<model>grn_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Greenskins Siege Tower" last_edit_user="bob">Greenskins Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>11</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{c3869333-2e2f-40da-bab6-205512e1665b}" record_timestamp="1497965848277" record_key="hef_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>hef_battering_ram</key>
+<model>hef_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="High Elf Battering Ram" last_edit_user="bob">High Elf Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>3</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{7f37d738-67d4-48ee-bb6f-aad9d80a422b}" record_timestamp="1497965848286" record_key="hef_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>hef_batteringram</key>
+<model>hef_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{96e7ecb2-cb5b-4b54-bf91-ed53c93a34cc}" record_timestamp="1504538693957" record_key="hef_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>hef_siege_tower_15m</key>
+<model>hef_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="High Elf Siege Tower" last_edit_user="bob">High Elf Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>10</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{367ccc90-6f51-4c3e-9e62-55e323ee4536}" record_timestamp="1497965848295" record_key="lzd_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>lzd_battering_ram</key>
+<model>lzd_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Lizardmen Battering Ram" last_edit_user="bob">Lizardmen Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>1</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{b43f0226-610d-49e7-9893-5e5effdd5384}" record_timestamp="1497965848304" record_key="lzd_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>lzd_batteringram</key>
+<model>lzd_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{82458e0a-8c24-4a09-850f-206c24572d16}" record_timestamp="1504538693996" record_key="lzd_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type>wh2_siege_tower_lizardmen</audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>lzd_siege_tower_15m</key>
+<model>lzd_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Lizardmen Siege Tower" last_edit_user="bob">Lizardmen Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>7</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{5cbb3c2c-8fdd-4c16-a9bd-32e7997b418b}" record_timestamp="1497965848313" record_key="skv_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>skv_battering_ram</key>
+<model>skv_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Skaven Battering Ram" last_edit_user="bob">Skaven Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>3</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{cf04c54d-7453-4b46-a32f-63f8d14ad756}" record_timestamp="1497965848322" record_key="skv_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>skv_batteringram</key>
+<model>skv_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{877bf011-083f-4398-99e8-cf2d5c621931}" record_timestamp="1504538694034" record_key="skv_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type>wh2_siege_tower_skaven</audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>skv_siege_tower_15m</key>
+<model>skv_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Skaven Siege Tower" last_edit_user="bob">Skaven Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>10</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{5f477f4e-6284-40bc-b421-408dd3dbf9b5}" record_timestamp="1507296742679" record_key="tmb_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>tmb_battering_ram</key>
+<model>tmb_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Tomb King Battering Ram" last_edit_user="bob">Tomb King Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>3</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{f4490946-ac47-4e6a-a42d-cb357ff7258d}" record_timestamp="1509126422251" record_key="tmb_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type></audio_type>
+<autoresolver_effectiveness>0</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>tmb_batteringram</key>
+<model>tmb_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{1eb0cebc-daec-4de6-83e8-4db0a7a338b5}" record_timestamp="1507296742676" record_key="tmb_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type>wh_war_machine_wood_large</audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>tmb_siege_tower_15m</key>
+<model>tmb_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Tomb King Tower" last_edit_user="bob">Tomb King Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>10</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{3b3f83e3-f9d8-4807-b7a3-6df96fc88b75}" record_timestamp="1497965848331" record_key="vmp_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type>wh_war_machine_vampire_large</audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>vmp_battering_ram</key>
+<model>vmp_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Vampire Counts Battering Ram" last_edit_user="bob">Vampire Counts Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>5</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{b9d1cc8f-ffe0-40b4-8cae-6ec676e70c10}" record_timestamp="1497965848340" record_key="vmp_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type>wh_war_machine_vampire_large</audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>vmp_batteringram</key>
+<model>vmp_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{7d3c712e-99d2-4d0f-b3b6-0a1e591ef5f1}" record_timestamp="1504538694073" record_key="vmp_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type>wh_war_machine_vampire_large</audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>vmp_siege_tower_15m</key>
+<model>vmp_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Vampire Counts Siege Tower" last_edit_user="bob">Vampire Counts Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>12</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{1147f192-5a8e-49ca-8cec-c14956f4615a}" record_timestamp="1507296742672" record_key="wef_battering_ram">
+<attack_damage>1000</attack_damage>
+<audio_type>wh_war_machine_wef_large</audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Used to break down gates and the morale of those within." last_edit_user="bob">Used to break down gates and the morale of those within.</description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>17000</hit_points>
+<ignition_threshold>3000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/battering_ram_medium.png</image_path>
+<key>wef_battering_ram</key>
+<model>wef_batteringram</model>
+<onscreen_name state="APPROVED" last_approved_text="Wood Elf Battering Ram" last_edit_user="bob">Wood Elf Battering Ram</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>1</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{4557fe2a-56a2-4d42-9459-c29d2709b52b}" record_timestamp="1497965848358" record_key="wef_batteringram">
+<attack_damage>0</attack_damage>
+<audio_type>wh_war_machine_wef_large</audio_type>
+<autoresolver_effectiveness>0.5</autoresolver_effectiveness>
+<battle_entity>battering_ram</battle_entity>
+<category_image_path>PLACEHOLDER</category_image_path>
+<cost>0</cost>
+<description></description>
+<docking_clearance>2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>500</hit_points>
+<ignition_threshold>100</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower.png</image_path>
+<key>wef_batteringram</key>
+<model>wef_batteringram</model>
+<onscreen_name></onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>1</selection_priority>
+<sort_order>0</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>0</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+<battlefield_siege_vehicles record_uuid="{eb276e25-a1dd-41fc-a195-a8eb336d64ff}" record_timestamp="1504538694111" record_key="wef_siege_tower_15m">
+<attack_damage>0</attack_damage>
+<audio_type>wh_war_machine_wef_large</audio_type>
+<autoresolver_effectiveness>1</autoresolver_effectiveness>
+<battle_entity>siege_tower</battle_entity>
+<category_image_path>UI/Battle UI/siege_vehicle_icons/tower_cat.png</category_image_path>
+<cost>0</cost>
+<description state="APPROVED" last_approved_text="Protects units intending to assault settlement walls." last_edit_user="bob">Protects units intending to assault settlement walls.</description>
+<docking_clearance>3.2</docking_clearance>
+<engine></engine>
+<gun_type></gun_type>
+<hit_points>10200</hit_points>
+<ignition_threshold>2000</ignition_threshold>
+<image_path>UI/Battle UI/siege_vehicle_icons/siege_tower_medium.png</image_path>
+<key>wef_siege_tower_15m</key>
+<model>wef_siege_tower_15m</model>
+<onscreen_name state="APPROVED" last_approved_text="Wood Elf Siege Tower" last_edit_user="bob">Wood Elf Siege Tower</onscreen_name>
+<recruitment_cap>-1</recruitment_cap>
+<selection_priority>2</selection_priority>
+<sort_order>6</sort_order>
+<special_edition_mask>0</special_edition_mask>
+<uses_15m_wall>1</uses_15m_wall>
+<uses_8m_wall>0</uses_8m_wall>
+</battlefield_siege_vehicles>
+</dataroot>

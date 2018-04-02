@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="151340a3dee55d4" name="emp_infield_house_04">
+      <ECBuilding key="emp_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-13.9283447 22.8018951 10.2236328" rotation="1.36603776e-005 162.087067 1.36603776e-005" scale="0.999996364 1 0.999996364"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3dee55d5" name="emp_infield_house_03">
+      <ECBuilding key="emp_infield_house_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="30.7424316 21.7663193 2.8951416" rotation="-2.73207552e-005 229.040482 -359.999969" scale="0.999996841 1 0.999996841"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3dee55d6" name="wh_spruce_d">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_broken_a"/>
+      <ECTransform position="-2.39648438 3.29519463 -13.1650391" rotation="0 -11.3892965 0" scale="0.999999821 1 0.999999821"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3dee55d7" name="wh_spruce_spruce_c_1">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_e"/>
+      <ECTransform position="2.26367188 23.2037964 0.943237305" rotation="0 27.0114479 0" scale="0.999999881 1 0.999999881"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3dee55d8" name="wh_spruce_spruce_c_1">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_e"/>
+      <ECTransform position="-30.7423096 4.93875885 -2.7890625" rotation="0 153.399368 0" scale="0.99999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3dee55d9" name="emp_seacliff_formation_01">
+      <ECBuilding key="emp_seacliff_formation_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="16.0367432 0 3.30944824" rotation="0 100.753876 0" scale="1.22023463 1.22023416 1.22023463"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3dee55da" name="emp_infield_house_04">
+      <ECBuilding key="emp_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-28.2094727 3.04989147 -16.2078857" rotation="-2.21336859e-006 -34.2818069 -6.06261301e-006" scale="0.999996006 1 0.999996006"/>
+      <ECTerrainClamp active="true" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3def55db" name="emp_infield_house_04">
+      <ECBuilding key="emp_infield_house_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.12609863 27.0195084 16.2078857" rotation="-2.07690459e-006 -4.44504452 1.90574447e-005" scale="0.99999553 1 0.99999553"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="151340a3def55dc" name="wh_spruce_spruce_c_1">
+      <ECVegetation key="trees/wh_spruce_tree/wh_spruce_tree_h"/>
+      <ECTransform position="14.802002 8.10228729 -11.1358643" rotation="0 -81.2382584 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

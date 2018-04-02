@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TWaD_loading_screen_quotes_to_campaigns>
+<root>
+<edit_uuid>e93cd532-8ff8-4b6a-afb2-5f9f3373b44b</edit_uuid>
+<include_all_records_in_retail>1</include_all_records_in_retail>
+<field>
+<field_uuid>{bdfcdfc3-7e6e-4444-89e0-295c29fd5903}</field_uuid>
+<primary_key>1</primary_key>
+<name>loading_quote</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>key</column_source_column>
+<column_source_table>loading_screen_quotes</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+<field>
+<field_uuid>{5340e852-0eaa-497d-b930-b0ffa0e35129}</field_uuid>
+<primary_key>1</primary_key>
+<name>campaign</name>
+<field_type>text</field_type>
+<required>1</required>
+<max_length>255</max_length>
+<column_source_column>mapname</column_source_column>
+<column_source_table>campaign_map_playable_areas</column_source_table>
+<requires_startpos_reprocess>0</requires_startpos_reprocess>
+<requires_campaign_map_reprocess>0</requires_campaign_map_reprocess>
+</field>
+</root>

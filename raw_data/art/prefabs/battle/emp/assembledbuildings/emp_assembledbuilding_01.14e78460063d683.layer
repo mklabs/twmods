@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="18">
+  <entities>
+    <entity id="14e78460063d682" name="Point Light 2">
+      <ECPointLight colour="181 255 172 255" colour_scale="3" radius="10" animation_type="LAT_RADIUS_SIN" animation_speed_scale="0.200000003 4" colour_min="0" random_offset="0" falloff_type="WPLFT_SMOOTH"/>
+      <ECTransform position="0 0 0" rotation="0 90.019783 0" scale="0.999996185 1 0.999996185"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

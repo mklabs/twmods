@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="1517d16b0182738" name="emp_outfield_struc_wall_01">
+      <ECBuilding key="emp_outfield_struc_wall_01_arched_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.69348145 0 -9.91552734" rotation="0 0 0" scale="0.599999964 0.600000083 0.599999964"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1517d16b0182739" name="emp_outfield_struc_wall_01">
+      <ECBuilding key="emp_outfield_struc_wall_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="1.69384766 37.3991776 -3.66516113" rotation="0 0 0" scale="0.599999964 0.600000083 0.599999964"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1517d16b018273a" name="emp_hero_add_cren">
+      <ECBuilding key="emp_hero_add_cren" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.86279297 92.5456848 -10.3239746" rotation="0 0 0" scale="1.47725499 1.5 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1517d16b018273b" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.27319336 61.1819038 10.3291016" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1517d16b018273c" name="emp_hero_add_cren">
+      <ECBuilding key="emp_hero_add_cren" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="9.22167969 92.5456848 -10.3291016" rotation="0 0 0" scale="1.47725534 1.5 1.50000036"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="1517d16b018273d" name="emp_wall_support01">
+      <ECBuilding key="emp_wall_support01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.22167969 61.1819 10.3291016" rotation="0 0 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

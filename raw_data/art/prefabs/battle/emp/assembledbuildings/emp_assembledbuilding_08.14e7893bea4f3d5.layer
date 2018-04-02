@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="18">
+  <entities>
+    <entity id="14e7893bea0f376" name="emp_hero_tower_07">
+      <ECBuilding key="emp_hero_tower_07" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="50.9790802 0 16.2619019" rotation="0 268.000702 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_tower_07"/>
+    </entity>
+    <entity id="14e7893bea0f377" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="15.2887115 8.4519558 -15.6012573" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea0f378" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-46.7203674 4.76837158e-007 15.1281738" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea0f379" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="32.7874908 0 -5.22106934" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f37a" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.15711975 0 -12.1887207" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f37b" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-53.2628784 8.4519558 -8.93041992" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea1f37c" name="emp_hero_add_lft_03">
+      <ECBuilding key="emp_hero_add_lft_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="26.8661499 11.2219791 -18.1691284" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_03"/>
+    </entity>
+    <entity id="14e7893bea1f37d" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="53.2664337 8.4519558 1.59857178" rotation="0 269.980194 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea1f37e" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="35.5961151 8.4519558 -15.6012573" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea1f37f" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.15713501 4.76837158e-007 1.16418457" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f380" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="50.6441498 18.521059 20.6482544" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea1f381" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.01153564 8.4519558 -15.6012573" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea1f382" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-0.188690186 12.1877041 -16.3060303" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea1f383" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.14283752 8.4519558 18.9049072" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea1f384" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="32.7874908 0 8.7010498" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f385" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="46.7203217 0 15.5974731" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f386" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="32.7874908 0 1.77526855" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f387" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-50.4512939 34.6918678 -20.4940796" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea1f388" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="0.188674927 12.1877041 19.2454834" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea1f389" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-25.3247986 8.4519558 18.5407104" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea1f38a" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-32.7874756 4.76837158e-007 -12.65802" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f38b" name="emp_assembledbuilding_07">
+      <ECPrefab key="emp_assembledbuilding_07"/>
+      <ECTransform position="-0.313903809 12.9823532 0.455566406" rotation="0 -3.41509531e-006 0" scale="0.999999762 1 0.999999762"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14e7893bea1f38c" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="46.7203522 0 1.77526855" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f38d" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-50.4512939 34.6918678 25.262085" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea1f38e" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-18.7926331 4.76837158e-007 8.16052246" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea1f38f" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="21.2653961 12.1877041 19.2454834" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea1f390" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="48.9990082 34.6918678 -10.382019" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea1f391" name="emp_hero_tower_07">
+      <ECBuilding key="emp_hero_tower_07" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-50.9790955 4.76837158e-007 19.7526245" rotation="0 88.0007019 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_tower_07"/>
+    </entity>
+    <entity id="14e7893bea1f392" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="38.7420197 12.1877041 19.2454834" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea2f393" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-32.7875061 4.76837158e-007 15.1281738" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f394" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="32.7874908 0 -12.1887207" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f395" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-32.7875061 4.76837158e-007 -5.76159668" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f396" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="25.3247833 8.4519558 -15.6012573" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea2f397" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="18.7926178 0 1.77526855" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f398" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-18.7926331 4.76837158e-007 -5.76159668" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f399" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-53.266449 8.4519558 1.34088135" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea2f39a" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.15713501 4.76837158e-007 8.16052246" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f39b" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.0115509 8.4519558 18.5407104" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea2f39c" name="emp_hero_add_lft_03">
+      <ECBuilding key="emp_hero_add_lft_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="16.8690186 22.344286 -18.1691284" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_03"/>
+    </entity>
+    <entity id="14e7893bea2f39d" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-46.7203674 4.76837158e-007 8.16052246" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f39e" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.15713501 4.76837158e-007 -5.76159668" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f39f" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-53.2699585 8.4519558 11.5527954" rotation="0 89.9802094 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea2f3a0" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="50.5656128 34.6918678 -25.262085" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea2f3a1" name="emp_hero_tower_07">
+      <ECBuilding key="emp_hero_tower_07" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-50.9790955 4.76837158e-007 -13.3224487" rotation="0 88.0007019 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_tower_07"/>
+    </entity>
+    <entity id="14e7893bea2f3a2" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-46.7203674 4.76837158e-007 -5.76159668" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f3a3" name="emp_hero_add_lft_03">
+      <ECBuilding key="emp_hero_add_lft_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="40.2241516 22.344286 -18.1691284" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_03"/>
+    </entity>
+    <entity id="14e7893bea2f3a4" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="53.2628632 8.4519558 11.869873" rotation="0 269.980194 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea2f3a5" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="46.7203522 0 8.7010498" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f3a6" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-32.7875061 4.76837158e-007 1.16418457" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f3a7" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="18.7926178 0 -5.22106934" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f3a8" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.15711975 0 -5.22106934" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea2f3a9" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-32.7875061 4.76837158e-007 8.16052246" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3aa" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-15.2887268 8.4519558 -15.9654541" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3ab" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="45.8079987 8.4519558 18.9049072" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3ac" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-18.7926331 4.76837158e-007 1.16418457" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3ad" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-50.4512939 34.6918678 -5.41326904" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea3f3ae" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.15708923 0 15.5974731" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3af" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.14285278 8.4519558 -15.9654541" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3b0" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-50.644165 18.521059 -17.7088013" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea3f3b1" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-45.8080139 8.4519558 18.5407104" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3b2" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-11.8951721 8.61145401 -17.7088013" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea3f3b3" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-18.7926331 4.76837158e-007 15.1281738" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3b4" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-35.5961304 8.4519558 18.5407104" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3b5" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="18.7926178 0 8.7010498" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3b6" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="50.5656128 34.6918678 9.01843262" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea3f3b7" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="46.7203522 0 -12.1887207" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3b8" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-45.8080139 8.4519558 -15.9654541" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3b9" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="53.2699432 8.4519558 -8.61334229" rotation="0 269.980194 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3ba" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-46.7203674 4.76837158e-007 1.16418457" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3bb" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="48.9990082 34.6918678 23.6575928" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea3f3bc" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-25.3247986 8.4519558 -15.9654541" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3bd" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.15711975 0 1.77526855" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3be" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-46.7203369 4.76837158e-007 -12.65802" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3bf" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="45.8079987 8.4519558 -15.6012573" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea3f3c0" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="5.15711975 0 8.7010498" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3c1" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="46.7203522 0 -5.22106934" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea3f3c2" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-21.2654114 12.1877041 -16.3060303" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea4f3c3" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="32.7874603 0 15.5974731" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea4f3c4" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-18.7926025 4.76837158e-007 -12.65802" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea4f3c5" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-35.5961304 8.4519558 -15.9654541" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea4f3c6" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-15.2887268 8.4519558 18.5407104" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea4f3c7" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="15.2887115 8.4519558 18.9049072" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea4f3c8" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="25.3247833 8.4519558 18.9049072" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea4f3c9" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="11.8951569 8.61145401 20.6482544" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea4f3ca" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="18.7926178 0 -12.1887207" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea4f3cb" name="emp_hero_add_lft_03">
+      <ECBuilding key="emp_hero_add_lft_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-12.3580933 22.344286 -18.1691284" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_lft_03"/>
+    </entity>
+    <entity id="14e7893bea4f3cc" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="33.1095581 12.1877041 -16.3060303" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea4f3cd" name="emp_hero_wall_01">
+      <ECBuilding key="emp_hero_wall_01" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="35.5961151 8.4519558 18.9049072" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_wall_01"/>
+    </entity>
+    <entity id="14e7893bea4f3ce" name="emp_hero_tower_07">
+      <ECBuilding key="emp_hero_tower_07" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="50.9790802 0 -16.8131104" rotation="0 268.000702 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_tower_07"/>
+    </entity>
+    <entity id="14e7893bea4f3cf" name="Point Light 1">
+      <ECPointLight colour="255 134 28 255" colour_scale="3" radius="8" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR"/>
+      <ECTransform position="-50.4512939 34.6918678 13.8849487" rotation="0 0 0" scale="1 1 1"/>
+    </entity>
+    <entity id="14e7893bea4f3d0" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-38.7420349 12.1877041 -16.3060303" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+    <entity id="14e7893bea4f3d1" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.15713501 4.76837158e-007 15.1281738" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea4f3d2" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="-5.15710449 4.76837158e-007 -12.65802" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea4f3d3" name="emp_hero_block_03">
+      <ECBuilding key="emp_hero_block_03" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="18.7925873 0 15.5974731" rotation="0 180 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_block_03"/>
+    </entity>
+    <entity id="14e7893bea4f3d4" name="emp_hero_add_robe_02">
+      <ECBuilding key="emp_hero_add_robe_02" damage="0" indestructible="false" toggleable="false" capture_location=""/>
+      <ECTransform position="13.3377075 12.1877041 -16.3060303" rotation="0 0 0" scale="1 1 1"/>
+      <ECTerrainClamp active="false"/>
+      <ECPrefabOverride enabled="false" id="hero_add_robe_02"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

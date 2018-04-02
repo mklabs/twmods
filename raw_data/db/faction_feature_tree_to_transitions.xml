@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faction_feature_tree_to_transitions.xsd" export_time="Tue Aug 29 10:41:43 2017" revision="6" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>2ee6ea77-9098-4490-81d0-ce7e338bd152</edit_uuid>
+<faction_feature_tree_to_transitions record_uuid="{9d219bd4-56dc-4f4d-bb1f-70a0e72ec722}" record_timestamp="1473771458465" record_key="MIGRATORY_HORDEHORDE_TO_STANDARD">
+<feature_tree>MIGRATORY_HORDE</feature_tree>
+<transition>HORDE_TO_STANDARD</transition>
+</faction_feature_tree_to_transitions>
+<faction_feature_tree_to_transitions record_uuid="{a294298f-a385-45fc-97ae-e32ded24e661}" record_timestamp="1473771458465" record_key="MIGRATORY_HORDESTANDARD_TO_HORDE">
+<feature_tree>MIGRATORY_HORDE</feature_tree>
+<transition>STANDARD_TO_HORDE</transition>
+</faction_feature_tree_to_transitions>
+<faction_feature_tree_to_transitions record_uuid="{77500c37-57a7-46b8-98c1-efea149badac}" record_timestamp="1479232511645" record_key="VORTEX_RITUALSRITUAL_NON_PRIMARY_TO_PRIMARY">
+<feature_tree>VORTEX_RITUALS</feature_tree>
+<transition>RITUAL_NON_PRIMARY_TO_PRIMARY</transition>
+</faction_feature_tree_to_transitions>
+<faction_feature_tree_to_transitions record_uuid="{a69e5fb0-09f9-4e75-a8bf-e6dedb64a0e3}" record_timestamp="1479232511645" record_key="VORTEX_RITUALSRITUAL_PRIMARY_TO_NON_PRIMARY">
+<feature_tree>VORTEX_RITUALS</feature_tree>
+<transition>RITUAL_PRIMARY_TO_NON_PRIMARY</transition>
+</faction_feature_tree_to_transitions>
+<faction_feature_tree_to_transitions record_uuid="{7e07c6e8-03ff-4d98-8d1a-b6fab43e8c13}" record_timestamp="1503999703938" record_key="VORTEX_RITUALSRITUAL_PRIMARY_TO_NON_PRIMARY_LOCK_ON_VICTORY">
+<feature_tree>VORTEX_RITUALS</feature_tree>
+<transition>RITUAL_PRIMARY_TO_NON_PRIMARY_LOCK_ON_VICTORY</transition>
+</faction_feature_tree_to_transitions>
+<faction_feature_tree_to_transitions record_uuid="{802941a1-a9d1-4617-955b-244d61f7ea6f}" record_timestamp="1494316439626" record_key="VORTEX_RITUALSRITUAL_PRIMARY_TO_NON_PRIMARY_MPC">
+<feature_tree>VORTEX_RITUALS</feature_tree>
+<transition>RITUAL_PRIMARY_TO_NON_PRIMARY_MPC</transition>
+</faction_feature_tree_to_transitions>
+</dataroot>

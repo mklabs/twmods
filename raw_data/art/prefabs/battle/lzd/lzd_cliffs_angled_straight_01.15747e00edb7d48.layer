@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="15747e00edb7d44">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-8.57006836 0 -0.687133789" rotation="78.4311447 25.7896309 84.7140045" scale="1.99999988 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_cliffs_01"/>
+    </entity>
+    <entity id="15747e00edb7d45">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="10.8188477 0.80314064 0.867675781" rotation="54.7772293 1.56487381 9.68993855" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_cliffs_01"/>
+    </entity>
+    <entity id="15747e00edb7d46">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-26.9987793 0.701086044 -0.867553711" rotation="-49.086544 173.578781 -0.498672098" scale="2.00000072 1.99999976 2.00000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_cliffs_01"/>
+    </entity>
+    <entity id="15747e00edb7d47">
+      <ECBuilding key="lzd_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="26.9987793 2.0482502 0.0283203125" rotation="-88.4062653 225.291275 -271.301117" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="lzd_cliffs_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="14dae2e8ef3876c" name="brt_tower_05">
+      <ECBuilding key="brt_tower_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.15905762 0 0.208496094" rotation="0 43.0000381 0" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="tower_05"/>
+    </entity>
+    <entity id="14dae2e8ef3876b" name="brt_tower_01">
+      <ECBuilding key="brt_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.61914063 54.1727219 0.981567383" rotation="-0.000337192789 -4.99852753 0.000130577435" scale="1.99999619 2 1.99999619"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+    <entity id="14dae2e8ef3876d" name="brt_alpha_flag_tall_01_piece01_destruct01">
+      <ECPropMesh/>
+      <ECMesh model_path="RigidModels/Buildings/brt_alpha_flag_tall_01/brt_alpha_flag_tall_01_piece01_destruct01.rigid_model_v2" opacity="1" burn="false" burn_amount="0" glow_amount="0" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-2.81896973 52.4393234 6.35009766" rotation="0 132.019958 0" scale="2.50000048 2.49999928 2.50000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="14dae2e8ef3876f" name="brt_alpha_flag_small_02">
+      <ECBuilding key="brt_alpha_flag_small_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.15905762 50.0828781 0.680419922" rotation="-88.0002289 -0.000141726414 -90.000351" scale="4.99999762 4.99999762 4.99999809"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="alpha_flag_small_02"/>
+    </entity>
+    <entity id="14dae2e8ef38770" name="brt_alpha_flag_tall_01_piece01_destruct01">
+      <ECPropMesh/>
+      <ECMesh model_path="RigidModels/Buildings/brt_alpha_flag_tall_01/brt_alpha_flag_tall_01_piece01_destruct01.rigid_model_v2" opacity="1" burn="false" burn_amount="0" glow_amount="0" animation_path=""/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECBattleProperties allow_in_outfield="true"/>
+      <ECTransform position="-2.2142334 52.4393234 -6.35009766" rotation="0 44.0000305 0" scale="2.50000048 2.49999952 2.50000048"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="14dae2e8ef3876e" name="brt_tower_01">
+      <ECBuilding key="brt_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.751098633 11.8625412 -4.08917236" rotation="0 -35.0000305 0" scale="1.5 1.5 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+      <ECPrefabOverride enabled="false" id="tower_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

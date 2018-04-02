@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_faction_religion_effects.xsd" export_time="Fri Apr 21 12:32:27 2017" revision="12" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>fe0612ef-83bf-4c73-8bf2-68ed169d5d07</edit_uuid>
+<campaign_faction_religion_effects record_uuid="{807c3dd7-e5d7-4c01-9b06-8a071f392324}" record_timestamp="1446573226779" record_key="2">
+<effects_bundle>wh_main_effect_religion_undeath_public_order</effects_bundle>
+<id>2</id>
+<percentage_upper_threshold>100</percentage_upper_threshold>
+<religion>wh_main_religion_undeath</religion>
+</campaign_faction_religion_effects>
+<campaign_faction_religion_effects record_uuid="{d4028a8d-aa6f-4b6a-912d-a8f7408309b9}" record_timestamp="1492774345441" record_key="62376295">
+<effects_bundle>wh2_main_effect_religion_untainted_public_order_skaventrait</effects_bundle>
+<id>62376295</id>
+<percentage_upper_threshold>100</percentage_upper_threshold>
+<religion>wh2_main_religion_skaven</religion>
+</campaign_faction_religion_effects>
+</dataroot>

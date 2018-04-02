@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_loyalty_event_junctions.xsd" export_time="Mon Jun 19 14:43:49 2017" revision="4" export_branch="T:/" export_user="bob">
+<edit_uuid>753d3e5b-35b2-4dc6-8c34-61715424aecb</edit_uuid>
+<effect_bonus_value_loyalty_event_junctions record_uuid="{c28227cf-9891-4bdb-b916-73a4706909e8}" record_timestamp="1497879828319" record_key="wh2_main_effect_character_mod_loyalty_new_turnamount_modSTART_OF_TURN">
+<bonus_value_id>amount_mod</bonus_value_id>
+<effect>wh2_main_effect_character_mod_loyalty_new_turn</effect>
+<loyallty_event>START_OF_TURN</loyallty_event>
+</effect_bonus_value_loyalty_event_junctions>
+<effect_bonus_value_loyalty_event_junctions record_uuid="{f74a09fa-1626-444b-a2c3-34164eb410f1}" record_timestamp="1491226797961" record_key="wh2_main_effect_character_mod_loyalty_regionalamount_modSTART_OF_TURN">
+<bonus_value_id>amount_mod</bonus_value_id>
+<effect>wh2_main_effect_character_mod_loyalty_regional</effect>
+<loyallty_event>START_OF_TURN</loyallty_event>
+</effect_bonus_value_loyalty_event_junctions>
+<effect_bonus_value_loyalty_event_junctions record_uuid="{e4d50954-8011-4786-8afd-646cf96f56bb}" record_timestamp="1488997976971" record_key="wh2_main_effect_loyalty_penalty_faction_leader_outrankedchance_modSTRONGER_THAN_LEADER">
+<bonus_value_id>chance_mod</bonus_value_id>
+<effect>wh2_main_effect_loyalty_penalty_faction_leader_outranked</effect>
+<loyallty_event>STRONGER_THAN_LEADER</loyallty_event>
+</effect_bonus_value_loyalty_event_junctions>
+</dataroot>

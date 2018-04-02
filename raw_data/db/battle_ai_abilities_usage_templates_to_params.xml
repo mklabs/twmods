@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_ai_abilities_usage_templates_to_params.xsd" export_time="Fri Oct 13 12:20:08 2017" revision="43" export_branch="C:/TW/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7fdbbdbb-774e-4b26-8d6a-524e87e4f22d</edit_uuid>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{754f7730-c8f4-4534-9996-bebfc984242f}" record_timestamp="1489679185512" record_key="always_use_only_landbool_flying_currently">
+<parameter>bool_flying_currently</parameter>
+<template>always_use_only_land</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{cd14c133-6435-4be2-8ed9-88cea2c54ba5}" record_timestamp="1507892914549" record_key="aoe_bombardmentbool_flying_currently">
+<parameter>bool_flying_currently</parameter>
+<template>aoe_bombardment</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d74c1966-2b55-4bb0-af25-11ef907e3ae5}" record_timestamp="1507892914553" record_key="aoe_bombardmentbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>aoe_bombardment</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{4afd1186-a844-44f3-8562-51a349298a2f}" record_timestamp="1507892914551" record_key="aoe_bombardmentbool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>aoe_bombardment</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{21e99512-e748-49e9-b74f-7ad9bdeb62a0}" record_timestamp="1507892914549" record_key="aoe_bombardmentvalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>aoe_bombardment</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{9e3d9c3c-3b9a-4885-9b64-4f14b7efa8e0}" record_timestamp="1507892914549" record_key="aoe_bombardmentvalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>aoe_bombardment</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e5d08af0-cf4e-4667-9288-86b0152de58a}" record_timestamp="1507892914551" record_key="aoe_bombardmentvalue_num_men">
+<parameter>value_num_men</parameter>
+<template>aoe_bombardment</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{f911f608-b4b7-4d74-8c9b-b358e6a2214f}" record_timestamp="1507892919779" record_key="aoe_centred_on_selfbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>aoe_centred_on_self</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{04d20270-3b10-41ab-8327-b42191268907}" record_timestamp="1507892919779" record_key="aoe_centred_on_selfbool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>aoe_centred_on_self</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6f286fa2-6d67-4bcb-95e6-bddd5ede3352}" record_timestamp="1507892919779" record_key="aoe_centred_on_selfvalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>aoe_centred_on_self</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{24a87a25-d51f-4fff-9676-374e3e62a52f}" record_timestamp="1505902124336" record_key="aoebool_flying_currently">
+<parameter>bool_flying_currently</parameter>
+<template>aoe</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{0f487986-43cc-4dd2-b4f6-7f678ebdd1c8}" record_timestamp="1507892914553" record_key="aoevalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>aoe</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{96f6ec34-4576-411b-a7b5-60fc373e31a3}" record_timestamp="1507892914553" record_key="aoevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>aoe</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{af52b94c-6d48-4819-b08c-cbf2807f0608}" record_timestamp="1507892914554" record_key="aoevalue_num_men">
+<parameter>value_num_men</parameter>
+<template>aoe</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{525356cb-2837-4adc-9037-cd6402777da4}" record_timestamp="1490603443730" record_key="artillery_opportunityvalue_enemy_units_in_area_inverse">
+<parameter>value_enemy_units_in_area_inverse</parameter>
+<template>artillery_opportunity</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{50899c7e-b16d-4ab4-8046-bcd84c49df7f}" record_timestamp="1490603443694" record_key="assault_opportunitybool_charged_at">
+<parameter>bool_charged_at</parameter>
+<template>assault_opportunity</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{4ff0e720-e485-4cd6-810a-2d271065e114}" record_timestamp="1490603443706" record_key="assault_opportunitybool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>assault_opportunity</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{eae7e888-2a5f-4b4f-a1fb-48c9cf5e0e49}" record_timestamp="1490603443682" record_key="assault_opportunitybool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>assault_opportunity</template>
+<weighting>0.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{8d1c5490-3bcc-4c82-a001-e67b297c8461}" record_timestamp="1490603443611" record_key="assault_opportunitybool_threatened">
+<parameter>bool_threatened</parameter>
+<template>assault_opportunity</template>
+<weighting>50</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{9c32e958-90d5-48f5-9f56-9692d87dfee0}" record_timestamp="1490603443718" record_key="assault_opportunityvalue_enemy_units_in_area_inverse">
+<parameter>value_enemy_units_in_area_inverse</parameter>
+<template>assault_opportunity</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{0dac66f3-3c3c-4b30-ad91-274270f06dff}" record_timestamp="1489679185133" record_key="augment_defense_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_defense_area</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{76286980-4b62-49ff-9112-b752bc5718ad}" record_timestamp="1494243512789" record_key="augment_defense_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_defense_area</template>
+<weighting>0.33</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e01cc071-10db-48e8-9aa7-6a1979ec5060}" record_timestamp="1489679185076" record_key="augment_defense_areabool_threatened">
+<parameter>bool_threatened</parameter>
+<template>augment_defense_area</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{26b1f7e6-c8c8-4d8f-9b33-13d2f38621ce}" record_timestamp="1489679185046" record_key="augment_defense_areabool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_defense_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1850bcd0-e7db-4bb3-84a5-3461ef789133}" record_timestamp="1489679185252" record_key="augment_defense_areavalue_armour">
+<parameter>value_armour</parameter>
+<template>augment_defense_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{2843adc2-1f66-4087-8892-a811b575a222}" record_timestamp="1489679185223" record_key="augment_defense_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_defense_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{f8eb282e-9dac-4cac-a36a-e08f1f804152}" record_timestamp="1489679182407" record_key="augment_defensebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_defense</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ec25ec40-a49b-41b7-abb9-a5f100790cd3}" record_timestamp="1494243512789" record_key="augment_defensebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_defense</template>
+<weighting>0.4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1125bbea-8054-4419-ba0d-cb0f9db0a995}" record_timestamp="1489679182573" record_key="augment_defensebool_threatened">
+<parameter>bool_threatened</parameter>
+<template>augment_defense</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{89b1d352-1350-4d5d-9728-b80a345af528}" record_timestamp="1489679182545" record_key="augment_defensebool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_defense</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3c6f40cd-fc46-4d5a-86d9-cf00fb43504a}" record_timestamp="1489679182517" record_key="augment_defensevalue_armour">
+<parameter>value_armour</parameter>
+<template>augment_defense</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6382a6ba-dcdd-42b9-a1a2-4556757b0d0b}" record_timestamp="1489679183845" record_key="augment_flying_areabool_flying_unit">
+<parameter>bool_flying_unit</parameter>
+<template>augment_flying_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b94af924-fe69-4ee7-a33e-abbc7dfa3fb4}" record_timestamp="1489679183815" record_key="augment_flying_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_flying_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{f4ced218-b4b2-458e-a9d1-b53967ee3cad}" record_timestamp="1489679183873" record_key="augment_flyingbool_flying_unit">
+<parameter>bool_flying_unit</parameter>
+<template>augment_flying</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{5fe01789-3388-4945-9270-18daf3d5eead}" record_timestamp="1489679185281" record_key="augment_melee_areabool_charging">
+<parameter>bool_charging</parameter>
+<template>augment_melee_area</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6727c44a-78c4-4ef0-a07e-b01e4fc7b9a1}" record_timestamp="1489679185483" record_key="augment_melee_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_melee_area</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{7ee588be-7b9e-4b8b-9c44-ef7860533506}" record_timestamp="1489679185454" record_key="augment_melee_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_melee_area</template>
+<weighting>0.15</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{132c8f8a-2fc4-4611-b03e-72c35d2e367c}" record_timestamp="1489679185426" record_key="augment_melee_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_melee_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{28403266-9c23-4db8-a116-336c4cf7a465}" record_timestamp="1489679185395" record_key="augment_melee_areavalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_melee_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{82712398-77ce-43a1-8c35-3299f6eca145}" record_timestamp="1491292648273" record_key="augment_melee_healing_single_usebool_ability_final_use">
+<parameter>bool_ability_final_use</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>0.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e9a9d2ea-1ede-465e-bd66-1f6006fad67d}" record_timestamp="1491229838667" record_key="augment_melee_healing_single_usebool_charging">
+<parameter>bool_charging</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6410d29c-a6fb-4342-ad3d-e21e9fdf7690}" record_timestamp="1491229838682" record_key="augment_melee_healing_single_usebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{02480f15-a7f5-45a2-833f-dad7bb08fdf5}" record_timestamp="1491229838675" record_key="augment_melee_healing_single_usebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b5fefb4b-0038-401c-be3d-9e4110ef481f}" record_timestamp="1491229838699" record_key="augment_melee_healing_single_usebool_threatened">
+<parameter>bool_threatened</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{c5c96e27-6aff-4442-afdb-717c01d873a8}" record_timestamp="1491292648271" record_key="augment_melee_healing_single_usevalue_hitpoint_damage_taken">
+<parameter>value_hitpoint_damage_taken</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{47d6a033-d19d-4b63-be77-b92a19c53863}" record_timestamp="1491229838716" record_key="augment_melee_healing_single_usevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_melee_healing_single_use</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{43b2334e-3e21-47d4-a6fb-596a8970e722}" record_timestamp="1490603443867" record_key="augment_melee_healingbool_charging">
+<parameter>bool_charging</parameter>
+<template>augment_melee_healing</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{97dea820-e605-42f6-af0f-29d708c0b1a2}" record_timestamp="1490603443879" record_key="augment_melee_healingbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_melee_healing</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{da354258-6f83-4469-9fe0-f554e1d78948}" record_timestamp="1490603443917" record_key="augment_melee_healingbool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_melee_healing</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{0695aa28-a7f4-4985-a069-68f07a777ebc}" record_timestamp="1490603443929" record_key="augment_melee_healingbool_threatened">
+<parameter>bool_threatened</parameter>
+<template>augment_melee_healing</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{82ef6bf6-450f-4fce-9ee9-1775814ee996}" record_timestamp="1490603443955" record_key="augment_melee_healingvalue_hitpoint_damage_taken">
+<parameter>value_hitpoint_damage_taken</parameter>
+<template>augment_melee_healing</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3d3f49c0-9ebd-4bf2-851b-c1c51ef39207}" record_timestamp="1490603443904" record_key="augment_melee_healingvalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_melee_healing</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ef1c5667-ed05-43d7-b06e-a48c5e34bb35}" record_timestamp="1489679184900" record_key="augment_melee_morale_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_melee_morale_area</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{01edcf95-41a2-4426-ad2a-4ee8ea081594}" record_timestamp="1489679184871" record_key="augment_melee_morale_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_melee_morale_area</template>
+<weighting>0.15</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ac9d748c-4fc1-442a-a577-f18381ce0cac}" record_timestamp="1489679184813" record_key="augment_melee_morale_areabool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_melee_morale_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e62efb6e-fc6a-4644-ab42-45d9ae2c92d9}" record_timestamp="1489679184988" record_key="augment_melee_morale_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_melee_morale_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e85c7bf4-bf2f-4eb3-8c90-084da5ef1511}" record_timestamp="1489679184842" record_key="augment_melee_morale_areavalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_melee_morale_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6875705c-230c-40d6-8c2f-005f3d88ad0a}" record_timestamp="1490603443324" record_key="augment_melee_morale_areavalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>augment_melee_morale_area</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1f1146de-142b-446f-b971-2132a6f94915}" record_timestamp="1490603443377" record_key="augment_melee_moralebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_melee_morale</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{367d6e5b-40d1-410f-8aaa-93210ed4aa64}" record_timestamp="1490603443356" record_key="augment_melee_moralebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_melee_morale</template>
+<weighting>0.15</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d92bd193-dd8d-4eba-90ae-cb85b666aa13}" record_timestamp="1490603443366" record_key="augment_melee_moralebool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_melee_morale</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{06b2bf90-4e26-4ef2-ad4c-776097e23b9c}" record_timestamp="1490603443346" record_key="augment_melee_moralevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_melee_morale</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{9e0852dc-7433-4f85-a4f2-3a79688ea63f}" record_timestamp="1490603443335" record_key="augment_melee_moralevalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>augment_melee_morale</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{675db1aa-7fd0-4ce8-98ff-bc271b6fdd55}" record_timestamp="1489679185194" record_key="augment_meleebool_charging">
+<parameter>bool_charging</parameter>
+<template>augment_melee</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{47a5bea2-97c6-4e5b-bdf8-0efdc970563c}" record_timestamp="1489679185165" record_key="augment_meleebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_melee</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ee501432-158e-425f-81ad-64d764ec8d35}" record_timestamp="1489679185367" record_key="augment_meleebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_melee</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b2484bab-1f6a-4f29-a8fd-abb75d2d717d}" record_timestamp="1489679185338" record_key="augment_meleebool_threatened">
+<parameter>bool_threatened</parameter>
+<template>augment_melee</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{40f402db-0af4-4f00-a8e7-e3ecf1e99179}" record_timestamp="1489679185310" record_key="augment_meleevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_melee</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3fc188ac-a2e8-4e05-abd2-97dcef269ea0}" record_timestamp="1489679184578" record_key="augment_morale_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_morale_area</template>
+<weighting>0.15</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{525e77a3-bf43-4b95-bb78-84ac349abd58}" record_timestamp="1489679184784" record_key="augment_morale_areabool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_morale_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1c8474c0-e761-4b86-ad9c-03a614d425e7}" record_timestamp="1489679184754" record_key="augment_morale_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_morale_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{64cd41f6-8447-4fba-a15d-0e2e8e87b290}" record_timestamp="1489679184725" record_key="augment_morale_areavalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>augment_morale_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{33bbba7a-03bb-4a36-a2ca-c4096f06708d}" record_timestamp="1490603443551" record_key="augment_morale_self_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_morale_self_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d4270a63-c409-4cfe-b490-5fabe6a57f7a}" record_timestamp="1490603443562" record_key="augment_morale_self_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_morale_self_area</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{2e0baadb-7e2b-4a8a-a7fa-e94b6b138d5f}" record_timestamp="1490603443575" record_key="augment_morale_self_areabool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_morale_self_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{c1e0e957-5964-46dd-af37-fb60f9a9832f}" record_timestamp="1489679183698" record_key="augment_morale_self_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_morale_self_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1742abd7-f235-41ae-965c-5e08e7e2c999}" record_timestamp="1490603443540" record_key="augment_morale_self_areavalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>augment_morale_self_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{80fec6bb-ff2c-4558-9845-9302870a19df}" record_timestamp="1489679184667" record_key="augment_moralebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_morale</template>
+<weighting>0.15</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{67ffd7f7-e5e6-4c6b-a74c-9e4c2275d983}" record_timestamp="1489679184636" record_key="augment_moralebool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_morale</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1b5b95b2-f617-4abb-8f3c-c3de1d465ca7}" record_timestamp="1489679184607" record_key="augment_moralevalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>augment_morale</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{a310bffa-181c-44d1-a29e-2969ec6cfd50}" record_timestamp="1489679184199" record_key="augment_ranged_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_ranged_area</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d0972a43-9add-4567-b7c2-642b7b113838}" record_timestamp="1490603443224" record_key="augment_ranged_areabool_shooting">
+<parameter>bool_shooting</parameter>
+<template>augment_ranged_area</template>
+<weighting>150</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{5c18cf06-5a90-42ad-9c0b-ea77faa4ee72}" record_timestamp="1490603443254" record_key="augment_ranged_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_ranged_area</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ae6a08d4-3aa5-4209-86a2-48267dba8326}" record_timestamp="1490603443234" record_key="augment_ranged_areavalue_missile_attack">
+<parameter>value_missile_attack</parameter>
+<template>augment_ranged_area</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{7598f506-86ae-4be9-aefa-fccbdce1b6c9}" record_timestamp="1489679184316" record_key="augment_ranged_meleebool_charging">
+<parameter>bool_charging</parameter>
+<template>augment_ranged_melee</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{a8e9bcd1-a2a4-4316-988f-c28cd99c91d0}" record_timestamp="1489679184287" record_key="augment_ranged_meleebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_ranged_melee</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{fb30b6af-10b4-4f5a-b7de-b42f497f9d10}" record_timestamp="1489679184257" record_key="augment_ranged_meleebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_ranged_melee</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d5b15ff3-0e05-4171-85d1-4b586165bce9}" record_timestamp="1489679184405" record_key="augment_ranged_meleebool_shooting">
+<parameter>bool_shooting</parameter>
+<template>augment_ranged_melee</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{9e749070-d747-493f-beb9-0dffddb4acb3}" record_timestamp="1489679184228" record_key="augment_ranged_meleebool_threatened">
+<parameter>bool_threatened</parameter>
+<template>augment_ranged_melee</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b7f4b585-ccfd-4b48-9151-98ef79dd744d}" record_timestamp="1489679184434" record_key="augment_ranged_meleevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>augment_ranged_melee</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{692490be-4f7a-483c-93e5-cf05de102a5c}" record_timestamp="1489679184959" record_key="augment_rangedbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_ranged</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e02271e6-383c-43a4-a6e5-c67d214ca587}" record_timestamp="1490603443214" record_key="augment_rangedbool_shooting">
+<parameter>bool_shooting</parameter>
+<template>augment_ranged</template>
+<weighting>150</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{fa87a225-c8c7-4cd2-a8b8-38c0e5c3c4fd}" record_timestamp="1490603443244" record_key="augment_rangedvalue_missile_attack">
+<parameter>value_missile_attack</parameter>
+<template>augment_ranged</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{965c8d1b-0e21-4482-a33b-842dd0f8006f}" record_timestamp="1489679184374" record_key="augment_self_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>augment_self_area</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{25d3321e-70eb-4849-90e5-dfb5f6066ba1}" record_timestamp="1489679184345" record_key="augment_self_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>augment_self_area</template>
+<weighting>0.4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b54efefd-2c57-474e-88c4-7ffacfa3affd}" record_timestamp="1489679184549" record_key="augment_self_areabool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>augment_self_area</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{a9e0db5d-c4c8-488d-aa14-ac2bb0a99f25}" record_timestamp="1489679184520" record_key="augment_self_areavalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>augment_self_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{2d9d9b5d-a230-42c4-be18-080eb3e12bd7}" record_timestamp="1507892914554" record_key="augment_spellcastingvalue_winds_of_magic_recharge_inverse">
+<parameter>value_winds_of_magic_recharge_inverse</parameter>
+<template>augment_spellcasting</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{67c12359-8625-499b-9607-5ac8d800f044}" record_timestamp="1489679183933" record_key="being_chargedbool_charged_at">
+<parameter>bool_charged_at</parameter>
+<template>being_charged</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{a0d8b558-81ce-4892-903d-9561d7e78819}" record_timestamp="1490603443793" record_key="flanking_opportunitybool_threatened">
+<parameter>bool_threatened</parameter>
+<template>flanking_opportunity</template>
+<weighting>50</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e6edaea6-7bf4-4796-b517-ae501c4c4420}" record_timestamp="1490603443805" record_key="flanking_opportunityvalue_friendly_units_in_area">
+<parameter>value_friendly_units_in_area</parameter>
+<template>flanking_opportunity</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3a1796d1-32a9-4b1e-9b85-482df4d5434b}" record_timestamp="1507892914546" record_key="full_hidebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>full_hide</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{0c5423e6-d5ba-4ce4-8382-269a08e4a0ee}" record_timestamp="1507892914545" record_key="full_hidebool_threatened">
+<parameter>bool_threatened</parameter>
+<template>full_hide</template>
+<weighting>50</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{2312973c-d1c0-402b-8d36-fe9f59c948d8}" record_timestamp="1507892914546" record_key="full_hidebool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>full_hide</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{df980115-8dd9-4091-8a9c-0a554201eaf2}" record_timestamp="1507892914546" record_key="full_hidevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>full_hide</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{52606683-7fd4-496f-92e9-ccddaea8bf14}" record_timestamp="1491229838885" record_key="healing_single_usebool_ability_final_use">
+<parameter>bool_ability_final_use</parameter>
+<template>healing_single_use</template>
+<weighting>0.6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{fcdd8e80-fda4-47de-b4cc-af5c4d28a280}" record_timestamp="1491229838855" record_key="healing_single_usevalue_hitpoint_damage_taken">
+<parameter>value_hitpoint_damage_taken</parameter>
+<template>healing_single_use</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{0bcb5d58-3f33-4b40-92e1-2a33caeee329}" record_timestamp="1507892914554" record_key="healingvalue_hitpoint_damage_taken">
+<parameter>value_hitpoint_damage_taken</parameter>
+<template>healing</template>
+<weighting>50</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{a848b688-6d10-4241-8a04-66244a3ce69a}" record_timestamp="1507892914554" record_key="healingvalue_morale_score">
+<parameter>value_morale_score</parameter>
+<template>healing</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1f75db80-d91b-40c8-be6f-284c983aae97}" record_timestamp="1507892914554" record_key="hex_armour_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_armour_area</template>
+<weighting>8</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{cc6d2c18-43bb-419a-8b1a-b88e379b75b9}" record_timestamp="1507892914554" record_key="hex_armour_areavalue_armour">
+<parameter>value_armour</parameter>
+<template>hex_armour_area</template>
+<weighting>30</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{8f9ffdf4-5079-4458-8b1c-674f0f3b5904}" record_timestamp="1505902124337" record_key="hex_armour_areavalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>hex_armour_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{a138875f-fded-40fc-a986-0952c8d84109}" record_timestamp="1507892914554" record_key="hex_armourbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_armour</template>
+<weighting>8</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{c05540ae-f885-4e8f-99e3-0102cd527bac}" record_timestamp="1507892914554" record_key="hex_armourvalue_armour">
+<parameter>value_armour</parameter>
+<template>hex_armour</template>
+<weighting>30</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{52da136b-7d47-48f3-aa64-8c943e2680de}" record_timestamp="1489679183992" record_key="hex_flying_areabool_flying_unit">
+<parameter>bool_flying_unit</parameter>
+<template>hex_flying_area</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{5112f78a-9dd4-4a77-8b78-642703fd370d}" record_timestamp="1489679183962" record_key="hex_flying_areavalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>hex_flying_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{928e5626-8ce0-49eb-8717-78110ec387b7}" record_timestamp="1489679183786" record_key="hex_flyingbool_flying_unit">
+<parameter>bool_flying_unit</parameter>
+<template>hex_flying</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{4cfd9288-1853-477c-9a8c-e7ae6ab06f06}" record_timestamp="1507892919780" record_key="hex_melee_area_selfbool_charging_at_me">
+<parameter>bool_charging_at_me</parameter>
+<template>hex_melee_area_self</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{491b067f-3e46-44c2-9ec9-e3c83ebdae1a}" record_timestamp="1507892919780" record_key="hex_melee_area_selfbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_melee_area_self</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{c448ac20-29dc-44b6-beba-169ae5f99653}" record_timestamp="1507892919780" record_key="hex_melee_area_selfbool_threatened">
+<parameter>bool_threatened</parameter>
+<template>hex_melee_area_self</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1211b13c-5f0a-43a9-b056-af590b84a885}" record_timestamp="1489679183263" record_key="hex_melee_areabool_charging">
+<parameter>bool_charging</parameter>
+<template>hex_melee_area</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{429eed75-93c5-490f-bb7e-1ddb9d595018}" record_timestamp="1489679183234" record_key="hex_melee_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_melee_area</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{c37834ab-d37f-433d-85bc-b19764adde32}" record_timestamp="1489679183204" record_key="hex_melee_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>hex_melee_area</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6390f401-aa87-4a56-b272-77e25001a38b}" record_timestamp="1489679183409" record_key="hex_melee_areavalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>hex_melee_area</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{af47ae28-a00f-43d3-80c7-effea7a2b5ce}" record_timestamp="1489679183379" record_key="hex_melee_areavalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>hex_melee_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{dcd44aa1-db61-4d9c-89f2-080f29fdfada}" record_timestamp="1489679184109" record_key="hex_meleebool_charging">
+<parameter>bool_charging</parameter>
+<template>hex_melee</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{f8b36488-2322-4db2-a8e7-a0fe681a5fbb}" record_timestamp="1489679184080" record_key="hex_meleebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_melee</template>
+<weighting>6</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{5895714e-5477-4eb9-8f03-811b33c92d51}" record_timestamp="1489679184051" record_key="hex_meleebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>hex_melee</template>
+<weighting>0.25</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{cc46db55-0121-4a06-992c-f6251b2c5e9f}" record_timestamp="1489679184021" record_key="hex_meleebool_threatening_me">
+<parameter>bool_threatening_me</parameter>
+<template>hex_melee</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3230bfd6-d361-4ad8-b17e-b8300ed394f6}" record_timestamp="1489679183292" record_key="hex_meleevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>hex_melee</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{8d13a723-3672-4e38-84da-270711df3fb6}" record_timestamp="1489679183524" record_key="hex_morale_areabool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>hex_morale_area</template>
+<weighting>0.125</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{170074d6-e10b-473b-940d-80cabf154afe}" record_timestamp="1489679183495" record_key="hex_morale_areavalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>hex_morale_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{82727088-aa59-46f0-bb47-89a1bc4a631e}" record_timestamp="1489679183467" record_key="hex_morale_areavalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>hex_morale_area</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d14993ac-4744-40e7-9748-c8e894658388}" record_timestamp="1489679183350" record_key="hex_moralebool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>hex_morale</template>
+<weighting>0.125</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{7453df88-21b2-4e95-8d8c-09ea2f914bec}" record_timestamp="1489679183321" record_key="hex_moralevalue_morale_score_inverse">
+<parameter>value_morale_score_inverse</parameter>
+<template>hex_morale</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{537079dd-da7a-4efe-8d07-f26538c17ae6}" record_timestamp="1489679183610" record_key="hex_ranged_areabool_missile_unit_inverse">
+<parameter>bool_missile_unit_inverse</parameter>
+<template>hex_ranged_area</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3a778a83-c782-4bbc-a044-4805ad73d0a9}" record_timestamp="1489679183582" record_key="hex_ranged_areabool_shooting">
+<parameter>bool_shooting</parameter>
+<template>hex_ranged_area</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{17d2c702-a086-44e9-888a-173d31363a68}" record_timestamp="1489679183553" record_key="hex_ranged_areavalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>hex_ranged_area</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1cc45c9d-9041-46b6-a967-4e71f06bbfce}" record_timestamp="1490603443506" record_key="hex_ranged_melee_areabool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_ranged_melee_area</template>
+<weighting>60</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6c1db34e-3051-45fc-9141-1f255af74376}" record_timestamp="1490603443495" record_key="hex_ranged_melee_areabool_shooting">
+<parameter>bool_shooting</parameter>
+<template>hex_ranged_melee_area</template>
+<weighting>80</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{1b7b91bc-fb26-4741-a09c-e5050a649b3a}" record_timestamp="1490603443517" record_key="hex_ranged_melee_areavalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>hex_ranged_melee_area</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{7d426d26-1a64-427e-8af9-9ef5631a836f}" record_timestamp="1490603443484" record_key="hex_ranged_melee_areavalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>hex_ranged_melee_area</template>
+<weighting>0.15</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{f290f67d-2aff-4673-8c9b-cf227e1ce6be}" record_timestamp="1489679183438" record_key="hex_rangedbool_missile_unit_inverse">
+<parameter>bool_missile_unit_inverse</parameter>
+<template>hex_ranged</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{3767391b-1474-4940-90e0-26ad0272e9d7}" record_timestamp="1489679183639" record_key="hex_rangedbool_shooting">
+<parameter>bool_shooting</parameter>
+<template>hex_ranged</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{77d22966-3dee-474e-9df8-9de150e039a4}" record_timestamp="1507892914554" record_key="hex_speedbool_charging">
+<parameter>bool_charging</parameter>
+<template>hex_speed</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b09d6473-69cb-4e2f-9d9b-1c866bfe9522}" record_timestamp="1507892914554" record_key="hex_speedbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>hex_speed</template>
+<weighting>0.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{6637f9e0-e09a-41df-b1bd-ea473eca3e38}" record_timestamp="1507892914554" record_key="hex_speedbool_threatening_me">
+<parameter>bool_threatening_me</parameter>
+<template>hex_speed</template>
+<weighting>50</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{5500f3f1-8f6c-44c5-9cab-47f596061c63}" record_timestamp="1507892914554" record_key="hex_speedbool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>hex_speed</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e6064d7f-7f69-49ac-a13e-4933a3123851}" record_timestamp="1489679182826" record_key="hex_spellcasterbool_has_abilities_costing_mana">
+<parameter>bool_has_abilities_costing_mana</parameter>
+<template>hex_spellcaster</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ee6ad937-b645-45c6-874b-47ccf4844326}" record_timestamp="1489679182797" record_key="hex_spellcastingvalue_winds_of_magic_recharge">
+<parameter>value_winds_of_magic_recharge</parameter>
+<template>hex_spellcasting</template>
+<weighting>1</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{4e89a982-2c63-4d98-93d9-0c784b7e85ec}" record_timestamp="1505902124336" record_key="projectile_apbool_threatening_me">
+<parameter>bool_threatening_me</parameter>
+<template>projectile_ap</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{64a15f06-c046-4b55-af9d-d708c00cfc09}" record_timestamp="1505902124336" record_key="projectile_apvalue_armour">
+<parameter>value_armour</parameter>
+<template>projectile_ap</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{bba01129-269f-45d9-98fa-0a8dcb243d05}" record_timestamp="1505902124336" record_key="projectile_apvalue_homing_projectile_ratio">
+<parameter>value_homing_projectile_ratio</parameter>
+<template>projectile_ap</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{b738d5af-7eee-4007-8977-784514b0e619}" record_timestamp="1505902124336" record_key="projectile_apvalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>projectile_ap</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{824de0bb-779a-48d1-90f3-c694af4add4a}" record_timestamp="1490603443830" record_key="projectile_homingvalue_homing_projectile_ratio">
+<parameter>value_homing_projectile_ratio</parameter>
+<template>projectile_homing</template>
+<weighting>10</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{9b9fd893-3d93-4e52-9adb-86ac5839b2a9}" record_timestamp="1505902124336" record_key="projectilebool_threatening_me">
+<parameter>bool_threatening_me</parameter>
+<template>projectile</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{21c4f041-8993-4f3f-a636-dd59fe8046e4}" record_timestamp="1489679182972" record_key="projectilevalue_armour_inverse">
+<parameter>value_armour_inverse</parameter>
+<template>projectile</template>
+<weighting>4</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{16a622ce-424e-45bb-9a8b-4e6065f2c9c5}" record_timestamp="1505902124336" record_key="projectilevalue_homing_projectile_ratio">
+<parameter>value_homing_projectile_ratio</parameter>
+<template>projectile</template>
+<weighting>3</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{e104999e-f25b-4b7f-b0c6-8afe6c93dbc1}" record_timestamp="1505902124336" record_key="projectilevalue_melee_attack">
+<parameter>value_melee_attack</parameter>
+<template>projectile</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{54e44744-43cb-4c73-a0ed-ac7300a2e745}" record_timestamp="1507892919781" record_key="ranged_defensebool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>ranged_defense</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{5a27c85c-8f9d-4d72-bf77-552d44872347}" record_timestamp="1507892919781" record_key="ranged_defensebool_under_fire">
+<parameter>bool_under_fire</parameter>
+<template>ranged_defense</template>
+<weighting>20</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{9b2aaf5c-c78c-4de1-b23a-412a764aa86d}" record_timestamp="1489679183114" record_key="threatenedbool_charged_at">
+<parameter>bool_charged_at</parameter>
+<template>threatened</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{db118857-b549-4162-8421-6c3a3f4a7fa9}" record_timestamp="1489679183086" record_key="threatenedbool_in_melee">
+<parameter>bool_in_melee</parameter>
+<template>threatened</template>
+<weighting>1.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{ea15f8c0-255d-444e-8227-a03dd91d12c6}" record_timestamp="1489679182714" record_key="threatenedbool_out_of_melee">
+<parameter>bool_out_of_melee</parameter>
+<template>threatened</template>
+<weighting>0.5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d70e6d9a-28b9-416c-b89b-cbd649bed58b}" record_timestamp="1489679182686" record_key="threatenedbool_threatening_me">
+<parameter>bool_threatening_me</parameter>
+<template>threatened</template>
+<weighting>150</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{00152415-4a77-41bd-9790-829d34cb9e57}" record_timestamp="1496138497808" record_key="vortex_breathbool_flying_currently">
+<parameter>bool_flying_currently</parameter>
+<template>vortex_breath</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{7f5ec865-784f-4b2a-9b6d-22f29701dc76}" record_timestamp="1507892914554" record_key="vortex_breathvalue_enemy_units_in_cone">
+<parameter>value_enemy_units_in_cone</parameter>
+<template>vortex_breath</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{7bc11502-dd68-4852-9107-59c1291e5bc2}" record_timestamp="1507892914553" record_key="vortex_breathvalue_num_men">
+<parameter>value_num_men</parameter>
+<template>vortex_breath</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{8bdcf942-070d-4cb0-b84e-e7a3234d4391}" record_timestamp="1500556729513" record_key="vortex_flying_onlybool_flying_currently_inverse">
+<parameter>bool_flying_currently_inverse</parameter>
+<template>vortex_flying_only</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{bf5d157c-bf78-4c9c-a773-2d5b48ef1183}" record_timestamp="1500556729513" record_key="vortex_flying_onlyvalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>vortex_flying_only</template>
+<weighting>5</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{60657b9c-3cda-48f0-b10d-db39cf2f2ec9}" record_timestamp="1496138497805" record_key="vortex_windbool_flying_currently">
+<parameter>bool_flying_currently</parameter>
+<template>vortex_wind</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{f9b99e0b-c830-4dfc-bbda-f91bbbed1e5d}" record_timestamp="1507892914554" record_key="vortex_windvalue_enemy_units_in_cone">
+<parameter>value_enemy_units_in_cone</parameter>
+<template>vortex_wind</template>
+<weighting>100</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{acc61fd2-4dc1-4f2a-ab2b-ca1d169f0a90}" record_timestamp="1507892914553" record_key="vortex_windvalue_num_men">
+<parameter>value_num_men</parameter>
+<template>vortex_wind</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{dbca1545-dc82-4421-80a5-4f2cad350c83}" record_timestamp="1504266396820" record_key="vortexbool_flying_currently">
+<parameter>bool_flying_currently</parameter>
+<template>vortex</template>
+<weighting>0</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{920fd160-bfcd-4df0-9613-cd54aab04631}" record_timestamp="1507892914553" record_key="vortexvalue_enemy_units_in_area">
+<parameter>value_enemy_units_in_area</parameter>
+<template>vortex</template>
+<weighting>75</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{d7e0d86f-cc7b-4ab1-8764-3243711d27c1}" record_timestamp="1507892914554" record_key="vortexvalue_num_men">
+<parameter>value_num_men</parameter>
+<template>vortex</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+<battle_ai_abilities_usage_templates_to_params record_uuid="{869a78b4-42bf-41d0-9f0e-17b54baa3f8b}" record_timestamp="1507892914553" record_key="vortexvalue_speed_current_inverse">
+<parameter>value_speed_current_inverse</parameter>
+<template>vortex</template>
+<weighting>2</weighting>
+</battle_ai_abilities_usage_templates_to_params>
+</dataroot>

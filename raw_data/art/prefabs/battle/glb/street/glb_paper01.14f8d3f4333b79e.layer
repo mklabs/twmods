@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="14f8d3f4333b79d" name="wh_paper">
+      <ECDecal model_path="rigidmodels/Decals/generic/wh_paper.rigid_model_v2" parallax_scale="0" tiling="0" override_gbuffer_normal="true"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0 0 0" rotation="0 -76.0000534 0" scale="1.79015982 1.79015982 1.79015982"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

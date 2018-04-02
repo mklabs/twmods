@@ -1,0 +1,46 @@
+<layer version="16">
+  <entities>
+    <entity id="14c9e9c97036a01" name="dwf_statue_big_02_body_02">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_02_body_02" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c9e9d4b0c6a03" name="dwf_statue_big_02_plinth_02">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_02_plinth_02" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="-1 0 -2"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c9e9d71e46a04" name="dwf_statue_big_02_helmet_02">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_02_helmet_02" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c9e9dbaae6a06" name="dwf_statue_big_02_shield_02">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_02_shield_02" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c9ea01ace6a07" name="dwf_statue_big_02_horns_02">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_02_horns_02" destruction_level="0"/>
+      <ECTransform rotation="0 0 0" scale="1 1 1" position="0 0 0"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+    <entity id="14c9ea37e996a09" name="dwf_statue_big_01_axe_01">
+      <ECBuilding capture_location="" indestructible="false" key="dwf_statue_big_01_axe_01" destruction_level="0"/>
+      <ECTransform rotation="-4.13458583e-005 1.12723847e-005 178.105316" scale="1.0000006 1.00000358 1.00000334" position="-0.999999762 15 2.38418579e-007"/>
+      <ECTerrainClamp active="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <LOGICAL/>
+    <TRANSFORM>
+      <from id="14c9e9d4b0c6a03">
+        <to id="14c9e9c97036a01"/>
+        <to id="14c9e9d71e46a04"/>
+        <to id="14c9e9dbaae6a06"/>
+        <to id="14c9ea01ace6a07"/>
+        <to id="14c9ea37e996a09"/>
+      </from>
+    </TRANSFORM>
+  </associations>
+</layer>

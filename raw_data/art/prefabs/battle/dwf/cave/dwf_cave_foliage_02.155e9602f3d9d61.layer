@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="155e9602f3d9d5b">
+      <ECBuilding key="wh_cave_of_foliage_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.15557861 0 2.40185547" rotation="65.6055832 125.149742 51.1724167" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_02"/>
+    </entity>
+    <entity id="155e9602f3d9d5c">
+      <ECBuilding key="wh_cave_of_foliage_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.08837891 0 -1.03930664" rotation="68.5006332 132.850616 61.1258316" scale="1.99999988 2 1.99999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_04"/>
+    </entity>
+    <entity id="155e9602f3d9d5d">
+      <ECBuilding key="wh_cave_of_foliage_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="6.91918945 0 2.72277832" rotation="65.6055832 125.149742 51.1724167" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_03"/>
+    </entity>
+    <entity id="155e9602f3d9d5e">
+      <ECBuilding key="wh_cave_of_foliage_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.94158936 0 -2.72277832" rotation="39.3978004 184.470184 355.711365" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_01"/>
+    </entity>
+    <entity id="155e9602f3d9d5f">
+      <ECBuilding key="wh_cave_of_foliage_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="7.94152832 0 2.07287598" rotation="65.6055832 125.149742 51.1724167" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_04"/>
+    </entity>
+    <entity id="155e9602f3d9d60">
+      <ECBuilding key="wh_cave_of_foliage_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.62567139 0 0.765258789" rotation="65.6055832 125.149742 51.1724167" scale="2 2 2"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_cave_of_foliage_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

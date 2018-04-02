@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="26">
+  <entities>
+    <entity id="15c86d362998cfb">
+      <ECVFX vfx="wh_main_lib_fire_smoke" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.368530273 0.271007538 0.834655762" rotation="0.851593137 0.00144548202 -0.194502339" scale="0.999999881 0.999999881 1.00000024"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="15c86d362998cfc">
+      <ECBuilding key="glb_meteor_f" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.337280273 0 -2.10412598" rotation="0 -1.42075157 0" scale="0.420491755 0.420491725 0.420491755"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_meteor_f"/>
+    </entity>
+    <entity id="15c86d362998cfd">
+      <ECBuilding key="glb_meteor_a" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.744506836 0 0.593200684" rotation="0 25.9999981 0" scale="0.420491695 0.420491695 0.420491695"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_meteor_a"/>
+    </entity>
+    <entity id="15c86d362998cfe">
+      <ECDecal model_path="rigidmodels/decals/generic/crater_a.rigid_model_v2" parallax_scale="0.109999999" tiling="0" normal_mode="DNM_DECAL_OVERRIDE" apply_to_terrain="true" apply_to_objects="true" render_above_snow="false"/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="-0.744506836 0 2.10418701" rotation="14.8329601 -85.8533249 -15.7758856" scale="6.57412481 1.00000012 6.57412434"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

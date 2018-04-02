@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="150f8c950cba174" name="vmp_walldeco_01">
+      <ECBuilding key="vmp_walldeco_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.8278809 7.2479248e-005 4.58410645" rotation="0 0 0" scale="0.499999195 0.5 0.499999195"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba175" name="vmp_walldeco_01">
+      <ECBuilding key="vmp_walldeco_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.472168 7.2479248e-005 4.58410645" rotation="0 0 0" scale="0.499999195 0.5 0.499999195"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba176" name="vmp_walldeco_01">
+      <ECBuilding key="vmp_walldeco_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="36.329834 0 4.47015381" rotation="0 0 0" scale="0.499999404 0.5 0.499999404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba177" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-24.1943359 13.322628 3.97344971" rotation="0 0 0" scale="0.300000012 0.300000012 0.300000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba178" name="vmp_tower_01">
+      <ECBuilding key="vmp_tower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="23.769043 13.322628 3.97344971" rotation="0 0 0" scale="0.300000012 0.300000012 0.300000012"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba179" name="vmp_megabuttress_02">
+      <ECBuilding key="vmp_megabuttress_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="24.2844238 1.71661377e-005 -4.58410645" rotation="0 90 0" scale="0.499998629 0.5 0.499998629"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba17a" name="vmp_megabuttress_02">
+      <ECBuilding key="vmp_megabuttress_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-24.1187744 1.71661377e-005 -4.58410645" rotation="0 90 0" scale="0.499998748 0.5 0.499998748"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="150f8c950cba17b" name="vmp_walldeco_01">
+      <ECBuilding key="vmp_walldeco_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-36.329834 0 4.47015381" rotation="0 0 0" scale="0.499999404 0.5 0.499999404"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

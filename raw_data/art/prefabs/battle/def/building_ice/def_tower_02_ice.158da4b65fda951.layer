@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="1590819725e82a2">
+      <ECBuilding key="def_tower_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.83942032 0 0.0461263657" rotation="0 -90 0" scale="0.999999702 1 0.999999702"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="tower_02"/>
+    </entity>
+    <entity id="15d321726e06685">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="2.77227426 20.1317749 0.0370867252" rotation="0 88.9996567 0" scale="0.48225224 0.482251972 0.48225224"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+    <entity id="15d32173fb66686">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="3.40644503 20.131773 3.38883567" rotation="0 148.600571 0" scale="0.48225224 0.482251972 0.48225224"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+    <entity id="15d3217717c6687">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-3.91424322 20.1317673 3.66596341" rotation="0 215.253601 0" scale="0.48225227 1.02316236 0.48225227"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+    <entity id="15d3217bd276688">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.84904838 20.131773 -0.172403812" rotation="0 265.916534 0" scale="0.48225227 1.02316236 0.48225227"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+    <entity id="15d3217dc6d6689">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.84904838 20.131773 0.675358772" rotation="0 265.916595 0" scale="0.482252419 1.02316236 0.482252419"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+    <entity id="15d3217e3ce668a">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.8490479 17.8789082 -1.57334793" rotation="0 265.916687 0" scale="0.482252419 1.02316236 0.482252419"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+    <entity id="15d3217fd6c668b">
+      <ECBuilding key="wh_icicle_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-2.8490479 13.8077965 -0.351311445" rotation="0 265.916687 0" scale="0.482252419 1.02316236 0.482252419"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh_icicle_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform>
+      <from id="1590819725e82a2">
+        <to id="15d32173fb66686"/>
+        <to id="15d3217e3ce668a"/>
+        <to id="15d3217717c6687"/>
+        <to id="15d3217bd276688"/>
+        <to id="15d3217dc6d6689"/>
+        <to id="15d321726e06685"/>
+        <to id="15d3217fd6c668b"/>
+      </from>
+    </Transform>
+  </associations>
+</layer>

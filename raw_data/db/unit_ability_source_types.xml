@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_ability_source_types.xsd" export_time="Thu Jul 20 16:53:25 2017" revision="8" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>94219270-4109-4d24-8ea0-1d73528a28cf</edit_uuid>
+<unit_ability_source_types record_uuid="{c4f5d100-2dfb-4fe1-a1aa-8f59ad10fe95}" record_timestamp="1495031064126" record_key="army">
+<key>army</key>
+<name state="APPROVED" last_approved_text="Army ability" last_edit_user="bob">Army ability</name>
+<tooltip state="APPROVED" last_approved_text="These abilities are not bound to any one unit and can therefore be used anywhere on the battlefield." last_edit_user="bob">These abilities are not bound to any one unit and can therefore be used anywhere on the battlefield.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{8eb3d496-c81f-4a0d-8f1c-4e02f82a33d6}" record_timestamp="1493981711581" record_key="banner">
+<key>banner</key>
+<name state="APPROVED" last_approved_text="Banner" last_edit_user="bob">Banner</name>
+<tooltip state="APPROVED" last_approved_text="Banners can be carried into battle by any unit, improving their condition for the duration of the fray." last_edit_user="bob">Banners can be carried into battle by any unit, improving their condition for the duration of the fray.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{e53058f5-d4f3-4b1b-ae41-3d55b017f26f}" record_timestamp="1495031064079" record_key="bound">
+<key>bound</key>
+<name state="APPROVED" last_approved_text="Bound spell" last_edit_user="bob">Bound spell</name>
+<tooltip state="APPROVED" last_approved_text="Spells sometimes apply limited charges to items or weapons, without draining the Winds of Magic." last_edit_user="bob">Spells sometimes apply limited charges to items or weapons, without draining the Winds of Magic.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{37e5447d-b6ae-4139-8cbc-55e82845f62b}" record_timestamp="1495031064037" record_key="character">
+<key>character</key>
+<name state="APPROVED" last_approved_text="Character ability" last_edit_user="bob">Character ability</name>
+<tooltip state="APPROVED" last_approved_text="Lords and Heroes all have abilities to aid them in their quest for supremacy on campaign and in battle." last_edit_user="bob">Lords and Heroes all have abilities to aid them in their quest for supremacy on campaign and in battle.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{3bd9f51b-96fd-43b6-919e-d9a6f2afaedb}" record_timestamp="1493363673822" record_key="default">
+<key>default</key>
+<name state="APPROVED" last_approved_text="default" last_edit_user="bob">default</name>
+<tooltip></tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{1287bbbf-a185-4453-9780-6b3013d324e5}" record_timestamp="1500566005409" record_key="faction">
+<key>faction</key>
+<name state="APPROVED" last_approved_text="Faction" last_edit_user="bob">Faction</name>
+<tooltip state="APPROVED" last_approved_text="These abilities are intrinsic to the faction and its specific personality." last_edit_user="bob">These abilities are intrinsic to the faction and its specific personality.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{06302324-fef5-434c-b5fb-05997215ebe2}" record_timestamp="1495031063992" record_key="hero">
+<key>hero</key>
+<name state="APPROVED" last_approved_text="Hero ability" last_edit_user="bob">Hero ability</name>
+<tooltip state="APPROVED" last_approved_text="A Hero's abilities are specific to their owner, providing temporary or permanent assistance." last_edit_user="bob">A Hero's abilities are specific to their owner, providing temporary or permanent assistance.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{a32e3911-038d-4ed4-91b9-0eeb7d850529}" record_timestamp="1493981711581" record_key="item">
+<key>item</key>
+<name state="APPROVED" last_approved_text="Item" last_edit_user="bob">Item</name>
+<tooltip state="APPROVED" last_approved_text="Items with magical properties may assist their owners on the battlefield." last_edit_user="bob">Items with magical properties may assist their owners on the battlefield.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{61451c9f-6084-44df-b70c-ccb78de457ce}" record_timestamp="1495031063949" record_key="lord">
+<key>lord</key>
+<name state="APPROVED" last_approved_text="Lord ability" last_edit_user="bob">Lord ability</name>
+<tooltip state="APPROVED" last_approved_text="A Lord's abilities are specific to their owner, providing temporary or permanent assistance." last_edit_user="bob">A Lord's abilities are specific to their owner, providing temporary or permanent assistance.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{6a7f0df1-b473-4478-8fe3-9590491afa4c}" record_timestamp="1495031063907" record_key="lore">
+<key>lore</key>
+<name state="APPROVED" last_approved_text="Lore attribute" last_edit_user="bob">Lore attribute</name>
+<tooltip state="APPROVED" last_approved_text="The foundation of any spell connected to a magical Lore, attributes offer wide-reaching and constant effects." last_edit_user="bob">The foundation of any spell connected to a magical Lore, attributes offer wide-reaching and constant effects.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{c67709b7-80a8-436b-b55c-79137113d724}" record_timestamp="1493981711582" record_key="mark">
+<key>mark</key>
+<name state="APPROVED" last_approved_text="Mark of Chaos" last_edit_user="bob">Mark of Chaos</name>
+<tooltip state="APPROVED" last_approved_text="When the Ruinous Powers smile upon their servants, those marks - and their beneficial effects - are borne for the duration of the battle." last_edit_user="bob">When the Ruinous Powers smile upon their servants, those marks - and their beneficial effects - are borne for the duration of the battle.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{bf11e315-b831-488e-8e91-25c812111d07}" record_timestamp="1495031063863" record_key="mount">
+<key>mount</key>
+<name state="APPROVED" last_approved_text="Mount ability" last_edit_user="bob">Mount ability</name>
+<tooltip state="APPROVED" last_approved_text="A mount's abilities are a core part of its being and, used wisely, can mark the difference between victory and defeat." last_edit_user="bob">A mount's abilities are a core part of its being and, used wisely, can mark the difference between victory and defeat.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{ad751c9c-cef2-40ea-a886-2fca7eb760e9}" record_timestamp="1495031063818" record_key="quest">
+<key>quest</key>
+<name state="APPROVED" last_approved_text="Quest ability" last_edit_user="bob">Quest ability</name>
+<tooltip state="APPROVED" last_approved_text="Unique and bizarre abilities that can only be found at the mysterious locations where quest battles are fought." last_edit_user="bob">Unique and bizarre abilities that can only be found at the mysterious locations where quest battles are fought.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{f5157ec6-ca1e-439a-b046-e9f69ca7759f}" record_timestamp="1493981711581" record_key="rune">
+<key>rune</key>
+<name state="APPROVED" last_approved_text="Rune" last_edit_user="bob">Rune</name>
+<tooltip state="APPROVED" last_approved_text="A varied and powerful ability type, often concerned with defence." last_edit_user="bob">A varied and powerful ability type, often concerned with defence.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{21e878cb-4c44-4fc3-9563-5e2d04339449}" record_timestamp="1493981711581" record_key="spell">
+<key>spell</key>
+<name state="APPROVED" last_approved_text="Spell" last_edit_user="bob">Spell</name>
+<tooltip state="APPROVED" last_approved_text="Spells are summoned from the Winds of Magic, taking time and energy to conjure, and always directed outwards - never on the magic-user themself." last_edit_user="bob">Spells are summoned from the Winds of Magic, taking time and energy to conjure, and always directed outwards - never on the magic-user themself.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{cab2c447-64d0-4e7e-9525-8ceb63cc10bc}" record_timestamp="1495031063775" record_key="unit">
+<key>unit</key>
+<name state="APPROVED" last_approved_text="Unit ability" last_edit_user="bob">Unit ability</name>
+<tooltip state="APPROVED" last_approved_text="An ability is as much a part of its owning units as arms or legs, and can mark the difference between victory and defeat." last_edit_user="bob">An ability is as much a part of its owning units as arms or legs, and can mark the difference between victory and defeat.</tooltip>
+</unit_ability_source_types>
+<unit_ability_source_types record_uuid="{5585b332-75e2-4d6d-94ca-2131e8397824}" record_timestamp="1493981711581" record_key="weapon">
+<key>weapon</key>
+<name state="APPROVED" last_approved_text="Weapon" last_edit_user="bob">Weapon</name>
+<tooltip state="APPROVED" last_approved_text="Weapons can do so much more than hack and slash - some are imbued with magical properties to further aid their bearers." last_edit_user="bob">Weapons can do so much more than hack and slash - some are imbued with magical properties to further aid their bearers.</tooltip>
+</unit_ability_source_types>
+</dataroot>

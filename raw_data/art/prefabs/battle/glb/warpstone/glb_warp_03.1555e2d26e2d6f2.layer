@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="22">
+  <entities>
+    <entity id="1555e2d26e2d6f0">
+      <ECBuilding key="glb_warpstone_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0479736328 1.76065063 0.139526367" rotation="11.480463 -56.1030235 89.4720688" scale="0.5727548 0.572754443 0.572754681"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_warpstone_02"/>
+    </entity>
+    <entity id="1555e2d26e2d6f1">
+      <ECBuilding key="chs_teeth_base_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.0478515625 0 -0.139526367" rotation="0 0 0" scale="0.75 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="chs_teeth_base_01"/>
+    </entity>
+    <entity id="155915b9bdc4b64">
+      <ECVFX vfx="wh_dlc04_enviro_warpstone" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0 1.85082793 -1.45071125" rotation="56.7509651 0 0" scale="0.899999976 0.899999976 0.899999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

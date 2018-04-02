@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ritual_categories.xsd" export_time="Thu Nov 23 12:02:47 2017" revision="7" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7135cd08-f375-440c-9aa0-3df4d2e57da7</edit_uuid>
+<ritual_categories record_uuid="{f9c515f1-3dca-4e32-aea8-d46ef3730411}" record_timestamp="1511363588455" record_key="CRAFTING_RITUAL">
+<display_name state="APPROVED" last_approved_text="Crafting" last_edit_user="bob">Crafting</display_name>
+<id>CRAFTING_RITUAL</id>
+<trigger_events>0</trigger_events>
+</ritual_categories>
+<ritual_categories record_uuid="{819b12eb-8b72-4266-857f-b3a0e740106a}" record_timestamp="1511363588455" record_key="INTERVENTION_RITUAL">
+<display_name state="APPROVED" last_approved_text="Intervention" last_edit_user="bob">Intervention</display_name>
+<id>INTERVENTION_RITUAL</id>
+<trigger_events>0</trigger_events>
+</ritual_categories>
+<ritual_categories record_uuid="{4168ff0f-3048-4b3a-a3ed-18473e9890e5}" record_timestamp="1511363588455" record_key="STANDARD_RITUAL">
+<display_name state="APPROVED" last_approved_text="Rite" last_edit_user="bob">Rite</display_name>
+<id>STANDARD_RITUAL</id>
+<trigger_events>0</trigger_events>
+</ritual_categories>
+<ritual_categories record_uuid="{0b904228-ddbd-4683-91ae-583eaf61c4b7}" record_timestamp="1511363588455" record_key="VORTEX_RITUAL">
+<display_name state="APPROVED" last_approved_text="Ritual" last_edit_user="bob">Ritual</display_name>
+<id>VORTEX_RITUAL</id>
+<trigger_events>1</trigger_events>
+</ritual_categories>
+</dataroot>

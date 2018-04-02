@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_trigger_effects.xsd" export_time="Wed Nov 22 11:33:31 2017" revision="79" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>7f39f893-44e4-4d4e-b2c3-22aa588f0fec</edit_uuid>
+<ancillary_trigger_effects record_uuid="{9be98798-abc2-4552-bc22-d32eb269f45e}" record_timestamp="1455552835838" record_key="0">
+<ancillary>wh_main_anc_follower_all_hedge_wizard</ancillary>
+<chance>20</chance>
+<id>0</id>
+<trigger>wh_main_trig_hero_won_battle_wizard</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5f2ca858-59e0-44d6-bbdc-de60e578ce79}" record_timestamp="1453393796503" record_key="10">
+<ancillary>wh_main_anc_follower_all_men_bailiff</ancillary>
+<chance>8</chance>
+<id>10</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{03e12295-ee48-4c7d-87c1-dc2c542c4b63}" record_timestamp="1467039138439" record_key="100">
+<ancillary>wh_main_anc_follower_all_men_thug</ancillary>
+<chance>8</chance>
+<id>100</id>
+<trigger>wh_main_trig_character_assassinated_character_human_odd</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7d9bcb92-8f33-4602-a8c4-23d9bf5308fe}" record_timestamp="1503503910003" record_key="1022156524">
+<ancillary>wh2_main_anc_follower_lzd_sacrificial_victim_skv</ancillary>
+<chance>11</chance>
+<id>1022156524</id>
+<trigger>wh2_main_trig_character_won_battle_against_skaven</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{776a83cc-fc7c-4316-be2c-03cc1504df80}" record_timestamp="1505412552764" record_key="102374778">
+<ancillary>wh2_main_anc_follower_skv_saboteur</ancillary>
+<chance>10</chance>
+<id>102374778</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{75bacf5d-b742-4034-ba5d-00a372af08a8}" record_timestamp="1463569349916" record_key="103">
+<ancillary>wh_main_anc_follower_all_men_tollkeeper</ancillary>
+<chance>1</chance>
+<id>103</id>
+<trigger>wh_main_trig_character_rank_up_low</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ab3ea72e-7b21-4771-87c8-49b0988a66d0}" record_timestamp="1453393796815" record_key="104">
+<ancillary>wh_main_anc_follower_all_men_tomb_robber</ancillary>
+<chance>20</chance>
+<id>104</id>
+<trigger>wh_main_trig_character_looted_settlement_belonging_to_vmp</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{63c3c3f7-7681-42b9-81b5-626a392fe926}" record_timestamp="1507894000137" record_key="1040157464">
+<ancillary>wh2_main_anc_follower_skv_sculptor</ancillary>
+<chance>5</chance>
+<id>1040157464</id>
+<trigger>wh2_main_trig_character_skv_sculptor</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7408fcce-3f51-4ed4-be8d-928730c5abf5}" record_timestamp="1502389498413" record_key="1058026341">
+<ancillary>wh2_main_anc_follower_skv_messenger</ancillary>
+<chance>1</chance>
+<id>1058026341</id>
+<trigger>wh2_main_trig_character_skv_messenger</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{149efbe9-b189-4903-9428-646055d65e19}" record_timestamp="1503503909287" record_key="1060853731">
+<ancillary>wh2_main_anc_follower_hef_librarian</ancillary>
+<chance>25</chance>
+<id>1060853731</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_library_of_hoeth</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{21011383-8e32-4150-9fe2-45acff6aa962}" record_timestamp="1503503909346" record_key="1071392498">
+<ancillary>wh2_main_anc_follower_hef_dragon_armourer</ancillary>
+<chance>25</chance>
+<id>1071392498</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_dragon_lair</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d666bdcc-30b4-4f84-b031-8f2f431ae2d1}" record_timestamp="1503503909361" record_key="1071555496">
+<ancillary>wh2_main_anc_follower_hef_counterspy</ancillary>
+<chance>25</chance>
+<id>1071555496</id>
+<trigger>wh_main_trig_character_assassinated_character_failure</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6b684009-5bdc-4a48-9db7-1f3b23152033}" record_timestamp="1503503910048" record_key="1076901920">
+<ancillary>wh2_main_anc_follower_skv_sacrificial_victim_dwarf</ancillary>
+<chance>11</chance>
+<id>1076901920</id>
+<trigger>wh2_main_trig_character_won_battle_against_dwarfs</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{745c0281-251e-41bc-9259-32a8eb3cba34}" record_timestamp="1453393796831" record_key="110">
+<ancillary>wh_main_anc_follower_all_men_vagabond</ancillary>
+<chance>5</chance>
+<id>110</id>
+<trigger>wh_main_trig_character_rank_up_high</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5b23978c-f47f-4732-bf06-9992e74f524f}" record_timestamp="1503503909391" record_key="1112771494">
+<ancillary>wh2_main_anc_follower_hef_priest_vaul</ancillary>
+<chance>25</chance>
+<id>1112771494</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_hall_of_dragons</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{347a02ba-73c3-49e3-856d-1cde1197a99c}" record_timestamp="1511171307260" record_key="1125957918">
+<ancillary>wh_dlc05_anc_follower_wardancer_drummer</ancillary>
+<chance>10</chance>
+<id>1125957918</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{55d93849-393a-4a00-bc76-c12d4a344a86}" record_timestamp="1502389498414" record_key="1157388992">
+<ancillary>wh2_main_anc_follower_def_slave_trader</ancillary>
+<chance>5</chance>
+<id>1157388992</id>
+<trigger>wh_main_trig_character_post_battle_slaughter</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{908166b3-b357-4d42-bc32-453c49ee8d35}" record_timestamp="1453393796846" record_key="116">
+<ancillary>wh_main_anc_follower_all_men_valet</ancillary>
+<chance>5</chance>
+<id>116</id>
+<trigger>wh_main_trig_character_rank_up_won_offensive_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c1509304-6090-4970-b44f-acb47339591a}" record_timestamp="1502389498413" record_key="1210784747">
+<ancillary>wh2_main_anc_follower_skv_slave_skv</ancillary>
+<chance>33</chance>
+<id>1210784747</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5402fcb6-1316-46a8-af56-f4ab1ee46d82}" record_timestamp="1455552835807" record_key="125">
+<ancillary>wh_main_anc_follower_all_men_zealot</ancillary>
+<chance>5</chance>
+<id>125</id>
+<trigger>wh_main_trig_character_rank_up_in_vampire_count_territory</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e7727cab-5200-47ed-ae80-f2d63240096c}" record_timestamp="1502715520657" record_key="1268101479">
+<ancillary>wh2_main_anc_follower_skv_scribe</ancillary>
+<chance>6</chance>
+<id>1268101479</id>
+<trigger>wh_main_trig_character_looted_settlement_large_army</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d8d69644-6981-4d7c-a83c-277e364d0b0e}" record_timestamp="1504091738655" record_key="1286936603">
+<ancillary>wh2_main_anc_follower_lzd_gardener</ancillary>
+<chance>10</chance>
+<id>1286936603</id>
+<trigger>wh2_main_trig_character_lzd_gardener</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c60ff06a-c8ca-48c2-a3bf-aa83298a0d12}" record_timestamp="1453393796878" record_key="131">
+<ancillary>wh_main_anc_follower_all_student</ancillary>
+<chance>13</chance>
+<id>131</id>
+<trigger>wh_main_trig_character_rank_up_not_researching</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{dd4d316a-5139-41d2-a2e9-cd071da0ff43}" record_timestamp="1503503909377" record_key="1331336742">
+<ancillary>wh2_main_anc_follower_hef_shrine_keeper</ancillary>
+<chance>25</chance>
+<id>1331336742</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_shrine_of_asuryan</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a08efd25-4ee1-4831-b508-46474c362fc9}" record_timestamp="1503503909409" record_key="1334968103">
+<ancillary>wh2_main_anc_follower_def_daemon_whisperer</ancillary>
+<chance>25</chance>
+<id>1334968103</id>
+<trigger>wh2_main_trig_character_def_daemon_whisperer</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{df9c8372-cd7a-4d35-85e2-0706bd812f56}" record_timestamp="1453393796893" record_key="137">
+<ancillary>wh_main_anc_follower_bretonnia_squire</ancillary>
+<chance>8</chance>
+<id>137</id>
+<trigger>wh_main_trig_general_won_battle_against_men</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6137170f-8b08-45f8-b519-e455f4f5ddf0}" record_timestamp="1462358725812" record_key="14">
+<ancillary>wh_main_anc_follower_all_men_boatman</ancillary>
+<chance>15</chance>
+<id>14</id>
+<trigger>wh_main_trig_character_rank_up_in_marienburg_5_mul</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{43b146f8-32e4-4328-aed8-83e6a2421e22}" record_timestamp="1511171307260" record_key="1401073510">
+<ancillary>wh_dlc05_anc_follower_hunting_hound</ancillary>
+<chance>10</chance>
+<id>1401073510</id>
+<trigger>wh_main_trig_character_rank_up_low</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{10285d66-939b-440e-8b95-06ccfa8107f8}" record_timestamp="1502389498414" record_key="1416215043">
+<ancillary>wh2_main_anc_follower_skv_engineering_student</ancillary>
+<chance>5</chance>
+<id>1416215043</id>
+<trigger>wh_main_trig_character_won_siege_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c5089dbb-403f-482f-942b-58264988c9d2}" record_timestamp="1502389498411" record_key="142058094">
+<ancillary>wh2_main_anc_follower_def_servant</ancillary>
+<chance>50</chance>
+<id>142058094</id>
+<trigger>wh2_main_trig_character_def_servant</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{09525ca3-e27c-45b8-abba-a79ea7b89668}" record_timestamp="1503503909052" record_key="144983636">
+<ancillary>wh2_main_anc_follower_skv_clerk</ancillary>
+<chance>25</chance>
+<id>144983636</id>
+<trigger>wh2_main_trig_character_skv_clerk</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9f42fdc0-81ac-4be8-be7e-53b5370940ff}" record_timestamp="1504279018300" record_key="1449908587">
+<ancillary>wh2_main_anc_follower_def_diplomat</ancillary>
+<chance>8</chance>
+<id>1449908587</id>
+<trigger>wh_main_trig_character_rank_up_started_war</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{f77e1b67-df2f-48d4-8a29-8b9d9e98d6e6}" record_timestamp="1503503909439" record_key="1453470757">
+<ancillary>wh2_main_anc_follower_hef_poisoner</ancillary>
+<chance>25</chance>
+<id>1453470757</id>
+<trigger>wh2_main_trig_character_hef_poisoner</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{611810a7-9c79-4128-8608-dc76d8582d20}" record_timestamp="1502389498413" record_key="1457040082">
+<ancillary>wh2_main_anc_follower_def_organ_merchant</ancillary>
+<chance>6</chance>
+<id>1457040082</id>
+<trigger>wh2_main_trig_character_def_organ_merchant</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{483919f9-05b1-4a2f-871c-e7afee9f3323}" record_timestamp="1503503909464" record_key="1490986967">
+<ancillary>wh2_main_anc_follower_hef_priestess_isha</ancillary>
+<chance>25</chance>
+<id>1490986967</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_court_of_the_everqueen</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e33e0b4e-4c19-456c-93c4-9eb0db7bf43a}" record_timestamp="1507893357404" record_key="1491586937">
+<ancillary>wh2_main_anc_follower_def_harem_attendant</ancillary>
+<chance>10</chance>
+<id>1491586937</id>
+<trigger>wh2_main_trig_character_def_harem_attendant</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{72a66c29-5b01-46d3-aa57-25c2e4451e02}" record_timestamp="1502389498414" record_key="1513285276">
+<ancillary>wh2_main_anc_follower_hef_raven_keeper</ancillary>
+<chance>5</chance>
+<id>1513285276</id>
+<trigger>wh_main_trig_character_post_battle_slaughter</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{b906c458-e87f-48e2-b681-fcd4ea162ef0}" record_timestamp="1508928450083" record_key="1515033113">
+<ancillary>wh2_dlc09_anc_follower_tmb_ushabti_bodyguard</ancillary>
+<chance>10</chance>
+<id>1515033113</id>
+<trigger>wh2_dlc09_trig_tmb_ushabti_bodyguard</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a0ee26b5-8443-4f57-8639-1bc1aad78658}" record_timestamp="1502389498411" record_key="1552366462">
+<ancillary>wh2_main_anc_follower_def_gravedigger</ancillary>
+<chance>8</chance>
+<id>1552366462</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{fea1cf74-5e0c-4fd9-9ff5-c1f5b6345f07}" record_timestamp="1508928450264" record_key="1559397421">
+<ancillary>wh2_dlc09_anc_follower_tmb_skeletal_labourer</ancillary>
+<chance>25</chance>
+<id>1559397421</id>
+<trigger>wh2_dlc09_trig_tmb_skeletal_labourer</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8e375e93-73b0-4d25-97cf-853171bdb5b0}" record_timestamp="1504091738655" record_key="1561784571">
+<ancillary>wh2_main_anc_follower_lzd_cleaner</ancillary>
+<chance>10</chance>
+<id>1561784571</id>
+<trigger>wh2_main_trig_character_lzd_cleaner</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a527811e-8261-4c4c-a8eb-9e318618ef6e}" record_timestamp="1503503909522" record_key="1610471950">
+<ancillary>wh2_main_anc_follower_def_musician_flute</ancillary>
+<chance>25</chance>
+<id>1610471950</id>
+<trigger>wh2_main_trig_character_def_musician_flute</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6740e348-02d4-41a1-a95f-85c789bda11e}" record_timestamp="1503503909552" record_key="1624126316">
+<ancillary>wh2_main_anc_follower_def_beastmaster</ancillary>
+<chance>25</chance>
+<id>1624126316</id>
+<trigger>wh2_main_trig_character_def_beastmaster</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9f825829-2c8a-49ef-80f5-fe71fa9793c0}" record_timestamp="1502389498414" record_key="163680054">
+<ancillary>wh2_main_anc_follower_lzd_archivist</ancillary>
+<chance>10</chance>
+<id>163680054</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{437e8b4e-9957-45a3-8a70-ddc1aef2c74c}" record_timestamp="1502389498411" record_key="1659940040">
+<ancillary>wh2_main_anc_follower_lzd_acolyte_priest</ancillary>
+<chance>1</chance>
+<id>1659940040</id>
+<trigger>wh2_main_trig_general_constructed_building_lzd_old_ones</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{83f330cc-35a0-4dc5-aa8e-d670d2bdbd80}" record_timestamp="1453393796909" record_key="169">
+<ancillary>wh_main_anc_follower_empire_agitator</ancillary>
+<chance>13</chance>
+<id>169</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8205625a-17ee-4100-a7b0-91a5ea58711a}" record_timestamp="1508928450192" record_key="1695424954">
+<ancillary>wh2_dlc09_anc_follower_tmb_legionnaire_of_asaph</ancillary>
+<chance>20</chance>
+<id>1695424954</id>
+<trigger>wh2_dlc09_trig_tmb_legionnaire_of_asaph</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{25270885-dec0-4e08-b565-07acda580670}" record_timestamp="1502389498413" record_key="172012226">
+<ancillary>wh2_main_anc_follower_skv_slave_human</ancillary>
+<chance>33</chance>
+<id>172012226</id>
+<trigger>wh_main_trig_general_won_battle_against_men</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ee54785d-5575-4949-b831-f626ece638af}" record_timestamp="1502389498412" record_key="1724753915">
+<ancillary>wh2_main_anc_follower_lzd_veteran_warrior</ancillary>
+<chance>1</chance>
+<id>1724753915</id>
+<trigger>wh2_main_trig_character_lzd_veteran_warrior</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1c919ad3-c391-4461-9d03-a6dcc99ae7a2}" record_timestamp="1511171307261" record_key="1760162922">
+<ancillary>wh_dlc05_anc_follower_hawk_companion</ancillary>
+<chance>10</chance>
+<id>1760162922</id>
+<trigger>wh_main_trig_character_rank_up_low</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d3007066-893a-447b-b5fc-40ddce201ceb}" record_timestamp="1503503909581" record_key="1762816957">
+<ancillary>wh2_main_anc_follower_skv_trainee_assassin</ancillary>
+<chance>25</chance>
+<id>1762816957</id>
+<trigger>wh2_main_trig_character_skv_trainee_assassin</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{df64f1ba-d03e-4b7e-a2d0-f3c843a71d35}" record_timestamp="1503503909611" record_key="1771145315">
+<ancillary>wh2_main_anc_follower_hef_dragon_tamer</ancillary>
+<chance>25</chance>
+<id>1771145315</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_dragon_keep</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{b3d660ac-8a6a-4be0-b55a-23ee06a2765d}" record_timestamp="1455552835542" record_key="179">
+<ancillary>wh_main_anc_follower_empire_apprentice_wizard</ancillary>
+<chance>4</chance>
+<id>179</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6697865a-7ac0-4747-9f33-6d1878643071}" record_timestamp="1503503909640" record_key="1797018301">
+<ancillary>wh2_main_anc_follower_lzd_astronomer</ancillary>
+<chance>25</chance>
+<id>1797018301</id>
+<trigger>wh2_main_trig_character_lzd_astronomer</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c10fa07b-e89f-43fc-826b-953149f1d75c}" record_timestamp="1503415235953" record_key="1798976958">
+<ancillary>wh2_main_anc_follower_def_overseer</ancillary>
+<chance>7</chance>
+<id>1798976958</id>
+<trigger>wh2_main_trig_character_def_overseer</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{f04f3169-6852-4978-8c87-9beb3bcf09c8}" record_timestamp="1503503909659" record_key="1799935646">
+<ancillary>wh2_main_anc_follower_skv_female</ancillary>
+<chance>25</chance>
+<id>1799935646</id>
+<trigger>wh2_main_trig_character_skv_female</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{002274f6-4197-496f-89fb-6467399c82e6}" record_timestamp="1463570275073" record_key="180">
+<ancillary>wh_main_anc_follower_empire_barber_surgeon</ancillary>
+<chance>6</chance>
+<id>180</id>
+<trigger>wh_main_trig_character_looted_settlement_large_army</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9e23dab6-3127-4567-8086-e1a867167af3}" record_timestamp="1502389498413" record_key="1808550051">
+<ancillary>wh2_main_anc_follower_def_slave</ancillary>
+<chance>30</chance>
+<id>1808550051</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{aca7a92c-3bef-4e57-8543-66f4f36f616c}" record_timestamp="1503503909673" record_key="1813899520">
+<ancillary>wh2_main_anc_follower_lzd_temple_cleaner</ancillary>
+<chance>25</chance>
+<id>1813899520</id>
+<trigger>wh2_main_trig_character_lzd_temple_cleaner</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1929f4b7-ef2c-42f3-b180-d29d5f52fd58}" record_timestamp="1503503909693" record_key="1825553400">
+<ancillary>wh2_main_anc_follower_hef_counsellor</ancillary>
+<chance>25</chance>
+<id>1825553400</id>
+<trigger>wh2_main_trig_character_hef_counsellor</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ba1e559b-fa3c-4bc5-bfd6-49af615aafd3}" record_timestamp="1504091738655" record_key="1827879890">
+<ancillary>wh2_main_anc_follower_lzd_architect</ancillary>
+<chance>10</chance>
+<id>1827879890</id>
+<trigger>wh2_main_trig_character_lzd_architect</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{70441cc0-890e-4051-9c28-6fba85383fd8}" record_timestamp="1502389498414" record_key="1831625874">
+<ancillary>wh2_main_anc_follower_def_merchant</ancillary>
+<chance>10</chance>
+<id>1831625874</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{32ed35b3-cc09-4616-9432-6275e5f5028f}" record_timestamp="1503503909720" record_key="1835846706">
+<ancillary>wh2_main_anc_follower_def_apprentice_assassin</ancillary>
+<chance>25</chance>
+<id>1835846706</id>
+<trigger>wh2_main_trig_character_def_apprentice_assassin</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c99dd959-844b-4e07-ad1c-d95451e40800}" record_timestamp="1508928450120" record_key="1836023663">
+<ancillary>wh2_dlc09_anc_follower_tmb_dog_headed_ushabti</ancillary>
+<chance>20</chance>
+<id>1836023663</id>
+<trigger>wh2_dlc09_trig_tmb_dog_headed_ushabti</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8cc58b6a-4beb-48a6-b9ac-9896f1d00471}" record_timestamp="1504091738655" record_key="185848341">
+<ancillary>wh2_main_anc_follower_lzd_metallurgist</ancillary>
+<chance>10</chance>
+<id>185848341</id>
+<trigger>wh2_main_trig_character_lzd_metallurgist</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{36047932-6495-4ed9-ab75-72a7ebe3a793}" record_timestamp="1503503909749" record_key="1878416743">
+<ancillary>wh2_main_anc_follower_def_musician_choirmaster</ancillary>
+<chance>25</chance>
+<id>1878416743</id>
+<trigger>wh2_main_trig_character_def_musician_choirmaster</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{239f81d5-b7e6-4ca6-921a-f9a77c6795cf}" record_timestamp="1455552835776" record_key="189">
+<ancillary>wh_main_anc_follower_empire_bone_picker</ancillary>
+<chance>7</chance>
+<id>189</id>
+<trigger>wh_main_trig_character_rank_up_in_vampire_count_territory</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{36b8ddb5-474a-4c20-a9d3-58e569f67995}" record_timestamp="1455552835932" record_key="192">
+<ancillary>wh_main_anc_follower_empire_burgher</ancillary>
+<chance>12</chance>
+<id>192</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3dad2230-3170-4289-bd9f-052667fe5c5b}" record_timestamp="1503503909775" record_key="1920461616">
+<ancillary>wh2_main_anc_follower_lzd_librarian</ancillary>
+<chance>25</chance>
+<id>1920461616</id>
+<trigger>wh_main_trig_award_magic_item</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{88c8c2c8-e809-4e61-8ce5-83f9075adc80}" record_timestamp="1502389498414" record_key="192993399">
+<ancillary>wh2_main_anc_follower_hef_bard</ancillary>
+<chance>8</chance>
+<id>192993399</id>
+<trigger>wh_main_trig_character_rank_up_won_offensive_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5b69a6eb-f767-43c3-90fb-c3c9191cff21}" record_timestamp="1503503909804" record_key="1944394279">
+<ancillary>wh2_main_anc_follower_def_musician_drum</ancillary>
+<chance>25</chance>
+<id>1944394279</id>
+<trigger>wh2_main_trig_character_def_musician_drum</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{52d8d017-5730-43a6-8d20-4e6edbd4469c}" record_timestamp="1455552835495" record_key="195">
+<ancillary>wh_main_anc_follower_empire_camp_follower</ancillary>
+<chance>6</chance>
+<id>195</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3202377e-6f3b-497e-9368-f53090519c90}" record_timestamp="1463569349915" record_key="199">
+<ancillary>wh_main_anc_follower_empire_charcoal_burner</ancillary>
+<chance>8</chance>
+<id>199</id>
+<trigger>wh_main_trig_character_won_battle_5_mul</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e07aa8a1-6076-4c91-b8c9-2ca40571d9d5}" record_timestamp="1508928450156" record_key="2018001375">
+<ancillary>wh2_dlc09_anc_follower_tmb_high_born_of_khemri</ancillary>
+<chance>40</chance>
+<id>2018001375</id>
+<trigger>wh2_dlc09_trig_tmb_high_born_of_khemri</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{33238b30-f9b5-43de-a464-5aa70b6c172c}" record_timestamp="1502389498413" record_key="202036408">
+<ancillary>wh2_main_anc_follower_skv_chemist</ancillary>
+<chance>1</chance>
+<id>202036408</id>
+<trigger>wh2_main_trig_character_skv_chemist</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{260352e5-dba3-43f3-836e-b579ce7f62cb}" record_timestamp="1511171307261" record_key="2040023552">
+<ancillary>wh_dlc05_anc_follower_dryad_spy</ancillary>
+<chance>10</chance>
+<id>2040023552</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5909277b-b012-43b6-ab5f-90d0e9d0e7db}" record_timestamp="1508928450335" record_key="2051755598">
+<ancillary>wh2_dlc09_anc_follower_tmb_tombfleet_taskmaster</ancillary>
+<chance>5</chance>
+<id>2051755598</id>
+<trigger>wh2_dlc09_trig_tmb_tombfleet_taskmaster</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{0857cf65-6034-42d3-88da-f0a8079949c1}" record_timestamp="1511171307259" record_key="2059739885">
+<ancillary>wh_dlc05_anc_follower_eternal_guard_commander</ancillary>
+<chance>10</chance>
+<id>2059739885</id>
+<trigger>wh_main_trig_character_rank_up_high</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{72242c28-83cf-4ec5-be2f-383b2793b62d}" record_timestamp="1462358725778" record_key="209">
+<ancillary>wh_main_anc_follower_empire_coachman</ancillary>
+<chance>7</chance>
+<id>209</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3d672c44-74b5-4d0d-b1c3-4456e9406a50}" record_timestamp="1502715520657" record_key="211456643">
+<ancillary>wh2_main_anc_follower_lzd_artefact_hunter</ancillary>
+<chance>25</chance>
+<id>211456643</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{fee3491a-481a-4665-a951-4d5cf019e32f}" record_timestamp="1503072017831" record_key="2128156294">
+<ancillary>wh2_main_anc_follower_lzd_fan_waver</ancillary>
+<chance>5</chance>
+<id>2128156294</id>
+<trigger>wh2_main_trig_character_lzd_fan_waver</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5ba9c159-df71-4d98-b081-b9171c4d33b8}" record_timestamp="1455552835620" record_key="213">
+<ancillary>wh_main_anc_follower_empire_entertainer</ancillary>
+<chance>20</chance>
+<id>213</id>
+<trigger>wh_main_trig_character_won_battle_poor</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a4e6b332-51f9-4b7a-90ee-7a425a100e62}" record_timestamp="1455552835573" record_key="216">
+<ancillary>wh_main_anc_follower_empire_estalian_diestro</ancillary>
+<chance>6</chance>
+<id>216</id>
+<trigger>wh_main_trig_character_idle_in_estalia</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{69d5639d-ee64-40ae-8b63-27789472361d}" record_timestamp="1454517835039" record_key="222">
+<ancillary>wh_main_anc_follower_empire_ferryman</ancillary>
+<chance>10</chance>
+<id>222</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{05b92878-bc73-450b-ae2c-4fb613b763df}" record_timestamp="1453393797080" record_key="226">
+<ancillary>wh_main_anc_follower_empire_hunter</ancillary>
+<chance>5</chance>
+<id>226</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{94b639c8-a925-4269-80f9-dcb7ddfc9f97}" record_timestamp="1463570275072" record_key="233">
+<ancillary>wh_main_anc_follower_empire_jailer</ancillary>
+<chance>13</chance>
+<id>233</id>
+<trigger>wh_main_trig_character_looted_settlement_belonging_to_emp</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{b9e0b4ad-7c4f-422a-afa9-54f1da4de0c7}" record_timestamp="1453393796519" record_key="24">
+<ancillary>wh_main_anc_follower_all_men_bodyguard</ancillary>
+<chance>13</chance>
+<id>24</id>
+<trigger>wh_main_trig_character_assassinated_character_failure</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ac1822df-fd99-433d-a45a-5605ae909c7f}" record_timestamp="1462358725813" record_key="240">
+<ancillary>wh_main_anc_follower_empire_marine</ancillary>
+<chance>10</chance>
+<id>240</id>
+<trigger>wh_main_trig_character_rank_up_in_marienburg_5_mul</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{61cf7e52-7de9-4727-a964-999a9da79e30}" record_timestamp="1463570275069" record_key="247">
+<ancillary>wh_main_anc_follower_empire_messenger</ancillary>
+<chance>4</chance>
+<id>247</id>
+<trigger>wh_main_trig_character_won_battle_no_messenger</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6ac4da72-5f97-4153-ba6e-e0eeeff0d9cb}" record_timestamp="1511171307259" record_key="250494838">
+<ancillary>wh_dlc05_anc_follower_elder_scout</ancillary>
+<chance>10</chance>
+<id>250494838</id>
+<trigger>wh_main_trig_character_rank_up_high</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{719b734e-dcdc-4bfb-9b2b-da49afda3132}" record_timestamp="1455534753557" record_key="255">
+<ancillary>wh_main_anc_follower_empire_noble</ancillary>
+<chance>15</chance>
+<id>255</id>
+<trigger>wh_main_trig_character_rank_up_medium_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{96936dea-6841-4cc7-a90c-474c6ccacea7}" record_timestamp="1508928450047" record_key="257854402">
+<ancillary>wh2_dlc09_anc_follower_tmb_charnel_valley_necrotect</ancillary>
+<chance>35</chance>
+<id>257854402</id>
+<trigger>wh2_dlc09_trig_tmb_charnel_valley_necrotect</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{081f4b65-556d-494d-8c5b-f74f594a3641}" record_timestamp="1455534753588" record_key="264">
+<ancillary>wh_main_anc_follower_empire_peasant</ancillary>
+<chance>25</chance>
+<id>264</id>
+<trigger>wh_main_trig_character_won_battle_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7f473a4f-1f37-4382-bab9-36583190af66}" record_timestamp="1508928450011" record_key="266917688">
+<ancillary>wh2_dlc09_anc_follower_tmb_acolyte_of_sokth</ancillary>
+<chance>25</chance>
+<id>266917688</id>
+<trigger>wh2_dlc09_trig_tmb_acolyte_of_sokth</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{15317db7-d0b2-42bb-ad07-4b9696ce8b83}" record_timestamp="1453393797190" record_key="269">
+<ancillary>wh_main_anc_follower_empire_rat_catcher</ancillary>
+<chance>13</chance>
+<id>269</id>
+<trigger>wh_main_trig_character_rank_up_in_enemy_territory</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{af0273dc-43ee-4fbd-b93c-c37df0a453b5}" record_timestamp="1455552835386" record_key="275">
+<ancillary>wh_main_anc_follower_empire_road_warden</ancillary>
+<chance>25</chance>
+<id>275</id>
+<trigger>wh_main_trig_character_participated_in_ambush_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{258b134c-676a-4a70-b2d9-dbb3153e8b68}" record_timestamp="1453393797221" record_key="283">
+<ancillary>wh_main_anc_follower_empire_scribe</ancillary>
+<chance>13</chance>
+<id>283</id>
+<trigger>wh_main_trig_character_rank_up_idle_won_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{299ace53-ff72-4df7-8018-71f1fd85615b}" record_timestamp="1508928450228" record_key="284651474">
+<ancillary>wh2_dlc09_anc_follower_tmb_priest_of_ptra</ancillary>
+<chance>15</chance>
+<id>284651474</id>
+<trigger>wh2_dlc09_trig_tmb_priest_of_ptra</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{60388f27-2132-45e6-b2fb-79a802279f1f}" record_timestamp="1462358725813" record_key="288">
+<ancillary>wh_main_anc_follower_empire_seaman</ancillary>
+<chance>5</chance>
+<id>288</id>
+<trigger>wh_main_trig_character_rank_up_in_marienburg</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{4f03d033-9d0b-47fc-8d9f-6d144b8f18cb}" record_timestamp="1503503909077" record_key="288069925">
+<ancillary>wh2_main_anc_follower_skv_hell_pit_attendant</ancillary>
+<chance>25</chance>
+<id>288069925</id>
+<trigger>wh2_main_trig_character_skv_hell_pit_attendant</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e2e2ea26-5cce-4b37-8a74-8703b428f96a}" record_timestamp="1463569490842" record_key="293">
+<ancillary>wh_main_anc_follower_empire_thief</ancillary>
+<chance>13</chance>
+<id>293</id>
+<trigger>wh_main_trig_character_rank_up_raiding</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3dc4b9b8-779e-4217-80fc-c43f7291e53a}" record_timestamp="1462358725779" record_key="297">
+<ancillary>wh_main_anc_follower_empire_tradesman</ancillary>
+<chance>3</chance>
+<id>297</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{07450080-06cc-4450-a718-25aaec907a2c}" record_timestamp="1453393797283" record_key="299">
+<ancillary>wh_main_anc_follower_empire_watchman</ancillary>
+<chance>13</chance>
+<id>299</id>
+<trigger>wh_main_trig_character_hindered_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{f39e0235-7247-47d0-bd80-1faad597b666}" record_timestamp="1503072017831" record_key="300900506">
+<ancillary>wh2_main_anc_follower_lzd_clerk</ancillary>
+<chance>7</chance>
+<id>300900506</id>
+<trigger>wh2_main_trig_character_lizardmen_won_20_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1e56b969-2aaa-44ca-b68e-8a10d0e051a2}" record_timestamp="1453393797299" record_key="309">
+<ancillary>wh_main_anc_follower_empire_woodsman</ancillary>
+<chance>25</chance>
+<id>309</id>
+<trigger>wh_main_trig_character_rank_up_region_has_timber</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{08b5a711-2a2f-44cf-969f-bb848ab7ab19}" record_timestamp="1463569349916" record_key="316">
+<ancillary>wh_main_anc_follower_halfling_fieldwarden</ancillary>
+<chance>6</chance>
+<id>316</id>
+<trigger>wh_main_trig_character_idle_in_the_moot</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{224ed80f-5f22-422e-86e6-ffad72eaa4c2}" record_timestamp="1453393797330" record_key="321">
+<ancillary>wh_main_anc_follower_norsca_berserker</ancillary>
+<chance>3</chance>
+<id>321</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d50e6e7a-0733-4998-ac37-ee4b212012a9}" record_timestamp="1456310926292" record_key="325">
+<ancillary>wh_main_anc_follower_greenskins_serial_loota</ancillary>
+<chance>15</chance>
+<id>325</id>
+<trigger>wh_main_trig_character_looted_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{230faf66-9496-4be8-b492-3ba63e5d266d}" record_timestamp="1463570275072" record_key="33">
+<ancillary>wh_main_anc_follower_all_men_bounty_hunter</ancillary>
+<chance>8</chance>
+<id>33</id>
+<trigger>wh_main_trig_character_looted_settlement_small_army</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{b57838e9-d492-4dc3-b4c9-a91994deeddd}" record_timestamp="1456311284445" record_key="333">
+<ancillary>wh_main_anc_follower_greenskins_troll_herder</ancillary>
+<chance>10</chance>
+<id>333</id>
+<trigger>wh_main_trig_character_completed_battle_has_grn_trolls</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5af8d9ba-3f97-44ab-ade2-65b2f0e022de}" record_timestamp="1502389498414" record_key="335079407">
+<ancillary>wh2_main_anc_follower_def_bodyguard</ancillary>
+<chance>15</chance>
+<id>335079407</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9226f650-efe2-4341-b151-9da01c96b123}" record_timestamp="1456310926292" record_key="338">
+<ancillary>wh_main_anc_follower_greenskins_bat-winged_loony</ancillary>
+<chance>20</chance>
+<id>338</id>
+<trigger>wh_main_trig_character_rank_up_raiding</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e10e6341-6080-4f6b-9a60-e159470ac168}" record_timestamp="1456310926292" record_key="342">
+<ancillary>wh_main_anc_follower_greenskins_bully</ancillary>
+<chance>20</chance>
+<id>342</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{01231a48-94f8-49c4-bda7-af9fa28e7c97}" record_timestamp="1456310926291" record_key="349">
+<ancillary>wh_main_anc_follower_greenskins_shroom_gathera</ancillary>
+<chance>10</chance>
+<id>349</id>
+<trigger>wh_main_trig_character_rank_up_has_grn_night_goblins</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{aa4553ac-d88a-406f-8a5a-e4e44bf53534}" record_timestamp="1502389498414" record_key="349551423">
+<ancillary>wh2_main_anc_follower_hef_scout</ancillary>
+<chance>25</chance>
+<id>349551423</id>
+<trigger>wh_main_trig_character_participated_in_ambush_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8c8b1dc4-cde1-4e75-aa6b-5d0b6656a61d}" record_timestamp="1456310926292" record_key="353">
+<ancillary>wh_main_anc_follower_greenskins_savage_orc_prodda</ancillary>
+<chance>20</chance>
+<id>353</id>
+<trigger>wh_main_trig_character_rank_up_has_grn_savage_orcs</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ac3698d1-2e13-4a90-8269-603a036b4c3f}" record_timestamp="1456310926292" record_key="355">
+<ancillary>wh_main_anc_follower_greenskins_pit_boss</ancillary>
+<chance>10</chance>
+<id>355</id>
+<trigger>wh_main_trig_character_rank_up_won_offensive_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d58bf4fd-2c8e-4e7e-bee3-dc4fcc99e24d}" record_timestamp="1455534119254" record_key="362">
+<ancillary>wh_main_anc_follower_greenskins_spider-god_priest</ancillary>
+<chance>10</chance>
+<id>362</id>
+<trigger>wh_main_trig_character_rank_up_has_tech_spider_worship</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3db1d990-08f8-4d25-be4e-4de8a2254739}" record_timestamp="1456310926292" record_key="364">
+<ancillary>wh_main_anc_follower_greenskins_shamans_lacky</ancillary>
+<chance>20</chance>
+<id>364</id>
+<trigger>wh_main_trig_character_rank_up_wizard_alone</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{415cb951-c0ea-47d4-998f-2527cfc3e7e9}" record_timestamp="1456310926291" record_key="365">
+<ancillary>wh_main_anc_follower_greenskins_squig_mascot</ancillary>
+<chance>5</chance>
+<id>365</id>
+<trigger>wh_main_trig_character_rank_up_goblin_shaman</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6610a77c-7d50-4bec-aade-53c7b9bcbc04}" record_timestamp="1456310926292" record_key="369">
+<ancillary>wh_main_anc_follower_greenskins_idol_carva</ancillary>
+<chance>10</chance>
+<id>369</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{007f7f64-0de6-42be-824c-e0729257b268}" record_timestamp="1456310926292" record_key="372">
+<ancillary>wh_main_anc_follower_greenskins_dung_collector</ancillary>
+<chance>20</chance>
+<id>372</id>
+<trigger>wh_main_trig_character_turn_end_poo</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{db9d7297-4d8e-4ad6-ae50-7c62483485cb}" record_timestamp="1500644676509" record_key="373034309">
+<ancillary>wh2_main_anc_follower_def_organ_merchant</ancillary>
+<chance>5</chance>
+<id>373034309</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{eb2f7c6b-7248-476d-8837-664ff59b8175}" record_timestamp="1462358725812" record_key="38">
+<ancillary>wh_main_anc_follower_all_men_fisherman</ancillary>
+<chance>8</chance>
+<id>38</id>
+<trigger>wh_main_trig_character_rank_up_in_marienburg</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e8d6d7ea-939d-40e6-a416-320bd55792f9}" record_timestamp="1456310926292" record_key="380">
+<ancillary>wh_main_anc_follower_greenskins_dog_boy_scout</ancillary>
+<chance>10</chance>
+<id>380</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{68d85327-a8f5-4a06-869a-5a922902d2e2}" record_timestamp="1455552835744" record_key="383">
+<ancillary>wh_main_anc_follower_greenskins_snotling_scavengers</ancillary>
+<chance>30</chance>
+<id>383</id>
+<trigger>wh_main_trig_character_sacked_settlement_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{15b4fbf5-7790-4dc4-915c-ebd2af4591eb}" record_timestamp="1456310926292" record_key="386">
+<ancillary>wh_main_anc_follower_greenskins_swindla</ancillary>
+<chance>40</chance>
+<id>386</id>
+<trigger>wh_main_trig_hero_won_battle_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6ea4c238-997b-4f51-9d3b-11afaeeec1fc}" record_timestamp="1456310926292" record_key="390">
+<ancillary>wh_main_anc_follower_greenskins_swindla</ancillary>
+<chance>40</chance>
+<id>390</id>
+<trigger>wh_main_trig_character_won_battle_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e37f1814-f967-4a82-8c1d-f0df4bf5b6d6}" record_timestamp="1502389498413" record_key="390362825">
+<ancillary>wh2_main_anc_follower_lzd_zoat</ancillary>
+<chance>25</chance>
+<id>390362825</id>
+<trigger>wh_main_trig_character_rank_up_in_enemy_territory</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{91f08f05-6aa3-4b5f-804d-e31a8fec8bdd}" record_timestamp="1456310926292" record_key="399">
+<ancillary>wh_main_anc_follower_greenskins_backstabba</ancillary>
+<chance>50</chance>
+<id>399</id>
+<trigger>wh_main_trig_character_rank_up_started_war</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1adc0a24-aa62-4074-bbc3-478618804b30}" record_timestamp="1453393797642" record_key="401">
+<ancillary>wh_main_anc_follower_greenskins_boggart</ancillary>
+<chance>5</chance>
+<id>401</id>
+<trigger>wh_main_trig_character_rank_up_goblin_shaman_idle_won_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{44260608-bbe4-42d0-aced-4eb8a8ef45b8}" record_timestamp="1455552835854" record_key="404">
+<ancillary>wh_dlc01_anc_follower_chaos_barbarian</ancillary>
+<chance>18</chance>
+<id>404</id>
+<trigger>wh_main_trig_character_rank_up_started_war</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{0d653112-39cd-4b86-ba96-caa35c49b823}" record_timestamp="1453393797673" record_key="407">
+<ancillary>wh_dlc01_anc_follower_chaos_beast_tamer</ancillary>
+<chance>5</chance>
+<id>407</id>
+<trigger>wh_main_trig_character_rank_up_has_chs_warhounds</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ea7e11f5-3629-479b-b44c-94ad858f7588}" record_timestamp="1453393797689" record_key="417">
+<ancillary>wh_dlc01_anc_follower_chaos_collector</ancillary>
+<chance>5</chance>
+<id>417</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ef9a0c10-f3d4-425a-90c8-4c697421cb37}" record_timestamp="1453393797720" record_key="418">
+<ancillary>wh_dlc01_anc_follower_chaos_cultist</ancillary>
+<chance>3</chance>
+<id>418</id>
+<trigger>wh_main_character_rank_up_untainted_region</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{98966f96-3f81-46fb-9cfb-b5018f47ccb4}" record_timestamp="1455552836010" record_key="419">
+<ancillary>wh_dlc01_anc_follower_chaos_darksoul</ancillary>
+<chance>6</chance>
+<id>419</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{0bc48663-658d-4fd7-bab8-896230683aeb}" record_timestamp="1455552835464" record_key="425">
+<ancillary>wh_dlc01_anc_follower_chaos_demagogue</ancillary>
+<chance>15</chance>
+<id>425</id>
+<trigger>wh_main_trig_character_won_battle_poor</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1969fb9a-33e4-49b9-b5a6-6722a23b3a21}" record_timestamp="1453393797782" record_key="427">
+<ancillary>wh_dlc01_anc_follower_chaos_huscarl</ancillary>
+<chance>5</chance>
+<id>427</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{faf4f454-4275-4d23-9f71-2a7f138d1e34}" record_timestamp="1502389498413" record_key="429097037">
+<ancillary>wh2_main_anc_follower_lzd_sacrificial_victim_human</ancillary>
+<chance>50</chance>
+<id>429097037</id>
+<trigger>wh_main_trig_general_won_battle_against_men</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9ca85cf5-2dc0-4f00-b4f4-242d6286be89}" record_timestamp="1453393797798" record_key="434">
+<ancillary>wh_dlc01_anc_follower_chaos_kurgan_chieftain</ancillary>
+<chance>5</chance>
+<id>434</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ac53ce79-beff-4465-b4cc-b98b79521cdc}" record_timestamp="1453393797814" record_key="440">
+<ancillary>wh_dlc01_anc_follower_chaos_magister</ancillary>
+<chance>5</chance>
+<id>440</id>
+<trigger>wh_main_trig_character_rank_up_won_offensive_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9460f72c-875a-415f-834d-540ade0ea3cc}" record_timestamp="1455552836056" record_key="448">
+<ancillary>wh_dlc01_anc_follower_chaos_mutant</ancillary>
+<chance>6</chance>
+<id>448</id>
+<trigger>wh_main_trig_character_lost_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ad1f22c0-b388-48e9-9b54-779f3daba4f8}" record_timestamp="1455534119232" record_key="453">
+<ancillary>wh_dlc01_anc_follower_chaos_oar_slave</ancillary>
+<chance>12</chance>
+<id>453</id>
+<trigger>wh_main_trig_character_rank_up_at_sea</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{dfd67b2d-511f-4a42-b912-197510533da0}" record_timestamp="1455534119242" record_key="456">
+<ancillary>wh_dlc01_anc_follower_chaos_possessed</ancillary>
+<chance>10</chance>
+<id>456</id>
+<trigger>wh_main_trig_character_rank_up_has_tech_unholy_communion</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{f3815a7f-a40c-40aa-9944-45c898e5749a}" record_timestamp="1455552835713" record_key="460">
+<ancillary>wh_dlc01_anc_follower_chaos_slave_master</ancillary>
+<chance>25</chance>
+<id>460</id>
+<trigger>wh_main_trig_character_sacked_settlement_started_war</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{b75c344b-53d7-4f3d-b291-b392b4a3efe7}" record_timestamp="1453393797907" record_key="467">
+<ancillary>wh_dlc01_anc_follower_chaos_zealot</ancillary>
+<chance>3</chance>
+<id>467</id>
+<trigger>wh_main_character_rank_up_untainted_region</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{17ccde4e-6240-4cb4-81ac-ca85bd3f691a}" record_timestamp="1455534914847" record_key="472">
+<ancillary>wh_main_anc_follower_undead_black_cat</ancillary>
+<chance>20</chance>
+<id>472</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c691f43d-aa08-491d-a76b-3ba5d75bcd18}" record_timestamp="1455552836212" record_key="48">
+<ancillary>wh_main_anc_follower_all_men_grave_robber</ancillary>
+<chance>25</chance>
+<id>48</id>
+<trigger>wh_main_trig_general_lost_battle_against_vampire_counts</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{fae69bbd-8b81-417f-bc5b-e4d7276c1f8b}" record_timestamp="1455552835588" record_key="480">
+<ancillary>wh_main_anc_follower_undead_carrion</ancillary>
+<chance>3</chance>
+<id>480</id>
+<trigger>wh_main_character_rank_up_untainted_region</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{db60073b-d3ea-4e54-a780-4b38c919e45a}" record_timestamp="1453393797970" record_key="487">
+<ancillary>wh_main_anc_follower_undead_corpse_thief</ancillary>
+<chance>3</chance>
+<id>487</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{103d4b47-4335-47b4-bbb8-6bda6a6046f3}" record_timestamp="1453393797985" record_key="496">
+<ancillary>wh_main_anc_follower_undead_crone</ancillary>
+<chance>13</chance>
+<id>496</id>
+<trigger>wh_main_trig_character_rank_up_can_recruit_spy</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{75b23ed6-d335-4c9c-9694-a690fb3d1943}" record_timestamp="1455552835885" record_key="503">
+<ancillary>wh_main_anc_follower_undead_dreg</ancillary>
+<chance>20</chance>
+<id>503</id>
+<trigger>wh_main_trig_character_won_battle_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{947a0930-4a53-4333-9512-20ee455f3877}" record_timestamp="1503503909105" record_key="508389314">
+<ancillary>wh2_main_anc_follower_lzd_astrologer</ancillary>
+<chance>25</chance>
+<id>508389314</id>
+<trigger>wh2_main_trig_character_lzd_astrologer</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d4cdb43f-bd67-4336-a65a-ea330ac32360}" record_timestamp="1453393798016" record_key="510">
+<ancillary>wh_main_anc_follower_undead_flesh_golem</ancillary>
+<chance>5</chance>
+<id>510</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{08b86979-91ab-44c4-8bab-a036bedaf6f5}" record_timestamp="1455552835869" record_key="515">
+<ancillary>wh_main_anc_follower_undead_grave_digger</ancillary>
+<chance>15</chance>
+<id>515</id>
+<trigger>wh_main_trig_character_rank_up_with_mercs</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d4c2c483-c081-4486-9456-fc33b00f3238}" record_timestamp="1453393798063" record_key="522">
+<ancillary>wh_main_anc_follower_undead_manservant</ancillary>
+<chance>13</chance>
+<id>522</id>
+<trigger>wh_main_trig_character_looted_settlement_belonging_to_emp</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{afbc3404-93fe-4707-90ff-90bfbf33e90b}" record_timestamp="1453393798079" record_key="523">
+<ancillary>wh_main_anc_follower_undead_mortal_informer</ancillary>
+<chance>13</chance>
+<id>523</id>
+<trigger>wh_main_trig_general_won_battle_against_men</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c83bbb5d-48b8-4737-aa61-0f03a513ca61}" record_timestamp="1455534914856" record_key="529">
+<ancillary>wh_main_anc_follower_undead_poltergeist</ancillary>
+<chance>15</chance>
+<id>529</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a68e2251-ed79-4945-bc44-2b2fc761a85d}" record_timestamp="1453393798110" record_key="532">
+<ancillary>wh_main_anc_follower_undead_possessed_mirror</ancillary>
+<chance>10</chance>
+<id>532</id>
+<trigger>wh_main_trig_character_assassinated_character_failure</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6787018d-b19c-4bf7-bafb-d477aa035fe5}" record_timestamp="1455552835713" record_key="533">
+<ancillary>wh_main_anc_follower_undead_treasurer</ancillary>
+<chance>20</chance>
+<id>533</id>
+<trigger>wh_main_trig_character_won_battle_poor</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7c6d2f74-61a1-4a56-b33c-2c473904cfaa}" record_timestamp="1505412552764" record_key="534067387">
+<ancillary>wh2_main_anc_follower_skv_pet_wolf_rat</ancillary>
+<chance>10</chance>
+<id>534067387</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{04c2a431-fe6c-450d-a371-bdae8fadf345}" record_timestamp="1455552835370" record_key="537">
+<ancillary>wh_main_anc_follower_undead_warlock</ancillary>
+<chance>25</chance>
+<id>537</id>
+<trigger>wh_main_trig_character_participated_in_ambush_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{fc39b444-c233-4039-b163-73f519c5ad23}" record_timestamp="1502389498414" record_key="543084747">
+<ancillary>wh2_main_anc_follower_hef_food_taster</ancillary>
+<chance>15</chance>
+<id>543084747</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2b5a458b-329a-4492-bf68-b35edf2eb2f1}" record_timestamp="1455534914872" record_key="546">
+<ancillary>wh_main_anc_follower_undead_warp_stone_hunter</ancillary>
+<chance>25</chance>
+<id>546</id>
+<trigger>wh_main_trig_character_won_battle_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{f8b1ef84-ae9d-4d1b-959a-ac38beea6a94}" record_timestamp="1455552835978" record_key="549">
+<ancillary>wh_main_anc_follower_dwarfs_archivist</ancillary>
+<chance>15</chance>
+<id>549</id>
+<trigger>wh_main_trig_character_rank_up_not_researching</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7312c44a-da4f-4185-99e2-b6bd4146a2fa}" record_timestamp="1455552835729" record_key="55">
+<ancillary>wh_main_anc_follower_all_men_initiate</ancillary>
+<chance>5</chance>
+<id>55</id>
+<trigger>wh_main_trig_character_rank_up_in_vampire_count_territory</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{aeb5b7aa-a830-4b0a-9c05-d0a555690539}" record_timestamp="1453393798219" record_key="557">
+<ancillary>wh_main_anc_follower_dwarfs_brewmaster</ancillary>
+<chance>3</chance>
+<id>557</id>
+<trigger>wh_main_trig_character_rank_up_dwarf_beer</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2b011a4c-bbe9-41d4-a223-5cd3eefac109}" record_timestamp="1453393798235" record_key="558">
+<ancillary>wh_main_anc_follower_dwarfs_candle_maker</ancillary>
+<chance>5</chance>
+<id>558</id>
+<trigger>wh_main_trig_character_assassinated_character_failure</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2da86191-7133-4f3f-9ff4-d440def2f440}" record_timestamp="1502389498412" record_key="560278446">
+<ancillary>wh2_main_anc_follower_skv_mechanic</ancillary>
+<chance>2</chance>
+<id>560278446</id>
+<trigger>wh2_main_trig_character_skv_mechanic</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2527e166-6d3c-483c-942e-4928c480f8fc}" record_timestamp="1455552835994" record_key="564">
+<ancillary>wh_main_anc_follower_dwarfs_choir_master</ancillary>
+<chance>12</chance>
+<id>564</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7632422d-fa59-4a5e-844f-9a0ac8762316}" record_timestamp="1455552835464" record_key="568">
+<ancillary>wh_main_anc_follower_dwarfs_cooper</ancillary>
+<chance>15</chance>
+<id>568</id>
+<trigger>wh_main_trig_character_won_battle_poor</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{52bd3fc7-5d08-4fb5-b2c7-935e3e7e3112}" record_timestamp="1503503909121" record_key="568311410">
+<ancillary>wh2_main_anc_follower_hef_minstrel</ancillary>
+<chance>25</chance>
+<id>568311410</id>
+<trigger>wh2_main_trig_character_hef_minstrel</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{fa412a1b-7a7a-46f9-98cc-d02979ff2661}" record_timestamp="1502389498414" record_key="5690407">
+<ancillary>wh2_main_anc_follower_lzd_attendant</ancillary>
+<chance>15</chance>
+<id>5690407</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{f4427863-8f3b-4f96-aa35-96023ff034d7}" record_timestamp="1455534119247" record_key="571">
+<ancillary>wh_main_anc_follower_dwarfs_daughter_of_valaya</ancillary>
+<chance>10</chance>
+<id>571</id>
+<trigger>wh_main_trig_character_rank_up_has_tech_valayas_protection</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e7f4d3fa-b0e2-4a28-ac98-c71b1ef8197e}" record_timestamp="1455552836072" record_key="573">
+<ancillary>wh_main_anc_follower_dwarfs_dwarf_bride</ancillary>
+<chance>8</chance>
+<id>573</id>
+<trigger>wh_main_trig_character_rank_up_won_offensive_battles</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{92c6760c-9ed8-4664-b769-39ccf2d670b3}" record_timestamp="1453393798328" record_key="576">
+<ancillary>wh_main_anc_follower_dwarfs_goldsmith</ancillary>
+<chance>10</chance>
+<id>576</id>
+<trigger>wh_main_trig_character_rank_up_region_has_dwf_gold</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{dd6bee4f-fd5e-48d3-8fe1-0734ec25dcd5}" record_timestamp="1455552836025" record_key="580">
+<ancillary>wh_main_anc_follower_dwarfs_grudgekeeper</ancillary>
+<chance>20</chance>
+<id>580</id>
+<trigger>wh_main_trig_general_lost_battle_against_greenskins</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c9bad0b9-98d8-468b-ab5b-86b17c7256f2}" record_timestamp="1454517835062" record_key="581">
+<ancillary>wh_main_anc_follower_dwarfs_guildmaster</ancillary>
+<chance>10</chance>
+<id>581</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{0393b92f-a828-4364-9451-4031d1999d02}" record_timestamp="1511171307260" record_key="585394419">
+<ancillary>wh_dlc05_anc_follower_forest_spirit</ancillary>
+<chance>15</chance>
+<id>585394419</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5796bde2-465b-4799-ac6a-72f4df8faaf8}" record_timestamp="1453889708202" record_key="59">
+<ancillary>wh_main_anc_follower_all_men_kislevite_kossar</ancillary>
+<chance>10</chance>
+<id>59</id>
+<trigger>wh_main_trig_character_rank_up_in_kislev</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2a5b352a-bf19-4b57-921f-092c1fee663e}" record_timestamp="1455552835682" record_key="591">
+<ancillary>wh_main_anc_follower_dwarfs_jewelsmith</ancillary>
+<chance>25</chance>
+<id>591</id>
+<trigger>wh_main_trig_character_rank_up_region_has_dwf_gems</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{eb409c55-a1f0-495f-8c8c-cae79a27bb81}" record_timestamp="1503503909147" record_key="596212166">
+<ancillary>wh2_main_anc_follower_hef_admiral</ancillary>
+<chance>25</chance>
+<id>596212166</id>
+<trigger>wh2_main_trig_character_hef_admiral</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6504d754-ef47-474d-9aec-ec4afee8e6c0}" record_timestamp="1455552835479" record_key="600">
+<ancillary>wh_main_anc_follower_dwarfs_miner</ancillary>
+<chance>15</chance>
+<id>600</id>
+<trigger>wh_main_trig_character_rank_up_region_has_dwf_iron</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{63fec257-4365-41b0-87d2-1adce6c15953}" record_timestamp="1503503909164" record_key="604478321">
+<ancillary>wh2_main_anc_follower_skv_bell_polisher</ancillary>
+<chance>25</chance>
+<id>604478321</id>
+<trigger>wh2_main_trig_character_skv_bell_polisher</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{ffdb4ee8-bb46-46f4-9d5c-fa4aea1adad7}" record_timestamp="1453393796612" record_key="61">
+<ancillary>wh_main_anc_follower_all_men_mercenary</ancillary>
+<chance>8</chance>
+<id>61</id>
+<trigger>wh_main_trig_character_lost_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{db1dac12-b0bf-4f82-b68a-61e3d6cf4fb7}" record_timestamp="1453393798438" record_key="610">
+<ancillary>wh_main_anc_follower_dwarfs_powder_mixer</ancillary>
+<chance>8</chance>
+<id>610</id>
+<trigger>wh_main_trig_character_rank_up_can_recruit_dwf_cannon</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9e405b5b-48ed-4150-9b9f-fb330ab38119}" record_timestamp="1502389498414" record_key="61031760">
+<ancillary>wh2_main_anc_follower_hef_wine_merchant</ancillary>
+<chance>10</chance>
+<id>61031760</id>
+<trigger>wh_main_trig_character_rank_up_high_trade</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{09ad0b2f-3dc1-4edc-9471-26b408c4d9c9}" record_timestamp="1503503909176" record_key="610419052">
+<ancillary>wh2_main_anc_follower_def_cultist</ancillary>
+<chance>25</chance>
+<id>610419052</id>
+<trigger>wh2_main_trig_character_def_cultist</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{dbe987b4-011f-4f39-ae98-1da0704448db}" record_timestamp="1453393798453" record_key="611">
+<ancillary>wh_main_anc_follower_dwarfs_prospector</ancillary>
+<chance>5</chance>
+<id>611</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2ec755ca-a897-4b8e-9290-1bb81ee5b003}" record_timestamp="1453393798469" record_key="620">
+<ancillary>wh_main_anc_follower_dwarfs_reckoner</ancillary>
+<chance>10</chance>
+<id>620</id>
+<trigger>wh_main_trig_general_won_battle_against_men</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{28bfc5ea-18ee-4852-9f7f-6c60a98453cb}" record_timestamp="1455552835666" record_key="623">
+<ancillary>wh_main_anc_follower_dwarfs_runebearer</ancillary>
+<chance>20</chance>
+<id>623</id>
+<trigger>wh_main_trig_character_rank_up_runesmith_alone</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{96fe5a33-616d-4525-813d-ba869e650a91}" record_timestamp="1455552835651" record_key="633">
+<ancillary>wh_main_anc_follower_dwarfs_runesmith_apprentice</ancillary>
+<chance>20</chance>
+<id>633</id>
+<trigger>wh_main_trig_character_rank_up_can_recruit_runesmith</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{cacd6b78-25f7-41a9-bf46-c7dfcdef3f32}" record_timestamp="1453393798531" record_key="642">
+<ancillary>wh_main_anc_follower_dwarfs_sapper</ancillary>
+<chance>5</chance>
+<id>642</id>
+<trigger>wh_main_trig_character_won_siege_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e43ef8be-127b-4758-9604-d44921dde0fd}" record_timestamp="1455552836197" record_key="647">
+<ancillary>wh_main_anc_follower_dwarfs_shieldbreaker</ancillary>
+<chance>25</chance>
+<id>647</id>
+<trigger>wh_main_trig_character_rank_up_tunnelling</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8cbe74fc-ada9-4546-ba19-d0cc3068843e}" record_timestamp="1503503909202" record_key="653914612">
+<ancillary>wh2_main_anc_follower_def_propagandist</ancillary>
+<chance>25</chance>
+<id>653914612</id>
+<trigger>wh2_main_trig_character_def_propagandist</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{424d76d5-bc26-4fe2-b351-881298cae718}" record_timestamp="1455534753523" record_key="657">
+<ancillary>wh_main_anc_follower_dwarfs_shipwright</ancillary>
+<chance>15</chance>
+<id>657</id>
+<trigger>wh_main_trig_character_rank_up_at_sea</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{aef9e99d-29ec-4a01-9c17-eddbc635e4d3}" record_timestamp="1455534753532" record_key="660">
+<ancillary>wh_main_anc_follower_dwarfs_slayer_ward</ancillary>
+<chance>10</chance>
+<id>660</id>
+<trigger>wh_main_trig_character_rank_up_has_dwf_slayers</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{0d88ecef-ed21-4039-a6c2-bfcd77c38e52}" record_timestamp="1455552836181" record_key="663">
+<ancillary>wh_main_anc_follower_dwarfs_stonemason</ancillary>
+<chance>15</chance>
+<id>663</id>
+<trigger>wh_main_trig_character_rank_up_marble</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3af7bc5a-10bd-4c1e-aaa0-bb6f6ceefa3a}" record_timestamp="1455552835791" record_key="672">
+<ancillary>wh_main_anc_follower_dwarfs_teller_of_tales</ancillary>
+<chance>10</chance>
+<id>672</id>
+<trigger>wh_main_trig_character_rank_up_low_public_order</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1d9031ac-ca7d-483e-98f7-ac7e6eaf7bbe}" record_timestamp="1502715520657" record_key="676495314">
+<ancillary>wh2_main_anc_follower_skv_artefact_hunter</ancillary>
+<chance>25</chance>
+<id>676495314</id>
+<trigger>wh_main_trig_character_sacked_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{219481a7-7e94-4f49-bdcc-aeff63a6ed90}" record_timestamp="1453393798672" record_key="677">
+<ancillary>wh_main_anc_follower_dwarfs_treasure_hunter</ancillary>
+<chance>5</chance>
+<id>677</id>
+<trigger>wh_main_trig_character_looted_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{950de7f2-9e4c-4d86-9000-26172b716c1f}" record_timestamp="1511171307261" record_key="678515242">
+<ancillary>wh_dlc05_anc_follower_vauls_anvil_smith</ancillary>
+<chance>10</chance>
+<id>678515242</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{4b98a7ec-6083-4aa4-b291-6463f89a33df}" record_timestamp="1503503909230" record_key="679962772">
+<ancillary>wh2_main_anc_follower_hef_horsemaster</ancillary>
+<chance>25</chance>
+<id>679962772</id>
+<trigger>wh2_main_trig_general_constructed_building_hef_ellyrian_royal_stables</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{48f16fef-590e-4f40-82ce-5db6c0a4fe25}" record_timestamp="1457527591605" record_key="68">
+<ancillary>wh_main_anc_follower_all_men_militiaman</ancillary>
+<chance>13</chance>
+<id>68</id>
+<trigger>wh_main_trig_general_won_battle_against_men_not_militiaman</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{03456408-12b5-4fec-8f9a-41a5067ebf87}" record_timestamp="1455534753548" record_key="685">
+<ancillary>wh_main_anc_follower_dwarfs_troll_slayer</ancillary>
+<chance>20</chance>
+<id>685</id>
+<trigger>wh_main_trig_character_won_battle_against_trolls</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9ae7613d-d3e1-40de-844f-1ce25b40d125}" record_timestamp="1456311432219" record_key="705">
+<ancillary>wh_main_anc_follower_greenskins_snotling_scavengers</ancillary>
+<chance>20</chance>
+<id>705</id>
+<trigger>wh_main_trig_hero_won_battle_losing_money</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1860f663-19cc-49c8-98fb-35b7c9a9648f}" record_timestamp="1456311432258" record_key="708">
+<ancillary>wh_main_anc_follower_greenskins_shroom_gathera</ancillary>
+<chance>10</chance>
+<id>708</id>
+<trigger>wh_main_trig_character_rank_up_night_goblin_shaman</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{6d6cdb08-9cb5-4851-b362-b8dc5178754c}" record_timestamp="1502389498414" record_key="70869981">
+<ancillary>wh2_main_anc_follower_def_fimir_balefiend</ancillary>
+<chance>5</chance>
+<id>70869981</id>
+<trigger>wh_main_trig_character_post_battle_slaughter</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5d7ce076-45cf-4864-8dd7-2e01be101364}" record_timestamp="1463570275070" record_key="71">
+<ancillary>wh_main_anc_follower_all_men_ogres_pit_fighter</ancillary>
+<chance>5</chance>
+<id>71</id>
+<trigger>wh_main_trig_character_post_battle_slaughter</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{18c41231-6f08-4d17-ba22-1bd93b01d62c}" record_timestamp="1456311432277" record_key="711">
+<ancillary>wh_main_anc_follower_greenskins_squig_mascot</ancillary>
+<chance>4</chance>
+<id>711</id>
+<trigger>wh_main_trig_character_rank_up_night_goblin_shaman</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{88a56385-7a78-4ce6-bea4-ed9d825bef22}" record_timestamp="1456934183692" record_key="714">
+<ancillary>wh_main_anc_follower_bretonnia_court_jester</ancillary>
+<chance>10</chance>
+<id>714</id>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{52ad08ef-31ba-49b4-9b2e-e712a53da767}" record_timestamp="1456934183634" record_key="724">
+<ancillary>wh_main_anc_follower_dwarfs_dwarfen_tattooist</ancillary>
+<chance>10</chance>
+<id>724</id>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7c33f314-2ab7-4b32-be33-605c23be8650}" record_timestamp="1502389498414" record_key="724863790">
+<ancillary>wh2_main_anc_follower_skv_bodyguard</ancillary>
+<chance>15</chance>
+<id>724863790</id>
+<trigger>wh_main_trig_character_assassinated_character_failure</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c20f28e7-c829-4897-a710-b04b64e2869d}" record_timestamp="1463569349916" record_key="727">
+<ancillary>wh_main_anc_follower_empire_light_college_acolyte</ancillary>
+<chance>5</chance>
+<id>727</id>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{2de71d3c-7879-4825-856e-502258e3e28b}" record_timestamp="1456934183515" record_key="728">
+<ancillary>wh_main_anc_follower_greenskins_gobbo_ranta</ancillary>
+<chance>10</chance>
+<id>728</id>
+<trigger>wh_main_trig_character_rank_up_region_high_corruption</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8b918d0e-0c73-4a80-a553-c71f51107615}" record_timestamp="1468846446298" record_key="732">
+<ancillary>wh_dlc03_anc_follower_beastmen_bray_shamans_familiar</ancillary>
+<chance>15</chance>
+<id>732</id>
+<trigger>wh_main_trig_hero_won_battle_wizard</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{98c60c7c-6a04-4af3-8f83-e0cb27ba87d4}" record_timestamp="1468846446297" record_key="739">
+<ancillary>wh_dlc03_anc_follower_beastmen_chieftains_pet</ancillary>
+<chance>35</chance>
+<id>739</id>
+<trigger>wh_dlc03_trig_character_lost_battle_has_bst_warhounds</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a2549dc0-cee2-4fda-8bda-1e673a75cf4f}" record_timestamp="1468846446291" record_key="740">
+<ancillary>wh_dlc03_anc_follower_beastmen_doe</ancillary>
+<chance>5</chance>
+<id>740</id>
+<trigger>wh_dlc03_trig_character_razed_settlement_not_doe</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{a2fdb30d-0001-44a8-9e95-7c02d90b89a6}" record_timestamp="1468846446299" record_key="741">
+<ancillary>wh_dlc03_anc_follower_beastmen_flayer</ancillary>
+<chance>10</chance>
+<id>741</id>
+<trigger>wh_main_trig_character_rank_up_started_war</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{486f54be-b206-4b29-a177-0e06c4f378e8}" record_timestamp="1468846446292" record_key="748">
+<ancillary>wh_dlc03_anc_follower_beastmen_flying_spy</ancillary>
+<chance>2</chance>
+<id>748</id>
+<trigger>wh_main_trig_character_rank_up_low</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{7395a793-7997-4807-ad40-55693d21d2bb}" record_timestamp="1468846446291" record_key="752">
+<ancillary>wh_dlc03_anc_follower_beastmen_herdstone_keeper</ancillary>
+<chance>3</chance>
+<id>752</id>
+<trigger>wh_main_character_rank_up_untainted_region</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{c670f262-3b6b-4467-b2a8-a0b230cbedc7}" record_timestamp="1468846446294" record_key="753">
+<ancillary>wh_dlc03_anc_follower_beastmen_mannish_thrall</ancillary>
+<chance>8</chance>
+<id>753</id>
+<trigger>wh_dlc03_trig_hero_won_battle_against_men</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{fec9e2f4-47f1-4f95-9ad3-33016230feab}" record_timestamp="1468846446293" record_key="757">
+<ancillary>wh_dlc03_anc_follower_beastmen_pox_carrier</ancillary>
+<chance>4</chance>
+<id>757</id>
+<trigger>wh_main_trig_character_won_battle_5_mul</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5f5634a9-9676-4700-9376-1fcb5358899b}" record_timestamp="1504091738655" record_key="761448661">
+<ancillary>wh2_main_anc_follower_lzd_defence_expert</ancillary>
+<chance>10</chance>
+<id>761448661</id>
+<trigger>wh2_main_trig_character_lzd_defence_expert</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{44b10496-ac59-4b79-a26b-aa05f58970b8}" record_timestamp="1507893357404" record_key="765815185">
+<ancillary>wh2_main_anc_follower_def_harem_keeper</ancillary>
+<chance>10</chance>
+<id>765815185</id>
+<trigger>wh2_main_trig_character_def_harem_keeper</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{0ff7c9bb-38bd-4dfa-91c6-71fa22a84a96}" record_timestamp="1468846446296" record_key="767">
+<ancillary>wh_dlc03_anc_follower_beastmen_spawn_wrangler</ancillary>
+<chance>8</chance>
+<id>767</id>
+<trigger>wh_dlc03_trig_character_rank_up_can_recruit_bst_spawn</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9fe520f9-f8e1-4c43-a5c5-5eb6c9a1099b}" record_timestamp="1463569490841" record_key="77">
+<ancillary>wh_main_anc_follower_all_men_outlaw</ancillary>
+<chance>8</chance>
+<id>77</id>
+<trigger>wh_main_trig_character_rank_up_raiding</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3581492c-c4f8-45cf-8795-72a32c06b8a5}" record_timestamp="1468846446295" record_key="776">
+<ancillary>wh_dlc03_anc_follower_beastmen_ungor_whelp</ancillary>
+<chance>3</chance>
+<id>776</id>
+<trigger>wh_dlc03_trig_character_razed_settlement_not_ungor_whelp</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{07f0213f-890f-4570-9690-4b0a9f3eff26}" record_timestamp="1455533265734" record_key="81">
+<ancillary>wh_main_anc_follower_all_men_outrider</ancillary>
+<chance>14</chance>
+<id>81</id>
+<trigger>wh_main_trig_character_rank_up_started_war</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{3f8903ee-30b6-459b-923f-09ecddc8896f}" record_timestamp="1502389498411" record_key="814717688">
+<ancillary>wh2_main_anc_follower_hef_assassin</ancillary>
+<chance>5</chance>
+<id>814717688</id>
+<trigger>wh_main_trig_character_assassinated_character</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{8fb38c06-3aac-46a6-86f8-a494c82d72ff}" record_timestamp="1502389498411" record_key="827210427">
+<ancillary>wh2_main_anc_follower_hef_beard_weaver</ancillary>
+<chance>50</chance>
+<id>827210427</id>
+<trigger>wh2_main_trig_character_won_battle_against_dwarfs</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5f7b3da7-103f-4d98-989d-81e58faff4c7}" record_timestamp="1511171307260" record_key="828575897">
+<ancillary>wh_dlc05_anc_follower_royal_standard_bearer</ancillary>
+<chance>10</chance>
+<id>828575897</id>
+<trigger>wh_main_trig_character_won_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{66e3571d-5906-412d-9e4e-8088edd84247}" record_timestamp="1462358725813" record_key="83">
+<ancillary>wh_main_anc_follower_all_men_protagonist</ancillary>
+<chance>4</chance>
+<id>83</id>
+<trigger>wh_main_trig_character_lost_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{dcc90a99-6fda-4d92-bed4-993bb7ce835f}" record_timestamp="1467039138437" record_key="85">
+<ancillary>wh_main_anc_follower_all_men_rogue</ancillary>
+<chance>8</chance>
+<id>85</id>
+<trigger>wh_main_trig_character_assassinated_character_human_even</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{22499b7a-bd82-4017-ab0d-87089b8c865e}" record_timestamp="1503503909316" record_key="861973658">
+<ancillary>wh2_main_anc_follower_hef_trappist</ancillary>
+<chance>25</chance>
+<id>861973658</id>
+<trigger>wh2_main_trig_character_hef_trappist</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{bf7a278d-960c-4031-8977-d5a4c17d28e3}" record_timestamp="1453393796753" record_key="87">
+<ancillary>wh_main_anc_follower_all_men_servant</ancillary>
+<chance>5</chance>
+<id>87</id>
+<trigger>wh_main_trig_character_rank_up_high</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{77eee07f-edcb-4bfa-b46a-b37e45bea0a3}" record_timestamp="1508928449975" record_key="8740">
+<ancillary>wh2_dlc09_anc_follower_tmb_cultist_of_usirian</ancillary>
+<chance>25</chance>
+<id>8740</id>
+<trigger>wh2_dlc09_trig_tmb_cultist_of_usirian</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{9fce51ca-4737-4b76-bfee-fd4a36750663}" record_timestamp="1502389498411" record_key="88464817">
+<ancillary>wh2_main_anc_follower_def_diplomat_slaanesh</ancillary>
+<chance>5</chance>
+<id>88464817</id>
+<trigger>wh2_main_trig_character_def_diplomat_slaanesh</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{5ab17a22-1a06-4a13-8a3f-7393d55179ab}" record_timestamp="1502389498412" record_key="890336753">
+<ancillary>wh2_main_anc_follower_skv_sacrificial_victim_lizardman</ancillary>
+<chance>11</chance>
+<id>890336753</id>
+<trigger>wh2_main_trig_character_won_battle_against_lizardmen</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e8dd7e15-a076-4ebc-b2a8-9797015de642}" record_timestamp="1502389498414" record_key="902814962">
+<ancillary>wh2_main_anc_follower_lzd_army_beast_hunter</ancillary>
+<chance>25</chance>
+<id>902814962</id>
+<trigger>wh_main_trig_character_participated_in_ambush_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{1de26acf-96f0-4c0e-8d1a-b81deac290af}" record_timestamp="1502389498413" record_key="925128696">
+<ancillary>wh2_main_anc_follower_skv_scavenger_1</ancillary>
+<chance>9</chance>
+<id>925128696</id>
+<trigger>wh_main_trig_character_hindered_settlement</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{d09f526c-f6fc-4ae5-95c9-dbe67ac8d82a}" record_timestamp="1462358725782" record_key="93">
+<ancillary>wh_main_anc_follower_all_men_smuggler</ancillary>
+<chance>7</chance>
+<id>93</id>
+<trigger>wh_main_trig_character_rank_up_high_trade_can_equip_smuggler</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{dbc4362a-dbab-4a4c-866e-11ede3f14dac}" record_timestamp="1462358725814" record_key="94">
+<ancillary>wh_main_anc_follower_all_men_soldier</ancillary>
+<chance>2</chance>
+<id>94</id>
+<trigger>wh_main_trig_character_lost_battle</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{99f54505-4ee1-4fb6-a452-d9c5d4e28956}" record_timestamp="1511171307259" record_key="974150179">
+<ancillary>wh_dlc05_anc_follower_young_stag</ancillary>
+<chance>10</chance>
+<id>974150179</id>
+<trigger>wh_main_trig_character_rank_up_low</trigger>
+</ancillary_trigger_effects>
+<ancillary_trigger_effects record_uuid="{e017d67e-05c5-4b3f-b0c4-6b8536f75c74}" record_timestamp="1507893357404" record_key="977894736">
+<ancillary>wh2_main_anc_follower_def_fanatic</ancillary>
+<chance>10</chance>
+<id>977894736</id>
+<trigger>wh2_main_trig_character_def_fanatic</trigger>
+</ancillary_trigger_effects>
+</dataroot>

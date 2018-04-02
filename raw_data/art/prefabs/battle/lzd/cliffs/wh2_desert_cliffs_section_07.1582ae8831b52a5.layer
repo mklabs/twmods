@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="15d500f2495ffe1" name="old">
+      <ECLayer export="false" bmd_export_type=""/>
+    </entity>
+    <entity id="1582ae8831b52a4">
+      <ECBuilding key="def_cliff_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="39.6130371 0 214.310303" rotation="0 -73.9999619 0" scale="10 10 10"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliff_01"/>
+    </entity>
+    <entity id="1582ae8831b52a1">
+      <ECBuilding key="def_cliff_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-13.9262695 18.3243408 -54.1281738" rotation="0 78.0000076 0" scale="10 10 10"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliff_01"/>
+    </entity>
+    <entity id="1582ae8831b52a3">
+      <ECBuilding key="def_cliff_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-19.5544434 0.0305786133 67.0703125" rotation="0 12.0000019 0" scale="10 10 10"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliff_01"/>
+    </entity>
+    <entity id="1582ae8831b52a2">
+      <ECBuilding key="def_cliff_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-39.6132813 13.1293945 -214.310303" rotation="0 194 0" scale="10 10 10"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliff_01"/>
+    </entity>
+    <entity id="15d5010392affe2">
+      <ECBuilding key="wh2_desert_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-34.3332443 -8.25984669 -187.319534" rotation="-17.9280396 -75.9985275 18.4403629" scale="23.446682 16.1779003 18.9304409"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh2_desert_cliffs_01"/>
+    </entity>
+    <entity id="15d50106b35ffe3">
+      <ECBuilding key="wh2_desert_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="12.0176172 -11.2330017 204.328369" rotation="-10.6496439 114.447914 -11.671031" scale="18.246933 16.7698669 15.5547285"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh2_desert_cliffs_01"/>
+    </entity>
+    <entity id="15d50109e6bffe4">
+      <ECBuilding key="wh2_desert_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-19.3102112 -9.00004005 86.4506149" rotation="0 -80.7168808 0" scale="21.8990135 17.1568375 18.8246479"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh2_desert_cliffs_01"/>
+    </entity>
+    <entity id="15d5011eae8ffe5">
+      <ECBuilding key="wh2_desert_cliffs_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-13.8160982 -9.00007057 -35.3297729" rotation="-30.161911 95.2107239 -30.2650585" scale="21.8990059 17.1568356 18.8246422"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="wh2_desert_cliffs_01"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical>
+      <from id="15d500f2495ffe1">
+        <to id="1582ae8831b52a4"/>
+        <to id="1582ae8831b52a1"/>
+        <to id="1582ae8831b52a3"/>
+        <to id="1582ae8831b52a2"/>
+      </from>
+    </Logical>
+    <Transform/>
+  </associations>
+</layer>

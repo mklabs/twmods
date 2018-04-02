@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="27">
+  <entities>
+    <entity id="1555e2d8986d701">
+      <ECBuilding key="glb_crystal_04" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.330810547 2.66144753 0.142959595" rotation="-86.2676163 136.14093 -97.6108932" scale="2.84263659 2.84263682 2.84263635"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_04"/>
+    </entity>
+    <entity id="1555e2d8986d702">
+      <ECBuilding key="glb_crystal_05" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.250854492 3.35853767 0.836532593" rotation="-37.3538246 158.136292 -19.1163464" scale="1.99999964 1.9999994 1.99999976"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_crystal_05"/>
+    </entity>
+    <entity id="1555e2d8986d703">
+      <ECBuilding key="chs_teeth_base_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.330688477 1.90734863e-006 -0.836669922" rotation="0 2.13443414e-007 0" scale="0.74999994 1 0.99999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="chs_teeth_base_01"/>
+    </entity>
+    <entity id="1555e2d8986d704">
+      <ECBuilding key="glb_warpstone_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.0162658691 1.51191902 -0.261123657" rotation="61.4277687 231.983032 244.887512" scale="0.587212861 0.587212503 0.58721292"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="glb_warpstone_03"/>
+    </entity>
+    <entity id="155915cc4174b6f">
+      <ECVFX vfx="wh_dlc04_enviro_warpstone" autoplay="true" scale="1" instance_name=""/>
+      <ECBattleProperties allow_in_outfield="false"/>
+      <ECTransform position="0 1.09799767 -0.985137939" rotation="47.9576302 3.58634679e-007 -1.00033621e-005" scale="1.00000012 1 1"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

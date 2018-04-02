@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaigns_campaign_variables_junctions.xsd" export_time="Thu Aug 10 14:48:45 2017" revision="42" export_branch="T:/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>958835fa-938d-4ba2-9bfc-74ce90683c7c</edit_uuid>
+<campaigns_campaign_variables_junctions record_uuid="{ffa95dd4-51d7-418f-8175-aa9a1fa59a15}" record_timestamp="1502292569687" record_key="display_vortex_enabledmain_warhammer">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level></optional_difficulty_level>
+<value>1</value>
+<variable_key>display_vortex_enabled</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{82465df9-39cf-48c8-bfe1-8e3991db7a5c}" record_timestamp="1501591744135" record_key="display_vortex_enabledwh2_main_great_vortex">
+<campaign_name>wh2_main_great_vortex</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level></optional_difficulty_level>
+<value>1</value>
+<variable_key>display_vortex_enabled</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{4669aa69-5339-4d69-a9f9-1c4e77c83643}" record_timestamp="1502292872268" record_key="display_vortex_position_xmain_warhammer">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level></optional_difficulty_level>
+<value>147.5</value>
+<variable_key>display_vortex_position_x</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{73a02c77-fb97-463a-a3b5-63bb0ae2bc46}" record_timestamp="1502292872272" record_key="display_vortex_position_zmain_warhammer">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level></optional_difficulty_level>
+<value>254</value>
+<variable_key>display_vortex_position_z</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{a4607378-cbf8-4832-b683-4c4ab12e3dc7}" record_timestamp="1502372923432" record_key="province_development_threshold_calc_points_multipliermain_warhammer-2">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>125</value>
+<variable_key>province_development_threshold_calc_points_multiplier</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{10d67df8-fca3-44bf-872e-69225dc8e6e7}" record_timestamp="1502372923405" record_key="province_development_threshold_calc_points_multipliermain_warhammer-3">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>125</value>
+<variable_key>province_development_threshold_calc_points_multiplier</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{8437f77e-2a7b-4896-b5c8-dbc3819f244f}" record_timestamp="1502372923419" record_key="province_development_threshold_calc_points_multiplierwh2_main_great_vortex-2">
+<campaign_name>wh2_main_great_vortex</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>125</value>
+<variable_key>province_development_threshold_calc_points_multiplier</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{eab6470d-8a97-4849-ae2a-1579097bb66d}" record_timestamp="1502372923393" record_key="province_development_threshold_calc_points_multiplierwh2_main_great_vortex-3">
+<campaign_name>wh2_main_great_vortex</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>125</value>
+<variable_key>province_development_threshold_calc_points_multiplier</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{bb1b37c5-78cb-4518-b62a-715b449498a3}" record_timestamp="1461152307645" record_key="rebel_army_additional_units_per_turn_sizemain_warhammer-1">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>6</value>
+<variable_key>rebel_army_additional_units_per_turn_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{febc0500-8e88-4728-9c1d-be8108d05820}" record_timestamp="1461152307645" record_key="rebel_army_additional_units_per_turn_sizemain_warhammer-2">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>6</value>
+<variable_key>rebel_army_additional_units_per_turn_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{f86d2ee9-506c-4ad3-b981-69346afe0006}" record_timestamp="1461152307647" record_key="rebel_army_additional_units_per_turn_sizemain_warhammer-3">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>6</value>
+<variable_key>rebel_army_additional_units_per_turn_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{178ba188-8eee-4d1c-8e00-ef711e921810}" record_timestamp="1461152307646" record_key="rebel_army_additional_units_per_turn_sizemain_warhammer1">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>2</value>
+<variable_key>rebel_army_additional_units_per_turn_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{7e0b8f69-ee0d-4c66-b6e0-f31ad8ce99fb}" record_timestamp="1461152307649" record_key="rebel_initial_army_sizemain_warhammer-1">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-1</optional_difficulty_level>
+<value>8</value>
+<variable_key>rebel_initial_army_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{d336b04f-2184-460d-85f8-46fe5ce5d4b0}" record_timestamp="1461152307648" record_key="rebel_initial_army_sizemain_warhammer-2">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-2</optional_difficulty_level>
+<value>8</value>
+<variable_key>rebel_initial_army_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{13e1649c-fec5-41b9-9ba6-2423207caaa8}" record_timestamp="1461152307651" record_key="rebel_initial_army_sizemain_warhammer-3">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>-3</optional_difficulty_level>
+<value>8</value>
+<variable_key>rebel_initial_army_size</variable_key>
+</campaigns_campaign_variables_junctions>
+<campaigns_campaign_variables_junctions record_uuid="{209d4524-d269-4165-b871-1aa41282aa28}" record_timestamp="1461152307650" record_key="rebel_initial_army_sizemain_warhammer1">
+<campaign_name>main_warhammer</campaign_name>
+<optional_campaign_type></optional_campaign_type>
+<optional_difficulty_level>1</optional_difficulty_level>
+<value>4</value>
+<variable_key>rebel_initial_army_size</variable_key>
+</campaigns_campaign_variables_junctions>
+</dataroot>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="military_force_types.xsd" export_time="Fri Apr 7 12:22:53 2017" revision="2" export_branch="E:/TW/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>52becc04-7b3c-4206-a8ce-6c78a4ad6fb1</edit_uuid>
+<military_force_types record_uuid="{2a9fed2c-6bf3-417f-9c34-c512f57d8802}" record_timestamp="1473771458973" record_key="ARMY">
+<general_can_be_replaced>1</general_can_be_replaced>
+<key>ARMY</key>
+<primary_slot_template></primary_slot_template>
+<primary_slot_type></primary_slot_type>
+<secondary_slot_template></secondary_slot_template>
+<secondary_slot_type></secondary_slot_type>
+</military_force_types>
+<military_force_types record_uuid="{1ab3ad8b-0e30-4893-bc20-08f0f1e3445b}" record_timestamp="1473771458972" record_key="HORDE">
+<general_can_be_replaced>1</general_can_be_replaced>
+<key>HORDE</key>
+<primary_slot_template>horde_primary</primary_slot_template>
+<primary_slot_type>horde_primary</primary_slot_type>
+<secondary_slot_template>horde_secondary</secondary_slot_template>
+<secondary_slot_type>horde_primary</secondary_slot_type>
+</military_force_types>
+<military_force_types record_uuid="{7ccf32d1-6a3e-44e6-90bd-a504634a4a94}" record_timestamp="1473771458972" record_key="NAVAL_HORDE">
+<general_can_be_replaced>1</general_can_be_replaced>
+<key>NAVAL_HORDE</key>
+<primary_slot_template>horde_primary</primary_slot_template>
+<primary_slot_type>horde_primary</primary_slot_type>
+<secondary_slot_template>horde_secondary</secondary_slot_template>
+<secondary_slot_type>horde_primary</secondary_slot_type>
+</military_force_types>
+<military_force_types record_uuid="{f00ece86-1399-4b7e-a544-f78fbc2f71f7}" record_timestamp="1473771458973" record_key="NAVY">
+<general_can_be_replaced>1</general_can_be_replaced>
+<key>NAVY</key>
+<primary_slot_template></primary_slot_template>
+<primary_slot_type></primary_slot_type>
+<secondary_slot_template></secondary_slot_template>
+<secondary_slot_type></secondary_slot_type>
+</military_force_types>
+<military_force_types record_uuid="{543b582a-f6f9-4839-b1cb-54e31fe2f0cb}" record_timestamp="1491564173145" record_key="SEA_LOCKED_HORDE">
+<general_can_be_replaced>0</general_can_be_replaced>
+<key>SEA_LOCKED_HORDE</key>
+<primary_slot_template>horde_primary</primary_slot_template>
+<primary_slot_type>horde_primary</primary_slot_type>
+<secondary_slot_template>horde_secondary</secondary_slot_template>
+<secondary_slot_type>horde_primary</secondary_slot_type>
+</military_force_types>
+</dataroot>

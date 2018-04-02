@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="19">
+  <entities>
+    <entity id="15135508ede0fd4" name="brt_dormer_02">
+      <ECBuilding key="brt_dormer_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-7.61462402 23.9075146 -6.04272461" rotation="0 140 0" scale="0.999998987 0.99999994 0.999998987"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fd5" name="brt_bridgetower_01">
+      <ECBuilding key="brt_bridgetower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-5.52722168 16.061676 -10.6665039" rotation="-0.000124760831 -85.0000458 0.000140380813" scale="1.49999988 1.49999988 1.49999988"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fd6" name="brt_bridgetower_02">
+      <ECBuilding key="brt_bridgetower_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-0.455688477 26.4860783 -8.78063965" rotation="0.000161047385 -85.0000153 -0.000110828616" scale="0.999999762 0.99999994 0.999999762"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fd7" name="brt_block_02">
+      <ECBuilding key="brt_block_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-4.7734375 2.82217407 -3.86364746" rotation="-1.95341136e-006 50.0000267 -1.60085506e-007" scale="0.999999642 0.999999881 0.999999642"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fd8" name="brt_bridgetower_01">
+      <ECBuilding key="brt_bridgetower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-14.4675293 9.90097046 7.89978027" rotation="-1.93368055e-006 -39.9999695 1.3286136e-013" scale="0.999999046 0.99999994 0.999999046"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fd9" name="brt_bridgetower_01">
+      <ECBuilding key="brt_bridgetower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-11.7349854 16.0616894 -3.19885254" rotation="-1.2604246e-006 5.00000525 1.2264619e-006" scale="1.5 1.49999988 1.5"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fda" name="brt_bridge_03">
+      <ECBuilding key="brt_bridge_03" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="0.356811523 12.6121931 0.68762207" rotation="-1.95341045e-006 50.0000038 -1.60084781e-007" scale="0.999999285 0.99999994 0.999999285"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fdb" name="brt_bridgetower_02">
+      <ECBuilding key="brt_bridgetower_02" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-9.20068359 26.4860783 1.55969238" rotation="2.27537184e-005 6.00019217 1.20431378e-006" scale="0.999999523 0.99999994 0.999999523"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508ede0fdc" name="brt_bridgebay_01">
+      <ECBuilding key="brt_bridgebay_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-15.8946533 0 18.7457275" rotation="0 160.000015 -359.999969" scale="0.749999464 0.749999702 0.749999464"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508edf0fdd" name="brt_bridgebay_01">
+      <ECBuilding key="brt_bridgebay_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="4.65014648 3.43322754e-005 -10.8946533" rotation="0 130 -1.36603776e-005" scale="0.749999344 0.749999762 0.749999344"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508edf0fde" name="brt_bridgetower_01">
+      <ECBuilding key="brt_bridgetower_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="5.26538086 9.90097046 -15.6169434" rotation="-1.93367987e-006 -39.999958 6.64306595e-014" scale="0.999998808 0.99999994 0.999998808"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508edf0fdf" name="brt_bridgebay_01">
+      <ECBuilding key="brt_bridgebay_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-10.1046143 3.24249268e-005 6.35534668" rotation="0 150.000015 -1.36603776e-005" scale="0.749999106 0.749999762 0.749999106"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+    <entity id="15135508edf0fe0" name="brt_bridgebay_01">
+      <ECBuilding key="brt_bridgebay_01" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="true" allow_in_outfield_as_prop="true"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="15.8946533 5.91278076e-005 -18.7457275" rotation="1.36603776e-005 120.000053 1.36603776e-005" scale="0.749999046 0.749999762 0.749999046"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

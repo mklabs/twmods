@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer version="25">
+  <entities>
+    <entity id="1586273d0b9073b">
+      <ECBuilding key="hef_cliffs_01_pillar_base" damage="0" indestructible="false" toggleable="false" capture_location="" export_as_prop="false" allow_in_outfield_as_prop="false"/>
+      <ECMeshRenderSettings cast_shadow="true"/>
+      <ECTransform position="-1.15332031 11.5568199 3.97386932" rotation="0 -22.9999962 0" scale="1.72800004 1.72800004 1.72800004"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+      <ECPrefabOverride enabled="false" id="cliffs_01_pillar_base"/>
+    </entity>
+    <entity id="1586273d0b9073c">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="2.61767578 30.444376 -3.21092987" rotation="-1.22159183 -1.50621724 0.0232600085" scale="1.61011314 1.59990358 1.61011243"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9073d">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-4.96875 33.0053253 8.22577667" rotation="-1.22159159 -1.50621724 0.0232600048" scale="2.21451426 2.20047212 2.21451283"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9073e">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="11.6677246 28.4639206 0.581169128" rotation="-1.38590312 -28.2179356 0.64653635" scale="1.44000006 1.43999982 1.4399997"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9073f">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-3.31542969 22.9125271 -8.87325287" rotation="5.80978584 102.15374 5.67158365" scale="1.44000006 1.43999982 1.43999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90740">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="1.40795898 34.0930405 7.20985413" rotation="-1.3859036 -28.2179356 0.64653635" scale="1.44000006 1.43999958 1.43999958"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90741">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-10.5461426 21.4995861 11.1912079" rotation="-29.7486706 84.5792389 -12.9904251" scale="1.44000018 1.43999958 1.43999982"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90742">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="-3.8046875 6.9132123 1.19625854" rotation="2.83018446 231.971985 358.157776" scale="1.19999993 1.20000088 1.19999981"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90743">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-0.379638672 30.0308208 12.7790375" rotation="-1.3859036 -28.2179356 0.64653635" scale="1.44000006 1.43999958 1.43999958"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90744">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="3.99707031 8.19007874 12.3244553" rotation="-1.98542511 28.5996609 -0.562801063" scale="0.929785371 0.929785311 0.929785669"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90745">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="1.08862305 7.2008357 -0.291999817" rotation="-1.74399006 -1.84558523 0.444036126" scale="1.20000017 1.20000041 1.19999993"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90746">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="3.46289063 32.8465843 0.840454102" rotation="-1.22159195 -1.50621676 0.0232600085" scale="1.74027538 1.72924113 1.74027455"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90747">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_k"/>
+      <ECTransform position="-9.9621582 3.49038792 -7.19846344" rotation="23.734993 -82.0587769 -16.9078388" scale="1.20000041 1.20000017 1.19999993"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90748">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-8.28076172 27.5104675 -2.78811646" rotation="-1.66101933 42.6727753 -1.13487005" scale="1.43999982 1.43999982 1.44000006"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90749">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="6.01879883 29.9230042 5.14707947" rotation="-1.38590348 -28.2179337 0.646536469" scale="1.44000006 1.43999982 1.43999958"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9074a">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-5.10205078 19.834507 -11.0270767" rotation="-1.57308626 -39.0743866 0.982857585" scale="1.44000006 1.44000006 1.43999994"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9074b">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-4.05761719 15.6989918 -14.3156433" rotation="-3.7461319 -70.9623566 3.53291774" scale="1.44000006 1.44000006 1.43999982"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9074c">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_i"/>
+      <ECTransform position="10.0791016 1.74674034 10.7131958" rotation="1.74602854 176.673203 0.48920545" scale="1.07473648 1.07473576 1.07473588"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9074d">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-9.97070313 26.9924316 8.15699005" rotation="-4.80874062 82.4737778 -4.15743113" scale="1.44000018 1.43999982 1.4399997"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9074e">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="9.69702148 23.1168728 -5.55744171" rotation="-1.30732679 20.9157314 -0.475633889" scale="1.43999994 1.43999982 1.4399997"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b9074f">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="3.77954102 23.8861465 -9.1552124" rotation="-1.22159147 -1.50621724 0.0232600048" scale="1.44000006 1.43999982 1.4399997"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90750">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_j"/>
+      <ECTransform position="-1.76855469 3.31047249 -9.23262024" rotation="10.9364576 181.376984 353.073486" scale="1.20000052 1.20000005 1.20000041"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90751">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-5.24584961 19.5210114 14.3156509" rotation="-29.7486591 84.5791626 -12.9904194" scale="1.44000006 1.43999982 1.43999934"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90752">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="5.85498047 25.6163445 -6.15354156" rotation="-1.83513713 48.2792206 -1.37880254" scale="1.44000006 1.43999982 1.43999982"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90753">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-5.44775391 30.7835464 9.79850769" rotation="-4.80873966 82.4737778 -4.1574297" scale="1.52268291 1.43999982 1.52268255"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90754">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="-11.6677246 22.1723003 5.22330475" rotation="-4.80874109 82.4737778 -4.15743113" scale="1.52268267 1.43999982 1.52268231"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+    <entity id="1586273d0b90755">
+      <ECVegetation key="trees/wh_oak_tree_hef/wh_oak_tree_hef_l"/>
+      <ECTransform position="9.05932617 28.6870918 4.4744873" rotation="-1.38590336 -28.2179356 0.64653641" scale="1.43999982 1.43999958 1.43999958"/>
+      <ECTerrainClamp active="false" clamp_to_sea_level="false" terrain_oriented="false"/>
+    </entity>
+  </entities>
+  <associations>
+    <Logical/>
+    <Transform/>
+  </associations>
+</layer>

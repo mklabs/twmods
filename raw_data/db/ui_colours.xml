@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_colours.xsd" export_time="Tue Oct 10 18:04:38 2017" revision="30" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>509c7f05-eb85-498a-a7a8-232393e66f62</edit_uuid>
+<ui_colours record_uuid="{eb91ddcb-ec19-4894-b918-dc4e7a54e438}" record_timestamp="1485170661924" record_key="alliance_ally">
+<blue>230</blue>
+<description>Colour used for indicating allies in battle/campaign</description>
+<green>175</green>
+<key>alliance_ally</key>
+<red>85</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{d06c6dfe-e4e7-44dd-8aab-4d8419d1e99b}" record_timestamp="1485170661924" record_key="alliance_destroyed">
+<blue>128</blue>
+<description>Colour used for indicating destroyed factions/armies in battle/campaign</description>
+<green>128</green>
+<key>alliance_destroyed</key>
+<red>128</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{b443bdaa-d574-48e0-92f6-6f4b5e894edd}" record_timestamp="1485170661924" record_key="alliance_enemy">
+<blue>0</blue>
+<description>Colour used for indicating enemies in battle/campaign</description>
+<green>20</green>
+<key>alliance_enemy</key>
+<red>196</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{e288f59d-e816-4062-b4bd-046f0f96c7af}" record_timestamp="1485170661924" record_key="alliance_neutral">
+<blue>255</blue>
+<description>Colour used for indicating neutrality in battle/campaign</description>
+<green>255</green>
+<key>alliance_neutral</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{a5793fd1-c60a-4935-9b2f-b6b822ff405b}" record_timestamp="1485170661924" record_key="alliance_player">
+<blue>0</blue>
+<description>Colour used for indicating player owned in battle/campaign</description>
+<green>185</green>
+<key>alliance_player</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{9530a50c-395b-4ad6-a16d-7d9fd517ff29}" record_timestamp="1501840940433" record_key="ancillary_crafted">
+<blue>0</blue>
+<description>placeholder</description>
+<green>128</green>
+<key>ancillary_crafted</key>
+<red>128</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{5c54c7b8-9f4c-4fdf-b783-daaeb960f743}" record_timestamp="1485175788434" record_key="ancillary_rare">
+<blue>167</blue>
+<description>placeholder</description>
+<green>107</green>
+<key>ancillary_rare</key>
+<red>28</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{3255cf13-0459-45a2-999d-be98196ba076}" record_timestamp="1485175788434" record_key="ancillary_uncommon">
+<blue>255</blue>
+<description>placeholder</description>
+<green>110</green>
+<key>ancillary_uncommon</key>
+<red>36</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{b132f846-1926-46ae-8bbe-f92c34ccd3be}" record_timestamp="1485175788434" record_key="ancillary_unique">
+<blue>111</blue>
+<description>placeholder</description>
+<green>9</green>
+<key>ancillary_unique</key>
+<red>75</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{b077c917-3f0c-490a-b6e2-1e7c821aedf3}" record_timestamp="1485170661930" record_key="dark_g">
+<blue>12</blue>
+<description>Positive. Generic colour usesd by UI for text tags, fonts, images, etc. </description>
+<green>73</green>
+<key>dark_g</key>
+<red>30</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{8469ea2c-608f-4ded-8332-b4ac0b417805}" record_timestamp="1495105190940" record_key="dark_r">
+<blue>0</blue>
+<description>Negative. Generic colour usesd by UI for text tags, fonts, images, etc. </description>
+<green>0</green>
+<key>dark_r</key>
+<red>170</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{54caad92-c9d9-499c-9e07-90cac28c6413}" record_timestamp="1485170661929" record_key="dark_y">
+<blue>0</blue>
+<description>Generic colour usesd by UI for text tags, fonts, images, etc</description>
+<green>140</green>
+<key>dark_y</key>
+<red>140</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{d34ce50d-5d12-4892-9fcc-94487c289c43}" record_timestamp="1496748187453" record_key="dip_attitude_0">
+<blue>24</blue>
+<description>hostile - RGBS to match diplomatic attitude icon in campaign</description>
+<green>49</green>
+<key>dip_attitude_0</key>
+<red>198</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{bd4049db-d610-4da9-b72d-593c085d879a}" record_timestamp="1496748187453" record_key="dip_attitude_1">
+<blue>45</blue>
+<description>very unfriendly - RGBS to match diplomatic attitude icon in campaign</description>
+<green>98</green>
+<key>dip_attitude_1</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{516f8313-92ab-473a-8649-019cea72a561}" record_timestamp="1496748187454" record_key="dip_attitude_2">
+<blue>45</blue>
+<description>unfriendly - RGBS to match diplomatic attitude icon in campaign</description>
+<green>98</green>
+<key>dip_attitude_2</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{1566c38e-696a-403f-a447-e3b27b8a7a81}" record_timestamp="1496748187454" record_key="dip_attitude_3">
+<blue>91</blue>
+<description>neutral - RGBS to match diplomatic attitude icon in campaign</description>
+<green>173</green>
+<key>dip_attitude_3</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{38f0e700-44b6-4bb4-aac5-3cb09958f1d6}" record_timestamp="1496748187454" record_key="dip_attitude_4">
+<blue>56</blue>
+<description>friendly - RGBS to match diplomatic attitude icon in campaign</description>
+<green>254</green>
+<key>dip_attitude_4</key>
+<red>215</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{405ad11d-3fbf-4942-9614-4222875bfaef}" record_timestamp="1496748187455" record_key="dip_attitude_5">
+<blue>55</blue>
+<description>very friendly - RGBS to match diplomatic attitude icon in campaign</description>
+<green>255</green>
+<key>dip_attitude_5</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{ad4789eb-4a04-42c5-a5d4-6ad6e641c7b1}" record_timestamp="1496748187455" record_key="dip_attitude_6">
+<blue>55</blue>
+<description>best friends - RGBS to match diplomatic attitude icon in campaign</description>
+<green>255</green>
+<key>dip_attitude_6</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{9bf6f9ee-c903-423b-a4bc-572f060be24f}" record_timestamp="1485170661925" record_key="fatigue_active">
+<blue>55</blue>
+<description>Colour for this fatigue state in battle</description>
+<green>255</green>
+<key>fatigue_active</key>
+<red>160</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{2dbdde5d-023c-4015-aca1-30527a8ec84d}" record_timestamp="1485170661925" record_key="fatigue_exhausted">
+<blue>45</blue>
+<description>Colour for this fatigue state in battle</description>
+<green>45</green>
+<key>fatigue_exhausted</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{861f6b35-b285-48ab-a0f0-2fbce40d0aa5}" record_timestamp="1485170661925" record_key="fatigue_fresh">
+<blue>55</blue>
+<description>Colour for this fatigue state in battle</description>
+<green>255</green>
+<key>fatigue_fresh</key>
+<red>160</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{6e482f84-4b47-4aba-a4e8-465b11a7745d}" record_timestamp="1485170661926" record_key="fatigue_tired">
+<blue>91</blue>
+<description>Colour for this fatigue state in battle</description>
+<green>173</green>
+<key>fatigue_tired</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{55861aad-a9a3-487e-9d94-206e1c28de74}" record_timestamp="1485170661926" record_key="fatigue_very_tired">
+<blue>45</blue>
+<description>Colour for this fatigue state in battle</description>
+<green>45</green>
+<key>fatigue_very_tired</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{90f17819-f382-4750-b1a0-399523821ad0}" record_timestamp="1485170661926" record_key="fatigue_winded">
+<blue>91</blue>
+<description>Colour for this fatigue state in battle</description>
+<green>173</green>
+<key>fatigue_winded</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{00cfa5cd-715c-48cd-94af-d0e11784b7d0}" record_timestamp="1494946793798" record_key="geomantic_web_1">
+<blue>0</blue>
+<description>used for geomantic web text</description>
+<green>0</green>
+<key>geomantic_web_1</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{b2fd0d17-6f4a-4188-8302-9111a6ef63c9}" record_timestamp="1494946793807" record_key="geomantic_web_2">
+<blue>0</blue>
+<description>used for geomantic web text</description>
+<green>94</green>
+<key>geomantic_web_2</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{3aa1fcb8-398d-408c-890c-f76aabfd0d7b}" record_timestamp="1494946793815" record_key="geomantic_web_3">
+<blue>0</blue>
+<description>used for geomantic web text</description>
+<green>186</green>
+<key>geomantic_web_3</key>
+<red>255</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{22f30b79-4a13-44a6-b352-396144fe233f}" record_timestamp="1494946793822" record_key="geomantic_web_4">
+<blue>0</blue>
+<description>used for geomantic web text</description>
+<green>255</green>
+<key>geomantic_web_4</key>
+<red>207</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{468ec7b4-1b26-436f-9a4a-e0f8536e7baf}" record_timestamp="1494946793790" record_key="geomantic_web_5">
+<blue>0</blue>
+<description>used for geomantic web text</description>
+<green>202</green>
+<key>geomantic_web_5</key>
+<red>91</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{e24ca3ae-5097-471c-b39f-813f3a6fbc35}" record_timestamp="1485170661924" record_key="green">
+<blue>55</blue>
+<description>Positive. Generic colour usesd by UI for text tags, fonts, images, etc. </description>
+<green>255</green>
+<key>green</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{d592ca42-0568-4b30-aec3-9ec84451c7ae}" record_timestamp="1485170661926" record_key="group_colour1">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>7</green>
+<key>group_colour1</key>
+<red>120</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{36fa469b-48da-407a-93c6-824e6f69aa34}" record_timestamp="1485170661926" record_key="group_colour10">
+<blue>154</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>100</green>
+<key>group_colour10</key>
+<red>0</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{c7acfb25-e325-4703-9825-3c35ffd5ed57}" record_timestamp="1485170661926" record_key="group_colour2">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>90</green>
+<key>group_colour2</key>
+<red>183</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{e4d05e23-55e6-42ed-a159-c8a0606747e4}" record_timestamp="1485170661926" record_key="group_colour3">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>150</green>
+<key>group_colour3</key>
+<red>224</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{564bed64-07f9-47dd-9012-f54b0030f557}" record_timestamp="1485170661926" record_key="group_colour4">
+<blue>30</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>218</green>
+<key>group_colour4</key>
+<red>155</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{25345469-837e-4a2b-a4b5-e39bf0dcfa6a}" record_timestamp="1485170661927" record_key="group_colour5">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>166</green>
+<key>group_colour5</key>
+<red>165</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{9edd1c3d-15a1-430f-8fb7-1a96b557a738}" record_timestamp="1485170661927" record_key="group_colour6">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>120</green>
+<key>group_colour6</key>
+<red>109</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{11488816-92fd-4687-ab11-57e82a7859d4}" record_timestamp="1485170661927" record_key="group_colour7">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>160</green>
+<key>group_colour7</key>
+<red>101</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{3523f668-7be1-4cc9-a825-8e54403f5d52}" record_timestamp="1485170661927" record_key="group_colour8">
+<blue>0</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>119</green>
+<key>group_colour8</key>
+<red>5</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{3ba03a19-b580-4707-a408-c5543d21daa5}" record_timestamp="1485170661927" record_key="group_colour9">
+<blue>146</blue>
+<description>Colour for this battle group index (used for group frame for example)</description>
+<green>148</green>
+<key>group_colour9</key>
+<red>0</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{d523ac9c-c555-4a35-9a4d-5aae11047844}" record_timestamp="1485357388638" record_key="help_page_link">
+<blue>8</blue>
+<description>Bold orange colour for unvisited links on help pages/infotext</description>
+<green>100</green>
+<key>help_page_link</key>
+<red>206</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{bf581d29-21a8-43a8-81f9-d07d73e5fb8c}" record_timestamp="1485357388649" record_key="help_page_link_inactive">
+<blue>127</blue>
+<description>Yellow colour for inactive links on help pages/infotext (for links that only show tooltips and can't be clicked on)</description>
+<green>231</green>
+<key>help_page_link_inactive</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{6bcbe634-0751-4534-9db3-d79c27ce175f}" record_timestamp="1485357388643" record_key="help_page_link_visited">
+<blue>84</blue>
+<description>Fade orange/brown colour for visited links on help pages/infotext</description>
+<green>122</green>
+<key>help_page_link_visited</key>
+<red>168</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{29a7b776-95d7-462e-a57e-887693ec5680}" record_timestamp="1485364582270" record_key="link">
+<blue>0</blue>
+<description>Colour used for hyperlinked text in UI</description>
+<green>92</green>
+<key>link</key>
+<red>185</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{8758ffab-c6d6-4926-999b-453fa324a764}" record_timestamp="1485170661927" record_key="magic">
+<blue>225</blue>
+<description>Colour magic is shown as in UI (used on text, icons, campaign tacmap, etc)</description>
+<green>225</green>
+<key>magic</key>
+<red>65</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{20bd6a9e-f967-406b-85f8-ecb69719f6f3}" record_timestamp="1485170661928" record_key="magic_range_link">
+<blue>231</blue>
+<description>Colour of magic link spline in area of effect display system when targetting spells</description>
+<green>225</green>
+<key>magic_range_link</key>
+<red>172</red>
+<show_in_uied>0</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{e26ba702-f848-40da-9124-3f10f58523a6}" record_timestamp="1502376951005" record_key="morale_broken">
+<blue>255</blue>
+<description>Colour for this morale state in battle</description>
+<green>255</green>
+<key>morale_broken</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{da595389-4469-42b3-bd60-8957f8920f26}" record_timestamp="1502376951007" record_key="morale_confident">
+<blue>55</blue>
+<description>Colour for this morale state in battle</description>
+<green>255</green>
+<key>morale_confident</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{09545352-1e70-4a6c-bf6f-3d939c990e63}" record_timestamp="1502376951011" record_key="morale_eager">
+<blue>55</blue>
+<description>Colour for this morale state in battle</description>
+<green>255</green>
+<key>morale_eager</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{9ee623d5-504f-4e96-8d89-87a113ef7ca2}" record_timestamp="1502376951014" record_key="morale_impetuous">
+<blue>55</blue>
+<description>Colour for this morale state in battle</description>
+<green>255</green>
+<key>morale_impetuous</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{fbf77741-05c6-4fe3-962d-b0655f74222b}" record_timestamp="1502376951018" record_key="morale_shaken">
+<blue>45</blue>
+<description>Colour for this morale state in battle</description>
+<green>45</green>
+<key>morale_shaken</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{303c425a-b5e8-4e36-8b4e-ad2b87d1b61d}" record_timestamp="1502376951022" record_key="morale_shattered">
+<blue>255</blue>
+<description>Colour for this morale state in battle</description>
+<green>255</green>
+<key>morale_shattered</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{cc09ae4c-1713-4041-8afa-daef7fd83887}" record_timestamp="1502376951027" record_key="morale_steady">
+<blue>55</blue>
+<description>Colour for this morale state in battle</description>
+<green>255</green>
+<key>morale_steady</key>
+<red>160</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{15a7421c-8824-4adf-9177-ac8475eb45c9}" record_timestamp="1502376951032" record_key="morale_wavering">
+<blue>45</blue>
+<description>Colour for this morale state in battle</description>
+<green>45</green>
+<key>morale_wavering</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{11a74659-2114-4e6a-94ae-2b5f21aac299}" record_timestamp="1485170661925" record_key="orange">
+<blue>91</blue>
+<description>Generic colour usesd by UI for text tags, fonts, images, etc</description>
+<green>173</green>
+<key>orange</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{e88dbb22-d9ce-46cb-9916-3e3da0462f8f}" record_timestamp="1485170661925" record_key="red">
+<blue>45</blue>
+<description>Negative. Generic colour usesd by UI for text tags, fonts, images, etc. </description>
+<green>45</green>
+<key>red</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{8ef9cb11-ac94-45cd-8753-c6441c9b8567}" record_timestamp="1490967374297" record_key="team_colour_ally_1">
+<blue>255</blue>
+<description>Multiplayer battle team colour</description>
+<green>215</green>
+<key>team_colour_ally_1</key>
+<red>126</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{72664ba9-8df8-4894-a245-d08b8c2ffeff}" record_timestamp="1490967374323" record_key="team_colour_ally_2">
+<blue>230</blue>
+<description>Multiplayer battle team colour</description>
+<green>175</green>
+<key>team_colour_ally_2</key>
+<red>85</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{d40cea07-bb60-4c21-b5c7-9142513798e4}" record_timestamp="1490967374350" record_key="team_colour_ally_3">
+<blue>188</blue>
+<description>Multiplayer battle team colour</description>
+<green>133</green>
+<key>team_colour_ally_3</key>
+<red>43</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{aa034ff2-0708-419d-a7b0-3f0334a5e0e4}" record_timestamp="1490967374379" record_key="team_colour_ally_4">
+<blue>138</blue>
+<description>Multiplayer battle team colour</description>
+<green>92</green>
+<key>team_colour_ally_4</key>
+<red>30</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{87e48cd2-e8ca-41c5-8de1-76df19a1da66}" record_timestamp="1505752914220" record_key="team_colour_enemy_1">
+<blue>0</blue>
+<description>Multiplayer battle team colour</description>
+<green>20</green>
+<key>team_colour_enemy_1</key>
+<red>196</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{a40a6fe2-ad7f-4ec6-b80f-09a83f865b15}" record_timestamp="1490967374420" record_key="team_colour_enemy_2">
+<blue>67</blue>
+<description>Multiplayer battle team colour</description>
+<green>60</green>
+<key>team_colour_enemy_2</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{d9afda9e-8c77-4da1-8aca-46dc191d0065}" record_timestamp="1505752914196" record_key="team_colour_enemy_3">
+<blue>141</blue>
+<description>Multiplayer battle team colour</description>
+<green>126</green>
+<key>team_colour_enemy_3</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{dec7c3ce-8a41-4ce5-a9a7-f5babbf93ee0}" record_timestamp="1490967374482" record_key="team_colour_enemy_4">
+<blue>0</blue>
+<description>Multiplayer battle team colour</description>
+<green>2</green>
+<key>team_colour_enemy_4</key>
+<red>168</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{28daf384-f862-4f57-aa1f-6e942ccabb67}" record_timestamp="1490967374511" record_key="team_colour_ffa_1">
+<blue>0</blue>
+<description>Multiplayer battle team colour</description>
+<green>66</green>
+<key>team_colour_ffa_1</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{fa93222c-dfbd-4ffc-9d48-7fcc1cda0c6a}" record_timestamp="1490967374533" record_key="team_colour_ffa_2">
+<blue>255</blue>
+<description>Multiplayer battle team colour</description>
+<green>0</green>
+<key>team_colour_ffa_2</key>
+<red>146</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{77c93468-e9e7-4e44-a3e9-51b936b91b40}" record_timestamp="1490967374567" record_key="team_colour_ffa_3">
+<blue>28</blue>
+<description>Multiplayer battle team colour</description>
+<green>159</green>
+<key>team_colour_ffa_3</key>
+<red>70</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{884a08f9-f034-4707-bba9-843d3c3f9e1d}" record_timestamp="1490967434013" record_key="team_colour_ffa_4">
+<blue>212</blue>
+<description>Multiplayer battle team colour</description>
+<green>214</green>
+<key>team_colour_ffa_4</key>
+<red>0</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+<ui_colours record_uuid="{36a1d2be-96a6-42de-bad6-4a60cc9b0c68}" record_timestamp="1485170661925" record_key="yellow">
+<blue>0</blue>
+<description>Generic colour usesd by UI for text tags, fonts, images, etc</description>
+<green>185</green>
+<key>yellow</key>
+<red>255</red>
+<show_in_uied>1</show_in_uied>
+</ui_colours>
+</dataroot>

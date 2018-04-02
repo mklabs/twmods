@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="destruction_zone_mask_types.xsd" export_time="Thu May 18 15:30:58 2017" revision="9" export_branch="E:/TotalWarWin10/branches/warhammer2/dev/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>a59ad148-7afb-4751-8078-43811059f561</edit_uuid>
+<destruction_zone_mask_types record_uuid="{689eb294-d0ef-4d36-94ff-8163ceed2a7a}" record_timestamp="1447952870850" record_key="chaos">
+<battle_diffuse>terrain/textures/battle/creep/chaos/chaos_creep_diffuse.dds</battle_diffuse>
+<battle_normal>terrain/textures/battle/creep/chaos/chaos_creep_normal.dds</battle_normal>
+<key>chaos</key>
+<layer_0>chaos_creep0</layer_0>
+<layer_1>chaos_creep1</layer_1>
+<layer_2>chaos_creep2</layer_2>
+<layer_3>chaos_creep3</layer_3>
+</destruction_zone_mask_types>
+<destruction_zone_mask_types record_uuid="{b4803bee-a7aa-4083-9537-6106c6a7147a}" record_timestamp="1495117858465" record_key="skaven">
+<battle_diffuse>terrain/textures/battle/creep/vampire/vampire_creep_diffuse.dds</battle_diffuse>
+<battle_normal>terrain/textures/battle/creep/vampire/vampire_creep_normal.dds</battle_normal>
+<key>skaven</key>
+<layer_0>vampire_creep0</layer_0>
+<layer_1>vampire_creep1</layer_1>
+<layer_2>vampire_creep2</layer_2>
+<layer_3>vampire_creep3</layer_3>
+</destruction_zone_mask_types>
+<destruction_zone_mask_types record_uuid="{64284485-2272-48a2-97b6-883877ecb740}" record_timestamp="1447952870978" record_key="vampire">
+<battle_diffuse>terrain/textures/battle/creep/vampire/vampire_creep_diffuse.dds</battle_diffuse>
+<battle_normal>terrain/textures/battle/creep/vampire/vampire_creep_normal.dds</battle_normal>
+<key>vampire</key>
+<layer_0>vampire_creep0</layer_0>
+<layer_1>vampire_creep1</layer_1>
+<layer_2>vampire_creep2</layer_2>
+<layer_3>vampire_creep3</layer_3>
+</destruction_zone_mask_types>
+</dataroot>
