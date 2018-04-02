@@ -63,6 +63,16 @@ function ll_setup()
 			ll_beastmen[i]:start();
 		end;
 	end;
+
+  if cm:is_new_game() then
+    output('Locking LL lords at the start of the game');
+    -- Khazrak
+    cm:lock_starting_general_recruitment("1902772535", TAUROX_FACTION);
+    -- Malagor
+    cm:lock_starting_general_recruitment("2072135186", TAUROX_FACTION);
+    -- Morghur
+    cm:lock_starting_general_recruitment("203069748", TAUROX_FACTION);
+  end;
 end;
 
 ll_beastmen = {
