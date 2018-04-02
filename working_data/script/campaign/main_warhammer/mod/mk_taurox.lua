@@ -20,6 +20,7 @@ end;
 --	work out who starting general is
 -------------------------------------------------------
 function start()
+  output('Start function called');
   if (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(local_faction, TAUROX_FORENAME))
     or (cm:get_saved_value("starting_general_1") == TAUROX_FORENAME or cm:get_saved_value("starting_general_2") == TAUROX_FORENAME) then
     -- Khazrak

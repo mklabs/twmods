@@ -229,13 +229,5 @@ fs_player:register_each_mp_game_callback(function() faction_each_mp_game_startup
 if core:is_tweaker_set("DISABLE_PRELUDE_CAMPAIGN_SCRIPTS") then
   output("Tweaker DISABLE_PRELUDE_CAMPAIGN_SCRIPTS is set so not running any prelude scripts");
 else
-  fs_player:register_intro_cutscene_callback(            -- comment out to not have intro cutscene
-    function()
-      show_benchmark_camera_pan_if_required(
-        function()
-          scrollCameraToFactionLeader();
-        end
-      );
-    end
-  );
+  scrollCameraToFactionLeader();
 end;
