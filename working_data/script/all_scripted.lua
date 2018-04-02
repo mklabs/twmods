@@ -13,6 +13,10 @@ function get_timestamp()
 	return "<" .. string.format("%.1f", os.clock() - lua_start_time) .. "s>";
 end;
 
+function getLogFilename()
+  -- return "script_log_" .. os.date("%d".."".."%m".."".."%y".."_".."%H".."".."%M") .. ".txt";
+  return "taurox_script_log.txt";
+end;
 
 -- throw a script error
 function script_error(msg)
@@ -43,11 +47,6 @@ function script_error(msg)
 	end;
 end;
 
-
-
-
-
-
 -- script logging
 __write_output_to_logfile = true;
 __logfile_path = "";
@@ -72,13 +71,6 @@ if __write_output_to_logfile then
 		file:close();
 		__logfile_path = _G.logfile_path;
 	end;
-end;
-
-
-
-function getLogFilename()
-  -- return "script_log_" .. os.date("%d".."".."%m".."".."%y".."_".."%H".."".."%M") .. ".txt";
-  return "taurox_script_log.txt";
 end;
 
 -- re-mapping of all output functions so that they support timestamps
