@@ -9,11 +9,14 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 
-output("Prelude loaded for " .. local_faction);
+function log(str)
+  output('[taurox] ' .. str);
+end;
 
+log("Prelude loaded for " .. local_faction);
 
 function start_beastmen_prelude()
-  output("TAUROX start_beastmen_prelude() called");
+  log("TAUROX start_beastmen_prelude() called");
 
   -- chapter missions
   chapter_one_mission:manual_start();
@@ -36,7 +39,7 @@ end;
 function start_beastmen_interventions()
 
   out.interventions("* start_beastmen_interventions() called");
-  output("* start_beastmen_interventions() called");
+  log("* start_beastmen_interventions() called");
 
   -- global
   start_global_interventions();
@@ -80,7 +83,7 @@ in_beastmen_racial_advice:add_triggering_condition(
 
 
 function trigger_in_beastmen_racial_advice()
-  output("trigger_in_beastmen_racial_advice() called");
+  log("trigger_in_beastmen_racial_advice() called");
 
   play_advice_for_intervention(
     in_beastmen_racial_advice,
@@ -133,7 +136,7 @@ in_beastmen_horde_advice:add_triggering_condition(
 
 
 function trigger_in_beastmen_horde_advice()
-  output("trigger_in_beastmen_horde_advice() called");
+  log("trigger_in_beastmen_horde_advice() called");
 
   play_advice_for_intervention(
     in_beastmen_horde_advice,
@@ -198,7 +201,7 @@ in_beastmen_bestial_rage_advice:add_triggering_condition(
 
 
 function trigger_in_beastmen_bestial_rage_advice()
-  output("trigger_in_beastmen_bestial_rage_advice() called");
+  log("trigger_in_beastmen_bestial_rage_advice() called");
 
   play_advice_for_intervention(
     in_beastmen_bestial_rage_advice,
@@ -394,7 +397,7 @@ in_beastmen_beast_paths_advice:add_triggering_condition(
 );
 
 function trigger_in_beastmen_beast_paths_advice()
-  output("trigger_in_beastmen_beast_paths_advice() called");
+  log("trigger_in_beastmen_beast_paths_advice() called");
 
   play_advice_for_intervention(
     in_beastmen_beast_paths_advice,
@@ -487,7 +490,7 @@ in_beastmen_hidden_encampment_stance_advice:add_triggering_condition(
 
 
 function trigger_in_beastmen_hidden_encampment_stance_advice()
-  output("trigger_in_beastmen_hidden_encampment_stance_advice() called");
+  log("trigger_in_beastmen_hidden_encampment_stance_advice() called");
 
   play_advice_for_intervention(
     in_beastmen_hidden_encampment_stance_advice,
