@@ -68,7 +68,7 @@ end;
 ll_beastmen = {
 	-- Khazrak
 	ll_unlock:new(
-		"wh_dlc03_bst_beastmen",
+		TAUROX_FACTION,
 		"2140784064",
 		"names_name_2147352487",
 		"CharacterPostBattleRelease",
@@ -88,18 +88,18 @@ ll_beastmen = {
 
 	-- Malagor
 	ll_unlock:new(
-		"wh_dlc03_bst_beastmen",
+		TAUROX_FACTION,
 		"2140784127",
 		"names_name_2147357619",
 		"MilitaryForceBuildingCompleteEvent",
 		function(context)
-			return context:building() == "wh_dlc03_horde_beastmen_arcane_1" and context:character():faction():name() == TAUROX_FACTION;
+			return context:building() == "wh_dlc03_horde_beastmen_herd_2" and context:character():faction():name() == TAUROX_FACTION;
 		end
 	),
 
 	-- Morghur
 	ll_unlock:new(
-		"wh_dlc03_bst_beastmen",
+		TAUROX_FACTION,
 		"2140784189",
 		"names_name_2147352897",
 		"UnitCreated",

@@ -55,7 +55,7 @@ __logfile_path = "";
 
 if __write_output_to_logfile then
 	-- create the logfile
-	local filename = "script_log_" .. os.date("%d".."".."%m".."".."%y".."_".."%H".."".."%M") .. ".txt";
+	local filename = getLogFilename();
 
 	_G.logfile_path = filename;
 
@@ -76,10 +76,10 @@ end;
 
 
 
-
-
-
-
+function getLogFilename()
+  -- return "script_log_" .. os.date("%d".."".."%m".."".."%y".."_".."%H".."".."%M") .. ".txt";
+  return "taurox_script_log.txt";
+end;
 
 -- re-mapping of all output functions so that they support timestamps
 function remap_outputs(out_table)

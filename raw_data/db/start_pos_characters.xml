@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="lun. avr. 2 04:53:45 2018" revision="409" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>831c443f-1d0b-4b20-a9e5-87734b1fe4d6</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="lun. avr. 2 19:42:51 2018" revision="410" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>a6e3cb2a-bb8f-429a-b132-405283217a5d</edit_uuid>
 <start_pos_characters record_uuid="{47dc3859-202e-4ab0-b255-b2bd28bfb42a}" record_timestamp="1504264095948" record_key="1012758001">
 <Age>18</Age>
 <ID>1012758001</ID>
@@ -397,8 +397,8 @@
 <ministerial_position></ministerial_position>
 <model></model>
 <other_name></other_name>
-<override_general_unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T04:53:44" requires_translation="false" requires_recording="false"></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T04:52:04" requires_translation="false" requires_recording="false"></portrait_id>
+<override_general_unit></override_general_unit>
+<portrait_id></portrait_id>
 <progenitor>0</progenitor>
 <startx>411</startx>
 <starty>259</starty>
@@ -487,7 +487,7 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{a5cf2e47-4363-4887-a95e-6ecfa9954ed3}" record_timestamp="1522628128949" record_key="1403603105">
+<start_pos_characters record_uuid="{a5cf2e47-4363-4887-a95e-6ecfa9954ed3}" record_timestamp="1522690971733" record_key="1403603105">
 <Age>30</Age>
 <ID>1403603105</ID>
 <Name>709296598</Name>
@@ -502,7 +502,7 @@
 <is_male>1</is_male>
 <legacy_override></legacy_override>
 <loyalty>8</loyalty>
-<ministerial_position state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T02:15:28" requires_translation="false" requires_recording="false">faction_leader</ministerial_position>
+<ministerial_position state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T19:42:51" requires_translation="false" requires_recording="false"></ministerial_position>
 <model></model>
 <other_name></other_name>
 <override_general_unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-01T04:58:05" requires_translation="false" requires_recording="false">wh_dlc03_bst_cha_malagor_the_dark_omen_0</override_general_unit>
@@ -891,6 +891,60 @@
 <subtype>wh2_main_hef_noble</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
+</start_pos_characters>
+<start_pos_characters record_uuid="{b196c919-f701-4339-b00d-5b47e92be907}" record_timestamp="1522690971753" record_key="1902772535">
+<Age>30</Age>
+<ID>1902772535</ID>
+<Name>2147352487</Name>
+<Surname>2147357906</Surname>
+<Type>general</Type>
+<ambition>50</ambition>
+<clan_name></clan_name>
+<death_type></death_type>
+<faction>1099067523</faction>
+<immortal>1</immortal>
+<is_in_generals_pool>0</is_in_generals_pool>
+<is_male>1</is_male>
+<legacy_override></legacy_override>
+<loyalty>8</loyalty>
+<ministerial_position>faction_leader</ministerial_position>
+<model></model>
+<other_name></other_name>
+<override_general_unit>wh_dlc03_bst_cha_khazrak_one_eye_0</override_general_unit>
+<portrait_id>wh_dlc03_art_set_bst_khazrak</portrait_id>
+<progenitor>0</progenitor>
+<startx>398</startx>
+<starty>263</starty>
+<subtype>dlc03_bst_khazrak</subtype>
+<turns_died_before_start></turns_died_before_start>
+<unique>1</unique>
+</start_pos_characters>
+<start_pos_characters record_uuid="{54353e89-4aaf-40dc-94a3-8e3e04ba4d3d}" record_timestamp="1522690971742" record_key="203069748">
+<Age>30</Age>
+<ID>203069748</ID>
+<Name>2147352897</Name>
+<Surname>2147357944</Surname>
+<Type>general</Type>
+<ambition>50</ambition>
+<clan_name></clan_name>
+<death_type></death_type>
+<faction>1099067523</faction>
+<immortal>1</immortal>
+<is_in_generals_pool>1</is_in_generals_pool>
+<is_male>1</is_male>
+<legacy_override></legacy_override>
+<loyalty>8</loyalty>
+<ministerial_position></ministerial_position>
+<model></model>
+<other_name></other_name>
+<override_general_unit>wh_dlc05_bst_cha_morghur_0</override_general_unit>
+<portrait_id>wh_dlc05_art_set_bst_morghur</portrait_id>
+<progenitor>0</progenitor>
+<startx>398</startx>
+<starty>263</starty>
+<subtype>dlc05_bst_morghur</subtype>
+<turns_died_before_start></turns_died_before_start>
+<unique>1</unique>
 </start_pos_characters>
 <start_pos_characters record_uuid="{9b1c6e65-1d1f-4cb0-9c3a-242780ce83e7}" record_timestamp="1504877094782" record_key="2041432049">
 <Age>18</Age>
@@ -7315,6 +7369,33 @@
 <startx>247</startx>
 <starty>92</starty>
 <subtype>vmp_lord</subtype>
+<turns_died_before_start></turns_died_before_start>
+<unique>0</unique>
+</start_pos_characters>
+<start_pos_characters record_uuid="{6acf7d36-40d4-4d6d-bd03-9f9e7f57b641}" record_timestamp="1522690971763" record_key="71752769">
+<Age>18</Age>
+<ID>71752769</ID>
+<Name>2147357951</Name>
+<Surname>2147358668</Surname>
+<Type>general</Type>
+<ambition>0</ambition>
+<clan_name></clan_name>
+<death_type></death_type>
+<faction>1099067523</faction>
+<immortal>0</immortal>
+<is_in_generals_pool>0</is_in_generals_pool>
+<is_male>1</is_male>
+<legacy_override></legacy_override>
+<loyalty>0</loyalty>
+<ministerial_position></ministerial_position>
+<model></model>
+<other_name></other_name>
+<override_general_unit></override_general_unit>
+<portrait_id></portrait_id>
+<progenitor>0</progenitor>
+<startx>411</startx>
+<starty>259</starty>
+<subtype>dlc03_bst_beastlord</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
