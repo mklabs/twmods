@@ -82,30 +82,41 @@ end;
 
 ll_beastmen = {
 	-- Khazrak
+	-- ll_unlock:new(
+	--	TAUROX_FACTION,
+	--	"1902772535",
+	--	"names_name_1369338020",
+	--	"CharacterPostBattleRelease",
+	--	function(context)
+	--		if context:character():faction():name() == TAUROX_FACTION then
+	--			local release_count = cm:get_saved_value("ll_beastmen_khazrak_release_count");
+	--			if release_count == nil then release_count = 0 end;
+  --
+	--			release_count = release_count + 1;
+  --
+	--			cm:set_saved_value("ll_beastmen_khazrak_release_count", release_count);
+  --
+	--			return release_count > 1;
+	--		end
+	--	end
+	--),
+
+	-- Khazrak Test
 	ll_unlock:new(
 		TAUROX_FACTION,
-		"2140784064",
-		"names_name_2147352487",
-		"CharacterPostBattleRelease",
+		"1902772535",
+		"names_name_1369338020",
+		"MilitaryForceBuildingCompleteEvent",
 		function(context)
-			if context:character():faction():name() == TAUROX_FACTION then
-				local release_count = cm:get_saved_value("ll_beastmen_khazrak_release_count");
-				if release_count == nil then release_count = 0 end;
-
-				release_count = release_count + 1;
-
-				cm:set_saved_value("ll_beastmen_khazrak_release_count", release_count);
-
-				return release_count > 1;
-			end
+			return context:building() == "wh_dlc03_horde_beastmen_gors_2" and context:character():faction():name() == TAUROX_FACTION;
 		end
 	),
 
 	-- Malagor
 	ll_unlock:new(
 		TAUROX_FACTION,
-		"2140784127",
-		"names_name_2147357619",
+		"2072135186",
+		"names_name_435392760",
 		"MilitaryForceBuildingCompleteEvent",
 		function(context)
 			return context:building() == "wh_dlc03_horde_beastmen_gors_2" and context:character():faction():name() == TAUROX_FACTION;
@@ -115,8 +126,8 @@ ll_beastmen = {
 	-- Morghur
 	ll_unlock:new(
 		TAUROX_FACTION,
-		"2140784189",
-		"names_name_2147352897",
+		"203069748",
+		"names_name_1871285548",
 		"UnitCreated",
 		function(context)
 			return context:unit():unit_key() == "wh_dlc03_bst_mon_chaos_spawn_0" and context:unit():faction():name() == TAUROX_FACTION;

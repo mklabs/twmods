@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="lun. avr. 2 23:08:30 2018" revision="413" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>96c10253-8e9e-4d7b-a3b9-9c9d6962e2ff</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="mar. avr. 3 04:23:32 2018" revision="416" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>2b679d91-a58a-48e1-b989-636637f6b548</edit_uuid>
 <start_pos_characters record_uuid="{47dc3859-202e-4ab0-b255-b2bd28bfb42a}" record_timestamp="1504264095948" record_key="1012758001">
 <Age>18</Age>
 <ID>1012758001</ID>
@@ -487,7 +487,7 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{a5cf2e47-4363-4887-a95e-6ecfa9954ed3}" record_timestamp="1522693651323" record_key="1403603105">
+<start_pos_characters record_uuid="{a5cf2e47-4363-4887-a95e-6ecfa9954ed3}" record_timestamp="1522722212281" record_key="1403603105">
 <Age>30</Age>
 <ID>1403603105</ID>
 <Name>709296598</Name>
@@ -505,12 +505,12 @@
 <ministerial_position state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T20:27:31" requires_translation="false" requires_recording="false">faction_leader</ministerial_position>
 <model></model>
 <other_name></other_name>
-<override_general_unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-01T04:58:05" requires_translation="false" requires_recording="false">wh_dlc03_bst_cha_malagor_the_dark_omen_0</override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-01T04:58:06" requires_translation="false" requires_recording="false">wh_dlc03_art_set_bst_malagor</portrait_id>
+<override_general_unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T04:23:32" requires_translation="false" requires_recording="false">wh2_mixu_bst_cha_doombull</override_general_unit>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T04:23:32" requires_translation="false" requires_recording="false">wh2_main_art_set_bst_doombull_1</portrait_id>
 <progenitor>0</progenitor>
 <startx>721</startx>
 <starty>188</starty>
-<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-01T04:58:05" requires_translation="false" requires_recording="false">dlc03_bst_malagor</subtype>
+<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T04:23:32" requires_translation="false" requires_recording="false">bst_doombull</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>1</unique>
 </start_pos_characters>
@@ -892,10 +892,10 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{b196c919-f701-4339-b00d-5b47e92be907}" record_timestamp="1522703310686" record_key="1902772535">
+<start_pos_characters record_uuid="{b196c919-f701-4339-b00d-5b47e92be907}" record_timestamp="1522717737597" record_key="1902772535">
 <Age>30</Age>
 <ID>1902772535</ID>
-<Name>2147352487</Name>
+<Name>1369338020</Name>
 <Surname>2147357906</Surname>
 <Type>general</Type>
 <ambition>50</ambition>
@@ -919,10 +919,10 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>1</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{54353e89-4aaf-40dc-94a3-8e3e04ba4d3d}" record_timestamp="1522690971742" record_key="203069748">
+<start_pos_characters record_uuid="{54353e89-4aaf-40dc-94a3-8e3e04ba4d3d}" record_timestamp="1522717777465" record_key="203069748">
 <Age>30</Age>
 <ID>203069748</ID>
-<Name>2147352897</Name>
+<Name>1871285548</Name>
 <Surname>2147357944</Surname>
 <Type>general</Type>
 <ambition>50</ambition>
@@ -1000,10 +1000,10 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{7f09d538-418a-4940-b616-0079ea3e0cd2}" record_timestamp="1522691907645" record_key="2072135186">
+<start_pos_characters record_uuid="{7f09d538-418a-4940-b616-0079ea3e0cd2}" record_timestamp="1522717777443" record_key="2072135186">
 <Age>18</Age>
 <ID>2072135186</ID>
-<Name>2147357619</Name>
+<Name>435392760</Name>
 <Surname>2147358923</Surname>
 <Type>general</Type>
 <ambition>30</ambition>

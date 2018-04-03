@@ -10,17 +10,17 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 
+function log(str)
+  output('[taurox] ' .. str);
+end;
+
+
 local TAUROX_FORENAME = "names_name_709296598";
 local TAUROX_NAME = "names_name_1301160797";
 local TAUROX_FACTION = "mk_taurox_bst_beastmen";
 
 -- include the intro, prelude and quest chain scripts
 cm:load_faction_script(local_faction .. "_prelude");
-
-function log(str)
-  output('[taurox] ' .. str);
-end;
-
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 --
@@ -145,6 +145,19 @@ function start_faction()
 end;
 
 -------------------------------------------------------
+--	This gets called each time the script restarts,
+--	this could be at the start of a new game or
+--	loading from a save-game (including coming back
+--	from a campaign battle). Don't tamper with it.
+-------------------------------------------------------
+function start_game_for_faction(should_show_cutscene)
+	output("start_game_for_faction() called");
+
+	-- starts the playable faction script
+	fs_player:start(should_show_cutscene, true);
+end;
+
+-------------------------------------------------------
 --  This gets called only once - at the start of a
 --  new game. Initialise new game stuff for this
 --  faction here
@@ -225,6 +238,8 @@ else
       show_benchmark_camera_pan_if_required(
         function()
           cutscene_intro_play();
+          output('Try scrolling camera to faction leader');
+          scrollCameraToFactionLeader();
         end
       );
     end
