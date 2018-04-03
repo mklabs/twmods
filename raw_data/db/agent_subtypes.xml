@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_subtypes.xsd" export_time="mar. avr. 3 04:19:58 2018" revision="211" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>7ec10d38-28f2-49cf-b513-b93bc2672dd9</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_subtypes.xsd" export_time="mar. avr. 3 05:55:34 2018" revision="213" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>ce6f10c0-0d4f-4a7f-a804-9ebb8461978d</edit_uuid>
 <agent_subtypes record_uuid="{ed7b05f3-1439-48ca-9551-398c1dd60d00}" record_timestamp="1500385459030" record_key="brt_damsel">
 <associated_unit_override>wh_main_brt_cha_damsel_0</associated_unit_override>
 <audio_voiceover_actor_group>wh_dlc03_vo_actor_Bretonnian_Damsel</audio_voiceover_actor_group>
@@ -84,20 +84,6 @@
 <onscreen_name_override state="APPROVED" last_approved_text="Paladin" last_edit_user="bob" requires_translation="false" requires_recording="false">Paladin</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_brt_champion.png</small_icon>
-</agent_subtypes>
-<agent_subtypes record_uuid="{ac28bdda-2f0b-4d4e-ae70-2fc44a2982e3}" record_timestamp="1522721998297" record_key="bst_doombull">
-<associated_unit_override>wh2_mixu_bst_cha_doombull</associated_unit_override>
-<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Gorebull</audio_voiceover_actor_group>
-<auto_generate>0</auto_generate>
-<can_gain_xp>1</can_gain_xp>
-<cap>-1</cap>
-<description_text_override></description_text_override>
-<has_female_name>0</has_female_name>
-<is_caster>0</is_caster>
-<key>bst_doombull</key>
-<onscreen_name_override>Legendary Lord</onscreen_name_override>
-<show_in_ui>1</show_in_ui>
-<small_icon></small_icon>
 </agent_subtypes>
 <agent_subtypes record_uuid="{01b06844-34ac-460d-884c-28d97ad63a74}" record_timestamp="1478785669663" record_key="chs_archaon">
 <associated_unit_override>wh_main_chs_cha_archaon_the_everchosen_0</associated_unit_override>
@@ -1258,6 +1244,20 @@
 <is_caster>0</is_caster>
 <key>ksl_lord</key>
 <onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<show_in_ui>1</show_in_ui>
+<small_icon></small_icon>
+</agent_subtypes>
+<agent_subtypes record_uuid="{ac28bdda-2f0b-4d4e-ae70-2fc44a2982e3}" record_timestamp="1522727730072" record_key="mk_taurox_bst_taurox">
+<associated_unit_override>mk_taurox_bst_taurox</associated_unit_override>
+<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Gorebull</audio_voiceover_actor_group>
+<auto_generate>0</auto_generate>
+<can_gain_xp>1</can_gain_xp>
+<cap>-1</cap>
+<description_text_override></description_text_override>
+<has_female_name>0</has_female_name>
+<is_caster>0</is_caster>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T05:51:43" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox</key>
+<onscreen_name_override>Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>

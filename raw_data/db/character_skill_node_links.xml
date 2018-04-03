@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skill_node_links.xsd" export_time="Fri Dec 15 12:11:38 2017" revision="193" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>4cafd98d-64eb-4384-9a5a-82b159025aba</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skill_node_links.xsd" export_time="mar. avr. 3 05:16:12 2018" revision="194" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>4975c8c7-08a6-4110-8071-d4af308eefbb</edit_uuid>
 <character_skill_node_links record_uuid="{c13f1628-18b9-441f-9058-26d3f313c4c4}" record_timestamp="1511171313596" record_key="wh2_dlc04_skill_node_vmp_helman_ghorst_battle_1wh2_dlc04_skill_node_vmp_helman_ghorst_battle_2">
 <child_key>wh2_dlc04_skill_node_vmp_helman_ghorst_battle_2</child_key>
 <child_link_position>1</child_link_position>
@@ -25231,6 +25231,486 @@
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
 </character_skill_node_links>
+<character_skill_node_links record_uuid="{5efa1a90-cb59-4c89-bdf4-2482dcad104c}" record_timestamp="1522725370554" record_key="wh_dlc03_skill_node_bst_doombull_battle_01wh_dlc03_skill_node_bst_doombull_battle_02">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_02</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{6811f5cb-d1d1-462c-94b5-a4f7313775e0}" record_timestamp="1522725370502" record_key="wh_dlc03_skill_node_bst_doombull_battle_01wh_dlc03_skill_node_bst_doombull_battle_03">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_03</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{9d20b498-48cc-4582-8cf6-1f801bcc8fba}" record_timestamp="1522725370527" record_key="wh_dlc03_skill_node_bst_doombull_battle_01wh_dlc03_skill_node_bst_doombull_battle_04">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_04</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{23767ed7-a113-4aec-af2e-62a42f7ad498}" record_timestamp="1522725370737" record_key="wh_dlc03_skill_node_bst_doombull_battle_01wh_dlc03_skill_node_bst_doombull_battle_05">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_05</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{502f12a0-914b-4b9e-9e4b-8ec513fa410c}" record_timestamp="1522725370764" record_key="wh_dlc03_skill_node_bst_doombull_battle_02wh_dlc03_skill_node_bst_doombull_battle_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_02</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{6a75b927-57a6-406a-859a-0fbf25e1d897}" record_timestamp="1522725370683" record_key="wh_dlc03_skill_node_bst_doombull_battle_03wh_dlc03_skill_node_bst_doombull_battle_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_03</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{ac76c914-c994-4f6e-a31a-a2d264e92bfb}" record_timestamp="1522725370711" record_key="wh_dlc03_skill_node_bst_doombull_battle_04wh_dlc03_skill_node_bst_doombull_battle_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_04</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{d9dfeeb7-336c-4ba8-a104-5def87bd841a}" record_timestamp="1522725370630" record_key="wh_dlc03_skill_node_bst_doombull_battle_05wh_dlc03_skill_node_bst_doombull_battle_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_05</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{f769ed42-5f0a-4b08-9aaf-1688d8c7b494}" record_timestamp="1522725370657" record_key="wh_dlc03_skill_node_bst_doombull_battle_06wh_dlc03_skill_node_bst_doombull_battle_07">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_07</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{5af98d74-dc70-4233-9edc-f8d5830047fb}" record_timestamp="1522725370578" record_key="wh_dlc03_skill_node_bst_doombull_battle_06wh_dlc03_skill_node_bst_doombull_battle_08">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_08</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{f13a07e7-e49d-4cee-9e6d-bb660652508a}" record_timestamp="1522725370605" record_key="wh_dlc03_skill_node_bst_doombull_battle_06wh_dlc03_skill_node_bst_doombull_battle_09">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_09</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{0d268f2c-8ee9-4c98-ab6e-94ee2968ba70}" record_timestamp="1522725370984" record_key="wh_dlc03_skill_node_bst_doombull_battle_06wh_dlc03_skill_node_bst_doombull_battle_10">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_10</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{8d8e3a39-a53e-4387-9717-d07d7b3cfe02}" record_timestamp="1522725371018" record_key="wh_dlc03_skill_node_bst_doombull_battle_07wh_dlc03_skill_node_bst_doombull_battle_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_07</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{d11dc3e1-aa2b-47bb-b354-239f8525e53a}" record_timestamp="1522725370926" record_key="wh_dlc03_skill_node_bst_doombull_battle_08wh_dlc03_skill_node_bst_doombull_battle_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_08</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{c2d3940f-4479-4211-b74f-83a0e941c135}" record_timestamp="1522725370955" record_key="wh_dlc03_skill_node_bst_doombull_battle_09wh_dlc03_skill_node_bst_doombull_battle_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_09</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{41ff68c4-8374-4a6e-b8bd-8e034a603a4b}" record_timestamp="1522725370864" record_key="wh_dlc03_skill_node_bst_doombull_battle_10wh_dlc03_skill_node_bst_doombull_battle_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_battle_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_battle_10</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{64f5c1e7-7f62-4c2c-8bb0-4cca0ffad059}" record_timestamp="1522725370896" record_key="wh_dlc03_skill_node_bst_doombull_campaign_01wh_dlc03_skill_node_bst_doombull_campaign_02">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_02</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{eac1a562-d5a4-4f39-92f8-b2a1bf89ca9d}" record_timestamp="1522725370803" record_key="wh_dlc03_skill_node_bst_doombull_campaign_01wh_dlc03_skill_node_bst_doombull_campaign_03">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_03</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{ed4563b7-022d-4216-abc5-a74352df6559}" record_timestamp="1522725370838" record_key="wh_dlc03_skill_node_bst_doombull_campaign_01wh_dlc03_skill_node_bst_doombull_campaign_04">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_04</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{061e2596-b9b5-4018-b701-c3630b739f2e}" record_timestamp="1522725371218" record_key="wh_dlc03_skill_node_bst_doombull_campaign_01wh_dlc03_skill_node_bst_doombull_campaign_05">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_05</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{6b426123-5e14-4c2b-888c-6d5e3de1ec3f}" record_timestamp="1522725371247" record_key="wh_dlc03_skill_node_bst_doombull_campaign_02wh_dlc03_skill_node_bst_doombull_campaign_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_02</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{df615524-1e46-4e0b-a445-131d87bf1765}" record_timestamp="1522725371161" record_key="wh_dlc03_skill_node_bst_doombull_campaign_03wh_dlc03_skill_node_bst_doombull_campaign_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_03</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{94aa30f8-1200-46b3-a221-5dfbb1e90356}" record_timestamp="1522725371189" record_key="wh_dlc03_skill_node_bst_doombull_campaign_04wh_dlc03_skill_node_bst_doombull_campaign_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_04</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{649d75d2-e850-4ea3-8897-10f84122b4ed}" record_timestamp="1522725371103" record_key="wh_dlc03_skill_node_bst_doombull_campaign_05wh_dlc03_skill_node_bst_doombull_campaign_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_05</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{35e80579-a923-4e42-9e26-9d22e7177bab}" record_timestamp="1522725371130" record_key="wh_dlc03_skill_node_bst_doombull_campaign_06wh_dlc03_skill_node_bst_doombull_campaign_07">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_07</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{6b67b85b-558c-400a-a22d-f5cc41a41a0c}" record_timestamp="1522725371048" record_key="wh_dlc03_skill_node_bst_doombull_campaign_06wh_dlc03_skill_node_bst_doombull_campaign_08">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_08</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{3310ae27-656b-4bd2-8cce-1bb1901cf676}" record_timestamp="1522725371077" record_key="wh_dlc03_skill_node_bst_doombull_campaign_06wh_dlc03_skill_node_bst_doombull_campaign_09">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_09</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{9ec742ee-1fe9-48f0-9804-4560e03162f6}" record_timestamp="1522725371454" record_key="wh_dlc03_skill_node_bst_doombull_campaign_06wh_dlc03_skill_node_bst_doombull_campaign_10">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_10</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{9d6a8750-8487-484b-9e32-3a051961761d}" record_timestamp="1522725371482" record_key="wh_dlc03_skill_node_bst_doombull_campaign_07wh_dlc03_skill_node_bst_doombull_campaign_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_07</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{99fa0cbc-73e4-4d31-81ce-54f3b614b22a}" record_timestamp="1522725371395" record_key="wh_dlc03_skill_node_bst_doombull_campaign_08wh_dlc03_skill_node_bst_doombull_campaign_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_08</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{182f8938-a16c-49de-bbc4-699adca7461f}" record_timestamp="1522725371421" record_key="wh_dlc03_skill_node_bst_doombull_campaign_09wh_dlc03_skill_node_bst_doombull_campaign_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_09</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{eb0bf8c8-1171-44b2-bc0b-f40f5c1f6915}" record_timestamp="1522725371333" record_key="wh_dlc03_skill_node_bst_doombull_campaign_10wh_dlc03_skill_node_bst_doombull_campaign_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_campaign_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_campaign_10</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{165c979b-5536-44c0-bcc9-8ed75c8a2496}" record_timestamp="1522725371367" record_key="wh_dlc03_skill_node_bst_doombull_self_01wh_dlc03_skill_node_bst_doombull_self_02">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_02</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{1156e01f-8049-4243-b60a-a32225782724}" record_timestamp="1522725371275" record_key="wh_dlc03_skill_node_bst_doombull_self_01wh_dlc03_skill_node_bst_doombull_self_03">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_03</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{56e57ec3-3d4e-428a-8929-7f24000af766}" record_timestamp="1522725371305" record_key="wh_dlc03_skill_node_bst_doombull_self_01wh_dlc03_skill_node_bst_doombull_self_04">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_04</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{251cc9ef-a2a7-4a84-b947-a5873b7f6d36}" record_timestamp="1522725371707" record_key="wh_dlc03_skill_node_bst_doombull_self_01wh_dlc03_skill_node_bst_doombull_self_05">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_05</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_01</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{6887f6a8-d341-4984-a1ed-800e2a92f6d0}" record_timestamp="1522725371739" record_key="wh_dlc03_skill_node_bst_doombull_self_02wh_dlc03_skill_node_bst_doombull_self_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_02</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{c25a7774-4081-4e1f-9d51-11709b3d2a7c}" record_timestamp="1522725371643" record_key="wh_dlc03_skill_node_bst_doombull_self_03wh_dlc03_skill_node_bst_doombull_self_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_03</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{8c858dd2-cd13-4103-9fb4-74929f7c5bf4}" record_timestamp="1522725371675" record_key="wh_dlc03_skill_node_bst_doombull_self_04wh_dlc03_skill_node_bst_doombull_self_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_04</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{4c427fda-88ee-468d-89df-9affe010dbb1}" record_timestamp="1522725371583" record_key="wh_dlc03_skill_node_bst_doombull_self_05wh_dlc03_skill_node_bst_doombull_self_06">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_06</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_05</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{2b95cf62-133d-4757-8b06-abf5d251519a}" record_timestamp="1522725371612" record_key="wh_dlc03_skill_node_bst_doombull_self_06wh_dlc03_skill_node_bst_doombull_self_07">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_07</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{f3d7127e-5cdb-4a5f-86ab-9cb0b8ae1748}" record_timestamp="1522725371514" record_key="wh_dlc03_skill_node_bst_doombull_self_06wh_dlc03_skill_node_bst_doombull_self_08">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_08</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{967e350d-6aa0-459e-810b-6135d5004d91}" record_timestamp="1522725371547" record_key="wh_dlc03_skill_node_bst_doombull_self_06wh_dlc03_skill_node_bst_doombull_self_09">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_09</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{c0434abe-a598-403e-aa7f-caefbc0cd77f}" record_timestamp="1522725371872" record_key="wh_dlc03_skill_node_bst_doombull_self_06wh_dlc03_skill_node_bst_doombull_self_10">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_10</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_06</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{37365173-baae-43dd-b8c2-ae18a68f55d2}" record_timestamp="1522725371902" record_key="wh_dlc03_skill_node_bst_doombull_self_07wh_dlc03_skill_node_bst_doombull_self_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_07</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{49e4cd42-835a-44c4-876b-b9d3076aeb3f}" record_timestamp="1522725371806" record_key="wh_dlc03_skill_node_bst_doombull_self_08wh_dlc03_skill_node_bst_doombull_self_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_08</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{20e5ebe4-b5c1-4230-84b1-b511e838e7bf}" record_timestamp="1522725371838" record_key="wh_dlc03_skill_node_bst_doombull_self_09wh_dlc03_skill_node_bst_doombull_self_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_09</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
+<character_skill_node_links record_uuid="{e0424a86-0164-4522-b432-5ba9605b7fbf}" record_timestamp="1522725371772" record_key="wh_dlc03_skill_node_bst_doombull_self_10wh_dlc03_skill_node_bst_doombull_self_11">
+<child_key>wh_dlc03_skill_node_bst_doombull_self_11</child_key>
+<child_link_position>1</child_link_position>
+<child_link_position_offset>0</child_link_position_offset>
+<initial_descent_tiers>0</initial_descent_tiers>
+<link_type>SUBSET_REQUIRED</link_type>
+<parent_key>wh_dlc03_skill_node_bst_doombull_self_10</parent_key>
+<parent_link_position>1</parent_link_position>
+<parent_link_position_offset>0</parent_link_position_offset>
+</character_skill_node_links>
 <character_skill_node_links record_uuid="{3831a450-b56f-4740-bb74-a42fe3602a45}" record_timestamp="1454676080253" record_key="wh_dlc03_skill_node_bst_khazrak_battle_01wh_dlc03_skill_node_bst_khazrak_battle_02">
 <child_key>wh_dlc03_skill_node_bst_khazrak_battle_02</child_key>
 <child_link_position>1</child_link_position>
@@ -27056,7 +27536,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_02</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27066,7 +27546,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_03</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27076,7 +27556,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_04</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27086,7 +27566,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_05</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27136,7 +27616,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_07</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27146,7 +27626,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_08</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27156,7 +27636,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_09</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>
@@ -27166,7 +27646,7 @@
 <child_link_position>1</child_link_position>
 <child_link_position_offset>0</child_link_position_offset>
 <initial_descent_tiers>0</initial_descent_tiers>
-<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">SUBSET_REQUIRED</link_type>
+<link_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">SUBSET_REQUIRED</link_type>
 <parent_key>wh_dlc03_skill_node_tmb_liche_priest_shadow_magic_10</parent_key>
 <parent_link_position>1</parent_link_position>
 <parent_link_position_offset>0</parent_link_position_offset>

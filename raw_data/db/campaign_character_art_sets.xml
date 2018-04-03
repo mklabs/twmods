@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_character_art_sets.xsd" export_time="mar. avr. 3 04:22:46 2018" revision="179" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>1d03459b-e754-4bb5-9955-75eecacc37c5</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_character_art_sets.xsd" export_time="mar. avr. 3 05:53:30 2018" revision="181" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>72832916-ed03-4eb4-a163-d660a684c6df</edit_uuid>
+<campaign_character_art_sets record_uuid="{a18be7ac-27d9-4404-90a9-6f7d23375b5c}" record_timestamp="1522727610612" record_key="mk_taurox_art_set_bst_taurox">
+<agent_subtype>mk_taurox_bst_taurox</agent_subtype>
+<agent_type>general</agent_type>
+<art_set_id state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T05:53:30" requires_translation="false" requires_recording="false">mk_taurox_art_set_bst_taurox</art_set_id>
+<campaign_map_scale>1</campaign_map_scale>
+<culture>wh_dlc03_bst_beastmen</culture>
+<faction></faction>
+<is_custom>0</is_custom>
+<is_male>1</is_male>
+<subculture></subculture>
+</campaign_character_art_sets>
 <campaign_character_art_sets record_uuid="{17338631-fd51-4c77-b43b-a45b6881e1fe}" record_timestamp="1507041174608" record_key="wh2_dlc09_art_set_skv_tretch_craventail">
 <agent_subtype>wh2_dlc09_skv_tretch_craventail</agent_subtype>
 <agent_type>general</agent_type>
@@ -260,17 +271,6 @@
 <art_set_id>wh2_dlc09_art_set_tmb_tomb_prince_05</art_set_id>
 <campaign_map_scale>1</campaign_map_scale>
 <culture>wh2_dlc09_tmb_tomb_kings</culture>
-<faction></faction>
-<is_custom>0</is_custom>
-<is_male>1</is_male>
-<subculture></subculture>
-</campaign_character_art_sets>
-<campaign_character_art_sets record_uuid="{a18be7ac-27d9-4404-90a9-6f7d23375b5c}" record_timestamp="1522722166518" record_key="wh2_main_art_set_bst_doombull_1">
-<agent_subtype>bst_doombull</agent_subtype>
-<agent_type>general</agent_type>
-<art_set_id>wh2_main_art_set_bst_doombull_1</art_set_id>
-<campaign_map_scale>1</campaign_map_scale>
-<culture>wh_dlc03_bst_beastmen</culture>
 <faction></faction>
 <is_custom>0</is_custom>
 <is_male>1</is_male>
