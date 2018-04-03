@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skill_node_sets.xsd" export_time="mar. avr. 3 05:51:44 2018" revision="134" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>a88bac73-076d-4c82-aabc-56627f6e7f08</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skill_node_sets.xsd" export_time="mer. avr. 4 01:02:35 2018" revision="135" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>9108aa8a-f350-4535-9d0b-fa0ea96ef89e</edit_uuid>
 <character_skill_node_sets record_uuid="{906f44f5-ab1f-4313-9493-8124a61bd0fc}" record_timestamp="1507041173760" record_key="wh2_dlc09_skill_node_set_skv_tretch_craventail">
 <agent_key>general</agent_key>
 <agent_subtype_key>wh2_dlc09_skv_tretch_craventail</agent_subtype_key>
@@ -1343,7 +1343,7 @@
 <key>wh_main_skill_node_set_brt_louen</key>
 <subculture></subculture>
 </character_skill_node_sets>
-<character_skill_node_sets record_uuid="{fcc28dac-e1d1-4701-a77f-20d15a89350d}" record_timestamp="1522727503339" record_key="wh_main_skill_node_set_bst_doombull">
+<character_skill_node_sets record_uuid="{fcc28dac-e1d1-4701-a77f-20d15a89350d}" record_timestamp="1522796555427" record_key="wh_main_skill_node_set_bst_taurox">
 <agent_key>general</agent_key>
 <agent_subtype_key>mk_taurox_bst_taurox</agent_subtype_key>
 <campaign_key></campaign_key>
@@ -1351,7 +1351,7 @@
 <faction_key></faction_key>
 <for_army>0</for_army>
 <for_navy>0</for_navy>
-<key>wh_main_skill_node_set_bst_doombull</key>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T01:02:35" requires_translation="false" requires_recording="false">wh_main_skill_node_set_bst_taurox</key>
 <subculture></subculture>
 </character_skill_node_sets>
 <character_skill_node_sets record_uuid="{28a28390-4410-404f-bc36-ac62760bdc26}" record_timestamp="1428580649313" record_key="wh_main_skill_node_set_chs_archaon">
