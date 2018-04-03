@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_custom_battle_permissions.xsd" export_time="lun. avr. 2 01:32:53 2018" revision="364" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>4896e9d9-9644-413f-8585-fb8d5b640945</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_custom_battle_permissions.xsd" export_time="mer. avr. 4 00:50:46 2018" revision="365" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>435f9a14-940a-4bc4-811d-cf27b6fe44af</edit_uuid>
+<units_custom_battle_permissions record_uuid="{a6ba2cb2-8adf-4925-90ca-2ccfd2dc22ed}" record_timestamp="1522795846689" record_key="mk_taurox_bst_tauroxmk_taurox_bst_beastmentrue">
+<faction>mk_taurox_bst_beastmen</faction>
+<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_gorebulls_campaign_03_0.png</general_portrait>
+<general_uniform>wh_dlc03_uniform_bst_gorebull_03</general_uniform>
+<general_unit>1</general_unit>
+<set_piece_character>wh_dlc03_bst_cha_gorebull_0</set_piece_character>
+<siege_unit_attacker>1</siege_unit_attacker>
+<siege_unit_defender>1</siege_unit_defender>
+<unit>mk_taurox_bst_taurox</unit>
+</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{677b5efe-e60d-4c77-9908-e5f721c5d7e4}" record_timestamp="1509527459770" record_key="wh2_dlc09_skv_cha_tretch_craventailwh2_dlc09_skv_clan_rictustrue">
 <faction>wh2_dlc09_skv_clan_rictus</faction>
 <general_portrait>ui/portraits/portholes/wh2_main_skv_skaven/skv_tretch_craventail_0.png</general_portrait>
