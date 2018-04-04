@@ -238,7 +238,9 @@ if core:is_tweaker_set("DISABLE_PRELUDE_CAMPAIGN_SCRIPTS") then
   log("Tweaker DISABLE_PRELUDE_CAMPAIGN_SCRIPTS is set so not running any prelude scripts");
 else
   fs_player:register_intro_cutscene_callback(function()
-      show_benchmark_camera_pan_if_required(cutscene_intro_play_khazrak);
+      show_benchmark_camera_pan_if_required(function()
+        cutscene_intro_play_khazrak();
+      end);
   end);
 end;
 
