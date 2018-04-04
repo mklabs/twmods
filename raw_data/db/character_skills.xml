@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="mer. avr. 4 22:01:55 2018" revision="617" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>737f0332-9b9e-4dee-8c18-c2c299c895d5</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="mer. avr. 4 23:43:58 2018" revision="618" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>98e95c82-4e79-4cf8-ab54-5fbea7edd3d1</edit_uuid>
 <character_skills record_uuid="{3961c62c-1230-4c95-ade5-4bf83fa18265}" record_timestamp="1522872115155" record_key="mk_taurox_skill_innate_bst_ghorros_warhoof">
 <background_weighting>5</background_weighting>
 <image_path>trait_beastmen.png</image_path>
@@ -14,7 +14,7 @@
 <pre_battle_speech_parameter></pre_battle_speech_parameter>
 <unlocked_at_rank>0</unlocked_at_rank>
 </character_skills>
-<character_skills record_uuid="{d7b6dcce-1f98-4510-89dc-26cc0acdac51}" record_timestamp="1522809661382" record_key="mk_taurox_skill_innate_bst_taurox_brassbull">
+<character_skills record_uuid="{d7b6dcce-1f98-4510-89dc-26cc0acdac51}" record_timestamp="1522878238715" record_key="mk_taurox_skill_innate_bst_taurox_brassbull">
 <background_weighting>5</background_weighting>
 <image_path>trait_beastmen.png</image_path>
 <influence_cost>0</influence_cost>
@@ -23,7 +23,7 @@
 <is_male_only_background_skill>0</is_male_only_background_skill>
 <key>mk_taurox_skill_innate_bst_taurox_brassbull</key>
 <localised_description>Taurox the Brass Bull is an unstoppable force; aroaring, snorting engine of destruction virtuallyimpervious to physical harm. Cast in the form of agrotesquely muscled Doombull, Taurox looms over hisfollowers, a mountain of living brass with curving,bladed horns and a gnashing metal maw that constantlydrools with gore. </localised_description>
-<localised_name>One-Eye</localised_name>
+<localised_name state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T23:43:58" requires_translation="false" requires_recording="false">Brass Bull</localised_name>
 <pre_battle_speech_parameter></pre_battle_speech_parameter>
 <unlocked_at_rank>0</unlocked_at_rank>
 </character_skills>
