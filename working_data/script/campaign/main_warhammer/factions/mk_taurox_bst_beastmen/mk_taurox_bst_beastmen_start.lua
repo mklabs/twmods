@@ -50,9 +50,10 @@ if (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(loca
   or (cm:get_saved_value("starting_general_1") == TAUROX_FORENAME or cm:get_saved_value("starting_general_2") == TAUROX_FORENAME) then
 
   starting_general_id = 1;
-  log("\tstarting_general_id is 1 (Taurox)");
+  log("\tstarting_general_id is 1 (Taurox the Brass Bull)");
 
   -- Khazrak chapter missions, for now
+  -- TODO: Tailor chapter obj for Taurox
   if not cm:is_multiplayer() then
     chapter_one_mission = chapter_mission:new(1, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_01", nil);
     chapter_two_mission = chapter_mission:new(2, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_02", nil);
@@ -60,6 +61,20 @@ if (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(loca
     chapter_four_mission = chapter_mission:new(4, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_04", nil);
     chapter_five_mission = chapter_mission:new(5, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_05", nil);
   end;
+elseif (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(local_faction, GHORROS_FORENAME))
+  or (cm:get_saved_value("starting_general_1") == GHORROS_FORENAME or cm:get_saved_value("starting_general_2") == GHORROS_FORENAME) then
+  starting_general_id = 2;
+  log("\tstarting_general_id is 1 (Ghorros Warhoof)");
+
+  -- Morghur chapter missions, for now
+  -- TODO: Tailor chapter obj for Ghorros
+	if not cm:is_multiplayer() then
+		chapter_one_mission = chapter_mission:new(1, local_faction, "wh_dlc05_objective_beastmen_main_morghur_01", nil);
+		chapter_two_mission = chapter_mission:new(2, local_faction, "wh_dlc05_objective_beastmen_main_morghur_02", nil);
+		chapter_three_mission = chapter_mission:new(3, local_faction, "wh_dlc05_objective_beastmen_main_morghur_03", nil);
+		chapter_four_mission = chapter_mission:new(4, local_faction, "wh_dlc05_objective_beastmen_main_morghur_04", nil);
+		chapter_five_mission = chapter_mission:new(5, local_faction, "wh_dlc05_objective_beastmen_main_morghur_05", nil);
+	end;
 else
   script_error("ERROR: couldn't determine who starting lord is in Beastmen campaign, starting_general_1 in savegame is " .. tostring(cm:get_saved_value("starting_general_1")) .. " and starting_general_2 is " .. tostring(cm:get_saved_value("starting_general_2")));
 end;
