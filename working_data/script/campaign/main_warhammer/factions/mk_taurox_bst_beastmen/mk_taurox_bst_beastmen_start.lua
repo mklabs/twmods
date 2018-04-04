@@ -194,13 +194,14 @@ function faction_each_mp_game_startup()
   -- put stuff here to be initialised each time a multiplayer game loads
 end;
 
-function scrollCameraToFactionLeader()
+function scrollCameraToFactionLeader(done)
   log("008 - Focus_Starting_Cameras");
   if cm:is_new_game() then
     log("008 - Focus_Starting_Cameras new game");
     local faction = get_faction(local_faction);
     local faction_leader_cqi = faction:faction_leader():command_queue_index();
-    cm:scroll_camera_with_cutscene_to_character(6, end_callback, faction_leader_cqi);
+    log("008 - cqi: " .. faction_leader_cqi);
+    cm:scroll_camera_with_cutscene_to_character(6, done, faction_leader_cqi);
   end
 end;
 
@@ -233,17 +234,7 @@ fs_player:register_each_mp_game_callback(function() faction_each_mp_game_startup
 if core:is_tweaker_set("DISABLE_PRELUDE_CAMPAIGN_SCRIPTS") then
   log("Tweaker DISABLE_PRELUDE_CAMPAIGN_SCRIPTS is set so not running any prelude scripts");
 else
-  fs_player:register_intro_cutscene_callback(            -- comment out to not have intro cutscene
-    function()
-      show_benchmark_camera_pan_if_required(
-        function()
-          cutscene_intro_play();
-          output('Try scrolling camera to faction leader');
-          scrollCameraToFactionLeader();
-        end
-      );
-    end
-  );
+  scrollCameraToFactionLeader(function () log('Scrolled camera to faction leader') end);
 end;
 
 -----------------------------------------------------------------------------------
