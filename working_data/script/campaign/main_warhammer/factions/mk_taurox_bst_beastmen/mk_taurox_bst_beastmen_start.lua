@@ -135,14 +135,18 @@ end;
 function start_faction()
   log("start_faction() called");
 
-  -- show advisor progress button
-  cm:modify_advice(true);
+  scrollCameraToFactionLeader(function ()
+    log('Scrolled camera to faction leader');
 
-  start_beastmen_prelude();
+    -- show advisor progress button
+    cm:modify_advice(true);
 
-  if cm:is_multiplayer() == false then
-    show_how_to_play_event(BEASTMEN_FACTION);
-  end;
+    start_beastmen_prelude();
+
+    if cm:is_multiplayer() == false then
+      show_how_to_play_event(BEASTMEN_FACTION);
+    end;
+  end);
 end;
 
 -------------------------------------------------------
@@ -240,10 +244,7 @@ else
     function()
       show_benchmark_camera_pan_if_required(
         function()
-          scrollCameraToFactionLeader(function ()
-            log('Scrolled camera to faction leader, starting faction ...');
-            cutscene_intro_play_khazrak();
-          end);
+          cutscene_intro_play_khazrak();
         end
       );
     end
