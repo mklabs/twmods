@@ -41,10 +41,10 @@ function start()
     -- Taurox...
     -- move to Badlands area
     log('TAUROX Reposition taurox');
-    reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, TAUROX_FORENAME, 643, 191);
+    reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, TAUROX_FORENAME, 777, 600);
 
     log('TAUROX Reposition ghorros towards taurox');
-    local taurox_is_chosen_lord = reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, "names_name_2147357951", 629, 190); -- second army
+    local taurox_is_chosen_lord = reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, "names_name_2147357951", 773, 599); -- second army
 
     if taurox_is_chosen_lord then
       cm:force_declare_war("wh_main_grn_top_knotz", TAUROX_FACTION, false, false);
