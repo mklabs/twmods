@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="melee_weapons.xsd" export_time="Thu Jan 4 18:19:08 2018" revision="450" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>5610b5a0-0619-4e87-9bbd-baf26721d53e</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="melee_weapons.xsd" export_time="mer. avr. 4 20:10:51 2018" revision="451" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>a5571b28-ffce-4710-9236-43d43436f161</edit_uuid>
+<melee_weapons record_uuid="{a39b9827-6c37-43b0-bd76-b3a3111fda31}" record_timestamp="1522865451400" record_key="mk_taurox_bst_club_ghorros">
+<ap_damage>405</ap_damage>
+<audio_type>club_huge</audio_type>
+<bonus_v_cavalry>0</bonus_v_cavalry>
+<bonus_v_infantry>0</bonus_v_infantry>
+<bonus_v_large>0</bonus_v_large>
+<building_damage>600</building_damage>
+<collision_attack_max_targets>0</collision_attack_max_targets>
+<collision_attack_max_targets_cooldown>10</collision_attack_max_targets_cooldown>
+<contact_phase></contact_phase>
+<damage>135</damage>
+<first_strike>0</first_strike>
+<ignition_amount>0</ignition_amount>
+<is_magical>1</is_magical>
+<key>mk_taurox_bst_club_ghorros</key>
+<melee_attack_interval>3.700000047683716</melee_attack_interval>
+<melee_weapon_type>axe</melee_weapon_type>
+<splash_attack_max_attacks>7</splash_attack_max_attacks>
+<splash_attack_power_multiplier>1</splash_attack_power_multiplier>
+<splash_attack_target_size>large</splash_attack_target_size>
+<weapon_length>5</weapon_length>
+</melee_weapons>
 <melee_weapons record_uuid="{c4e358d8-e7fa-4674-8a84-b8cca3a8a9ee}" record_timestamp="1487263889383" record_key="placeholder">
 <ap_damage>4</ap_damage>
 <audio_type>sword</audio_type>
@@ -323,7 +345,7 @@
 <first_strike>0</first_strike>
 <ignition_amount>0</ignition_amount>
 <is_magical>0</is_magical>
-<key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_dual_sword</key>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_dual_sword</key>
 <melee_attack_interval>4.5</melee_attack_interval>
 <melee_weapon_type>sword</melee_weapon_type>
 <splash_attack_max_attacks>1</splash_attack_max_attacks>
@@ -345,7 +367,7 @@
 <first_strike>0</first_strike>
 <ignition_amount>0</ignition_amount>
 <is_magical>1</is_magical>
-<key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_dual_sword_ror</key>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_dual_sword_ror</key>
 <melee_attack_interval>4.5</melee_attack_interval>
 <melee_weapon_type>sword</melee_weapon_type>
 <splash_attack_max_attacks>1</splash_attack_max_attacks>
