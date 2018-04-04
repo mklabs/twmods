@@ -18,6 +18,7 @@ function mk_taurox()
   mk_taurox_ll_setup();
   Add_Moon_Phase_Listeners(TAUROX_FACTION);
   start();
+  scrollCameraToFactionLeader(function() log('Scrolled camera to faction leader') end);
 end;
 
 -------------------------------------------------------
@@ -79,6 +80,19 @@ function mk_taurox_ll_setup()
     cm:lock_starting_general_recruitment("203069748", TAUROX_FACTION);
   end;
 end;
+
+-- Credits to faction unlocker where this snippet comes from
+function scrollCameraToFactionLeader(done)
+  log("008 - Focus_Starting_Cameras");
+  if cm:is_new_game() then
+    log("008 - Focus_Starting_Cameras new game");
+    local faction = get_faction(local_faction);
+    local faction_leader_cqi = faction:faction_leader():command_queue_index();
+    log("008 - cqi: " .. faction_leader_cqi);
+    cm:scroll_camera_with_cutscene_to_character(6, done, faction_leader_cqi);
+  end
+end;
+
 
 ll_beastmen = {
 	-- Khazrak

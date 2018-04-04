@@ -13,10 +13,6 @@ function log(str)
   output('[taurox] ' .. str);
 end;
 
-log('Try require cutscene_intro');
-require('main_warhammer.factions.mk_taurox_bst_taurox.cutscene_intro');
-log('After require');
-
 local TAUROX_FORENAME = "names_name_709296598";
 local TAUROX_NAME = "names_name_1301160797";
 local TAUROX_FACTION = "mk_taurox_bst_beastmen";
@@ -160,9 +156,6 @@ end;
 -------------------------------------------------------
 function start_game_for_faction(should_show_cutscene)
   output("start_game_for_faction() called");
-
-  -- starts the playable faction script
-  fs_player:start(should_show_cutscene, true);
 end;
 
 -------------------------------------------------------
@@ -202,54 +195,8 @@ function faction_each_mp_game_startup()
   -- put stuff here to be initialised each time a multiplayer game loads
 end;
 
-function scrollCameraToFactionLeader(done)
-  log("008 - Focus_Starting_Cameras");
-  if cm:is_new_game() then
-    log("008 - Focus_Starting_Cameras new game");
-    local faction = get_faction(local_faction);
-    local faction_leader_cqi = faction:faction_leader():command_queue_index();
-    log("008 - cqi: " .. faction_leader_cqi);
-    cm:scroll_camera_with_cutscene_to_character(6, done, faction_leader_cqi);
-  end
-end;
-
 -- DLC03 Beastmen Features
 log("==== Beastman Children of Chaos ====");
 add_beastmen_final_battle_listener();
 apply_beastmen_default_diplomacy();
 apply_effect_bundles();
-
-
--------------------------------------------------------
---  Faction Start declaration/config
---  This object decides what to do when the faction
---  is initialised - do we play the cutscene, do we
---  position the camera at the start, or do we do
---  nothing, stuff like that.
---
---  Comment out the line adding the intro cutscene
---  to not play it (not ready for playtesting etc.)
--------------------------------------------------------
-fs_player = faction_start:new(local_faction, cam_mp_start_x, cam_mp_start_y, cam_mp_start_d, cam_mp_start_b, cam_mp_start_h);
-
--- singleplayer initialisation
-fs_player:register_new_sp_game_callback(function() faction_new_sp_game_startup() end);
-fs_player:register_each_sp_game_callback(function() faction_each_sp_game_startup() end);
-
--- multiplayer initialisation
-fs_player:register_new_mp_game_callback(function() faction_new_mp_game_startup() end);
-fs_player:register_each_mp_game_callback(function() faction_each_mp_game_startup() end);
-
-if core:is_tweaker_set("DISABLE_PRELUDE_CAMPAIGN_SCRIPTS") then
-  log("Tweaker DISABLE_PRELUDE_CAMPAIGN_SCRIPTS is set so not running any prelude scripts");
-else
-  fs_player:register_intro_cutscene_callback(            -- comment out to not have intro cutscene
-    function()
-      show_benchmark_camera_pan_if_required(
-        function()
-          cutscene_intro_play_khazrak();
-        end
-      );
-    end
-  );
-end;
