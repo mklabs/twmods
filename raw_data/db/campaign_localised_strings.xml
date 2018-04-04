@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_localised_strings.xsd" export_time="lun. avr. 2 23:08:34 2018" revision="577" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>0731060a-fb71-40e8-ab94-d017593ec8de</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="campaign_localised_strings.xsd" export_time="mer. avr. 4 22:53:45 2018" revision="578" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>923bb636-6006-42a0-9077-98dba83537c6</edit_uuid>
 <campaign_localised_strings record_uuid="{a8531b9f-f1eb-412a-a1e4-7720a2c75679}" record_timestamp="1375442257381" record_key="MPC_cannot_construct_not_your_turn">
 <key>MPC_cannot_construct_not_your_turn</key>
 <string state="APPROVED" last_approved_text="[[col:red]]You cannot construct buildings during other factions' turns.[[/col]]" last_edit_user="bob" requires_translation="false" requires_recording="false">[[col:red]]You cannot construct buildings during other factions' turns.[[/col]]</string>
@@ -1157,6 +1157,10 @@
 <key>locked_skill</key>
 <string state="APPROVED" last_approved_text="[[col:red]]Action locked. Available after unlocking the campaign skill:[[/col]]" last_edit_user="bob" requires_translation="false" requires_recording="false">[[col:red]]Action locked. Available after unlocking the campaign skill:[[/col]]</string>
 </campaign_localised_strings>
+<campaign_localised_strings record_uuid="{d5898692-a76b-4f41-969d-bd248db01f26}" record_timestamp="1522875225342" record_key="lord_lock_reason_1403603105">
+<key>lord_lock_reason_1403603105</key>
+<string>[[col:red]]This Legendary Lord will unlock after constructing the Fire Pit building.[[/col]]</string>
+</campaign_localised_strings>
 <campaign_localised_strings record_uuid="{0a673890-dd4b-468e-ac37-90bd6ba86b08}" record_timestamp="1522703314879" record_key="lord_lock_reason_1902772535">
 <key>lord_lock_reason_1902772535</key>
 <string>[[col:red]]This Legendary Lord will unlock following the sacrifice of 10 sets of captives after a battle.[[/col]]</string>
@@ -1256,6 +1260,10 @@
 <campaign_localised_strings record_uuid="{74feafaa-2c10-471c-b10d-c13da1aaeabc}" record_timestamp="1488501681110" record_key="lord_lock_reason_2140784202">
 <key>lord_lock_reason_2140784202</key>
 <string state="APPROVED" last_approved_text="[[col:red]]This Legendary Lord will unlock after 1 turn.[[/col]]" last_edit_user="bob" requires_translation="false" requires_recording="false">[[col:red]]This Legendary Lord will unlock after 1 turn.[[/col]]</string>
+</campaign_localised_strings>
+<campaign_localised_strings record_uuid="{cb3442f3-698c-4831-85cd-035c730c78c7}" record_timestamp="1522875225315" record_key="lord_lock_reason_681847135">
+<key>lord_lock_reason_681847135</key>
+<string>[[col:red]]This Legendary Lord will unlock after constructing the Scorched Grass Plains building.[[/col]]</string>
 </campaign_localised_strings>
 <campaign_localised_strings record_uuid="{348c42c0-5203-4c58-8bfe-8175c084b999}" record_timestamp="1511358378610" record_key="map_tooltip_storm_description">
 <key>map_tooltip_storm_description</key>
