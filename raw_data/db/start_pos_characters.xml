@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="mer. avr. 4 03:19:46 2018" revision="420" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>9fc91b7d-01dd-4806-ba01-d314673881e8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="mer. avr. 4 21:43:43 2018" revision="422" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>dbd0aab9-6f02-43c0-8b2b-a8c1680b0044</edit_uuid>
 <start_pos_characters record_uuid="{47dc3859-202e-4ab0-b255-b2bd28bfb42a}" record_timestamp="1504264095948" record_key="1012758001">
 <Age>18</Age>
 <ID>1012758001</ID>
@@ -7344,6 +7344,33 @@
 <subtype>brt_damsel_beasts</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
+</start_pos_characters>
+<start_pos_characters record_uuid="{6f09da87-0194-4e91-948b-83695355b73f}" record_timestamp="1522871023495" record_key="681847135">
+<Age>30</Age>
+<ID>681847135</ID>
+<Name>2049222507</Name>
+<Surname>1081914513</Surname>
+<Type>general</Type>
+<ambition>50</ambition>
+<clan_name></clan_name>
+<death_type></death_type>
+<faction>1099067523</faction>
+<immortal>1</immortal>
+<is_in_generals_pool>1</is_in_generals_pool>
+<is_male>1</is_male>
+<legacy_override></legacy_override>
+<loyalty>8</loyalty>
+<ministerial_position></ministerial_position>
+<model></model>
+<other_name></other_name>
+<override_general_unit>mk_taurox_bst_ghorros</override_general_unit>
+<portrait_id>mk_taurox_art_set_bst_ghorros</portrait_id>
+<progenitor>0</progenitor>
+<startx>777</startx>
+<starty>600</starty>
+<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:43:43" requires_translation="false" requires_recording="false">mk_taurox_bst_ghorros</subtype>
+<turns_died_before_start></turns_died_before_start>
+<unique>1</unique>
 </start_pos_characters>
 <start_pos_characters record_uuid="{48bc318a-f7d1-4b92-ac10-ebb7024b70fe}" record_timestamp="1508325868397" record_key="682702119">
 <Age>18</Age>

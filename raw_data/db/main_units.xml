@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="mer. avr. 4 20:18:12 2018" revision="1088" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>2384a8e3-b35a-494f-84d6-9d866968c69a</edit_uuid>
-<main_units record_uuid="{c97a912c-4a06-4849-82bc-56a587b48199}" record_timestamp="1522865891952" record_key="mk_taurox_bst_ghorros">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="mer. avr. 4 21:19:31 2018" revision="1089" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>6dca8d05-24fd-488a-a297-6ff6c4cb232c</edit_uuid>
+<main_units record_uuid="{c97a912c-4a06-4849-82bc-56a587b48199}" record_timestamp="1522869571348" record_key="mk_taurox_bst_ghorros">
 <additional_building_requirement></additional_building_requirement>
-<audio_voiceover_actor_group state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:18:11" requires_translation="false" requires_recording="false">wh_dlc03_vo_actor_Beastmen_Gor</audio_voiceover_actor_group>
+<audio_voiceover_actor_group state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">wh_dlc01_vo_actor_Chaos_KholekSuneater</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh_dlc03_vo_culture_Beastmen</audio_voiceover_culture>
 <audio_voiceover_culture_override>vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>-1</campaign_cap>
@@ -29,7 +29,7 @@
 <naval_unit>wh_main_shp_transport</naval_unit>
 <num_men>1</num_men>
 <num_ships>1</num_ships>
-<porthole_camera state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:18:11" requires_translation="false" requires_recording="false">bst_centigor_40_degrees</porthole_camera>
+<porthole_camera state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">chaos_kholek_suneater</porthole_camera>
 <porthole_composite_scene></porthole_composite_scene>
 <prestige>0</prestige>
 <recruitment_cost>2100</recruitment_cost>
@@ -40,8 +40,8 @@
 <restrict_xp_gain_in_campaign>0</restrict_xp_gain_in_campaign>
 <special_edition_mask>0</special_edition_mask>
 <tier>0</tier>
-<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:18:11" requires_translation="false" requires_recording="false">wh_dlc03_bst_centigor_great_weapon</ui_unit_group_land>
-<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:18:11" requires_translation="false" requires_recording="false">wh_dlc03_bst_centigor_great_weapon</ui_unit_group_naval>
+<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">lord_cavalry</ui_unit_group_land>
+<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">lord_cavalry</ui_unit_group_naval>
 <unique_index>1931372649</unique_index>
 <unit>mk_taurox_bst_ghorros</unit>
 <unit_scaling>0</unit_scaling>

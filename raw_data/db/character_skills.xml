@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="mer. avr. 4 04:41:01 2018" revision="616" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>3a6991b6-4b4a-4581-a04c-9c3057e7493d</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="mer. avr. 4 22:01:55 2018" revision="617" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>737f0332-9b9e-4dee-8c18-c2c299c895d5</edit_uuid>
+<character_skills record_uuid="{3961c62c-1230-4c95-ade5-4bf83fa18265}" record_timestamp="1522872115155" record_key="mk_taurox_skill_innate_bst_ghorros_warhoof">
+<background_weighting>5</background_weighting>
+<image_path>trait_beastmen.png</image_path>
+<influence_cost>0</influence_cost>
+<is_background_skill>1</is_background_skill>
+<is_female_only_background_skill>0</is_female_only_background_skill>
+<is_male_only_background_skill>0</is_male_only_background_skill>
+<key>mk_taurox_skill_innate_bst_ghorros_warhoof</key>
+<localised_description>It is commonly said that Ghorros Warhoof is the father of a thousand young, and yet that still does not do his exploits justice. A menagerie of twisted terrors that cover the Old World from one end to the other share his bloodline. Ghorros frequently boasts about his adventures; indeed it is very difficult to get him to stop. Amongst his many claims is the fathering of the entire Centigor race. He maintains that every one of that mismatched and drunken clan can be traced back to his lineage. Few have the nerve to gainsay him, for in his cups the Warhoof has a terrible and violent temper, and he is rarely sober.</localised_description>
+<localised_name>Sire of a Thousand Young</localised_name>
+<pre_battle_speech_parameter></pre_battle_speech_parameter>
+<unlocked_at_rank>0</unlocked_at_rank>
+</character_skills>
 <character_skills record_uuid="{d7b6dcce-1f98-4510-89dc-26cc0acdac51}" record_timestamp="1522809661382" record_key="mk_taurox_skill_innate_bst_taurox_brassbull">
 <background_weighting>5</background_weighting>
 <image_path>trait_beastmen.png</image_path>

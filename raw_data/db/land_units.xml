@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="land_units.xsd" export_time="mer. avr. 4 20:14:35 2018" revision="1796" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>c62c28dc-5022-4da7-b88e-dad11c455e19</edit_uuid>
-<land_units record_uuid="{e143016f-76d0-4b2e-9eb9-918a92f92996}" record_timestamp="1522865675039" record_key="mk_taurox_bst_ghorros">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="land_units.xsd" export_time="mer. avr. 4 21:21:16 2018" revision="1797" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>16c00a0f-ebc0-4efc-827b-12ba138ee0e3</edit_uuid>
+<land_units record_uuid="{e143016f-76d0-4b2e-9eb9-918a92f92996}" record_timestamp="1522869676528" record_key="mk_taurox_bst_ghorros">
 <ability_global_recharge>0</ability_global_recharge>
 <accuracy>10</accuracy>
 <ai_usage_group>melee_highvalue</ai_usage_group>
 <animal></animal>
 <armour>wh2_main_heavy_metal_100</armour>
 <articulated_record></articulated_record>
-<attribute_group state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:34" requires_translation="false" requires_recording="false">wh_encourage_fear_hideForest</attribute_group>
+<attribute_group state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">wh_encourage_fear_terror</attribute_group>
 <bonus_hit_points>9012</bonus_hit_points>
 <campaign_action_points>2100</campaign_action_points>
 <can_skirmish>0</can_skirmish>
@@ -28,12 +28,12 @@
 <game_expansion_key>core</game_expansion_key>
 <ground_stat_effect_group>large</ground_stat_effect_group>
 <hiding_scalar>1</hiding_scalar>
-<historical_description_text state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:35" requires_translation="false" requires_recording="false">wh_dlc03_unit_long_text_bst_centigors_great_weapons</historical_description_text>
+<historical_description_text state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">wh_main_unit_long_text_chs_kholek_suneater</historical_description_text>
 <is_male>1</is_male>
 <key>mk_taurox_bst_ghorros</key>
 <loose_spacing>0</loose_spacing>
-<man_animation state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:35" requires_translation="false" requires_recording="false">ce1_centigor_2handed_glaive</man_animation>
-<man_entity state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:35" requires_translation="false" requires_recording="false">wh_dlc03_bst_cav_centigor_blood</man_entity>
+<man_animation state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">ce2_kholek_2handed_axe</man_animation>
+<man_entity state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">wh_dlc01_chs_kholek_blood</man_entity>
 <melee_attack>60</melee_attack>
 <melee_defence>52</melee_defence>
 <morale>75</morale>
@@ -45,7 +45,7 @@
 <officers>A_blank_record</officers>
 <onscreen_name>Ghorros Warhoof</onscreen_name>
 <primary_ammo>0</primary_ammo>
-<primary_melee_weapon state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:34" requires_translation="false" requires_recording="false">mk_taurox_bst_club_ghorros</primary_melee_weapon>
+<primary_melee_weapon state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">wh_dlc01_chs_kholek</primary_melee_weapon>
 <primary_missile_weapon></primary_missile_weapon>
 <rank_depth>1</rank_depth>
 <reload>0</reload>
@@ -54,8 +54,8 @@
 <selected_vo_tertiary>vo_sel_culture</selected_vo_tertiary>
 <selection_vo state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:34" requires_translation="false" requires_recording="false">vo_sel_beastmen_centigors</selection_vo>
 <shield>none</shield>
-<short_description_text state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:35" requires_translation="false" requires_recording="false">wh_dlc03_unit_short_text_bst_centigors_great_weapons</short_description_text>
-<spacing state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:14:34" requires_translation="false" requires_recording="false">wh_dlc03_bst_centigors_rabble</spacing>
+<short_description_text state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">wh_dlc01_unit_short_text_chs_kholek_suneater</short_description_text>
+<spacing state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:21:16" requires_translation="false" requires_recording="false">wh_main_monster</spacing>
 <spot_dist_scrub>80</spot_dist_scrub>
 <spot_dist_tree>60</spot_dist_tree>
 <strengths_weaknesses_text>placeholder</strengths_weaknesses_text>

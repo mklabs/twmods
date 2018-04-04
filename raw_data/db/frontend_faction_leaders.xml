@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_leaders.xsd" export_time="dim. avr. 1 04:27:33 2018" revision="146" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>e9da6a10-4b6b-4a63-b288-58f533306ca5</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_leaders.xsd" export_time="mer. avr. 4 21:36:01 2018" revision="147" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>3cb5beff-e794-4adb-be2c-322ef2e20bbb</edit_uuid>
 <frontend_faction_leaders record_uuid="{1dfec851-9023-496b-9720-ec6c2e0e1baf}" record_timestamp="1522549653300" record_key="mk_taurox_political_party_beastmen">
 <character_image state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-03-31T07:24:06" requires_translation="false" requires_recording="false">UI\Portraits\Faction_leaders\beastmen_taurox.png</character_image>
 <game_expansion_key>core</game_expansion_key>
@@ -17,6 +17,25 @@
 <uniform>composite_scene/front_end_selection/khazrak_selection.csc</uniform>
 <video>Front_end_selection_movies/khazrak_front_end</video>
 <voiceover state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-03-30T07:37:09" requires_translation="false" requires_recording="false">wh_dlc03_vo_actor_Beastmen_Khazrak_One_Eye</voiceover>
+<x_offset>0</x_offset>
+<y_offset>0</y_offset>
+</frontend_faction_leaders>
+<frontend_faction_leaders record_uuid="{899d0848-a8d3-4236-a8ed-8e71db9a7d7f}" record_timestamp="1522870561203" record_key="mk_taurox_political_party_beastmen_ghorros">
+<character_image>UI\Portraits\Faction_leaders\beastmen_ghorros.png</character_image>
+<game_expansion_key>core</game_expansion_key>
+<key>mk_taurox_political_party_beastmen_ghorros</key>
+<loading_screen_image>ui/loading_ui/load_images/campaign_6.png</loading_screen_image>
+<loading_screen_intro_video></loading_screen_intro_video>
+<loading_screen_text>Ghorros Warhoof, the Sire of a Thousand Young, is a gnarled, ancient Centigor who is forever fighting, rutting or getting drunk. His unnaturally long life has spanned many centuries and he has slaughtered his way through countless wars without succumbing to his injuries. Not a single minute of his impressive lifespan has been spent idle, for the Warhoof is possessed of an unholy vitality, a virile and boundless energy that is matched only by the depths of his carnal urges. Amongst the strongest of these is a lust for violence and battle. It is a rare moon indeed that does not see Ghorros go to war.</loading_screen_text>
+<localised_action_points>Powerful melee fighter and leader||Is a freaking Centigor</localised_action_points>
+<localised_description>Ghorros Warhoof, the Sire of a Thousand Young, is a gnarled, ancient Centigor who is forever fighting, rutting or getting drunk. His unnaturally long life has spanned many centuries and he has slaughtered his way through countless wars without succumbing to his injuries. Not a single minute of his impressive lifespan has been spent idle, for the Warhoof is possessed of an unholy vitality, a virile and boundless energy that is matched only by the depths of his carnal urges. Amongst the strongest of these is a lust for violence and battle. It is a rare moon indeed that does not see Ghorros go to war.</localised_description>
+<override_force_location_x>0.6499999761581421</override_force_location_x>
+<override_force_location_y>0.25999999046325684</override_force_location_y>
+<prelude_battle></prelude_battle>
+<show_full_intro_option>0</show_full_intro_option>
+<uniform>composite_scene/front_end_selection/khazrak_selection.csc</uniform>
+<video>Front_end_selection_movies/khazrak_front_end</video>
+<voiceover>wh_dlc03_vo_actor_Beastmen_Khazrak_One_Eye</voiceover>
 <x_offset>0</x_offset>
 <y_offset>0</y_offset>
 </frontend_faction_leaders>

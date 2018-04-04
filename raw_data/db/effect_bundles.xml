@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bundles.xsd" export_time="lun. avr. 2 01:20:17 2018" revision="648" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>34a08057-baf2-439a-b168-306443e2acd4</edit_uuid>
-<effect_bundles record_uuid="{11bc0c21-a06e-4733-b7c4-b6da4d4d59c0}" record_timestamp="1522624817272" record_key="mk_taurox_lord_trait">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bundles.xsd" export_time="mer. avr. 4 21:45:10 2018" revision="649" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>dd9e9d90-22c1-460b-844a-db7b250803a5</edit_uuid>
+<effect_bundles record_uuid="{518abbfe-b2e0-43e5-a3d4-08722a2427ae}" record_timestamp="1522871108380" record_key="mk_taurox_lord_trait_ghorros">
 <bundle_target>faction</bundle_target>
-<key>mk_taurox_lord_trait</key>
+<key>mk_taurox_lord_trait_ghorros</key>
+<localised_description>It is commonly said that Ghorros Warhoof is the father of a thousand young, and yet that still does not do his exploits justice. A menagerie of twisted terrors that cover the Old World from one end to the other share his bloodline. Ghorros frequently boasts about his adventures; indeed it is very difficult to get him to stop. Amongst his many claims is the fathering of the entire Centigor race. He maintains that every one of that mismatched and drunken clan can be traced back to his lineage. Few have the nerve to gainsay him, for in his cups the Warhoof has a terrible and violent temper, and he is rarely sober.</localised_description>
+<localised_title>the Sire of a Thousand Youngs</localised_title>
+<ui_icon>character.png</ui_icon>
+</effect_bundles>
+<effect_bundles record_uuid="{11bc0c21-a06e-4733-b7c4-b6da4d4d59c0}" record_timestamp="1522871108359" record_key="mk_taurox_lord_trait_taurox">
+<bundle_target>faction</bundle_target>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:45:08" requires_translation="false" requires_recording="false">mk_taurox_lord_trait_taurox</key>
 <localised_description state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T01:20:17" requires_translation="false" requires_recording="false">It is told that this monstrous warrior marches at the head of a column of armoured Minotaurs fully a mile long, and that whenever the scent of flesh is carried upon the wind, whether it be Greenskin tribes, Human towns, or Beastmen warherds, the column breaks into a frenzy-stampede to seek and destroy them. </localised_description>
 <localised_title>The Brass Bull</localised_title>
 <ui_icon>character.png</ui_icon>

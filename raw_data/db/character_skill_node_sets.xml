@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skill_node_sets.xsd" export_time="mer. avr. 4 01:02:35 2018" revision="135" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>9108aa8a-f350-4535-9d0b-fa0ea96ef89e</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skill_node_sets.xsd" export_time="mer. avr. 4 22:03:48 2018" revision="136" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>d657ac3d-0f67-4471-8cb1-988e0aa99052</edit_uuid>
 <character_skill_node_sets record_uuid="{906f44f5-ab1f-4313-9493-8124a61bd0fc}" record_timestamp="1507041173760" record_key="wh2_dlc09_skill_node_set_skv_tretch_craventail">
 <agent_key>general</agent_key>
 <agent_subtype_key>wh2_dlc09_skv_tretch_craventail</agent_subtype_key>
@@ -1341,6 +1341,17 @@
 <for_army>0</for_army>
 <for_navy>0</for_navy>
 <key>wh_main_skill_node_set_brt_louen</key>
+<subculture></subculture>
+</character_skill_node_sets>
+<character_skill_node_sets record_uuid="{8856a5fe-1223-42eb-973c-d5e802f4d62d}" record_timestamp="1522872228822" record_key="wh_main_skill_node_set_bst_ghorros">
+<agent_key>general</agent_key>
+<agent_subtype_key>mk_taurox_bst_ghorros</agent_subtype_key>
+<campaign_key></campaign_key>
+<enc_title>PH - Ghorros Warhoof Skills</enc_title>
+<faction_key></faction_key>
+<for_army>0</for_army>
+<for_navy>0</for_navy>
+<key>wh_main_skill_node_set_bst_ghorros</key>
 <subculture></subculture>
 </character_skill_node_sets>
 <character_skill_node_sets record_uuid="{fcc28dac-e1d1-4701-a77f-20d15a89350d}" record_timestamp="1522796555427" record_key="wh_main_skill_node_set_bst_taurox">
