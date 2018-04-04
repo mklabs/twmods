@@ -18,6 +18,7 @@ end;
 local TAUROX_FORENAME = "names_name_709296598";
 local TAUROX_NAME = "names_name_1301160797";
 local TAUROX_FACTION = "mk_taurox_bst_beastmen";
+local BEASTMEN_FACTION = "wh_dlc03_bst_beastmen";
 
 -- include the intro, prelude and quest chain scripts
 cm:load_faction_script(local_faction .. "_prelude");
@@ -40,7 +41,6 @@ log("campaign script loaded for " .. local_faction);
 
 starting_general_id = 0;    -- undefined
 
--- Chaos start location
 cam_mp_start_x = 777;
 cam_mp_start_y = 600;
 cam_mp_start_d = 10;
@@ -134,7 +134,6 @@ end;
 -------------------------------------------------------
 function start_faction()
   log("start_faction() called");
-  scrollCameraToFactionLeader(function log('Scrolled camera to faction leader') end);
 
   -- show advisor progress button
   cm:modify_advice(true);
@@ -142,7 +141,7 @@ function start_faction()
   start_beastmen_prelude();
 
   if cm:is_multiplayer() == false then
-    show_how_to_play_event(local_faction);
+    show_how_to_play_event(BEASTMEN_FACTION);
   end;
 end;
 
@@ -237,24 +236,20 @@ fs_player:register_each_mp_game_callback(function() faction_each_mp_game_startup
 if core:is_tweaker_set("DISABLE_PRELUDE_CAMPAIGN_SCRIPTS") then
   log("Tweaker DISABLE_PRELUDE_CAMPAIGN_SCRIPTS is set so not running any prelude scripts");
 else
-  fs_player:register_intro_cutscene_callback(function()
-      show_benchmark_camera_pan_if_required(function()
-        cutscene_intro_play_khazrak();
-      end);
-  end);
+  fs_player:register_intro_cutscene_callback(            -- comment out to not have intro cutscene
+    function()
+      show_benchmark_camera_pan_if_required(
+        function()
+          scrollCameraToFactionLeader(function ()
+            log('Scrolled camera to faction leader, starting faction ...');
+            cutscene_intro_play_khazrak();
+          end);
+        end
+      );
+    end
+  );
 end;
 
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
---
---  INTRO CUTSCENE
---
---  This function declares and configures the cutscene,
---  loads it with actions and plays it.
---  Customise it to suit.
---
------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
 
 function cutscene_intro_play_khazrak()
   local cutscene_intro = campaign_cutscene:new(
