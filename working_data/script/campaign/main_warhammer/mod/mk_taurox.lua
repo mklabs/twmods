@@ -35,8 +35,8 @@ function start()
 
   -- Ghorros... move to Morghur start position
   log('Reposition Ghorros');
-  reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, TAUROX_FORENAME, 508, 550);
-  local ghorros_is_chosen_lord = reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, 'names_name_2147357951', 501, 556); -- second army
+  reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, GHORROS_FORENAME, 222, 577);
+  local ghorros_is_chosen_lord = reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, 'names_name_2147357951', 225, 575); -- second army
 
   if taurox_is_chosen_lord then
     cm:force_declare_war('wh_main_grn_top_knotz', TAUROX_FACTION, false, false);
@@ -88,10 +88,7 @@ function scrollCameraToFactionLeader(done)
   log('008 - Focus_Starting_Cameras');
   if cm:is_new_game() then
     log('008 - Focus_Starting_Cameras new game');
-    local faction = get_faction(local_faction);
-    local faction_leader_cqi = faction:faction_leader():command_queue_index();
-    log('008 - cqi: ' .. faction_leader_cqi);
-    cm:scroll_camera_with_cutscene_to_character(6, done, faction_leader_cqi);
+    cm:position_camera_at_primary_military_force(TAUROX_FACTION);
   end
 end;
 
