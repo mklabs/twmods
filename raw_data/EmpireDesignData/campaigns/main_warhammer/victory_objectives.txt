@@ -1261,17 +1261,16 @@ victory_objectives
 				objective
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;		// Raze or sack 50 regions
-					total 50;
-          settlement wh_main_yn_edri_eternos_the_oak_of_ages;
-          settlement wh2_main_iron_mountains_naggarond;
-          settlement wh_main_reikland_altdorf;
-          settlement wh_main_couronne_et_languille_couronne;
+					total 30;
 				}
 				objective
 				{
-					type DESTROY_FACTION;										// Destroy the Empire and Bretonnia factions
+					type DESTROY_FACTION;
 					faction wh_main_emp_empire;
 					faction wh_main_brt_bretonnia;
+					faction wh_main_dwf_dwarfs;
+					faction wh_dlc05_wef_wood_elves;
+					faction wh2_main_hef_high_elves;
 					confederation_valid;
 				}
 
@@ -1295,14 +1294,22 @@ victory_objectives
 				objective
 				{
 					type RAZE_OR_SACK_N_DIFFERENT_SETTLEMENTS_INCLUDING;	// Raze or sack 80 regions
-					total 80;
+					total 50;
 				}
 				objective
 				{
-					type DESTROY_FACTION;									// Destroy the Empire, Bretonnia and Dwarfs factions
+					type DESTROY_FACTION;
+					faction wh_main_dwf_dwarfs;
 					faction wh_main_emp_empire;
 					faction wh_main_brt_bretonnia;
-					faction wh_main_dwf_dwarfs;
+					faction wh_main_grn_greenskins;
+					faction wh_main_vmp_vampire_counts;
+					faction wh2_main_def_dark_elves;
+					faction wh2_main_hef_high_elves;
+					faction wh2_main_lzd_lizardmen;
+					faction wh2_main_skv_skaven;
+					faction wh2_dlc09_tmb_tomb_kings;
+					faction wh_dlc05_wef_wood_elves;
 					confederation_valid;
 				}
 
