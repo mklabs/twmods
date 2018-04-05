@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_starting_general_options.xsd" export_time="mer. avr. 4 21:45:22 2018" revision="62" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>c58a5983-e2cb-4f3e-8115-c965751bb107</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_starting_general_options.xsd" export_time="Tue Oct 10 15:11:36 2017" revision="53" export_branch="T:/" export_user="bob">
+<edit_uuid>359d5576-0590-492d-a61a-6e15413b4e8a</edit_uuid>
 <start_pos_starting_general_options record_uuid="{58fadb17-03fe-44a5-9da4-4cecc1bd10ec}" record_timestamp="1446021994631" record_key="0">
 <effect_bundle>wh_main_lord_trait_emp_balthasar_gelt</effect_bundle>
 <frontend_faction_leader>wh_main_political_party_empire_balthasar</frontend_faction_leader>
@@ -9,7 +9,7 @@
 <precedence>1</precedence>
 <replaces_general>2140783388</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{9d36a93d-54ee-4806-ba7b-2f132bc2ddda}" record_timestamp="1446021994691" record_key="10">
 <effect_bundle>wh_main_lord_trait_emp_karl_franz</effect_bundle>
@@ -19,7 +19,7 @@
 <precedence>0</precedence>
 <replaces_general>2140783388</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{ac99925b-a469-4444-ac40-bd7e15d62be0}" record_timestamp="1467040557723" record_key="103">
 <effect_bundle>wh_dlc03_lord_trait_beastmen_khazrak</effect_bundle>
@@ -29,7 +29,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784064</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{438d9eed-5e28-47f6-981d-e49a4d55ca4a}" record_timestamp="1467040552929" record_key="104">
 <effect_bundle>wh_dlc03_lord_trait_bst_malagor</effect_bundle>
@@ -39,7 +39,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784064</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c09d1bd7-caa2-4841-9b08-f4314335d433}" record_timestamp="1468846213694" record_key="105">
 <effect_bundle>wh_dlc04_lord_trait_emp_volkmar_the_grim</effect_bundle>
@@ -49,7 +49,7 @@
 <precedence>2</precedence>
 <replaces_general>2140783388</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{14901264-d75e-44d5-8b8f-a8ce4b6ed705}" record_timestamp="1507041174756" record_key="1068652830">
 <effect_bundle>wh_dlc09_lord_trait_skv_tretch_craventail</effect_bundle>
@@ -59,17 +59,7 @@
 <precedence>0</precedence>
 <replaces_general>1757671472</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
-</start_pos_starting_general_options>
-<start_pos_starting_general_options record_uuid="{bb34e2c1-6cb7-456b-90a6-b64d19244e10}" record_timestamp="1522871108337" record_key="1116937646">
-<effect_bundle>mk_taurox_lord_trait_taurox</effect_bundle>
-<frontend_faction_leader>mk_taurox_political_party_beastmen</frontend_faction_leader>
-<general>1403603105</general>
-<id>1116937646</id>
-<precedence>0</precedence>
-<replaces_general>1403603105</replaces_general>
-<turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason>placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{1a137672-7221-4b64-95f9-3d9ad0cbacba}" record_timestamp="1468846213694" record_key="115">
 <effect_bundle>wh_dlc04_lord_trait_vmp_helman_ghorst</effect_bundle>
@@ -79,7 +69,7 @@
 <precedence>3</precedence>
 <replaces_general>2140782847</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{d97bdfac-7b1b-446d-aed0-87550fefa9ff}" record_timestamp="1474903523090" record_key="122">
 <effect_bundle>wh_dlc06_lord_trait_dwf_belegar_ironhammer</effect_bundle>
@@ -89,7 +79,7 @@
 <precedence>0</precedence>
 <replaces_general>2140783397</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{6d3b9072-6236-486e-aa86-c5330f206022}" record_timestamp="1488488761322" record_key="123">
 <effect_bundle>wh_dlc07_lord_trait_brt_louen</effect_bundle>
@@ -99,7 +89,7 @@
 <precedence>0</precedence>
 <replaces_general>2140783351</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{82002aca-48fa-4be3-8758-d58a14f29f52}" record_timestamp="1488488763321" record_key="125">
 <effect_bundle>wh_dlc07_lord_trait_brt_fay</effect_bundle>
@@ -109,7 +99,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784159</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{ef421687-e5cb-43b7-8cf1-2b76e6fe4164}" record_timestamp="1507644696175" record_key="1305867793">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_arkhan</effect_bundle>
@@ -119,7 +109,7 @@
 <precedence>0</precedence>
 <replaces_general>1865676509</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c994227a-d294-443d-84db-9452454db783}" record_timestamp="1475752052570" record_key="131">
 <effect_bundle>wh_dlc06_lord_trait_grn_skarsnik</effect_bundle>
@@ -129,7 +119,7 @@
 <precedence>0</precedence>
 <replaces_general>2140783441</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{a79b2fcc-01e1-4fb8-b4fb-e335cf18f192}" record_timestamp="1475588468709" record_key="132">
 <effect_bundle>wh2_main_lord_trait_lzd_kroq_gar</effect_bundle>
@@ -139,7 +129,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784458</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{bbf45b87-5185-4e9a-be4d-f7a39cedc9da}" record_timestamp="1474903523093" record_key="135">
 <effect_bundle>wh_dlc06_lord_trait_grn_wurrzag</effect_bundle>
@@ -149,7 +139,7 @@
 <precedence>0</precedence>
 <replaces_general>2140783445</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{d07c40dd-7a8f-4105-bd15-2097ac5e7e5b}" record_timestamp="1474903565649" record_key="136">
 <effect_bundle>wh_pro01_lord_trait_dwf_grombrindal</effect_bundle>
@@ -159,7 +149,7 @@
 <precedence>1</precedence>
 <replaces_general>2140782828</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{bb1d8162-2f5b-4195-9cfe-5ba15aa593f6}" record_timestamp="1479218375038" record_key="138">
 <effect_bundle>wh_dlc05_lord_trait_woodelves_orion</effect_bundle>
@@ -169,7 +159,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784177</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{ce95fbb1-6d27-4133-ab10-4872dfdbbb80}" record_timestamp="1479218375007" record_key="139">
 <effect_bundle>wh2_main_lord_trait_hef_tyrion</effect_bundle>
@@ -179,7 +169,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784459</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{9361bf78-806c-495b-8d31-f67d7d71bc8b}" record_timestamp="1446021994711" record_key="14">
 <effect_bundle>wh_main_lord_trait_grn_azhag_the_slaughterer</effect_bundle>
@@ -189,7 +179,7 @@
 <precedence>1</precedence>
 <replaces_general>2140782841</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{1a840daf-1aee-44c0-8567-2d757e7d4fe1}" record_timestamp="1489070595350" record_key="143">
 <effect_bundle>wh2_main_lord_trait_malekith_black_council</effect_bundle>
@@ -199,7 +189,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784481</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{e1aa65e0-cea4-4f1b-ada9-4c5df606dfff}" record_timestamp="1475588468632" record_key="145">
 <effect_bundle>wh2_main_lord_trait_hef_teclis</effect_bundle>
@@ -209,7 +199,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784490</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{0e641748-2a93-4999-950e-f367a1287e23}" record_timestamp="1475157410384" record_key="147">
 <effect_bundle>wh_dlc05_lord_trait_wef_durthu</effect_bundle>
@@ -219,7 +209,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784185</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{05ac1306-1cb7-4eb2-a97f-99d1de0e1735}" record_timestamp="1489070594412" record_key="154">
 <effect_bundle>wh2_main_lord_trait_def_morathi_hag_sorceress_of_ghrond</effect_bundle>
@@ -229,7 +219,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784494</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{4f34f553-aeba-4c1f-a911-50c5446f07c0}" record_timestamp="1488517476268" record_key="160">
 <effect_bundle>wh_dlc04_lord_trait_vmp_vlad_von_carstein</effect_bundle>
@@ -239,7 +229,7 @@
 <precedence>2</precedence>
 <replaces_general>2140784138</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{01d4fd1a-69b7-4171-9574-61113c3d62e3}" record_timestamp="1507644696170" record_key="1619892010">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_settra</effect_bundle>
@@ -249,7 +239,7 @@
 <precedence>0</precedence>
 <replaces_general>306236299</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{fc010c52-6963-4163-8700-cbaf3263142b}" record_timestamp="1507644696186" record_key="1690430870">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_khatep</effect_bundle>
@@ -259,7 +249,7 @@
 <precedence>0</precedence>
 <replaces_general>1472604979</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{aa2aa02f-89b2-4cca-a70d-080390f01aeb}" record_timestamp="1488501684932" record_key="171">
 <effect_bundle>wh_pro02_lord_trait_vmp_isabella_von_carstein</effect_bundle>
@@ -269,17 +259,7 @@
 <precedence>2</precedence>
 <replaces_general>2140784138</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
-</start_pos_starting_general_options>
-<start_pos_starting_general_options record_uuid="{90cb90b6-514d-4169-8650-69018f4f30d9}" record_timestamp="1522871122347" record_key="1710712409">
-<effect_bundle>mk_taurox_lord_trait_ghorros</effect_bundle>
-<frontend_faction_leader>mk_taurox_political_party_beastmen_ghorros</frontend_faction_leader>
-<general>681847135</general>
-<id>1710712409</id>
-<precedence>0</precedence>
-<replaces_general>1403603105</replaces_general>
-<turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason>placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{b563705c-47b6-4553-bcbc-6cafe71b6622}" record_timestamp="1488488761295" record_key="179">
 <effect_bundle>wh_dlc07_lord_trait_brt_alberic</effect_bundle>
@@ -289,7 +269,7 @@
 <precedence>0</precedence>
 <replaces_general>2140783515</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c9e59d2f-5e78-41f4-8221-87bc1b8369f7}" record_timestamp="1507644696192" record_key="1800751775">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_khatep</effect_bundle>
@@ -299,7 +279,7 @@
 <precedence>0</precedence>
 <replaces_general>2113968969</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{817863c8-80d4-4dd3-b285-43b368d15bc4}" record_timestamp="1489070595331" record_key="181">
 <effect_bundle>wh2_main_lord_trait_skv_queek_headtaker_monstrous_ego</effect_bundle>
@@ -309,7 +289,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784539</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c4cea456-00fe-4b45-bd77-5a99fe49a6fd}" record_timestamp="1475588468568" record_key="183">
 <effect_bundle>wh2_main_lord_trait_skv_lord_skrolk</effect_bundle>
@@ -319,7 +299,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784529</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{f0f38ed5-cc0d-4466-bbd3-21b313184cff}" record_timestamp="1446021994721" record_key="19">
 <effect_bundle>wh_main_lord_trait_grn_grimgor_ironhide</effect_bundle>
@@ -329,7 +309,7 @@
 <precedence>0</precedence>
 <replaces_general>2140782841</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c81ab717-7880-4f49-88b1-813398ee6166}" record_timestamp="1489070595350" record_key="191">
 <effect_bundle>wh2_main_lord_trait_malekith_black_council</effect_bundle>
@@ -339,7 +319,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784854</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{2f6e7e22-083f-45b8-9f39-f32588f89590}" record_timestamp="1489070594412" record_key="198">
 <effect_bundle>wh2_main_lord_trait_def_morathi_hag_sorceress_of_ghrond</effect_bundle>
@@ -349,7 +329,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784906</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{4bbff8af-8cf0-493a-96ce-efe7047bccf4}" record_timestamp="1507644696198" record_key="2014514877">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_khalida</effect_bundle>
@@ -359,7 +339,7 @@
 <precedence>0</precedence>
 <replaces_general>1661976522</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{baeb69b5-edb4-4f4d-83e3-2b6dd3d4af9c}" record_timestamp="1475588468873" record_key="202">
 <effect_bundle>wh2_main_lord_trait_hef_teclis</effect_bundle>
@@ -369,7 +349,7 @@
 <precedence>0</precedence>
 <replaces_general>2140785030</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{2d45bb47-587b-4a88-be49-58b0868b8032}" record_timestamp="1475588468896" record_key="207">
 <effect_bundle>wh2_main_lord_trait_hef_tyrion</effect_bundle>
@@ -379,7 +359,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784849</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{33fa5d6b-28a1-4e88-a988-41c764eac653}" record_timestamp="1475588468920" record_key="215">
 <effect_bundle>wh2_main_lord_trait_lzd_kroq_gar</effect_bundle>
@@ -389,7 +369,7 @@
 <precedence>0</precedence>
 <replaces_general>2140785004</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{7b2db7f0-4d36-4db4-9a4c-f2fc301a150c}" record_timestamp="1475588468766" record_key="217">
 <effect_bundle>wh2_main_lord_trait_lzd_lord_mazdamundi</effect_bundle>
@@ -399,7 +379,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784856</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{584836fa-49eb-46cb-a94c-a9c2c881a18d}" record_timestamp="1475588468789" record_key="225">
 <effect_bundle>wh2_main_lord_trait_skv_lord_skrolk</effect_bundle>
@@ -409,7 +389,7 @@
 <precedence>0</precedence>
 <replaces_general>2140785051</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{32880f3d-2b70-4fe2-9656-e132c585a49d}" record_timestamp="1489070595331" record_key="235">
 <effect_bundle>wh2_main_lord_trait_skv_queek_headtaker_monstrous_ego</effect_bundle>
@@ -419,7 +399,7 @@
 <precedence>0</precedence>
 <replaces_general>2140785054</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{b4596378-69e7-4332-8b85-b32755156896}" record_timestamp="1475752052602" record_key="237">
 <effect_bundle>wh2_main_lord_trait_lzd_lord_mazdamundi</effect_bundle>
@@ -429,7 +409,7 @@
 <precedence>0</precedence>
 <replaces_general>2140784448</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{242ed2c1-5720-49e2-aec6-e8328751ec1a}" record_timestamp="1446021994741" record_key="24">
 <effect_bundle>wh_main_lord_trait_dwf_ungrim_ironfist</effect_bundle>
@@ -439,7 +419,7 @@
 <precedence>1</precedence>
 <replaces_general>2140782828</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{680580df-f1ca-4bb7-83ad-85aa306251f8}" record_timestamp="1446021994751" record_key="28">
 <effect_bundle>wh_main_lord_trait_dwf_thorgrim_grudgebearer</effect_bundle>
@@ -449,7 +429,7 @@
 <precedence>0</precedence>
 <replaces_general>2140782828</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{7bdfcdf3-6060-4197-be96-4e3e2fb100fe}" record_timestamp="1507644696165" record_key="285638098">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_settra</effect_bundle>
@@ -459,7 +439,7 @@
 <precedence>0</precedence>
 <replaces_general>1224741822</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{67e5969f-9ec0-48ff-a970-628c05ab1220}" record_timestamp="1507103565963" record_key="321504827">
 <effect_bundle>wh_dlc09_lord_trait_skv_tretch_craventail</effect_bundle>
@@ -469,7 +449,7 @@
 <precedence>0</precedence>
 <replaces_general>2140785057</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{1a3e8fe9-45c0-40c1-9d4d-d2c8292a4d6a}" record_timestamp="1446021994761" record_key="33">
 <effect_bundle>wh_main_lord_trait_vmp_heinrich_kemmler</effect_bundle>
@@ -479,7 +459,7 @@
 <precedence>1</precedence>
 <replaces_general>2140782847</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{852e1cce-f90e-494a-b3cd-1943beb9dbe1}" record_timestamp="1446021994781" record_key="42">
 <effect_bundle>wh_main_lord_trait_vmp_mannfred_von_carstein</effect_bundle>
@@ -489,7 +469,7 @@
 <precedence>0</precedence>
 <replaces_general>2140782847</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c0037d2c-8b85-405f-8bd7-17a4a15a1f87}" record_timestamp="1507644696206" record_key="513058477">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_khalida</effect_bundle>
@@ -499,7 +479,7 @@
 <precedence>0</precedence>
 <replaces_general>1151049787</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{0435b301-3bf4-4aee-a945-df20644b9c39}" record_timestamp="1446021994791" record_key="52">
 <effect_bundle>wh_main_lord_trait_chs_prince_sigvald_the_magnificent</effect_bundle>
@@ -509,7 +489,7 @@
 <precedence>2</precedence>
 <replaces_general>2140782858</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{07e725be-928e-404c-9783-c57320b7c250}" record_timestamp="1446021994811" record_key="55">
 <effect_bundle>wh_main_lord_trait_chs_kholek_suneater</effect_bundle>
@@ -519,7 +499,7 @@
 <precedence>1</precedence>
 <replaces_general>2140782858</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{01bcb00b-4dd8-48e9-80d2-07190587cc88}" record_timestamp="1507644696180" record_key="596087071">
 <effect_bundle>wh2_dlc09_lord_trait_tmb_arkhan</effect_bundle>
@@ -529,7 +509,7 @@
 <precedence>0</precedence>
 <replaces_general>1314767883</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{c141e201-3709-4faa-9f8f-19d475e82bf1}" record_timestamp="1446021994831" record_key="62">
 <effect_bundle>wh_main_lord_trait_chs_archaon_the_everchosen</effect_bundle>
@@ -539,7 +519,7 @@
 <precedence>0</precedence>
 <replaces_general>2140782858</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 <start_pos_starting_general_options record_uuid="{ba9434fd-ed76-4b74-8ceb-39fab7a3cab8}" record_timestamp="1489655245862" record_key="921242615">
 <effect_bundle>wh_dlc03_lord_trait_bst_morghur</effect_bundle>
@@ -549,6 +529,6 @@
 <precedence>0</precedence>
 <replaces_general>2140784064</replaces_general>
 <turns_locked>10</turns_locked>
-<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob" requires_translation="false" requires_recording="false">placeholder</ui_tooltip_lock_reason>
+<ui_tooltip_lock_reason state="APPROVED" last_approved_text="placeholder" last_edit_user="bob">placeholder</ui_tooltip_lock_reason>
 </start_pos_starting_general_options>
 </dataroot>

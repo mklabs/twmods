@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="mer. avr. 4 21:43:43 2018" revision="422" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>dbd0aab9-6f02-43c0-8b2b-a8c1680b0044</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_characters.xsd" export_time="Thu Dec 7 11:17:47 2017" revision="393" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>e2acfdb3-05ec-4514-a98f-8f1ba0ca269b</edit_uuid>
 <start_pos_characters record_uuid="{47dc3859-202e-4ab0-b255-b2bd28bfb42a}" record_timestamp="1504264095948" record_key="1012758001">
 <Age>18</Age>
 <ID>1012758001</ID>
@@ -155,7 +155,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_khalida</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_khalida</portrait_id>
 <progenitor>0</progenitor>
 <startx>857</startx>
 <starty>124</starty>
@@ -263,7 +263,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_settra</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_settra</portrait_id>
 <progenitor>0</progenitor>
 <startx>560</startx>
 <starty>116</starty>
@@ -303,7 +303,7 @@
 <ID>1249778839</ID>
 <Name>1143749436</Name>
 <Surname></Surname>
-<Type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">champion</Type>
+<Type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">champion</Type>
 <ambition>0</ambition>
 <clan_name></clan_name>
 <death_type></death_type>
@@ -321,7 +321,7 @@
 <progenitor>0</progenitor>
 <startx>452</startx>
 <starty>286</starty>
-<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_tomb_prince</subtype>
+<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_tomb_prince</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
@@ -379,33 +379,6 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{e73eecc8-570e-4d0c-90ae-4400fd484c01}" record_timestamp="1522804786656" record_key="1287580418">
-<Age>18</Age>
-<ID>1287580418</ID>
-<Name>2147357951</Name>
-<Surname>2147358668</Surname>
-<Type>general</Type>
-<ambition>0</ambition>
-<clan_name></clan_name>
-<death_type></death_type>
-<faction>1099067523</faction>
-<immortal>0</immortal>
-<is_in_generals_pool>0</is_in_generals_pool>
-<is_male>1</is_male>
-<legacy_override></legacy_override>
-<loyalty>0</loyalty>
-<ministerial_position></ministerial_position>
-<model></model>
-<other_name></other_name>
-<override_general_unit></override_general_unit>
-<portrait_id></portrait_id>
-<progenitor>0</progenitor>
-<startx>773</startx>
-<starty>599</starty>
-<subtype>dlc03_bst_beastlord</subtype>
-<turns_died_before_start></turns_died_before_start>
-<unique>0</unique>
-</start_pos_characters>
 <start_pos_characters record_uuid="{743bac8d-db64-4e0e-b15e-98a4f61bef4e}" record_timestamp="1510842868997" record_key="1314767883">
 <Age>18</Age>
 <ID>1314767883</ID>
@@ -425,7 +398,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_arkhan</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_arkhan</portrait_id>
 <progenitor>0</progenitor>
 <startx>454</startx>
 <starty>283</starty>
@@ -487,33 +460,6 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{a5cf2e47-4363-4887-a95e-6ecfa9954ed3}" record_timestamp="1522804786632" record_key="1403603105">
-<Age>30</Age>
-<ID>1403603105</ID>
-<Name>709296598</Name>
-<Surname>1301160797</Surname>
-<Type>general</Type>
-<ambition>50</ambition>
-<clan_name></clan_name>
-<death_type></death_type>
-<faction>1099067523</faction>
-<immortal>1</immortal>
-<is_in_generals_pool>0</is_in_generals_pool>
-<is_male>1</is_male>
-<legacy_override></legacy_override>
-<loyalty>8</loyalty>
-<ministerial_position state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T20:27:31" requires_translation="false" requires_recording="false">faction_leader</ministerial_position>
-<model></model>
-<other_name></other_name>
-<override_general_unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T04:23:32" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox</override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T04:23:32" requires_translation="false" requires_recording="false">mk_taurox_art_set_bst_taurox</portrait_id>
-<progenitor>0</progenitor>
-<startx>777</startx>
-<starty>600</starty>
-<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T04:23:32" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox</subtype>
-<turns_died_before_start></turns_died_before_start>
-<unique>1</unique>
-</start_pos_characters>
 <start_pos_characters record_uuid="{717114f1-3b2d-45b9-9d7e-7bae25bfba04}" record_timestamp="1499844578160" record_key="1425071814">
 <Age>18</Age>
 <ID>1425071814</ID>
@@ -560,7 +506,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_khatep</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_khatep</portrait_id>
 <progenitor>0</progenitor>
 <startx>20</startx>
 <starty>501</starty>
@@ -749,7 +695,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_khalida</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_khalida</portrait_id>
 <progenitor>0</progenitor>
 <startx>162</startx>
 <starty>54</starty>
@@ -857,7 +803,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_arkhan</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_arkhan</portrait_id>
 <progenitor>0</progenitor>
 <startx>363</startx>
 <starty>53</starty>
@@ -891,60 +837,6 @@
 <subtype>wh2_main_hef_noble</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
-</start_pos_characters>
-<start_pos_characters record_uuid="{b196c919-f701-4339-b00d-5b47e92be907}" record_timestamp="1522717737597" record_key="1902772535">
-<Age>30</Age>
-<ID>1902772535</ID>
-<Name>1369338020</Name>
-<Surname>2147357906</Surname>
-<Type>general</Type>
-<ambition>50</ambition>
-<clan_name></clan_name>
-<death_type></death_type>
-<faction>1099067523</faction>
-<immortal>1</immortal>
-<is_in_generals_pool>1</is_in_generals_pool>
-<is_male>1</is_male>
-<legacy_override></legacy_override>
-<loyalty>8</loyalty>
-<ministerial_position></ministerial_position>
-<model></model>
-<other_name></other_name>
-<override_general_unit>wh_dlc03_bst_cha_khazrak_one_eye_0</override_general_unit>
-<portrait_id>wh_dlc03_art_set_bst_khazrak</portrait_id>
-<progenitor>0</progenitor>
-<startx>398</startx>
-<starty>263</starty>
-<subtype>dlc03_bst_khazrak</subtype>
-<turns_died_before_start></turns_died_before_start>
-<unique>1</unique>
-</start_pos_characters>
-<start_pos_characters record_uuid="{54353e89-4aaf-40dc-94a3-8e3e04ba4d3d}" record_timestamp="1522717777465" record_key="203069748">
-<Age>30</Age>
-<ID>203069748</ID>
-<Name>1871285548</Name>
-<Surname>2147357944</Surname>
-<Type>general</Type>
-<ambition>50</ambition>
-<clan_name></clan_name>
-<death_type></death_type>
-<faction>1099067523</faction>
-<immortal>1</immortal>
-<is_in_generals_pool>1</is_in_generals_pool>
-<is_male>1</is_male>
-<legacy_override></legacy_override>
-<loyalty>8</loyalty>
-<ministerial_position></ministerial_position>
-<model></model>
-<other_name></other_name>
-<override_general_unit>wh_dlc05_bst_cha_morghur_0</override_general_unit>
-<portrait_id>wh_dlc05_art_set_bst_morghur</portrait_id>
-<progenitor>0</progenitor>
-<startx>398</startx>
-<starty>263</starty>
-<subtype>dlc05_bst_morghur</subtype>
-<turns_died_before_start></turns_died_before_start>
-<unique>1</unique>
 </start_pos_characters>
 <start_pos_characters record_uuid="{9b1c6e65-1d1f-4cb0-9c3a-242780ce83e7}" record_timestamp="1504877094782" record_key="2041432049">
 <Age>18</Age>
@@ -1000,33 +892,6 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{7f09d538-418a-4940-b616-0079ea3e0cd2}" record_timestamp="1522717777443" record_key="2072135186">
-<Age>18</Age>
-<ID>2072135186</ID>
-<Name>435392760</Name>
-<Surname>2147358923</Surname>
-<Type>general</Type>
-<ambition>30</ambition>
-<clan_name></clan_name>
-<death_type></death_type>
-<faction>1099067523</faction>
-<immortal>1</immortal>
-<is_in_generals_pool>1</is_in_generals_pool>
-<is_male>1</is_male>
-<legacy_override></legacy_override>
-<loyalty>10</loyalty>
-<ministerial_position></ministerial_position>
-<model></model>
-<other_name></other_name>
-<override_general_unit>wh_dlc03_bst_cha_malagor_the_dark_omen_0</override_general_unit>
-<portrait_id>wh_dlc03_art_set_bst_malagor</portrait_id>
-<progenitor>0</progenitor>
-<startx>721</startx>
-<starty>188</starty>
-<subtype>dlc03_bst_malagor</subtype>
-<turns_died_before_start></turns_died_before_start>
-<unique>1</unique>
-</start_pos_characters>
 <start_pos_characters record_uuid="{5ba73a28-d018-49eb-bb8c-64294c4c8d09}" record_timestamp="1510842868977" record_key="2113968969">
 <Age>18</Age>
 <ID>2113968969</ID>
@@ -1046,7 +911,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_khatep</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_khatep</portrait_id>
 <progenitor>0</progenitor>
 <startx>20</startx>
 <starty>514</starty>
@@ -7121,7 +6986,7 @@
 <model></model>
 <other_name></other_name>
 <override_general_unit></override_general_unit>
-<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_art_set_tmb_settra</portrait_id>
+<portrait_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_art_set_tmb_settra</portrait_id>
 <progenitor>0</progenitor>
 <startx>668</startx>
 <starty>277</starty>
@@ -7345,33 +7210,6 @@
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>
-<start_pos_characters record_uuid="{6f09da87-0194-4e91-948b-83695355b73f}" record_timestamp="1522871023495" record_key="681847135">
-<Age>30</Age>
-<ID>681847135</ID>
-<Name>2049222507</Name>
-<Surname>1081914513</Surname>
-<Type>general</Type>
-<ambition>50</ambition>
-<clan_name></clan_name>
-<death_type></death_type>
-<faction>1099067523</faction>
-<immortal>1</immortal>
-<is_in_generals_pool>1</is_in_generals_pool>
-<is_male>1</is_male>
-<legacy_override></legacy_override>
-<loyalty>8</loyalty>
-<ministerial_position></ministerial_position>
-<model></model>
-<other_name></other_name>
-<override_general_unit>mk_taurox_bst_ghorros</override_general_unit>
-<portrait_id>mk_taurox_art_set_bst_ghorros</portrait_id>
-<progenitor>0</progenitor>
-<startx>777</startx>
-<starty>600</starty>
-<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:43:43" requires_translation="false" requires_recording="false">mk_taurox_bst_ghorros</subtype>
-<turns_died_before_start></turns_died_before_start>
-<unique>1</unique>
-</start_pos_characters>
 <start_pos_characters record_uuid="{48bc318a-f7d1-4b92-ac10-ebb7024b70fe}" record_timestamp="1508325868397" record_key="682702119">
 <Age>18</Age>
 <ID>682702119</ID>
@@ -7512,7 +7350,7 @@
 <ID>855922120</ID>
 <Name>1143749436</Name>
 <Surname></Surname>
-<Type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wizard</Type>
+<Type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wizard</Type>
 <ambition>0</ambition>
 <clan_name></clan_name>
 <death_type></death_type>
@@ -7530,7 +7368,7 @@
 <progenitor>0</progenitor>
 <startx>360</startx>
 <starty>49</starty>
-<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_liche_priest_nehekhara</subtype>
+<subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_liche_priest_nehekhara</subtype>
 <turns_died_before_start></turns_died_before_start>
 <unique>0</unique>
 </start_pos_characters>

@@ -1,108 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="mer. avr. 4 21:19:31 2018" revision="1089" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>6dca8d05-24fd-488a-a297-6ff6c4cb232c</edit_uuid>
-<main_units record_uuid="{c97a912c-4a06-4849-82bc-56a587b48199}" record_timestamp="1522869571348" record_key="mk_taurox_bst_ghorros">
-<additional_building_requirement></additional_building_requirement>
-<audio_voiceover_actor_group state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">wh_dlc01_vo_actor_Chaos_KholekSuneater</audio_voiceover_actor_group>
-<audio_voiceover_culture>wh_dlc03_vo_culture_Beastmen</audio_voiceover_culture>
-<audio_voiceover_culture_override>vo_culture_None</audio_voiceover_culture_override>
-<campaign_cap>-1</campaign_cap>
-<can_siege>1</can_siege>
-<can_trade>0</can_trade>
-<caste>lord</caste>
-<create_time>1</create_time>
-<food_cost>0</food_cost>
-<has_spoken_vo>1</has_spoken_vo>
-<in_encyclopedia>0</in_encyclopedia>
-<is_high_threat>1</is_high_threat>
-<is_monstrous>0</is_monstrous>
-<is_naval>0</is_naval>
-<land_unit>mk_taurox_bst_ghorros</land_unit>
-<max_men_per_ship>1</max_men_per_ship>
-<melee_cp>2100</melee_cp>
-<min_men_per_ship>1</min_men_per_ship>
-<missile_cp>0</missile_cp>
-<mount></mount>
-<multiplayer_cap>0</multiplayer_cap>
-<multiplayer_cost>2100</multiplayer_cost>
-<multiplayer_qb_cap>0</multiplayer_qb_cap>
-<naval_unit>wh_main_shp_transport</naval_unit>
-<num_men>1</num_men>
-<num_ships>1</num_ships>
-<porthole_camera state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">chaos_kholek_suneater</porthole_camera>
-<porthole_composite_scene></porthole_composite_scene>
-<prestige>0</prestige>
-<recruitment_cost>2100</recruitment_cost>
-<recruitment_movie></recruitment_movie>
-<region_unit_resource_requirement></region_unit_resource_requirement>
-<religion_requirement></religion_requirement>
-<resource_requirement></resource_requirement>
-<restrict_xp_gain_in_campaign>0</restrict_xp_gain_in_campaign>
-<special_edition_mask>0</special_edition_mask>
-<tier>0</tier>
-<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">lord_cavalry</ui_unit_group_land>
-<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:19:31" requires_translation="false" requires_recording="false">lord_cavalry</ui_unit_group_naval>
-<unique_index>1931372649</unique_index>
-<unit>mk_taurox_bst_ghorros</unit>
-<unit_scaling>0</unit_scaling>
-<upkeep_cost>200</upkeep_cost>
-<use_hitpoints_in_campaign>1</use_hitpoints_in_campaign>
-<vo_is_dinosaur>0</vo_is_dinosaur>
-<vo_is_dragon>0</vo_is_dragon>
-<weight>heavy</weight>
-<world_leader_only>0</world_leader_only>
-</main_units>
-<main_units record_uuid="{d26760ff-cf45-46eb-9b7c-3b46483ebb8a}" record_timestamp="1522863182105" record_key="mk_taurox_bst_taurox">
-<additional_building_requirement></additional_building_requirement>
-<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Gorebull</audio_voiceover_actor_group>
-<audio_voiceover_culture>wh_dlc03_vo_culture_Beastmen</audio_voiceover_culture>
-<audio_voiceover_culture_override>vo_culture_None</audio_voiceover_culture_override>
-<campaign_cap>-1</campaign_cap>
-<can_siege>1</can_siege>
-<can_trade>0</can_trade>
-<caste>lord</caste>
-<create_time>1</create_time>
-<food_cost>0</food_cost>
-<has_spoken_vo>1</has_spoken_vo>
-<in_encyclopedia>0</in_encyclopedia>
-<is_high_threat>1</is_high_threat>
-<is_monstrous>0</is_monstrous>
-<is_naval>0</is_naval>
-<land_unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T06:25:59" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox</land_unit>
-<max_men_per_ship>1</max_men_per_ship>
-<melee_cp>2100</melee_cp>
-<min_men_per_ship>1</min_men_per_ship>
-<missile_cp>0</missile_cp>
-<mount></mount>
-<multiplayer_cap>0</multiplayer_cap>
-<multiplayer_cost>2100</multiplayer_cost>
-<multiplayer_qb_cap>0</multiplayer_qb_cap>
-<naval_unit>wh_main_shp_transport</naval_unit>
-<num_men>1</num_men>
-<num_ships>1</num_ships>
-<porthole_camera state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T19:33:02" requires_translation="false" requires_recording="false">bst_gorebull</porthole_camera>
-<porthole_composite_scene></porthole_composite_scene>
-<prestige>0</prestige>
-<recruitment_cost>1000</recruitment_cost>
-<recruitment_movie></recruitment_movie>
-<region_unit_resource_requirement></region_unit_resource_requirement>
-<religion_requirement></religion_requirement>
-<resource_requirement></resource_requirement>
-<restrict_xp_gain_in_campaign>0</restrict_xp_gain_in_campaign>
-<special_edition_mask>0</special_edition_mask>
-<tier>0</tier>
-<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T06:00:30" requires_translation="false" requires_recording="false">lord_infantry_axe_great</ui_unit_group_land>
-<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T06:00:30" requires_translation="false" requires_recording="false">lord_infantry_axe_great</ui_unit_group_naval>
-<unique_index>124475734</unique_index>
-<unit state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T05:55:30" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox</unit>
-<unit_scaling>0</unit_scaling>
-<upkeep_cost>200</upkeep_cost>
-<use_hitpoints_in_campaign>1</use_hitpoints_in_campaign>
-<vo_is_dinosaur>0</vo_is_dinosaur>
-<vo_is_dragon>0</vo_is_dragon>
-<weight>heavy</weight>
-<world_leader_only>0</world_leader_only>
-</main_units>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main_units.xsd" export_time="Thu Jan 4 14:21:21 2018" revision="1079" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>396e119a-a75a-4e6c-8284-3a602aab5e35</edit_uuid>
 <main_units record_uuid="{5d25a16a-6b0c-4093-9cba-06ab8c4f18c2}" record_timestamp="1509026007996" record_key="wh2_dlc09_skv_cha_tretch_craventail">
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh2_dlc09_vo_actor_Skaven_Tretch_Craventail</audio_voiceover_actor_group>
@@ -158,7 +56,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh2_dlc09_vo_actor_Tomb_Kings_Liche_Priest</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>-1</campaign_cap>
 <can_siege>1</can_siege>
 <can_trade>0</can_trade>
@@ -183,7 +81,7 @@
 <num_men>1</num_men>
 <num_ships>1</num_ships>
 <porthole_camera>default</porthole_camera>
-<porthole_composite_scene state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">composite_scene\porthole\tmb_casket_of_souls_porthole_01.csc</porthole_composite_scene>
+<porthole_composite_scene state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">composite_scene\porthole\tmb_casket_of_souls_porthole_01.csc</porthole_composite_scene>
 <prestige>0</prestige>
 <recruitment_cost>0</recruitment_cost>
 <recruitment_movie></recruitment_movie>
@@ -209,7 +107,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>1</can_siege>
 <can_trade>0</can_trade>
@@ -298,7 +196,7 @@
 <ui_unit_group_land>vmp_cavalry_scythe</ui_unit_group_land>
 <ui_unit_group_naval>vmp_cavalry_scythe</ui_unit_group_naval>
 <unique_index>1802062021</unique_index>
-<unit state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_cav_hexwraiths</unit>
+<unit state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_cav_hexwraiths</unit>
 <unit_scaling>1</unit_scaling>
 <upkeep_cost>0</upkeep_cost>
 <use_hitpoints_in_campaign>0</use_hitpoints_in_campaign>
@@ -311,7 +209,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -362,7 +260,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -413,7 +311,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -464,7 +362,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -515,7 +413,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -553,7 +451,7 @@
 <ui_unit_group_land>cavalry_skeleton</ui_unit_group_land>
 <ui_unit_group_naval>cavalry_skeleton</ui_unit_group_naval>
 <unique_index>960966772</unique_index>
-<unit state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_cav_nehekhara_horsemen_ror</unit>
+<unit state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_cav_nehekhara_horsemen_ror</unit>
 <unit_scaling>1</unit_scaling>
 <upkeep_cost>0</upkeep_cost>
 <use_hitpoints_in_campaign>0</use_hitpoints_in_campaign>
@@ -566,7 +464,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -617,7 +515,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -1178,7 +1076,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh2_dlc09_vo_actor_Tomb_Kings_Liche_Priest</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>-1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -1519,8 +1417,8 @@
 <restrict_xp_gain_in_campaign>0</restrict_xp_gain_in_campaign>
 <special_edition_mask>0</special_edition_mask>
 <tier>0</tier>
-<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wizard_shadows</ui_unit_group_land>
-<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wizard_shadows</ui_unit_group_naval>
+<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wizard_shadows</ui_unit_group_land>
+<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wizard_shadows</ui_unit_group_naval>
 <unique_index>1003185422</unique_index>
 <unit>wh2_dlc09_tmb_cha_liche_priest_shadow_0</unit>
 <unit_scaling>0</unit_scaling>
@@ -1570,8 +1468,8 @@
 <restrict_xp_gain_in_campaign>0</restrict_xp_gain_in_campaign>
 <special_edition_mask>0</special_edition_mask>
 <tier>0</tier>
-<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wizard_shadows_cavalry</ui_unit_group_land>
-<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wizard_shadows_cavalry</ui_unit_group_naval>
+<ui_unit_group_land state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wizard_shadows_cavalry</ui_unit_group_land>
+<ui_unit_group_naval state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wizard_shadows_cavalry</ui_unit_group_naval>
 <unique_index>1389037952</unique_index>
 <unit>wh2_dlc09_tmb_cha_liche_priest_shadow_1</unit>
 <unit_scaling>0</unit_scaling>
@@ -2249,7 +2147,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Crypt_Ghoul</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2300,7 +2198,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2351,7 +2249,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2402,7 +2300,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2453,7 +2351,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2504,7 +2402,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>-1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2555,7 +2453,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2606,7 +2504,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>-1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2657,7 +2555,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2708,7 +2606,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2759,7 +2657,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2810,7 +2708,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Carrion</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2861,7 +2759,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Carrion</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2912,7 +2810,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Dire_Wolf</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -2963,7 +2861,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Fell_Bat</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3014,7 +2912,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Heirotitan</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>1</can_siege>
 <can_trade>0</can_trade>
@@ -3065,7 +2963,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Necrosphinx</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>1</can_siege>
 <can_trade>0</can_trade>
@@ -3116,7 +3014,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Necrosphinx</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>1</can_siege>
 <can_trade>0</can_trade>
@@ -3167,7 +3065,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Sepulchral_Stalker</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3218,7 +3116,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Sepulchral_Stalker</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3269,7 +3167,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Scorpion</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3320,7 +3218,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Ushabti</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3371,7 +3269,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Ushabti</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>-1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3422,7 +3320,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Ushabti</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3473,7 +3371,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Ushabti</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3524,7 +3422,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Warsphinx</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>1</can_siege>
 <can_trade>0</can_trade>
@@ -3575,7 +3473,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3600,7 +3498,7 @@
 <num_men>24</num_men>
 <num_ships>1</num_ships>
 <porthole_camera>default</porthole_camera>
-<porthole_composite_scene state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">composite_scene\porthole\tmb_skeleton_archer_chariot_porthole_01.csc</porthole_composite_scene>
+<porthole_composite_scene state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">composite_scene\porthole\tmb_skeleton_archer_chariot_porthole_01.csc</porthole_composite_scene>
 <prestige>0</prestige>
 <recruitment_cost>0</recruitment_cost>
 <recruitment_movie></recruitment_movie>
@@ -3626,7 +3524,7 @@
 <additional_building_requirement></additional_building_requirement>
 <audio_voiceover_actor_group>wh_main_vo_actor_default</audio_voiceover_actor_group>
 <audio_voiceover_culture>wh2_dlc09_vo_culture_Tomb_Kings_Skeleton</audio_voiceover_culture>
-<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">vo_culture_None</audio_voiceover_culture_override>
+<audio_voiceover_culture_override state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">vo_culture_None</audio_voiceover_culture_override>
 <campaign_cap>0</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
@@ -3651,7 +3549,7 @@
 <num_men>24</num_men>
 <num_ships>1</num_ships>
 <porthole_camera>default</porthole_camera>
-<porthole_composite_scene state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">composite_scene\porthole\tmb_skeleton_chariot_porthole_01.csc</porthole_composite_scene>
+<porthole_composite_scene state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">composite_scene\porthole\tmb_skeleton_chariot_porthole_01.csc</porthole_composite_scene>
 <prestige>0</prestige>
 <recruitment_cost>0</recruitment_cost>
 <recruitment_movie></recruitment_movie>
@@ -18675,7 +18573,7 @@
 <campaign_cap>-1</campaign_cap>
 <can_siege>0</can_siege>
 <can_trade>0</can_trade>
-<caste state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">missile_infantry</caste>
+<caste state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">missile_infantry</caste>
 <create_time>1</create_time>
 <food_cost>0</food_cost>
 <has_spoken_vo>1</has_spoken_vo>

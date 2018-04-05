@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_set_piece_armies_characters.xsd" export_time="jeu. avr. 5 07:31:18 2018" revision="305" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>ae020994-5a5e-435a-8c5d-9196340807dd</edit_uuid>
-<battle_set_piece_armies_characters record_uuid="{afaabc6e-b780-42e8-8177-2782eb98a721}" record_timestamp="1522906277992" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_defender">
-<agent_subtype>vmp_master_necromancer</agent_subtype>
-<agent_type>general</agent_type>
-<character_level>5</character_level>
-<character_model>3998</character_model>
-<character_name>mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_defender</character_name>
-<forename>2147345303</forename>
-<magic_lore>wh_main_lore_death</magic_lore>
-<male>1</male>
-<num_men>100</num_men>
-<portrait>ui/portraits/portholes/wh_main_vmp_vampire_counts/vmp_master_necromancer_campaign_01_0.png</portrait>
-<skillset>wh_main_skill_node_set_vmp_master_necromancer</skillset>
-<surname>2147345290</surname>
-<unit_type>wh_main_vmp_cha_master_necromancer_0</unit_type>
-</battle_set_piece_armies_characters>
-<battle_set_piece_armies_characters record_uuid="{090cc5c6-8229-4dc7-b746-4ffc5ee47599}" record_timestamp="1522906189807" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_player">
-<agent_subtype>mk_taurox_bst_taurox</agent_subtype>
-<agent_type>general</agent_type>
-<character_level>7</character_level>
-<character_model>114880116</character_model>
-<character_name>mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_player</character_name>
-<forename>709296598</forename>
-<magic_lore></magic_lore>
-<male>1</male>
-<num_men>100</num_men>
-<portrait>ui/portraits/portholes/wh_main_chs_chaos/chs_kholek_suneater_0.png</portrait>
-<skillset>wh_main_skill_node_set_chs_kholek</skillset>
-<surname>1301160797</surname>
-<unit_type>mk_taurox_bst_taurox</unit_type>
-</battle_set_piece_armies_characters>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_set_piece_armies_characters.xsd" export_time="Fri Dec 15 12:11:37 2017" revision="303" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>eee23c55-6810-4699-b219-580b2123239b</edit_uuid>
 <battle_set_piece_armies_characters record_uuid="{b92e6661-b70a-48b4-a54f-b82aca2145ae}" record_timestamp="1508524046515" record_key="wh2_dlc09_cha_arkhan_0">
 <agent_subtype>wh2_dlc09_tmb_arkhan</agent_subtype>
 <agent_type>general</agent_type>
@@ -246,7 +216,7 @@
 <agent_type>wizard</agent_type>
 <character_level>3</character_level>
 <character_model>393547003</character_model>
-<character_name state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_qb_tmb_arkhan_staff_of_nagash_defender_liche_priest_nehekhara</character_name>
+<character_name state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_qb_tmb_arkhan_staff_of_nagash_defender_liche_priest_nehekhara</character_name>
 <forename>1458504443</forename>
 <magic_lore>wh2_dlc09_lore_nehekhara</magic_lore>
 <male>1</male>
@@ -261,12 +231,12 @@
 <agent_type>champion</agent_type>
 <character_level>3</character_level>
 <character_model>717573540</character_model>
-<character_name state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_qb_tmb_arkhan_staff_of_nagash_defender_tomb_prince</character_name>
+<character_name state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_qb_tmb_arkhan_staff_of_nagash_defender_tomb_prince</character_name>
 <forename>1078273109</forename>
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_prince_1</unit_type>
@@ -371,7 +341,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_king_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_king_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_king_3</unit_type>
@@ -386,7 +356,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_king_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_king_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_king_3</unit_type>
@@ -431,7 +401,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_prince_0</unit_type>
@@ -581,7 +551,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_prince_0</unit_type>
@@ -806,7 +776,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_main_skv_skaven/skv_warlord_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_main_skv_skaven/skv_warlord_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>539533933</surname>
 <unit_type>wh2_main_skv_cha_warlord_0</unit_type>
@@ -821,7 +791,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_main_skv_skaven/skv_warlord_campaign_03_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_main_skv_skaven/skv_warlord_campaign_03_0.png</portrait>
 <skillset></skillset>
 <surname>1752261233</surname>
 <unit_type>wh2_main_skv_cha_warlord_1</unit_type>
@@ -866,7 +836,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_main_skv_skaven/skv_warlord_campaign_02_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_main_skv_skaven/skv_warlord_campaign_02_0.png</portrait>
 <skillset></skillset>
 <surname>1991757675</surname>
 <unit_type>wh2_main_skv_cha_warlord_0</unit_type>
@@ -971,7 +941,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_king_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_king_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_king_0</unit_type>
@@ -986,7 +956,7 @@
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">UI\Portraits\Portholes\wh2_dlc09_tmb_tomb_kings\tmb_ch_tomb_prince_campaign_01_0.png</portrait>
 <skillset></skillset>
 <surname>2080915970</surname>
 <unit_type>wh2_dlc09_tmb_cha_tomb_prince_0</unit_type>
@@ -1007,19 +977,19 @@
 <unit_type>wh2_dlc09_tmb_cha_settra_2</unit_type>
 </battle_set_piece_armies_characters>
 <battle_set_piece_armies_characters record_uuid="{a4d41a08-070d-4075-94cd-d02b8c9ed03a}" record_timestamp="1510832061854" record_key="wh2_dlc09_tmb_settra_the_crown_of_nehekhara_stage_5_pack_ice_bay_defender">
-<agent_subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">chs_lord</agent_subtype>
+<agent_subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">chs_lord</agent_subtype>
 <agent_type>general</agent_type>
 <character_level>6</character_level>
 <character_model>3440</character_model>
 <character_name>wh2_dlc09_tmb_settra_the_crown_of_nehekhara_stage_5_pack_ice_bay_defender</character_name>
-<forename state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">2147346107</forename>
+<forename state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">2147346107</forename>
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh_main_chs_chaos/chs_chaos_lord_campaign_01_0.png</portrait>
-<skillset state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh_main_skill_node_set_chs_lord</skillset>
-<surname state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">2147358974</surname>
-<unit_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh_main_chs_cha_chaos_lord_0</unit_type>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh_main_chs_chaos/chs_chaos_lord_campaign_01_0.png</portrait>
+<skillset state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh_main_skill_node_set_chs_lord</skillset>
+<surname state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">2147358974</surname>
+<unit_type state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh_main_chs_cha_chaos_lord_0</unit_type>
 </battle_set_piece_armies_characters>
 <battle_set_piece_armies_characters record_uuid="{cd19b941-ed5b-4c75-b131-0f6b8079d513}" record_timestamp="1489408345500" record_key="wh2_main_def_cha_death_hag_0">
 <agent_subtype>wh2_main_def_death_hag</agent_subtype>

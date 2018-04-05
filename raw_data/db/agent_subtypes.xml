@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_subtypes.xsd" export_time="mer. avr. 4 21:40:57 2018" revision="214" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>3b492396-404c-48c4-b91a-7226aa79d216</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="agent_subtypes.xsd" export_time="Thu Nov 16 14:12:30 2017" revision="208" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>d474263c-563f-42ef-bb49-f2e6cc4aff7e</edit_uuid>
 <agent_subtypes record_uuid="{ed7b05f3-1439-48ca-9551-398c1dd60d00}" record_timestamp="1500385459030" record_key="brt_damsel">
 <associated_unit_override>wh_main_brt_cha_damsel_0</associated_unit_override>
 <audio_voiceover_actor_group>wh_dlc03_vo_actor_Bretonnian_Damsel</audio_voiceover_actor_group>
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Those with knowledge may summon great gusts of wind or fearsome arcs of lightning to harass their enemies." last_edit_user="bob" requires_translation="false" requires_recording="false">Those with knowledge may summon great gusts of wind or fearsome arcs of lightning to harass their enemies.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Those with knowledge may summon great gusts of wind or fearsome arcs of lightning to harass their enemies." last_edit_user="bob">Those with knowledge may summon great gusts of wind or fearsome arcs of lightning to harass their enemies.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>brt_damsel</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Heavens)" last_edit_user="bob" requires_translation="false" requires_recording="false">Damsel (Heavens)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Heavens)" last_edit_user="bob">Damsel (Heavens)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
 </agent_subtypes>
@@ -21,11 +21,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="To control animals and twist their natural aggression to your own ends shows true mastery of your art." last_edit_user="bob" requires_translation="false" requires_recording="false">To control animals and twist their natural aggression to your own ends shows true mastery of your art.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="To control animals and twist their natural aggression to your own ends shows true mastery of your art." last_edit_user="bob">To control animals and twist their natural aggression to your own ends shows true mastery of your art.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>brt_damsel_beasts</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Beasts)" last_edit_user="bob" requires_translation="false" requires_recording="false">Damsel (Beasts)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Beasts)" last_edit_user="bob">Damsel (Beasts)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
 </agent_subtypes>
@@ -35,11 +35,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Proponents of the Lore of Life protect and heal friendly troops and allies, whilst forestalling their foes at every turn." last_edit_user="bob" requires_translation="false" requires_recording="false">Proponents of the Lore of Life protect and heal friendly troops and allies, whilst forestalling their foes at every turn.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Proponents of the Lore of Life protect and heal friendly troops and allies, whilst forestalling their foes at every turn." last_edit_user="bob">Proponents of the Lore of Life protect and heal friendly troops and allies, whilst forestalling their foes at every turn.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>brt_damsel_life</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Life)" last_edit_user="bob" requires_translation="false" requires_recording="false">Damsel (Life)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Damsel (Life)" last_edit_user="bob">Damsel (Life)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
 </agent_subtypes>
@@ -53,7 +53,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>brt_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -67,7 +67,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>brt_louen_leoncouer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -77,11 +77,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The bravest of warriors, Paladins charge into battle either mounted or on foot, bringing righteous death in the Lady's name.  " last_edit_user="bob" requires_translation="false" requires_recording="false">The bravest of warriors, Paladins charge into battle either mounted or on foot, bringing righteous death in the Lady's name.  </description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The bravest of warriors, Paladins charge into battle either mounted or on foot, bringing righteous death in the Lady's name.  " last_edit_user="bob">The bravest of warriors, Paladins charge into battle either mounted or on foot, bringing righteous death in the Lady's name.  </description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>brt_paladin</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Paladin" last_edit_user="bob" requires_translation="false" requires_recording="false">Paladin</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Paladin" last_edit_user="bob">Paladin</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_brt_champion.png</small_icon>
 </agent_subtypes>
@@ -95,7 +95,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_archaon</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -105,11 +105,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="A Chaos Sorcerer deals in death no matter which lore he wields, yet those who manipulate the Wind of Shyish take particular joy in ending the lives of mortals. It is their cruel laughter which is heard as the Purple Sun is summoned!" last_edit_user="bob" requires_translation="false" requires_recording="false">A Chaos Sorcerer deals in death no matter which lore he wields, yet those who manipulate the Wind of Shyish take particular joy in ending the lives of mortals. It is their cruel laughter which is heard as the Purple Sun is summoned!</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="A Chaos Sorcerer deals in death no matter which lore he wields, yet those who manipulate the Wind of Shyish take particular joy in ending the lives of mortals. It is their cruel laughter which is heard as the Purple Sun is summoned!" last_edit_user="bob">A Chaos Sorcerer deals in death no matter which lore he wields, yet those who manipulate the Wind of Shyish take particular joy in ending the lives of mortals. It is their cruel laughter which is heard as the Purple Sun is summoned!</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_chaos_sorcerer_death</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Death)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer (Death)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Death)" last_edit_user="bob">Chaos Sorcerer (Death)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
 </agent_subtypes>
@@ -119,11 +119,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Some creatures just want to see the world burn. The Sorcerers of Chaos certainly fall into that category, bending the flaming Wind of Aqshy to their ill wills, spreading fire and pain in the name of the Dark Gods." last_edit_user="bob" requires_translation="false" requires_recording="false">Some creatures just want to see the world burn. The Sorcerers of Chaos certainly fall into that category, bending the flaming Wind of Aqshy to their ill wills, spreading fire and pain in the name of the Dark Gods.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Some creatures just want to see the world burn. The Sorcerers of Chaos certainly fall into that category, bending the flaming Wind of Aqshy to their ill wills, spreading fire and pain in the name of the Dark Gods." last_edit_user="bob">Some creatures just want to see the world burn. The Sorcerers of Chaos certainly fall into that category, bending the flaming Wind of Aqshy to their ill wills, spreading fire and pain in the name of the Dark Gods.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_chaos_sorcerer_fire</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Fire)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer (Fire)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Fire)" last_edit_user="bob">Chaos Sorcerer (Fire)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
 </agent_subtypes>
@@ -133,11 +133,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters." last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters." last_edit_user="bob">Chaos Sorcerers who rip Chamon from the ever-flowing Winds of Magic use its flowing, glutinous form to shape metal into tools of dread, imprison souls in imperfect statues of gold, and to melt the armour from any who challenge their Ruinous Masters.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_chaos_sorcerer_metal</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Metal)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer (Metal)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Metal)" last_edit_user="bob">Chaos Sorcerer (Metal)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
 </agent_subtypes>
@@ -151,7 +151,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>chs_exalted_hero</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Exalted Hero" last_edit_user="bob" requires_translation="false" requires_recording="false">Exalted Hero</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Exalted Hero" last_edit_user="bob">Exalted Hero</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_chs_champion.png</small_icon>
 </agent_subtypes>
@@ -165,7 +165,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>chs_kholek_suneater</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -179,7 +179,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>chs_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Lord" last_edit_user="bob">Chaos Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -193,7 +193,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_lord_of_change</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord of Change" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord of Change</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord of Change" last_edit_user="bob">Lord of Change</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -207,7 +207,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>chs_prince_sigvald</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -221,7 +221,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_sorcerer_lord_death</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Death)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer Lord (Death)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Death)" last_edit_user="bob">Chaos Sorcerer Lord (Death)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
 </agent_subtypes>
@@ -235,7 +235,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_sorcerer_lord_fire</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Fire)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer Lord (Fire)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Fire)" last_edit_user="bob">Chaos Sorcerer Lord (Fire)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
 </agent_subtypes>
@@ -249,7 +249,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>chs_sorcerer_lord_metal</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Metal)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer Lord (Metal)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Metal)" last_edit_user="bob">Chaos Sorcerer Lord (Metal)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
 </agent_subtypes>
@@ -263,7 +263,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>default</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -277,7 +277,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc03_bst_beastlord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Beastlord" last_edit_user="bob" requires_translation="false" requires_recording="false">Beastlord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Beastlord" last_edit_user="bob">Beastlord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -287,11 +287,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Cloaked in the power of the beast, the Bray-Shaman uses his primal mutations to exert greater strength." last_edit_user="bob" requires_translation="false" requires_recording="false">Cloaked in the power of the beast, the Bray-Shaman uses his primal mutations to exert greater strength.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Cloaked in the power of the beast, the Bray-Shaman uses his primal mutations to exert greater strength." last_edit_user="bob">Cloaked in the power of the beast, the Bray-Shaman uses his primal mutations to exert greater strength.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc03_bst_bray_shaman_beasts</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Beasts)" last_edit_user="bob" requires_translation="false" requires_recording="false">Bray-Shaman (Beasts)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Beasts)" last_edit_user="bob">Bray-Shaman (Beasts)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
 </agent_subtypes>
@@ -301,11 +301,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Death whispers to the Bray-Shaman, who speaks the words to his enemies with hideous, incorporeal power." last_edit_user="bob" requires_translation="false" requires_recording="false">Death whispers to the Bray-Shaman, who speaks the words to his enemies with hideous, incorporeal power.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Death whispers to the Bray-Shaman, who speaks the words to his enemies with hideous, incorporeal power." last_edit_user="bob">Death whispers to the Bray-Shaman, who speaks the words to his enemies with hideous, incorporeal power.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc03_bst_bray_shaman_death</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Death)" last_edit_user="bob" requires_translation="false" requires_recording="false">Bray-Shaman (Death)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Death)" last_edit_user="bob">Bray-Shaman (Death)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
 </agent_subtypes>
@@ -319,7 +319,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc03_bst_bray_shaman_shadows</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Bray-Shaman (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Shadows)" last_edit_user="bob">Bray-Shaman (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -329,11 +329,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The earth speaks and the Bray-Shaman hears it. Nature flows through him, giving him mastery over the land itself." last_edit_user="bob" requires_translation="false" requires_recording="false">The earth speaks and the Bray-Shaman hears it. Nature flows through him, giving him mastery over the land itself.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The earth speaks and the Bray-Shaman hears it. Nature flows through him, giving him mastery over the land itself." last_edit_user="bob">The earth speaks and the Bray-Shaman hears it. Nature flows through him, giving him mastery over the land itself.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc03_bst_bray_shaman_wild</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Wild)" last_edit_user="bob" requires_translation="false" requires_recording="false">Bray-Shaman (Wild)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Bray-Shaman (Wild)" last_edit_user="bob">Bray-Shaman (Wild)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_wild.png</small_icon>
 </agent_subtypes>
@@ -347,7 +347,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc03_bst_gorebull</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Gorebull" last_edit_user="bob" requires_translation="false" requires_recording="false">Gorebull</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Gorebull" last_edit_user="bob">Gorebull</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -361,7 +361,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc03_bst_graktar</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Graktar" last_edit_user="bob" requires_translation="false" requires_recording="false">Graktar</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Graktar" last_edit_user="bob">Graktar</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -375,7 +375,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc03_bst_khazrak</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -389,7 +389,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc03_bst_malagor</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -399,11 +399,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Devotees of the Lore of Beasts, Amber Wizards are renowned for their savage appearance; their hair is wild and unkempt and they dress in furs adorned with bones, feathers, amber beads and primitive talismans." last_edit_user="bob" requires_translation="false" requires_recording="false">Devotees of the Lore of Beasts, Amber Wizards are renowned for their savage appearance; their hair is wild and unkempt and they dress in furs adorned with bones, feathers, amber beads and primitive talismans.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Devotees of the Lore of Beasts, Amber Wizards are renowned for their savage appearance; their hair is wild and unkempt and they dress in furs adorned with bones, feathers, amber beads and primitive talismans." last_edit_user="bob">Devotees of the Lore of Beasts, Amber Wizards are renowned for their savage appearance; their hair is wild and unkempt and they dress in furs adorned with bones, feathers, amber beads and primitive talismans.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc03_emp_amber_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Amber Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Amber Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Amber Wizard" last_edit_user="bob">Amber Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
 </agent_subtypes>
@@ -417,7 +417,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc03_emp_boris_todbringer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -431,7 +431,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc04_emp_arch_lector</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Arch Lector" last_edit_user="bob" requires_translation="false" requires_recording="false">Arch Lector</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Arch Lector" last_edit_user="bob">Arch Lector</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -445,7 +445,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc04_emp_volkmar</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -459,7 +459,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc04_vmp_helman_ghorst</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -473,7 +473,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc04_vmp_strigoi_ghoul_king</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Strigoi Ghoul King" last_edit_user="bob" requires_translation="false" requires_recording="false">Strigoi Ghoul King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Strigoi Ghoul King" last_edit_user="bob">Strigoi Ghoul King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -487,7 +487,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc04_vmp_vlad_con_carstein</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -501,7 +501,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc05_bst_morghur</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -511,11 +511,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Grey Wizards study spells of concealment and illusion, which do not lend themselves well to the favour of ordinary folk. They are sometimes called Trickster Wizards, though never to their faces." last_edit_user="bob" requires_translation="false" requires_recording="false">Grey Wizards study spells of concealment and illusion, which do not lend themselves well to the favour of ordinary folk. They are sometimes called Trickster Wizards, though never to their faces.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Grey Wizards study spells of concealment and illusion, which do not lend themselves well to the favour of ordinary folk. They are sometimes called Trickster Wizards, though never to their faces." last_edit_user="bob">Grey Wizards study spells of concealment and illusion, which do not lend themselves well to the favour of ordinary folk. They are sometimes called Trickster Wizards, though never to their faces.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_emp_grey_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Grey Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Grey Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Grey Wizard" last_edit_user="bob">Grey Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -525,11 +525,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="A Jade Wizard's power is linked to the seasons, being vigorous in spring, powerful in the summer, waning over the autumn and weakest in winter. They tend to roam the dark forests where Life Magic flows more freely." last_edit_user="bob" requires_translation="false" requires_recording="false">A Jade Wizard's power is linked to the seasons, being vigorous in spring, powerful in the summer, waning over the autumn and weakest in winter. They tend to roam the dark forests where Life Magic flows more freely.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="A Jade Wizard's power is linked to the seasons, being vigorous in spring, powerful in the summer, waning over the autumn and weakest in winter. They tend to roam the dark forests where Life Magic flows more freely." last_edit_user="bob">A Jade Wizard's power is linked to the seasons, being vigorous in spring, powerful in the summer, waning over the autumn and weakest in winter. They tend to roam the dark forests where Life Magic flows more freely.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_emp_jade_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Jade Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Jade Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Jade Wizard" last_edit_user="bob">Jade Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
 </agent_subtypes>
@@ -543,7 +543,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_wef_ancient_treeman</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Ancient Treeman" last_edit_user="bob" requires_translation="false" requires_recording="false">Ancient Treeman</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Ancient Treeman" last_edit_user="bob">Ancient Treeman</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -557,7 +557,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_wef_durthu</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -571,7 +571,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc05_wef_glade_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Glade Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Glade Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Glade Lord" last_edit_user="bob">Glade Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -585,7 +585,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc05_wef_glade_lord_fem</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Glade Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Glade Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Glade Lord" last_edit_user="bob">Glade Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -599,7 +599,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc05_wef_orion</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -609,11 +609,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob" requires_translation="false" requires_recording="false">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_wef_spellsinger_beasts</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Beasts)" last_edit_user="bob" requires_translation="false" requires_recording="false">Spellsinger (Beasts)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Beasts)" last_edit_user="bob">Spellsinger (Beasts)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
 </agent_subtypes>
@@ -623,11 +623,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob" requires_translation="false" requires_recording="false">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_wef_spellsinger_life</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Life)" last_edit_user="bob" requires_translation="false" requires_recording="false">Spellsinger (Life)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Life)" last_edit_user="bob">Spellsinger (Life)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
 </agent_subtypes>
@@ -637,11 +637,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob" requires_translation="false" requires_recording="false">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness." last_edit_user="bob">The Spellsingers of Athel Loren shield themselves by joining their minds to the forest's sleeping consciousness.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc05_wef_spellsinger_shadow</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Spellsinger (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Spellsinger (Shadows)" last_edit_user="bob">Spellsinger (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -655,7 +655,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc05_wef_waystalker</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Waystalker" last_edit_user="bob" requires_translation="false" requires_recording="false">Waystalker</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Waystalker" last_edit_user="bob">Waystalker</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -669,7 +669,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_dwf_belegar</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -683,7 +683,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_dwf_master_engineer_ghost</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Master Engineer" last_edit_user="bob" requires_translation="false" requires_recording="false">Master Engineer</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Master Engineer" last_edit_user="bob">Master Engineer</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_engineer.png</small_icon>
 </agent_subtypes>
@@ -697,7 +697,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_dwf_runelord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Runelord" last_edit_user="bob" requires_translation="false" requires_recording="false">Runelord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Runelord" last_edit_user="bob">Runelord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -711,7 +711,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_dwf_runesmith_ghost</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Runesmith" last_edit_user="bob" requires_translation="false" requires_recording="false">Runesmith</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Runesmith" last_edit_user="bob">Runesmith</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_runesmith.png</small_icon>
 </agent_subtypes>
@@ -725,7 +725,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_dwf_thane_ghost_1</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob" requires_translation="false" requires_recording="false">Thane</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob">Thane</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_champion.png</small_icon>
 </agent_subtypes>
@@ -739,7 +739,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_dwf_thane_ghost_2</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob" requires_translation="false" requires_recording="false">Thane</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob">Thane</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_champion.png</small_icon>
 </agent_subtypes>
@@ -753,7 +753,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_grn_night_goblin_warboss</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Night Goblin Warboss" last_edit_user="bob" requires_translation="false" requires_recording="false">Night Goblin Warboss</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Night Goblin Warboss" last_edit_user="bob">Night Goblin Warboss</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -767,7 +767,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc06_grn_skarsnik</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -781,7 +781,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc06_grn_wurrzag_da_great_prophet</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -795,7 +795,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc07_brt_alberic</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -809,7 +809,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc07_brt_fay_enchantress</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -819,11 +819,11 @@
 <auto_generate>0</auto_generate>
 <can_gain_xp>0</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The holder of secrets and keeper of the way, whose strength is the quester's ultimate test." last_edit_user="bob" requires_translation="false" requires_recording="false">The holder of secrets and keeper of the way, whose strength is the quester's ultimate test.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The holder of secrets and keeper of the way, whose strength is the quester's ultimate test." last_edit_user="bob">The holder of secrets and keeper of the way, whose strength is the quester's ultimate test.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dlc07_brt_green_knight</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Knight" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Knight</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Knight" last_edit_user="bob">Legendary Knight</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>UI/Campaign UI/Agents/wh_dlc07_brt_green_knight.png</small_icon>
 </agent_subtypes>
@@ -837,7 +837,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc07_brt_prophetess_beasts</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Beasts)" last_edit_user="bob" requires_translation="false" requires_recording="false">Prophetess (Beasts)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Beasts)" last_edit_user="bob">Prophetess (Beasts)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
 </agent_subtypes>
@@ -851,7 +851,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc07_brt_prophetess_heavens</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Heavens)" last_edit_user="bob" requires_translation="false" requires_recording="false">Prophetess (Heavens)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Heavens)" last_edit_user="bob">Prophetess (Heavens)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
 </agent_subtypes>
@@ -865,7 +865,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc07_brt_prophetess_life</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Life)" last_edit_user="bob" requires_translation="false" requires_recording="false">Prophetess (Life)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Prophetess (Life)" last_edit_user="bob">Prophetess (Life)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
 </agent_subtypes>
@@ -875,11 +875,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="As master Phantasmancers, Chaos Sorcerers use the Lore of Shadows to confound, weaving an aura of darkness and dread about their victims." last_edit_user="bob" requires_translation="false" requires_recording="false">As master Phantasmancers, Chaos Sorcerers use the Lore of Shadows to confound, weaving an aura of darkness and dread about their victims.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="As master Phantasmancers, Chaos Sorcerers use the Lore of Shadows to confound, weaving an aura of darkness and dread about their victims." last_edit_user="bob">As master Phantasmancers, Chaos Sorcerers use the Lore of Shadows to confound, weaving an aura of darkness and dread about their victims.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc07_chs_chaos_sorcerer_shadow</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Shadows)" last_edit_user="bob">Chaos Sorcerer (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -893,7 +893,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>dlc07_chs_sorcerer_lord_shadow</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer Lord (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Shadows)" last_edit_user="bob">Chaos Sorcerer Lord (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -907,7 +907,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dwf_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -921,7 +921,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dwf_master_engineer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Master Engineer" last_edit_user="bob" requires_translation="false" requires_recording="false">Master Engineer</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Master Engineer" last_edit_user="bob">Master Engineer</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_engineer.png</small_icon>
 </agent_subtypes>
@@ -935,7 +935,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dwf_runesmith</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Runesmith" last_edit_user="bob" requires_translation="false" requires_recording="false">Runesmith</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Runesmith" last_edit_user="bob">Runesmith</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_runesmith.png</small_icon>
 </agent_subtypes>
@@ -949,7 +949,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dwf_thane</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob" requires_translation="false" requires_recording="false">Thane</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Thane" last_edit_user="bob">Thane</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_dwf_champion.png</small_icon>
 </agent_subtypes>
@@ -963,7 +963,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dwf_thorgrim_grudgebearer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -977,7 +977,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>dwf_ungrim_ironfist</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -991,7 +991,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>emp_balthasar_gelt</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1001,11 +1001,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Bright Wizards are easily recognised for their red robes and wild orange hair and beards. They are of a fiery temperament, their anger changing from a guttering flame to a raging inferno in a split second." last_edit_user="bob" requires_translation="false" requires_recording="false">Bright Wizards are easily recognised for their red robes and wild orange hair and beards. They are of a fiery temperament, their anger changing from a guttering flame to a raging inferno in a split second.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Bright Wizards are easily recognised for their red robes and wild orange hair and beards. They are of a fiery temperament, their anger changing from a guttering flame to a raging inferno in a split second." last_edit_user="bob">Bright Wizards are easily recognised for their red robes and wild orange hair and beards. They are of a fiery temperament, their anger changing from a guttering flame to a raging inferno in a split second.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>emp_bright_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Bright Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Bright Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Bright Wizard" last_edit_user="bob">Bright Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
 </agent_subtypes>
@@ -1019,7 +1019,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>emp_captain</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Empire Captain" last_edit_user="bob" requires_translation="false" requires_recording="false">Empire Captain</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Empire Captain" last_edit_user="bob">Empire Captain</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_emp_champion.png</small_icon>
 </agent_subtypes>
@@ -1029,11 +1029,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Celestial Wizards spend most of their time gazing into the night skies, plotting the movements of the astral bodies. Their spells are able to call lightning from the skies and summon meteorites to smite the enemy." last_edit_user="bob" requires_translation="false" requires_recording="false">Celestial Wizards spend most of their time gazing into the night skies, plotting the movements of the astral bodies. Their spells are able to call lightning from the skies and summon meteorites to smite the enemy.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Celestial Wizards spend most of their time gazing into the night skies, plotting the movements of the astral bodies. Their spells are able to call lightning from the skies and summon meteorites to smite the enemy." last_edit_user="bob">Celestial Wizards spend most of their time gazing into the night skies, plotting the movements of the astral bodies. Their spells are able to call lightning from the skies and summon meteorites to smite the enemy.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>emp_celestial_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Celestial Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Celestial Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Celestial Wizard" last_edit_user="bob">Celestial Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
 </agent_subtypes>
@@ -1047,7 +1047,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>emp_karl_franz</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1057,11 +1057,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Light Wizards are rarely seen without treasured tomes and arcane scrolls in hand. Light Magic is renowned for its powers of protection, yet a Light Wizard can also capture blazing lights to blind and burn a foe." last_edit_user="bob" requires_translation="false" requires_recording="false">Light Wizards are rarely seen without treasured tomes and arcane scrolls in hand. Light Magic is renowned for its powers of protection, yet a Light Wizard can also capture blazing lights to blind and burn a foe.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Light Wizards are rarely seen without treasured tomes and arcane scrolls in hand. Light Magic is renowned for its powers of protection, yet a Light Wizard can also capture blazing lights to blind and burn a foe." last_edit_user="bob">Light Wizards are rarely seen without treasured tomes and arcane scrolls in hand. Light Magic is renowned for its powers of protection, yet a Light Wizard can also capture blazing lights to blind and burn a foe.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>emp_light_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Light Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Light Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Light Wizard" last_edit_user="bob">Light Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_light.png</small_icon>
 </agent_subtypes>
@@ -1075,7 +1075,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>emp_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="General of the Empire" last_edit_user="bob" requires_translation="false" requires_recording="false">General of the Empire</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="General of the Empire" last_edit_user="bob">General of the Empire</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1089,7 +1089,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>emp_warrior_priest</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Warrior Priest" last_edit_user="bob" requires_translation="false" requires_recording="false">Warrior Priest</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Warrior Priest" last_edit_user="bob">Warrior Priest</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_emp_dignitary.png</small_icon>
 </agent_subtypes>
@@ -1103,7 +1103,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>emp_witch_hunter</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Witch Hunter" last_edit_user="bob" requires_translation="false" requires_recording="false">Witch Hunter</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Witch Hunter" last_edit_user="bob">Witch Hunter</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_emp_spy.png</small_icon>
 </agent_subtypes>
@@ -1117,7 +1117,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>grn_azhag_the_slaughterer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1131,7 +1131,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>grn_goblin_big_boss</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Goblin Big Boss" last_edit_user="bob" requires_translation="false" requires_recording="false">Goblin Big Boss</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Goblin Big Boss" last_edit_user="bob">Goblin Big Boss</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_grn_spy.png</small_icon>
 </agent_subtypes>
@@ -1145,7 +1145,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>grn_goblin_great_shaman</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Goblin Great Shaman" last_edit_user="bob" requires_translation="false" requires_recording="false">Goblin Great Shaman</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Goblin Great Shaman" last_edit_user="bob">Goblin Great Shaman</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1159,7 +1159,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>grn_grimgor_ironhide</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1169,11 +1169,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Night Goblin Shamans wear the easily recognised hoods of their kind and are known for being particularly crazed due to eating vast quantities of hallucinogenic mushrooms." last_edit_user="bob" requires_translation="false" requires_recording="false">Night Goblin Shamans wear the easily recognised hoods of their kind and are known for being particularly crazed due to eating vast quantities of hallucinogenic mushrooms.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Night Goblin Shamans wear the easily recognised hoods of their kind and are known for being particularly crazed due to eating vast quantities of hallucinogenic mushrooms." last_edit_user="bob">Night Goblin Shamans wear the easily recognised hoods of their kind and are known for being particularly crazed due to eating vast quantities of hallucinogenic mushrooms.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>grn_night_goblin_shaman</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Night Goblin Shaman" last_edit_user="bob" requires_translation="false" requires_recording="false">Night Goblin Shaman</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Night Goblin Shaman" last_edit_user="bob">Night Goblin Shaman</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_lil_waaagh.png</small_icon>
 </agent_subtypes>
@@ -1183,11 +1183,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Orc Shamans have been known to cause a foe's brains to burst out of his skull, shoot death beams out of their own beady eyes or summon an almighty green foot from the skies to stomp anything unfortunate enough to be underneath." last_edit_user="bob" requires_translation="false" requires_recording="false">Orc Shamans have been known to cause a foe's brains to burst out of his skull, shoot death beams out of their own beady eyes or summon an almighty green foot from the skies to stomp anything unfortunate enough to be underneath.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Orc Shamans have been known to cause a foe's brains to burst out of his skull, shoot death beams out of their own beady eyes or summon an almighty green foot from the skies to stomp anything unfortunate enough to be underneath." last_edit_user="bob">Orc Shamans have been known to cause a foe's brains to burst out of his skull, shoot death beams out of their own beady eyes or summon an almighty green foot from the skies to stomp anything unfortunate enough to be underneath.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>grn_orc_shaman</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Orc Shaman" last_edit_user="bob" requires_translation="false" requires_recording="false">Orc Shaman</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Orc Shaman" last_edit_user="bob">Orc Shaman</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_big_waaagh.png</small_icon>
 </agent_subtypes>
@@ -1201,7 +1201,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>grn_orc_warboss</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Orc Warboss" last_edit_user="bob" requires_translation="false" requires_recording="false">Orc Warboss</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Orc Warboss" last_edit_user="bob">Orc Warboss</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1215,7 +1215,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>ksl_captain</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Captain" last_edit_user="bob" requires_translation="false" requires_recording="false">Captain</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Captain" last_edit_user="bob">Captain</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_emp_champion.png</small_icon>
 </agent_subtypes>
@@ -1229,7 +1229,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>ksl_celestial_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Celestial Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Celestial Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Celestial Wizard" last_edit_user="bob">Celestial Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
 </agent_subtypes>
@@ -1243,35 +1243,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>ksl_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
-<show_in_ui>1</show_in_ui>
-<small_icon></small_icon>
-</agent_subtypes>
-<agent_subtypes record_uuid="{5b5dd76a-4a29-4b70-a460-2b32943ce836}" record_timestamp="1522870857844" record_key="mk_taurox_bst_ghorros">
-<associated_unit_override>mk_taurox_bst_ghorros</associated_unit_override>
-<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Gorebull</audio_voiceover_actor_group>
-<auto_generate>0</auto_generate>
-<can_gain_xp>1</can_gain_xp>
-<cap>-1</cap>
-<description_text_override></description_text_override>
-<has_female_name>0</has_female_name>
-<is_caster>0</is_caster>
-<key>mk_taurox_bst_ghorros</key>
-<onscreen_name_override>Legendary Lord</onscreen_name_override>
-<show_in_ui>1</show_in_ui>
-<small_icon></small_icon>
-</agent_subtypes>
-<agent_subtypes record_uuid="{ac28bdda-2f0b-4d4e-ae70-2fc44a2982e3}" record_timestamp="1522727730072" record_key="mk_taurox_bst_taurox">
-<associated_unit_override>mk_taurox_bst_taurox</associated_unit_override>
-<audio_voiceover_actor_group>wh_dlc03_vo_actor_Beastmen_Gorebull</audio_voiceover_actor_group>
-<auto_generate>0</auto_generate>
-<can_gain_xp>1</can_gain_xp>
-<cap>-1</cap>
-<description_text_override></description_text_override>
-<has_female_name>0</has_female_name>
-<is_caster>0</is_caster>
-<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-03T05:51:43" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox</key>
-<onscreen_name_override>Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1285,7 +1257,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>nor_chaos_sorcerer_metal</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Metal)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer (Metal)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer (Metal)" last_edit_user="bob">Chaos Sorcerer (Metal)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
 </agent_subtypes>
@@ -1299,7 +1271,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>nor_marauder_chieftain</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Marauder Chieftain" last_edit_user="bob" requires_translation="false" requires_recording="false">Marauder Chieftain</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Marauder Chieftain" last_edit_user="bob">Marauder Chieftain</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1313,7 +1285,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>nor_sorcerer_lord_metal</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Metal)" last_edit_user="bob" requires_translation="false" requires_recording="false">Chaos Sorcerer Lord (Metal)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Chaos Sorcerer Lord (Metal)" last_edit_user="bob">Chaos Sorcerer Lord (Metal)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_metal.png</small_icon>
 </agent_subtypes>
@@ -1327,7 +1299,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>pro01_dwf_grombrindal</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1341,7 +1313,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>pro02_vmp_isabella_von_carstein</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1355,7 +1327,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>teb_bright_wizard</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Bright Wizard" last_edit_user="bob" requires_translation="false" requires_recording="false">Bright Wizard</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Bright Wizard" last_edit_user="bob">Bright Wizard</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
 </agent_subtypes>
@@ -1369,7 +1341,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>teb_captain</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Captain" last_edit_user="bob" requires_translation="false" requires_recording="false">Captain</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Captain" last_edit_user="bob">Captain</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_emp_champion.png</small_icon>
 </agent_subtypes>
@@ -1383,7 +1355,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>teb_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1397,7 +1369,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>0</is_caster>
 <key>vmp_banshee</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Banshee" last_edit_user="bob" requires_translation="false" requires_recording="false">Banshee</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Banshee" last_edit_user="bob">Banshee</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_vmp_spy.png</small_icon>
 </agent_subtypes>
@@ -1411,7 +1383,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>vmp_heinrich_kemmler</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1425,7 +1397,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>vmp_lord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Vampire Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Vampire Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Vampire Lord" last_edit_user="bob">Vampire Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1439,7 +1411,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>vmp_mannfred_von_carstein</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1453,7 +1425,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>vmp_master_necromancer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Master Necromancer" last_edit_user="bob" requires_translation="false" requires_recording="false">Master Necromancer</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Master Necromancer" last_edit_user="bob">Master Necromancer</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1467,7 +1439,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>vmp_necromancer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Necromancer" last_edit_user="bob" requires_translation="false" requires_recording="false">Necromancer</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Necromancer" last_edit_user="bob">Necromancer</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_vampires.png</small_icon>
 </agent_subtypes>
@@ -1481,7 +1453,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>vmp_vampire</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Vampire (Death)" last_edit_user="bob" requires_translation="false" requires_recording="false">Vampire (Death)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Vampire (Death)" last_edit_user="bob">Vampire (Death)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
 </agent_subtypes>
@@ -1495,7 +1467,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>vmp_wight_king</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Wight King" last_edit_user="bob" requires_translation="false" requires_recording="false">Wight King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Wight King" last_edit_user="bob">Wight King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_vmp_champion.png</small_icon>
 </agent_subtypes>
@@ -1509,7 +1481,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_skv_tretch_craventail</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord " last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord </onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord " last_edit_user="bob">Legendary Lord </onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1523,7 +1495,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_dlc09_tmb_arkhan</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1537,7 +1509,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_khalida</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1551,7 +1523,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_dlc09_tmb_khatep</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1561,11 +1533,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="It is no surprise that some Liche Priests excel at manipulating the Wind of Shyish, and are unsurpassed at Death Magic." last_edit_user="bob" requires_translation="false" requires_recording="false">It is no surprise that some Liche Priests excel at manipulating the Wind of Shyish, and are unsurpassed at Death Magic.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="It is no surprise that some Liche Priests excel at manipulating the Wind of Shyish, and are unsurpassed at Death Magic." last_edit_user="bob">It is no surprise that some Liche Priests excel at manipulating the Wind of Shyish, and are unsurpassed at Death Magic.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_dlc09_tmb_liche_priest_death</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Death)" last_edit_user="bob" requires_translation="false" requires_recording="false">Liche Priest (Death)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Death)" last_edit_user="bob">Liche Priest (Death)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_death.png</small_icon>
 </agent_subtypes>
@@ -1575,11 +1547,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Where there is dark there must be light. And so, just as day follows night, there are those in the Mortuary Cult who are skilled at banishment magic, and white wizardry." last_edit_user="bob" requires_translation="false" requires_recording="false">Where there is dark there must be light. And so, just as day follows night, there are those in the Mortuary Cult who are skilled at banishment magic, and white wizardry.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Where there is dark there must be light. And so, just as day follows night, there are those in the Mortuary Cult who are skilled at banishment magic, and white wizardry." last_edit_user="bob">Where there is dark there must be light. And so, just as day follows night, there are those in the Mortuary Cult who are skilled at banishment magic, and white wizardry.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_dlc09_tmb_liche_priest_light</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Light)" last_edit_user="bob" requires_translation="false" requires_recording="false">Liche Priest (Light)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Light)" last_edit_user="bob">Liche Priest (Light)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_light.png</small_icon>
 </agent_subtypes>
@@ -1589,11 +1561,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The Lore of Nehekhara was created by the Liche Priests of the Mortuary Cult in their quest to unlock the secrets of immortality." last_edit_user="bob" requires_translation="false" requires_recording="false">The Lore of Nehekhara was created by the Liche Priests of the Mortuary Cult in their quest to unlock the secrets of immortality.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The Lore of Nehekhara was created by the Liche Priests of the Mortuary Cult in their quest to unlock the secrets of immortality." last_edit_user="bob">The Lore of Nehekhara was created by the Liche Priests of the Mortuary Cult in their quest to unlock the secrets of immortality.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_dlc09_tmb_liche_priest_nehekhara</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Nehekhara)" last_edit_user="bob" requires_translation="false" requires_recording="false">Liche Priest (Nehekhara)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Nehekhara)" last_edit_user="bob">Liche Priest (Nehekhara)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_dlc09_lore_nehekhara.png</small_icon>
 </agent_subtypes>
@@ -1603,11 +1575,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="In the shadows of the great pyramids do the Liche Priests practice their dark arts. While some excel in Death Magic, or even Light, others have tamed Phantasmancy." last_edit_user="bob" requires_translation="false" requires_recording="false">In the shadows of the great pyramids do the Liche Priests practice their dark arts. While some excel in Death Magic, or even Light, others have tamed Phantasmancy.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="In the shadows of the great pyramids do the Liche Priests practice their dark arts. While some excel in Death Magic, or even Light, others have tamed Phantasmancy." last_edit_user="bob">In the shadows of the great pyramids do the Liche Priests practice their dark arts. While some excel in Death Magic, or even Light, others have tamed Phantasmancy.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_dlc09_tmb_liche_priest_shadow</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Liche Priest (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Liche Priest (Shadows)" last_edit_user="bob">Liche Priest (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -1621,7 +1593,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_necrotect</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Necrotect" last_edit_user="bob" requires_translation="false" requires_recording="false">Necrotect</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Necrotect" last_edit_user="bob">Necrotect</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1631,11 +1603,11 @@
 <auto_generate>0</auto_generate>
 <can_gain_xp>0</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="This Necrotect's one aim is to spend his Unlife colonising a ruined settlement, a power given to him through the Rite of the Great Incantation of Ptra." last_edit_user="bob" requires_translation="false" requires_recording="false">This Necrotect's one aim is to spend his Unlife colonising a ruined settlement, a power given to him through the Rite of the Great Incantation of Ptra.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="This Necrotect's one aim is to spend his Unlife colonising a ruined settlement, a power given to him through the Rite of the Great Incantation of Ptra." last_edit_user="bob">This Necrotect's one aim is to spend his Unlife colonising a ruined settlement, a power given to him through the Rite of the Great Incantation of Ptra.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_necrotect_ritual</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Ptra's Necrotect" last_edit_user="bob" requires_translation="false" requires_recording="false">Ptra's Necrotect</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Ptra's Necrotect" last_edit_user="bob">Ptra's Necrotect</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_dlc09_tmb_engineer_ritual.png</small_icon>
 </agent_subtypes>
@@ -1649,7 +1621,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_settra</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1663,7 +1635,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1677,7 +1649,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king_alkhazzar_ii</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1691,7 +1663,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king_lahmizzash</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1705,7 +1677,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king_rakhash</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1719,7 +1691,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king_setep</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1733,7 +1705,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king_thutep</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1747,7 +1719,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_king_wakhaf</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb King</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb King" last_edit_user="bob">Tomb King</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1761,7 +1733,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_dlc09_tmb_tomb_prince</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Tomb Prince" last_edit_user="bob" requires_translation="false" requires_recording="false">Tomb Prince</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Tomb Prince" last_edit_user="bob">Tomb Prince</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1775,7 +1747,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_def_black_ark</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Black Ark" last_edit_user="bob" requires_translation="false" requires_recording="false">Black Ark</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Black Ark" last_edit_user="bob">Black Ark</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_def_black_ark.png</small_icon>
 </agent_subtypes>
@@ -1789,7 +1761,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_def_death_hag</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Death Hag" last_edit_user="bob" requires_translation="false" requires_recording="false">Death Hag</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Death Hag" last_edit_user="bob">Death Hag</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1803,7 +1775,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_def_dreadlord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Dreadlord (Sword &amp; Crossbow)" last_edit_user="bob" requires_translation="false" requires_recording="false">Dreadlord (Sword &amp; Crossbow)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Dreadlord (Sword &amp; Crossbow)" last_edit_user="bob">Dreadlord (Sword &amp; Crossbow)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1817,7 +1789,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_def_dreadlord_fem</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Dreadlord (Sword &amp; Shield)" last_edit_user="bob" requires_translation="false" requires_recording="false">Dreadlord (Sword &amp; Shield)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Dreadlord (Sword &amp; Shield)" last_edit_user="bob">Dreadlord (Sword &amp; Shield)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1831,7 +1803,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_def_khainite_assassin</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Khainite Assassin" last_edit_user="bob" requires_translation="false" requires_recording="false">Khainite Assassin</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Khainite Assassin" last_edit_user="bob">Khainite Assassin</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1845,7 +1817,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_def_malekith</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1859,7 +1831,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_def_morathi</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1869,11 +1841,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Spells cast with 'Dhar', or Dark Magic, are the most destructive. They are powered by the unrefined Winds of Magic, so the cost to both the spellcaster and their victims is great indeed." last_edit_user="bob" requires_translation="false" requires_recording="false">Spells cast with 'Dhar', or Dark Magic, are the most destructive. They are powered by the unrefined Winds of Magic, so the cost to both the spellcaster and their victims is great indeed.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Spells cast with 'Dhar', or Dark Magic, are the most destructive. They are powered by the unrefined Winds of Magic, so the cost to both the spellcaster and their victims is great indeed." last_edit_user="bob">Spells cast with 'Dhar', or Dark Magic, are the most destructive. They are powered by the unrefined Winds of Magic, so the cost to both the spellcaster and their victims is great indeed.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_def_sorceress_dark</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Sorceress (Dark)" last_edit_user="bob" requires_translation="false" requires_recording="false">Sorceress (Dark)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Sorceress (Dark)" last_edit_user="bob">Sorceress (Dark)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_lore_dark_magic.png</small_icon>
 </agent_subtypes>
@@ -1883,11 +1855,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="While most Druchii Sorcerers use the dark in their magic, the fire from pyromancy is bright. However, those in Naggaroth that wield 'Aqshy' do not think of it as glowing flame, instead looking to the black, choking smoke that always accompanies fire." last_edit_user="bob" requires_translation="false" requires_recording="false">While most Druchii Sorcerers use the dark in their magic, the fire from pyromancy is bright. However, those in Naggaroth that wield 'Aqshy' do not think of it as glowing flame, instead looking to the black, choking smoke that always accompanies fire.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="While most Druchii Sorcerers use the dark in their magic, the fire from pyromancy is bright. However, those in Naggaroth that wield 'Aqshy' do not think of it as glowing flame, instead looking to the black, choking smoke that always accompanies fire." last_edit_user="bob">While most Druchii Sorcerers use the dark in their magic, the fire from pyromancy is bright. However, those in Naggaroth that wield 'Aqshy' do not think of it as glowing flame, instead looking to the black, choking smoke that always accompanies fire.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_def_sorceress_fire</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Sorceress (Fire)" last_edit_user="bob" requires_translation="false" requires_recording="false">Sorceress (Fire)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Sorceress (Fire)" last_edit_user="bob">Sorceress (Fire)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_fire.png</small_icon>
 </agent_subtypes>
@@ -1897,11 +1869,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Most Sorceresses of Ghrond lurk in the utter darkness, but there are those that walk close to the light still, using illusions to spin cruel visions and trick predators and prey to get the souls they desire." last_edit_user="bob" requires_translation="false" requires_recording="false">Most Sorceresses of Ghrond lurk in the utter darkness, but there are those that walk close to the light still, using illusions to spin cruel visions and trick predators and prey to get the souls they desire.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Most Sorceresses of Ghrond lurk in the utter darkness, but there are those that walk close to the light still, using illusions to spin cruel visions and trick predators and prey to get the souls they desire." last_edit_user="bob">Most Sorceresses of Ghrond lurk in the utter darkness, but there are those that walk close to the light still, using illusions to spin cruel visions and trick predators and prey to get the souls they desire.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_def_sorceress_shadow</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Sorceress (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Sorceress (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Sorceress (Shadows)" last_edit_user="bob">Sorceress (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -1915,7 +1887,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_hef_loremaster_of_hoeth</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Loremaster of Hoeth" last_edit_user="bob" requires_translation="false" requires_recording="false">Loremaster of Hoeth</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Loremaster of Hoeth" last_edit_user="bob">Loremaster of Hoeth</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1925,11 +1897,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Unlike men, the powerful Mages of Ulthuan can manipulate the full spectrum of the magical Winds and use a pure, combined form known as 'Qhaysh' or High Magic." last_edit_user="bob" requires_translation="false" requires_recording="false">Unlike men, the powerful Mages of Ulthuan can manipulate the full spectrum of the magical Winds and use a pure, combined form known as 'Qhaysh' or High Magic.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Unlike men, the powerful Mages of Ulthuan can manipulate the full spectrum of the magical Winds and use a pure, combined form known as 'Qhaysh' or High Magic." last_edit_user="bob">Unlike men, the powerful Mages of Ulthuan can manipulate the full spectrum of the magical Winds and use a pure, combined form known as 'Qhaysh' or High Magic.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_hef_mage_high</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Mage (High)" last_edit_user="bob" requires_translation="false" requires_recording="false">Mage (High)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Mage (High)" last_edit_user="bob">Mage (High)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_lore_high_magic.png</small_icon>
 </agent_subtypes>
@@ -1939,11 +1911,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="The realms of Ulthuan are filled with magical eddies that entwine and weave through the forests and heaths. Thus, there are Mages that master the Wind of 'Ghyran' like it was second nature." last_edit_user="bob" requires_translation="false" requires_recording="false">The realms of Ulthuan are filled with magical eddies that entwine and weave through the forests and heaths. Thus, there are Mages that master the Wind of 'Ghyran' like it was second nature.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="The realms of Ulthuan are filled with magical eddies that entwine and weave through the forests and heaths. Thus, there are Mages that master the Wind of 'Ghyran' like it was second nature." last_edit_user="bob">The realms of Ulthuan are filled with magical eddies that entwine and weave through the forests and heaths. Thus, there are Mages that master the Wind of 'Ghyran' like it was second nature.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_hef_mage_life</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Mage (Life)" last_edit_user="bob" requires_translation="false" requires_recording="false">Mage (Life)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Mage (Life)" last_edit_user="bob">Mage (Life)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_life.png</small_icon>
 </agent_subtypes>
@@ -1953,11 +1925,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="While Elven Mages have the ability to use the combined might of High Magic, a few choose to specialise in certain areas if they have a gift or talent. Those that channel 'Hysh' excel at confronting and banishing Daemons." last_edit_user="bob" requires_translation="false" requires_recording="false">While Elven Mages have the ability to use the combined might of High Magic, a few choose to specialise in certain areas if they have a gift or talent. Those that channel 'Hysh' excel at confronting and banishing Daemons.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="While Elven Mages have the ability to use the combined might of High Magic, a few choose to specialise in certain areas if they have a gift or talent. Those that channel 'Hysh' excel at confronting and banishing Daemons." last_edit_user="bob">While Elven Mages have the ability to use the combined might of High Magic, a few choose to specialise in certain areas if they have a gift or talent. Those that channel 'Hysh' excel at confronting and banishing Daemons.</description_text_override>
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_hef_mage_light</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Mage (Light)" last_edit_user="bob" requires_translation="false" requires_recording="false">Mage (Light)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Mage (Light)" last_edit_user="bob">Mage (Light)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_light.png</small_icon>
 </agent_subtypes>
@@ -1971,7 +1943,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_hef_noble</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Noble" last_edit_user="bob" requires_translation="false" requires_recording="false">Noble</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Noble" last_edit_user="bob">Noble</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1985,7 +1957,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_hef_prince</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Prince" last_edit_user="bob" requires_translation="false" requires_recording="false">Prince</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Prince" last_edit_user="bob">Prince</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -1999,7 +1971,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_hef_prince_alastar</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Prince" last_edit_user="bob" requires_translation="false" requires_recording="false">Prince</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Prince" last_edit_user="bob">Prince</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2013,7 +1985,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_hef_princess</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Princess" last_edit_user="bob" requires_translation="false" requires_recording="false">Princess</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Princess" last_edit_user="bob">Princess</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2027,7 +1999,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_hef_teclis</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2041,7 +2013,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_hef_tyrion</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2055,7 +2027,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_lzd_kroq_gar</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2069,7 +2041,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_lzd_lord_mazdamundi</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2083,7 +2055,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_lzd_saurus_old_blood</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Saurus Oldblood" last_edit_user="bob" requires_translation="false" requires_recording="false">Saurus Oldblood</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Saurus Oldblood" last_edit_user="bob">Saurus Oldblood</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2097,7 +2069,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_lzd_saurus_scar_veteran</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Saurus Scar-Veteran" last_edit_user="bob" requires_translation="false" requires_recording="false">Saurus Scar-Veteran</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Saurus Scar-Veteran" last_edit_user="bob">Saurus Scar-Veteran</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2111,7 +2083,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_lzd_skink_chief</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Skink Chief" last_edit_user="bob" requires_translation="false" requires_recording="false">Skink Chief</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Skink Chief" last_edit_user="bob">Skink Chief</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2121,11 +2093,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Some Skink Priests are adept at communicating not just with other reptiles, but with all creatures of the jungle. They are skilled in manipulating the Wind of 'Ghur'." last_edit_user="bob" requires_translation="false" requires_recording="false">Some Skink Priests are adept at communicating not just with other reptiles, but with all creatures of the jungle. They are skilled in manipulating the Wind of 'Ghur'.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Some Skink Priests are adept at communicating not just with other reptiles, but with all creatures of the jungle. They are skilled in manipulating the Wind of 'Ghur'." last_edit_user="bob">Some Skink Priests are adept at communicating not just with other reptiles, but with all creatures of the jungle. They are skilled in manipulating the Wind of 'Ghur'.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_lzd_skink_priest_beasts</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Skink Priest (Beasts)" last_edit_user="bob" requires_translation="false" requires_recording="false">Skink Priest (Beasts)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Skink Priest (Beasts)" last_edit_user="bob">Skink Priest (Beasts)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc03_lore_beasts.png</small_icon>
 </agent_subtypes>
@@ -2135,11 +2107,11 @@
 <auto_generate>1</auto_generate>
 <can_gain_xp>1</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="Skink Astromancers are relatively rare, their spawning marked with a meteor shower over Tlaxtlan. They serve the most powerful of their kind, known as 'the Beholder', who sends them far and wide in service of the Great Plan." last_edit_user="bob" requires_translation="false" requires_recording="false">Skink Astromancers are relatively rare, their spawning marked with a meteor shower over Tlaxtlan. They serve the most powerful of their kind, known as 'the Beholder', who sends them far and wide in service of the Great Plan.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="Skink Astromancers are relatively rare, their spawning marked with a meteor shower over Tlaxtlan. They serve the most powerful of their kind, known as 'the Beholder', who sends them far and wide in service of the Great Plan." last_edit_user="bob">Skink Astromancers are relatively rare, their spawning marked with a meteor shower over Tlaxtlan. They serve the most powerful of their kind, known as 'the Beholder', who sends them far and wide in service of the Great Plan.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_lzd_skink_priest_heavens</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Skink Priest (Heavens)" last_edit_user="bob" requires_translation="false" requires_recording="false">Skink Priest (Heavens)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Skink Priest (Heavens)" last_edit_user="bob">Skink Priest (Heavens)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_main_lore_heavens.png</small_icon>
 </agent_subtypes>
@@ -2153,7 +2125,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_lzd_slann_mage_priest</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Slann Mage-Priest" last_edit_user="bob" requires_translation="false" requires_recording="false">Slann Mage-Priest</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Slann Mage-Priest" last_edit_user="bob">Slann Mage-Priest</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_lzd_slann_mage_priest.png</small_icon>
 </agent_subtypes>
@@ -2167,7 +2139,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_skv_assassin</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Assassin" last_edit_user="bob" requires_translation="false" requires_recording="false">Assassin</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Assassin" last_edit_user="bob">Assassin</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2181,7 +2153,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_skv_grey_seer_plague</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Grey Seer (Plague)" last_edit_user="bob" requires_translation="false" requires_recording="false">Grey Seer (Plague)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Grey Seer (Plague)" last_edit_user="bob">Grey Seer (Plague)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2195,7 +2167,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_skv_grey_seer_ruin</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Grey Seer (Ruin)" last_edit_user="bob" requires_translation="false" requires_recording="false">Grey Seer (Ruin)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Grey Seer (Ruin)" last_edit_user="bob">Grey Seer (Ruin)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2209,7 +2181,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_skv_lord_skrolk</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord" last_edit_user="bob">Legendary Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2223,7 +2195,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_skv_plague_priest</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Plague Priest" last_edit_user="bob" requires_translation="false" requires_recording="false">Plague Priest</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Plague Priest" last_edit_user="bob">Plague Priest</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_lore_plague.png</small_icon>
 </agent_subtypes>
@@ -2233,11 +2205,11 @@
 <auto_generate>0</auto_generate>
 <can_gain_xp>0</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="This Plague Priest's one aim is to expend his life spreading deadly plagues to cripple the enemy; a power given to him through the Rite of the Pestilent Scheme." last_edit_user="bob" requires_translation="false" requires_recording="false">This Plague Priest's one aim is to expend his life spreading deadly plagues to cripple the enemy; a power given to him through the Rite of the Pestilent Scheme.</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="This Plague Priest's one aim is to expend his life spreading deadly plagues to cripple the enemy; a power given to him through the Rite of the Pestilent Scheme." last_edit_user="bob">This Plague Priest's one aim is to expend his life spreading deadly plagues to cripple the enemy; a power given to him through the Rite of the Pestilent Scheme.</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh2_main_skv_plague_priest_ritual</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Pestilent Scheme Priest" last_edit_user="bob" requires_translation="false" requires_recording="false">Pestilent Scheme Priest</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Pestilent Scheme Priest" last_edit_user="bob">Pestilent Scheme Priest</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_skv_plague_priest_ritual.png</small_icon>
 </agent_subtypes>
@@ -2251,7 +2223,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_skv_queek_headtaker</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord " last_edit_user="bob" requires_translation="false" requires_recording="false">Legendary Lord </onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Legendary Lord " last_edit_user="bob">Legendary Lord </onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2265,7 +2237,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_skv_warlock_engineer</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Warlock Engineer" last_edit_user="bob" requires_translation="false" requires_recording="false">Warlock Engineer</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Warlock Engineer" last_edit_user="bob">Warlock Engineer</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2275,11 +2247,11 @@
 <auto_generate>0</auto_generate>
 <can_gain_xp>0</can_gain_xp>
 <cap>-1</cap>
-<description_text_override state="APPROVED" last_approved_text="This Warlock Engineer's one aim is to expend his life in an insane Warpstone-fuelled detonation, designed to cripple enemy settlements; a power given to him through the Rite of the Scheme of DOOOOM!" last_edit_user="bob" requires_translation="false" requires_recording="false">This Warlock Engineer's one aim is to expend his life in an insane Warpstone-fuelled detonation, designed to cripple enemy settlements; a power given to him through the Rite of the Scheme of DOOOOM!</description_text_override>
+<description_text_override state="APPROVED" last_approved_text="This Warlock Engineer's one aim is to expend his life in an insane Warpstone-fuelled detonation, designed to cripple enemy settlements; a power given to him through the Rite of the Scheme of DOOOOM!" last_edit_user="bob">This Warlock Engineer's one aim is to expend his life in an insane Warpstone-fuelled detonation, designed to cripple enemy settlements; a power given to him through the Rite of the Scheme of DOOOOM!</description_text_override>
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_skv_warlock_engineer_ritual</key>
-<onscreen_name_override state="APPROVED" last_approved_text="DOOOOM! Engineer" last_edit_user="bob" requires_translation="false" requires_recording="false">DOOOOM! Engineer</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="DOOOOM! Engineer" last_edit_user="bob">DOOOOM! Engineer</onscreen_name_override>
 <show_in_ui>0</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh2_main_lore_ruin_ritual.png</small_icon>
 </agent_subtypes>
@@ -2293,7 +2265,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>0</is_caster>
 <key>wh2_main_skv_warlord</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Warlord" last_edit_user="bob" requires_translation="false" requires_recording="false">Warlord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Warlord" last_edit_user="bob">Warlord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2307,7 +2279,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh_dlc05_vmp_red_duke</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob" requires_translation="false" requires_recording="false">Lord</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Lord" last_edit_user="bob">Lord</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon></small_icon>
 </agent_subtypes>
@@ -2321,7 +2293,7 @@
 <has_female_name>1</has_female_name>
 <is_caster>1</is_caster>
 <key>wh_dlc05_vmp_vampire_shadow</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Vampire (Shadows)" last_edit_user="bob" requires_translation="false" requires_recording="false">Vampire (Shadows)</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Vampire (Shadows)" last_edit_user="bob">Vampire (Shadows)</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>
@@ -2335,7 +2307,7 @@
 <has_female_name>0</has_female_name>
 <is_caster>1</is_caster>
 <key>wh_dlc05_wef_branchwraith</key>
-<onscreen_name_override state="APPROVED" last_approved_text="Branchwraith" last_edit_user="bob" requires_translation="false" requires_recording="false">Branchwraith</onscreen_name_override>
+<onscreen_name_override state="APPROVED" last_approved_text="Branchwraith" last_edit_user="bob">Branchwraith</onscreen_name_override>
 <show_in_ui>1</show_in_ui>
 <small_icon>ui/campaign ui/agents/wh_dlc05_lore_shadow.png</small_icon>
 </agent_subtypes>

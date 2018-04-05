@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_custom_battle_permissions.xsd" export_time="mer. avr. 4 20:27:06 2018" revision="367" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>288bb60d-3cc9-4391-b90c-604d09da286f</edit_uuid>
-<units_custom_battle_permissions record_uuid="{c451150f-a835-4372-aa2d-a120633858c0}" record_timestamp="1522866426262" record_key="mk_taurox_bst_ghorrosmk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:27:06" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_khazrak_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:27:06" requires_translation="false" requires_recording="false">wh_dlc03_uniform_bst_gorebull_03</general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T20:27:06" requires_translation="false" requires_recording="false">wh_dlc03_bst_cha_gorebull_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>mk_taurox_bst_ghorros</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{a6ba2cb2-8adf-4925-90ca-2ccfd2dc22ed}" record_timestamp="1522795846689" record_key="mk_taurox_bst_tauroxmk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_gorebulls_campaign_03_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_gorebull_03</general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_gorebull_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>mk_taurox_bst_taurox</unit>
-</units_custom_battle_permissions>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="units_custom_battle_permissions.xsd" export_time="Thu Jan 11 13:57:45 2018" revision="363" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>c86f6474-ecf4-460c-9826-e5617e30b444</edit_uuid>
 <units_custom_battle_permissions record_uuid="{677b5efe-e60d-4c77-9908-e5f721c5d7e4}" record_timestamp="1509527459770" record_key="wh2_dlc09_skv_cha_tretch_craventailwh2_dlc09_skv_clan_rictustrue">
 <faction>wh2_dlc09_skv_clan_rictus</faction>
 <general_portrait>ui/portraits/portholes/wh2_main_skv_skaven/skv_tretch_craventail_0.png</general_portrait>
@@ -903,8 +883,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{22952bb8-2037-4b71-bb5a-f80d012b8f6b}" record_timestamp="1515679065007" record_key="wh2_dlc09_tmb_cha_tomb_king_0wh2_dlc09_tmb_exiles_of_nehektrue">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -913,8 +893,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{13f727d2-77f3-4537-89e4-9d1a5e6ab859}" record_timestamp="1515679065015" record_key="wh2_dlc09_tmb_cha_tomb_king_0wh2_dlc09_tmb_followers_of_nagashtrue">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -923,8 +903,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{d0248d62-fa0b-454e-bd43-b9898db07358}" record_timestamp="1515679065023" record_key="wh2_dlc09_tmb_cha_tomb_king_0wh2_dlc09_tmb_lybarastrue">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -933,8 +913,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{d87a90ac-1701-460a-8d56-e39d63f7e7e0}" record_timestamp="1515679065032" record_key="wh2_dlc09_tmb_cha_tomb_king_0wh2_dlc09_tmb_tomb_kingstrue">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -943,8 +923,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{24200477-99ee-430f-97a0-875b9dbfda2a}" record_timestamp="1515679065040" record_key="wh2_dlc09_tmb_cha_tomb_king_1wh2_dlc09_tmb_exiles_of_nehektrue">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -953,8 +933,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{bcdb2e5e-449a-4bc3-b707-96cc28bb742a}" record_timestamp="1515679065048" record_key="wh2_dlc09_tmb_cha_tomb_king_1wh2_dlc09_tmb_followers_of_nagashtrue">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -963,8 +943,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{cf3546b2-37f2-4ac6-b75f-8df263fc95df}" record_timestamp="1515679065057" record_key="wh2_dlc09_tmb_cha_tomb_king_1wh2_dlc09_tmb_lybarastrue">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -973,8 +953,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{b50fffb8-fef6-4123-ada4-13adcf94e40e}" record_timestamp="1515679065065" record_key="wh2_dlc09_tmb_cha_tomb_king_1wh2_dlc09_tmb_tomb_kingstrue">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -983,8 +963,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{a1088018-76af-4187-99fc-0c70ee7ad4a8}" record_timestamp="1515679065074" record_key="wh2_dlc09_tmb_cha_tomb_king_2wh2_dlc09_tmb_exiles_of_nehektrue">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -993,8 +973,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{d452756b-4404-4812-a214-1adf810c7de6}" record_timestamp="1515679065083" record_key="wh2_dlc09_tmb_cha_tomb_king_2wh2_dlc09_tmb_followers_of_nagashtrue">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1003,8 +983,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{b8df1524-8799-4f80-998d-b83879da7d53}" record_timestamp="1515679065091" record_key="wh2_dlc09_tmb_cha_tomb_king_2wh2_dlc09_tmb_lybarastrue">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1013,8 +993,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{597e98df-ab4d-45a9-afde-3d4186972cd5}" record_timestamp="1515679065100" record_key="wh2_dlc09_tmb_cha_tomb_king_2wh2_dlc09_tmb_tomb_kingstrue">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1023,8 +1003,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{8ad26a4e-aff2-4efd-8747-c303c2c04dcf}" record_timestamp="1515679065110" record_key="wh2_dlc09_tmb_cha_tomb_king_3wh2_dlc09_tmb_exiles_of_nehektrue">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1033,8 +1013,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e5774477-b4f8-4be3-9666-743e7fdefae9}" record_timestamp="1515679065119" record_key="wh2_dlc09_tmb_cha_tomb_king_3wh2_dlc09_tmb_followers_of_nagashtrue">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1043,8 +1023,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{1918962b-1a96-4f58-9751-bca6d0f17f2b}" record_timestamp="1515679065129" record_key="wh2_dlc09_tmb_cha_tomb_king_3wh2_dlc09_tmb_lybarastrue">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1053,8 +1033,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{59b55937-0540-4eca-ba20-938e27501b68}" record_timestamp="1515679065138" record_key="wh2_dlc09_tmb_cha_tomb_king_3wh2_dlc09_tmb_tomb_kingstrue">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_king_campaign_01_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_king_01</general_uniform>
 <general_unit>1</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_king_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1063,8 +1043,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{5932fea6-8798-43b6-a741-4e0cf3833a1e}" record_timestamp="1515679064939" record_key="wh2_dlc09_tmb_cha_tomb_prince_0wh2_dlc09_tmb_exiles_of_nehekfalse">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1073,8 +1053,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{ab9b5ed3-825f-4b4e-8102-c90076dbcec0}" record_timestamp="1515679064943" record_key="wh2_dlc09_tmb_cha_tomb_prince_0wh2_dlc09_tmb_followers_of_nagashfalse">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1083,8 +1063,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{75b6e6e7-8d5b-4687-a309-4018771bb068}" record_timestamp="1515679064946" record_key="wh2_dlc09_tmb_cha_tomb_prince_0wh2_dlc09_tmb_lybarasfalse">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1093,8 +1073,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{11a7e27c-c193-4cc0-bcb6-8c5d2d0652f4}" record_timestamp="1515679064950" record_key="wh2_dlc09_tmb_cha_tomb_prince_0wh2_dlc09_tmb_tomb_kingsfalse">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1103,8 +1083,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{f05f927c-04b2-4dcc-85d2-c7f99bdee470}" record_timestamp="1515679064954" record_key="wh2_dlc09_tmb_cha_tomb_prince_1wh2_dlc09_tmb_exiles_of_nehekfalse">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1113,8 +1093,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{1a11a384-fcce-4f40-891a-571755a54b20}" record_timestamp="1515679064959" record_key="wh2_dlc09_tmb_cha_tomb_prince_1wh2_dlc09_tmb_followers_of_nagashfalse">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1123,8 +1103,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{6f929ebf-12bb-485e-9545-dc436f401a28}" record_timestamp="1515679064964" record_key="wh2_dlc09_tmb_cha_tomb_prince_1wh2_dlc09_tmb_lybarasfalse">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1133,8 +1113,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{06c4ec94-7251-4215-8458-dceb4430b948}" record_timestamp="1515679064970" record_key="wh2_dlc09_tmb_cha_tomb_prince_1wh2_dlc09_tmb_tomb_kingsfalse">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1143,8 +1123,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e78d3345-98f9-436a-a3b8-b84ab3f41d0f}" record_timestamp="1515679064976" record_key="wh2_dlc09_tmb_cha_tomb_prince_2wh2_dlc09_tmb_exiles_of_nehekfalse">
 <faction>wh2_dlc09_tmb_exiles_of_nehek</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1153,8 +1133,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{50484fca-73c6-490f-ac28-2e608fc9d4f7}" record_timestamp="1515679064983" record_key="wh2_dlc09_tmb_cha_tomb_prince_2wh2_dlc09_tmb_followers_of_nagashfalse">
 <faction>wh2_dlc09_tmb_followers_of_nagash</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1163,8 +1143,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{eda8fd96-1636-469e-aee1-97f9d5c05f77}" record_timestamp="1515679064991" record_key="wh2_dlc09_tmb_cha_tomb_prince_2wh2_dlc09_tmb_lybarasfalse">
 <faction>wh2_dlc09_tmb_lybaras</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -1173,8 +1153,8 @@
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{90d6ff62-383b-493a-8d92-6173cde096e6}" record_timestamp="1515679064999" record_key="wh2_dlc09_tmb_cha_tomb_prince_2wh2_dlc09_tmb_tomb_kingsfalse">
 <faction>wh2_dlc09_tmb_tomb_kings</faction>
-<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
-<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
+<general_portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ui/portraits/portholes/wh2_dlc09_tmb_tomb_kings/tmb_ch_tomb_prince_campaign_03_0.png</general_portrait>
+<general_uniform state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_uniform_tmb_tomb_prince_03</general_uniform>
 <general_unit>0</general_unit>
 <set_piece_character>wh2_dlc09_tmb_cha_tomb_prince_0</set_piece_character>
 <siege_unit_attacker>1</siege_unit_attacker>
@@ -7361,16 +7341,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc02_vmp_cav_blood_knights_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{e8d44285-4d0b-49d4-910b-b8436b1c09ae}" record_timestamp="1522625573178" record_key="wh_dlc03_bst_cav_razorgor_chariot_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cav_razorgor_chariot_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{5eef0a17-439c-47fc-bfc4-990cf6f16d52}" record_timestamp="1467040552931" record_key="wh_dlc03_bst_cav_razorgor_chariot_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -7390,16 +7360,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cav_razorgor_chariot_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{05446ac5-2562-4b04-882e-58d5ca718bd0}" record_timestamp="1522625573168" record_key="wh_dlc03_bst_cha_beastlord_0mk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_beastlords_campaign_01_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_beastlord_01</general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_beastlord_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_beastlord_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{c48f36c6-b791-470a-aa83-71394570af4b}" record_timestamp="1467100517951" record_key="wh_dlc03_bst_cha_beastlord_0wh_dlc03_bst_beastmentrue">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7421,16 +7381,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_beastlord_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{f99498a0-4eb8-420b-95c2-ecf0f9de3da4}" record_timestamp="1522625573146" record_key="wh_dlc03_bst_cha_beastlord_1mk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_beastlords_campaign_01_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_beastlord_01</general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_beastlord_1</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_beastlord_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e492fb03-866d-4727-be29-1742015e60bf}" record_timestamp="1467100517952" record_key="wh_dlc03_bst_cha_beastlord_1wh_dlc03_bst_beastmentrue">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_beastlords_campaign_01_0.png</general_portrait>
@@ -7450,16 +7400,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_beastlord_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{25a4abfc-b57c-44ce-bee0-2730f61a51a1}" record_timestamp="1522625573126" record_key="wh_dlc03_bst_cha_bray_shaman_beasts_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_01_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_01</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_beasts_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_beasts_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{2c214453-5abe-4a61-ab05-bc8083e31562}" record_timestamp="1467100517912" record_key="wh_dlc03_bst_cha_bray_shaman_beasts_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7481,16 +7421,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_beasts_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{6d8b4eee-5388-4ae1-8fee-100e6bb0cbd8}" record_timestamp="1522625573105" record_key="wh_dlc03_bst_cha_bray_shaman_beasts_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_01_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_01</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_beasts_1</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_beasts_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{b42b6889-95ff-41ed-90e8-b3f6ce1c7a22}" record_timestamp="1467100517913" record_key="wh_dlc03_bst_cha_bray_shaman_beasts_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_01_0.png</general_portrait>
@@ -7510,16 +7440,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_beasts_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{400bb4dd-8ab8-49da-b13e-e6a223bdaeea}" record_timestamp="1522625573082" record_key="wh_dlc03_bst_cha_bray_shaman_death_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_02_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_02</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_death_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_death_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{c4d4da68-b2b9-4d7b-a247-89b34e1405a5}" record_timestamp="1467100517914" record_key="wh_dlc03_bst_cha_bray_shaman_death_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7541,16 +7461,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_death_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{a6a354c8-660e-4434-8f8a-0fa82c8c56ba}" record_timestamp="1522625573062" record_key="wh_dlc03_bst_cha_bray_shaman_death_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_02_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_02</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_death_1</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_death_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{ed8085f2-da86-4552-b87e-1a4f604af2f6}" record_timestamp="1467100517914" record_key="wh_dlc03_bst_cha_bray_shaman_death_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_02_0.png</general_portrait>
@@ -7570,16 +7480,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_death_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{02c16e1d-03f5-44de-a23d-6ddb1aac520b}" record_timestamp="1522625573157" record_key="wh_dlc03_bst_cha_bray_shaman_shadows_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui\portraits\portholes\wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_04_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_04</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_shadows_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_shadows_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{d5334aef-ce6c-47e7-ad08-f6487497786b}" record_timestamp="1489501711670" record_key="wh_dlc03_bst_cha_bray_shaman_shadows_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7601,16 +7501,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_shadows_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{e78bfe7b-fcec-4bad-92e7-558dc67d001f}" record_timestamp="1522625573136" record_key="wh_dlc03_bst_cha_bray_shaman_shadows_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui\portraits\portholes\wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_04_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_04</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_shadows_1</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_shadows_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{00525826-884b-4b7e-b111-309f1d482127}" record_timestamp="1489501711618" record_key="wh_dlc03_bst_cha_bray_shaman_shadows_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui\portraits\portholes\wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_04_0.png</general_portrait>
@@ -7630,16 +7520,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_shadows_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{63c05e97-65ee-4f6b-a9cb-89559c749fb5}" record_timestamp="1522625573115" record_key="wh_dlc03_bst_cha_bray_shaman_wild_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_03_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_03</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_wild_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_wild_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{15c6aa02-4f57-44c1-be91-6d7a1500923e}" record_timestamp="1467100517915" record_key="wh_dlc03_bst_cha_bray_shaman_wild_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7661,16 +7541,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_wild_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{2e292bde-b1a0-4f7a-827a-e93cc703a36a}" record_timestamp="1522625573094" record_key="wh_dlc03_bst_cha_bray_shaman_wild_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_03_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_bray_shaman_03</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_bray_shaman_wild_1</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_bray_shaman_wild_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{bfe8a2ac-3667-4f2e-b860-b4d99d50cf36}" record_timestamp="1467100517916" record_key="wh_dlc03_bst_cha_bray_shaman_wild_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_bray_shaman_campaign_03_0.png</general_portrait>
@@ -7690,16 +7560,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_bray_shaman_wild_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{162054ba-24d6-479d-8647-e6b5375bf1b7}" record_timestamp="1522625573072" record_key="wh_dlc03_bst_cha_gorebull_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_gorebulls_campaign_03_0.png</general_portrait>
-<general_uniform>wh_dlc03_uniform_bst_gorebull_03</general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_gorebull_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_gorebull_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{ee5bec55-f2e6-454c-84b2-2d59067d2378}" record_timestamp="1467805738874" record_key="wh_dlc03_bst_cha_gorebull_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7721,16 +7581,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_gorebull_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{4166cfc8-3426-4258-b728-7d8034ad9ab5}" record_timestamp="1522625573053" record_key="wh_dlc03_bst_cha_khazrak_one_eye_0mk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_khazrak_0.png</general_portrait>
-<general_uniform></general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_khazrak_one_eye_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_khazrak_one_eye_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{4e4209a1-fb67-44a9-b47b-fdcf57f0305d}" record_timestamp="1467100517952" record_key="wh_dlc03_bst_cha_khazrak_one_eye_0wh_dlc03_bst_beastmentrue">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_khazrak_0.png</general_portrait>
@@ -7740,16 +7590,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_khazrak_one_eye_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{7bcf9333-08cf-4c04-9fd4-da4205f56f1c}" record_timestamp="1522625573043" record_key="wh_dlc03_bst_cha_khazrak_one_eye_1mk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_khazrak_0.png</general_portrait>
-<general_uniform></general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_khazrak_one_eye_1</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_khazrak_one_eye_1</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e342d396-1c4e-469b-bd92-63493194e272}" record_timestamp="1467100517953" record_key="wh_dlc03_bst_cha_khazrak_one_eye_1wh_dlc03_bst_beastmentrue">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7761,16 +7601,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_khazrak_one_eye_1</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{7cb5cf62-5e02-42b7-b9c2-b4639a323069}" record_timestamp="1522625573034" record_key="wh_dlc03_bst_cha_malagor_the_dark_omen_0mk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_malagor_0.png</general_portrait>
-<general_uniform></general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc03_bst_cha_malagor_the_dark_omen</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_cha_malagor_the_dark_omen_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{1f3e8c5e-8938-469f-b708-d6a7f134cfd8}" record_timestamp="1467100517954" record_key="wh_dlc03_bst_cha_malagor_the_dark_omen_0wh_dlc03_bst_beastmentrue">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_malagor_0.png</general_portrait>
@@ -7780,16 +7610,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_cha_malagor_the_dark_omen_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{e03a995f-872c-41db-8ee3-eb9eb2270419}" record_timestamp="1522625573265" record_key="wh_dlc03_bst_inf_bestigor_herd_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_bestigor_herd_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{fb7fb5e9-640c-46d1-ae30-4119ad74c474}" record_timestamp="1467040552934" record_key="wh_dlc03_bst_inf_bestigor_herd_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7811,16 +7631,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_bestigor_herd_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{83f25ce5-1594-4529-a7db-0fc792df0c55}" record_timestamp="1522625573255" record_key="wh_dlc03_bst_inf_centigors_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_centigors_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{4904be1c-4592-4bae-81ed-9b93d4ace2f3}" record_timestamp="1467040552934" record_key="wh_dlc03_bst_inf_centigors_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -7840,16 +7650,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_centigors_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{12beab26-ba67-4a4a-9e2a-5bdc45094a57}" record_timestamp="1522625573244" record_key="wh_dlc03_bst_inf_centigors_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_centigors_1</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{68f1d5e5-ed28-4966-b2ac-e6a1905a7028}" record_timestamp="1467040552934" record_key="wh_dlc03_bst_inf_centigors_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7871,16 +7671,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_centigors_1</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{e213ded1-9112-49a4-b3f2-dc468e167f4c}" record_timestamp="1522625573233" record_key="wh_dlc03_bst_inf_centigors_2mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_centigors_2</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{8796de36-53bb-4911-aa85-d88d9c76c1ae}" record_timestamp="1467040552935" record_key="wh_dlc03_bst_inf_centigors_2wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -7900,16 +7690,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_centigors_2</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{18b47c29-75f5-4258-9701-7ac7ee20ae9a}" record_timestamp="1522625573223" record_key="wh_dlc03_bst_inf_chaos_warhounds_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_chaos_warhounds_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{45492e70-27fe-42ef-9ba9-d2df7c3fa61d}" record_timestamp="1467040552935" record_key="wh_dlc03_bst_inf_chaos_warhounds_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7931,16 +7711,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_chaos_warhounds_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{ad8f5d22-b073-46d0-a7ae-70f69d247912}" record_timestamp="1522625573211" record_key="wh_dlc03_bst_inf_chaos_warhounds_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_chaos_warhounds_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{efb6e3bb-d071-477d-9af4-93c4003f1e86}" record_timestamp="1467040552935" record_key="wh_dlc03_bst_inf_chaos_warhounds_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -7960,16 +7730,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_chaos_warhounds_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{45a08629-9821-40e0-97b8-a80e1925c6a5}" record_timestamp="1522625573201" record_key="wh_dlc03_bst_inf_cygor_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_cygor_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e31340aa-1d37-4fea-9dec-b05ae1a6b39b}" record_timestamp="1467040552935" record_key="wh_dlc03_bst_inf_cygor_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -7991,16 +7751,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_cygor_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{0a407382-677c-4301-8a63-604027eff111}" record_timestamp="1522625573190" record_key="wh_dlc03_bst_inf_gor_herd_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_gor_herd_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{881d263b-b417-44a7-bb4e-624f8fb978fe}" record_timestamp="1467040552935" record_key="wh_dlc03_bst_inf_gor_herd_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -8020,16 +7770,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_gor_herd_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{c36e5cd9-ef30-4cf4-83ab-e13bd8ab8fd1}" record_timestamp="1522625573360" record_key="wh_dlc03_bst_inf_gor_herd_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_gor_herd_1</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{c3cda4f5-5c31-4e5d-8971-53d1bfc58eaa}" record_timestamp="1467040552935" record_key="wh_dlc03_bst_inf_gor_herd_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -8051,16 +7791,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_gor_herd_1</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{ebff6aba-aa2a-46d5-9160-99808010ac93}" record_timestamp="1522625573348" record_key="wh_dlc03_bst_inf_minotaurs_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_minotaurs_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{a7ed5d60-5fc9-46cf-8f55-4f2db6ddc03c}" record_timestamp="1467040552936" record_key="wh_dlc03_bst_inf_minotaurs_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -8080,16 +7810,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_minotaurs_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{f0eecf26-3f92-48d3-8166-b2b12e22da4d}" record_timestamp="1522625573336" record_key="wh_dlc03_bst_inf_minotaurs_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_minotaurs_1</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{b3c6de3f-a33c-4c21-8b2c-ec2d80b312fb}" record_timestamp="1467040552936" record_key="wh_dlc03_bst_inf_minotaurs_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -8111,16 +7831,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_minotaurs_1</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{19f8b0ed-6e83-4394-8211-75e50aa24749}" record_timestamp="1522625573324" record_key="wh_dlc03_bst_inf_minotaurs_2mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_minotaurs_2</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{c656b14b-fd8c-435c-8c37-927db0f461e3}" record_timestamp="1467040552936" record_key="wh_dlc03_bst_inf_minotaurs_2wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -8140,16 +7850,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_minotaurs_2</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{79453d33-454c-4917-822e-5c91fafde03d}" record_timestamp="1522625573312" record_key="wh_dlc03_bst_inf_razorgor_herd_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_razorgor_herd_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{fab1f498-d9e7-4681-a963-68236233a0c5}" record_timestamp="1467040552936" record_key="wh_dlc03_bst_inf_razorgor_herd_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -8171,16 +7871,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_razorgor_herd_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{d5ef41e3-e8d8-461d-8676-145987a04da8}" record_timestamp="1522625573301" record_key="wh_dlc03_bst_inf_ungor_herd_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_ungor_herd_1</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e920495c-66af-4b6b-a528-04ded40c869e}" record_timestamp="1467040552936" record_key="wh_dlc03_bst_inf_ungor_herd_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -8200,16 +7890,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_ungor_herd_1</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{fd3e9d82-2f59-4b58-a73f-6ca509fe557b}" record_timestamp="1522625573288" record_key="wh_dlc03_bst_inf_ungor_raiders_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_ungor_raiders_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{28dc8362-c43a-4e78-ab21-0004d5ca4d9a}" record_timestamp="1467040552937" record_key="wh_dlc03_bst_inf_ungor_raiders_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -8231,16 +7911,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_ungor_raiders_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{3d7afa95-3ce8-46b2-8df0-e3941b370bcd}" record_timestamp="1522625573276" record_key="wh_dlc03_bst_inf_ungor_spearmen_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_ungor_spearmen_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{e8f9d974-686c-43b0-886a-60e0e5ade5c2}" record_timestamp="1467040552937" record_key="wh_dlc03_bst_inf_ungor_spearmen_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -8260,16 +7930,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_ungor_spearmen_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{32b23035-f3d6-4be3-87e9-af695f3cd426}" record_timestamp="1522625573024" record_key="wh_dlc03_bst_inf_ungor_spearmen_1mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_inf_ungor_spearmen_1</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{7db41750-2e8e-4a11-906a-1929699750e3}" record_timestamp="1467040552937" record_key="wh_dlc03_bst_inf_ungor_spearmen_1wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -8291,16 +7951,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_inf_ungor_spearmen_1</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{63e0d77b-c40b-43e0-bfa1-d936e96b06f3}" record_timestamp="1522625573015" record_key="wh_dlc03_bst_mon_chaos_spawn_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_mon_chaos_spawn_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{5c284269-5ee4-4761-a46f-3ae5519050b7}" record_timestamp="1467040552937" record_key="wh_dlc03_bst_mon_chaos_spawn_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait></general_portrait>
@@ -8320,16 +7970,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc03_bst_mon_chaos_spawn_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{3fefa066-4e68-47de-8b6e-ebb78ec1c2b7}" record_timestamp="1522625573397" record_key="wh_dlc03_bst_mon_giant_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc03_bst_mon_giant_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{40e71f9c-9e12-4ece-b90e-39e9525100c3}" record_timestamp="1467040552937" record_key="wh_dlc03_bst_mon_giant_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>
@@ -9461,16 +9101,6 @@
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc04_vmp_veh_mortis_engine_0</unit>
 </units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{29320435-b745-4dea-bc54-0f4c0788a833}" record_timestamp="1522625573386" record_key="wh_dlc05_bst_cha_morghur_0mk_taurox_bst_beastmentrue">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_morghur_0.png</general_portrait>
-<general_uniform></general_uniform>
-<general_unit>1</general_unit>
-<set_piece_character>wh_dlc05_bst_cha_morghur_0</set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc05_bst_cha_morghur_0</unit>
-</units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{f43165af-be6f-492d-a043-2c6aec19972d}" record_timestamp="1478778861525" record_key="wh_dlc05_bst_cha_morghur_0wh_dlc03_bst_beastmentrue">
 <faction>wh_dlc03_bst_beastmen</faction>
 <general_portrait>ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_ch_morghur_0.png</general_portrait>
@@ -9490,16 +9120,6 @@
 <siege_unit_attacker>1</siege_unit_attacker>
 <siege_unit_defender>1</siege_unit_defender>
 <unit>wh_dlc05_bst_cha_morghur_0</unit>
-</units_custom_battle_permissions>
-<units_custom_battle_permissions record_uuid="{25378dbf-deb8-4526-8c8e-1fcc2c0672f6}" record_timestamp="1522625573372" record_key="wh_dlc05_bst_mon_harpies_0mk_taurox_bst_beastmenfalse">
-<faction>mk_taurox_bst_beastmen</faction>
-<general_portrait></general_portrait>
-<general_uniform></general_uniform>
-<general_unit>0</general_unit>
-<set_piece_character></set_piece_character>
-<siege_unit_attacker>1</siege_unit_attacker>
-<siege_unit_defender>1</siege_unit_defender>
-<unit>wh_dlc05_bst_mon_harpies_0</unit>
 </units_custom_battle_permissions>
 <units_custom_battle_permissions record_uuid="{b17bf606-34a3-4e00-a651-30d7ed195b0a}" record_timestamp="1476805210552" record_key="wh_dlc05_bst_mon_harpies_0wh_dlc03_bst_beastmenfalse">
 <faction>wh_dlc03_bst_beastmen</faction>

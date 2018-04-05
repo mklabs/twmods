@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_effect_groups.xsd" export_time="mer. avr. 4 21:56:11 2018" revision="13" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>5382a966-0b76-4d8c-9b19-5b66dadbeeab</edit_uuid>
-<frontend_faction_effect_groups record_uuid="{6338d908-4d3f-4179-942e-fd09f78dde29}" record_timestamp="1522871771163" record_key="mk_taurox_effect_ghorros_faction">
-<campaign></campaign>
-<faction_leader>mk_taurox_political_party_beastmen_ghorros</faction_leader>
-<group_key>mk_taurox_effect_ghorros_faction</group_key>
-<ui_section>faction_traits</ui_section>
-</frontend_faction_effect_groups>
-<frontend_faction_effect_groups record_uuid="{ddb9b755-26f8-4759-820e-ee5929611c3f}" record_timestamp="1522871771138" record_key="mk_taurox_effect_ghorros_leader">
-<campaign></campaign>
-<faction_leader>mk_taurox_political_party_beastmen_ghorros</faction_leader>
-<group_key>mk_taurox_effect_ghorros_leader</group_key>
-<ui_section>lord_traits</ui_section>
-</frontend_faction_effect_groups>
-<frontend_faction_effect_groups record_uuid="{bc365b81-754b-4894-a148-bbf30c1702c8}" record_timestamp="1522871771040" record_key="mk_taurox_effect_taurox_faction">
-<campaign></campaign>
-<faction_leader>mk_taurox_political_party_beastmen</faction_leader>
-<group_key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:56:10" requires_translation="false" requires_recording="false">mk_taurox_effect_taurox_faction</group_key>
-<ui_section>faction_traits</ui_section>
-</frontend_faction_effect_groups>
-<frontend_faction_effect_groups record_uuid="{e5920fd3-af7d-405d-84d7-68fef3e1eac1}" record_timestamp="1522871771114" record_key="mk_taurox_effect_taurox_leader">
-<campaign></campaign>
-<faction_leader>mk_taurox_political_party_beastmen</faction_leader>
-<group_key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-04T21:56:11" requires_translation="false" requires_recording="false">mk_taurox_effect_taurox_leader</group_key>
-<ui_section>lord_traits</ui_section>
-</frontend_faction_effect_groups>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_effect_groups.xsd" export_time="Tue Oct 31 08:48:49 2017" revision="11" export_branch="T:/" export_user="bob">
+<edit_uuid>626b843c-cb95-4913-bdcd-f8970248632e</edit_uuid>
 <frontend_faction_effect_groups record_uuid="{eea86f3b-b1e3-4a60-88b9-3ae450e6ff12}" record_timestamp="1508434010159" record_key="wh2_dlc09_arkhan_faction">
 <campaign></campaign>
 <faction_leader>wh2_dlc09_political_party_tmb_arkhan</faction_leader>

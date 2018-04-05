@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faction_to_faction_groups_junctions.xsd" export_time="lun. avr. 2 22:04:03 2018" revision="85" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>62029215-4826-4893-8211-e64ffb0de374</edit_uuid>
-<faction_to_faction_groups_junctions record_uuid="{318edaf9-9930-4b48-96c1-f1fdf989adeb}" record_timestamp="1522699443315" record_key="mk_taurox_bst_beastmen">
-<faction_group_key>wh_dlc03_fact_group_beastmen</faction_group_key>
-<faction_key>mk_taurox_bst_beastmen</faction_key>
-</faction_to_faction_groups_junctions>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faction_to_faction_groups_junctions.xsd" export_time="Mon Oct 23 12:50:52 2017" revision="80" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
+<edit_uuid>6ce418c1-695f-4e4e-b934-93e27e2817be</edit_uuid>
 <faction_to_faction_groups_junctions record_uuid="{d44f96eb-64ce-49e9-8125-f1444d269978}" record_timestamp="1508759448416" record_key="wh2_dlc09_rogue_black_creek_raiders">
 <faction_group_key>wh2_main_fact_group_rogue</faction_group_key>
 <faction_key>wh2_dlc09_rogue_black_creek_raiders</faction_key>
@@ -605,8 +601,8 @@
 <faction_group_key>wh_dlc05_fact_group_wood_elves</faction_group_key>
 <faction_key>wh2_main_wef_bowmen_of_oreon</faction_key>
 </faction_to_faction_groups_junctions>
-<faction_to_faction_groups_junctions record_uuid="{932a24e4-65ff-4404-b282-86f0676a52d1}" record_timestamp="1522378560617" record_key="wh_dlc03_bst_beastmen">
-<faction_group_key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-03-30T04:56:00" requires_translation="false" requires_recording="false">wh_dlc03_fact_group_beastmen</faction_group_key>
+<faction_to_faction_groups_junctions record_uuid="{932a24e4-65ff-4404-b282-86f0676a52d1}" record_timestamp="1438698664168" record_key="wh_dlc03_bst_beastmen">
+<faction_group_key>wh_dlc03_fact_group_beastmen</faction_group_key>
 <faction_key>wh_dlc03_bst_beastmen</faction_key>
 </faction_to_faction_groups_junctions>
 <faction_to_faction_groups_junctions record_uuid="{d711cdc8-cc09-49c4-8856-2ec8a0b7405b}" record_timestamp="1464188073680" record_key="wh_dlc03_bst_beastmen_brayherd">
