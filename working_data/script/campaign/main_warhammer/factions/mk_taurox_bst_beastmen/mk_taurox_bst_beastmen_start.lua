@@ -88,6 +88,25 @@ function apply_effect_bundles()
   cm:apply_effect_bundle("wh2_main_bundle_greenskin_animosity_bonus", TAUROX_FACTION, -1);
 end;
 
+function add_taurox_quest_battle_listener()
+  if not cm:get_saved_value("mk_taurox_bst_taurox_battle_quest") then
+    core:add_listener(
+      "Taurox_Quest_Battle",
+      "FactionTurnStart",
+      function(context)
+        local faction = context:faction();
+        return faction:is_human() and faction:name() == TAUROX_FACTION;
+      end,
+      function()
+        log('Trigger mission mk_taurox_bst_taurox_dual_cleaver');
+        cm:trigger_mission(TAUROX_FACTION, "mk_taurox_bst_taurox_dual_cleaver", true);
+        cm:set_saved_value("mk_taurox_bst_taurox_battle_quest", true);
+      end,
+      false
+    );
+  end;
+end;
+
 function add_beastmen_final_battle_listener()
   if not cm:get_saved_value("bst_final_battle_quest") then
     core:add_listener(

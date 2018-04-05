@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools version="2">
+  <tool _id="Terry::Tools::Select" nudge="0.001"/>
+  <tool _id="Terry::Tools::PaintTerrainMap" view_grid="0">
+    <map id="Null" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="" flow="1" spacing="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="LowFrequencyHeight" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Add" flow="1" spacing="0" value="0"/>
+        <operation name="Subtract" flow="1" spacing="0" value="0"/>
+        <operation name="Absolute" flow="1" spacing="0" value="0"/>
+        <operation name="Smooth" flow="1" spacing="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="LowFrequencyHeightSea" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Add" flow="1" spacing="0" value="0"/>
+        <operation name="Subtract" flow="1" spacing="0" value="0"/>
+        <operation name="Absolute" flow="1" spacing="0" value="0"/>
+        <operation name="Smooth" flow="1" spacing="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="Height" last_image_brush_path="">
+      <operations index="0">
+        <operation name="Add" flow="0.100000001" spacing="0" height="25" height_max="50" capped="false"/>
+        <operation name="Subtract" flow="0.100000001" spacing="0" height="25" height_max="50" capped="false"/>
+        <operation name="Absolute" flow="1" spacing="0" height="0"/>
+        <operation name="Smooth" flow="1" spacing="0"/>
+        <operation name="Erase" flow="1" spacing="0" opacity="1"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="Blend8" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Normal" flow="1" spacing="0" opacity="1" channel="0"/>
+        <operation name="Smooth" flow="1" spacing="0"/>
+        <operation name="Erase" flow="1" spacing="0" strength="1" erase_specific_channel="false" channel="0"/>
+        <operation name="Replace" flow="1" spacing="0" opacity="1" replace="0" with="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="BlendCampaign" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Set" spacing="0" texture="0"/>
+        <operation name="Clear" spacing="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="GroundType" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Set" spacing="0" ground_type="0"/>
+        <operation name="Clear" spacing="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="CustomRGB" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Normal" flow="1" spacing="0" colour="0 0 0 255" colour_rgb="0 0 0" soft="false" opacity="1"/>
+        <operation name="Erase" flow="1" spacing="0" soft="false"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="ColorOverlay" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Normal" flow="1" spacing="0" colour="0 0 0 255" colour_rgb="0 0 0" soft="true" opacity="1"/>
+        <operation name="Erase" flow="1" spacing="0" soft="false"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="CampaignTree" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Set" spacing="0" tree_colour="0"/>
+        <operation name="Clear" spacing="0"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+    <map id="Mask" last_image_brush_path="">
+      <operations index="-1">
+        <operation name="Normal" flow="1" spacing="0" opacity="1"/>
+        <operation name="Erase" flow="1" spacing="0" opacity="1"/>
+      </operations>
+      <brushes index="0">
+        <brush type="1" name="round" operation_index="-1" scale="10" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+        <spline_brush hardness="1" roundness="0.5"/>
+      </brushes>
+    </map>
+  </tool>
+  <tool _id="Terry::Tools::TerrainClipboard">
+    <map_types>
+      <Null enabled="1" bake="Separate"/>
+      <LowFrequencyHeight enabled="1" bake="Separate"/>
+      <LowFrequencyHeightSea enabled="1" bake="Separate"/>
+      <Height enabled="1" bake="Separate"/>
+      <Blend8 enabled="1" bake="Separate"/>
+      <Blend16 enabled="1" bake="Separate"/>
+      <BlendCampaign enabled="0" bake="Separate"/>
+      <GroundType enabled="0" bake="Separate"/>
+      <CustomRGB enabled="1" bake="Separate"/>
+      <ColorOverlay enabled="1" bake="Separate"/>
+      <CampaignTree enabled="0" bake="Separate"/>
+      <Mask enabled="1" bake="Separate"/>
+    </map_types>
+    <brush scale="50" max_scale="1000" rotation="0" scattering_enabled="false" scattering="0" size_jitter_enabled="false" size_jitter="0" angle_jitter_enabled="false" angle_jitter="0" hardness="0" roundness="0.5"/>
+    <operation flow="1" spacing="0" opacity="1"/>
+  </tool>
+  <tool _id="Terry::Tools::TapeMeasure"/>
+  <tool _id="Terry::Tools::SnapBBox"/>
+  <tool _id="Terry::Tools::SnapVertices"/>
+  <tool _id="Terry::Tools::CreatePrefab:Prefab" key="bst_nature_camp_03">
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateBuilding:Building" key="">
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateModel:Prop" model="">
+    <placement version="1" surface_oriented="1" surface_includes_objects="1" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateModel:Decal" model="">
+    <placement version="1" surface_oriented="1" surface_includes_objects="1" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateVFX:VFX" key="">
+    <placement version="1" surface_oriented="1" surface_includes_objects="1" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreatePolyline2DOnPlane:PolygonMesh">
+    <properties material="" affects_protection_map="false"/>
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreatePolyline2DOnPlane:TerrainHole">
+    <properties procedural_exclusion_zone="true" procedural_exclusion_zone_margin="5"/>
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateEntity:Vegetation" key="">
+    <placement version="1" surface_oriented="1" surface_includes_objects="0" scale="1" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="PaintVegetation"/>
+  <tool _id="Terry::Tools::CreatePolyline2DProjected:ProceduralExclusionZone">
+    <properties exclude_vegetation="true" exclude_grass="true"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateEntitySimple:PointLight">
+    <properties colour="255 255 255 255" colour_scale="21000" radius="10" animation_type="LAT_NONE" animation_speed_scale="0 0" colour_min="0" random_offset="0" falloff_type="WPLFT_LINEAR" for_light_probes_only="false"/>
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="10" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateEntitySimple:SpotLight">
+    <properties colour="255 255 255 255" intensity="21000" length="10" inner_angle="10" outer_angle="20" falloff="1" volumetric="false" gobo=""/>
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="10" altitude="0" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateEntitySimple:LightProbe">
+    <properties primary="false"/>
+    <placement version="1" surface_oriented="0" surface_includes_objects="0" scale="1" altitude="10" azimuth="0"/>
+  </tool>
+  <tool _id="Terry::Tools::CreatePolyline2DProjected:AIHint">
+    <properties type="AIH_DEFAULT_DEPLOYMENT_LINE"/>
+  </tool>
+  <tool _id="Terry::Tools::CreatePolyline2DProjected:NoGoRegion">
+    <properties/>
+  </tool>
+  <tool _id="Terry::Tools::CreatePolyline2DProjected:GoRegion">
+    <properties/>
+  </tool>
+  <tool _id="Terry::Tools::CreateDeploymentZone:DeploymentZone">
+    <properties facing_direction="0" deployment_type="DZT_1V1" deployment_category="DZC_DEFAULT" deployment_zone_id="0" alliance_id="0" configuration="0"/>
+    <shape type="Circle"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateDeploymentZoneRegion:DeploymentZoneRegion">
+    <properties region_type="DZRT_ADDITIVE"/>
+    <shape type="Circle"/>
+  </tool>
+  <tool _id="Terry::Tools::CreateRectangleProjected:PlayableArea">
+    <properties/>
+  </tool>
+  <tool _id="Terry::Tools::CreateSoundMarker:SoundMarker" key="">
+    <shape type="Point"/>
+  </tool>
+</tools>

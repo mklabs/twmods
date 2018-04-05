@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="3">
+  <show_project_wizard_at_startup value="true"/>
+  <show_export_success_dialog value="true"/>
+  <sound value="false"/>
+  <autosave>
+    <enable_autosave value="true"/>
+    <autosave_time_minutes value="15"/>
+    <autosave_warning_time_seconds value="15"/>
+    <autosave_slots value="100"/>
+  </autosave>
+  <view_3d>
+    <shiftwheel_scroll_scope value="AllFolders"/>
+    <overlay>
+      <editor_overlay value="true"/>
+      <overlay_filters value=""/>
+      <tile_grid value="true"/>
+      <tile_border value="true"/>
+      <tile_links value="true"/>
+      <land_no_gos value="false"/>
+      <water_no_gos value="false"/>
+      <naval_no_gos value="false"/>
+      <procedural_forest_ai_hints value="false"/>
+      <line_of_sight value="false"/>
+      <tree_soft_collisions value="false"/>
+      <height_map_as_colour value="false"/>
+      <height_map_as_colour_interval value="20"/>
+      <final_ground_type value="false"/>
+      <ground_type_opacity value="1"/>
+      <polygon_edit_grid_size value="10"/>
+      <show_outline_highlight value="false"/>
+      <show_campaign_tree_map value="false"/>
+      <hidden_line_opacity value="0.25"/>
+      <building_overlays>
+        <building_collision_outlines value="false"/>
+        <building_soft_collisions value="false"/>
+        <building_platforms value="false"/>
+        <collision_3d value="false"/>
+      </building_overlays>
+    </overlay>
+    <camera>
+      <allow_movement_through_terrain value="false"/>
+      <mouse>
+        <drag_speed value="1"/>
+        <rotate_speed value="1"/>
+        <zoom_speed value="1"/>
+        <height_drag_speed value="1"/>
+      </mouse>
+      <keyboard>
+        <move_speed value="1"/>
+        <rotate_speed value="1"/>
+        <shiftkey_factor value="1"/>
+      </keyboard>
+    </camera>
+    <grid__snapping>
+      <grid value="false"/>
+      <grid_spacing value="10"/>
+      <grid_offset value="0 0 0"/>
+      <grid_rotation value="0"/>
+      <grid_colour_1 value="0 0 0 127"/>
+      <grid_colour_2 value="255 255 255 0"/>
+      <grid_snap value="false"/>
+      <grid_snap_radius value="2"/>
+      <snap_vertically value="false"/>
+      <angle_snap value="false"/>
+      <angle_snap_spacing value="90"/>
+      <angle_snap_radius value="10"/>
+    </grid__snapping>
+    <warscape_graphics>
+      <preset value="WS_PRESET_EXTENDED_OPTION_HIGH"/>
+      <details>
+        <shader_model value="SHADER_MODEL_5_0"/>
+        <hdr value="QUALITY_OPTIONS5_HIGH"/>
+        <ssao value="false"/>
+        <screen_space_reflections value="false"/>
+        <antialiasing value="ANTI_ALIASING_DISABLED"/>
+        <texture_filtering value="TEXTURE_FILTERING_ANISOTROPIC_8X"/>
+        <texture_quality value="QUALITY_OPTIONS_ULTRA"/>
+        <unit_quality value="QUALITY_OPTIONS_HIGH"/>
+        <building_quality value="WS_PRESET_OPTION_HIGH"/>
+        <shadows_quality value="QUALITY_OPTIONS_HIGH"/>
+        <tree_quality value="QUALITY_OPTIONS_HIGH"/>
+        <grass_quality value="QUALITY_OPTIONS_HIGH"/>
+        <terrain_quality value="QUALITY_OPTIONS_HIGH"/>
+        <water_quality value="QUALITY_OPTIONS_HIGH"/>
+        <sky_quality value="QUALITY_OPTIONS_HIGH"/>
+        <distortion value="true"/>
+        <effects_quality value="QUALITY_OPTIONS_HIGH"/>
+        <depth_of_field value="QUALITY_OPTIONS4_OFF"/>
+      </details>
+    </warscape_graphics>
+  </view_3d>
+</settings>
