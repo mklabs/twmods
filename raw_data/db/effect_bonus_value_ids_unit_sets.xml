@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_ids_unit_sets.xsd" export_time="Fri Dec 8 14:18:55 2017" revision="288" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>874d8e81-2dda-410d-92e9-3e838ef992a4</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_ids_unit_sets.xsd" export_time="ven. avr. 6 22:56:17 2018" revision="289" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>c00d63bc-43f5-4541-b3e3-3a27283e70ab</edit_uuid>
 <effect_bonus_value_ids_unit_sets record_uuid="{bdd5d2c2-c166-44f2-9631-43c5b0766ff7}" record_timestamp="1485446693577" record_key="minimum_xp_gain_from_eligible_battleminimum_xp_gain_from_eligible_battleall_units">
 <bonus_value_id>minimum_xp_gain_from_eligible_battle</bonus_value_id>
 <effect>minimum_xp_gain_from_eligible_battle</effect>
 <unit_set>all_units</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{165a8f24-28db-4cb9-a2c5-5765bb7e64e3}" record_timestamp="1523048177739" record_key="mk_taurox_effect_skill_armour_monstrous_infantryarmour_modmk_taurox_bst_monstrous_infantry">
+<bonus_value_id>armour_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_armour_monstrous_infantry</effect>
+<unit_set>mk_taurox_bst_monstrous_infantry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{fdab11e2-de46-4c92-af4b-7f0a2376b435}" record_timestamp="1523048177724" record_key="mk_taurox_effect_skill_charge_bonus_cavalrycharge_addmk_taurox_bst_cavalry">
+<bonus_value_id>charge_add</bonus_value_id>
+<effect>mk_taurox_effect_skill_charge_bonus_cavalry</effect>
+<unit_set>mk_taurox_bst_cavalry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{2b06b6a7-cd9b-455a-b10a-962837c524c1}" record_timestamp="1523048177772" record_key="mk_taurox_effect_skill_leadership_creaturesmoralemk_taurox_bst_creatures">
+<bonus_value_id>morale</bonus_value_id>
+<effect>mk_taurox_effect_skill_leadership_creatures</effect>
+<unit_set>mk_taurox_bst_creatures</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{642144ad-9abe-4153-b3c1-6fbcdf9f0777}" record_timestamp="1523048177755" record_key="mk_taurox_effect_skill_leadership_infantryammo_modmk_taurox_bst_melee_infantry">
+<bonus_value_id>ammo_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_leadership_infantry</effect>
+<unit_set>mk_taurox_bst_melee_infantry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{988ab84a-75af-48a6-8c22-9f2dd6352968}" record_timestamp="1523048177667" record_key="mk_taurox_effect_skill_melee_attack_creaturesmelee_attack_modmk_taurox_bst_creatures">
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_melee_attack_creatures</effect>
+<unit_set>mk_taurox_bst_creatures</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{dd127b02-e501-44fd-9647-acfb7048c2d1}" record_timestamp="1523048177651" record_key="mk_taurox_effect_skill_melee_attack_infantrymelee_attack_modmk_taurox_bst_melee_infantry">
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_melee_attack_infantry</effect>
+<unit_set>mk_taurox_bst_melee_infantry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{8d1c5c44-9a01-4984-9b7c-241db933550a}" record_timestamp="1523048177703" record_key="mk_taurox_effect_skill_melee_attack_monstrous_infantrymelee_attack_modmk_taurox_bst_monstrous_infantry">
+<bonus_value_id>melee_attack_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_melee_attack_monstrous_infantry</effect>
+<unit_set>mk_taurox_bst_monstrous_infantry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{10089d4f-2bca-423e-98c5-055edfe078dc}" record_timestamp="1523048177685" record_key="mk_taurox_effect_skill_melee_defense_creaturesmelee_defence_modmk_taurox_bst_creatures">
+<bonus_value_id>melee_defence_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_melee_defense_creatures</effect>
+<unit_set>mk_taurox_bst_creatures</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{950d2050-1ed5-40c8-b5ee-df719df522cb}" record_timestamp="1523048177605" record_key="mk_taurox_effect_skill_missile_resistance_infantryunit_damage_resistance_missile_modmk_taurox_bst_melee_infantry">
+<bonus_value_id>unit_damage_resistance_missile_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_missile_resistance_infantry</effect>
+<unit_set>mk_taurox_bst_melee_infantry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{67fe0e47-119d-4d35-8b29-d5eee12875e6}" record_timestamp="1523048177589" record_key="mk_taurox_effect_skill_physical_resistance_cavalryunit_damage_resistance_physical_modmk_taurox_bst_cavalry">
+<bonus_value_id>unit_damage_resistance_physical_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_physical_resistance_cavalry</effect>
+<unit_set>mk_taurox_bst_cavalry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{570ecab5-520c-42a5-982f-4cd3ddbf4258}" record_timestamp="1523048177636" record_key="mk_taurox_effect_skill_physical_resistance_monstrous_infantryunit_damage_resistance_physical_modmk_taurox_bst_monstrous_infantry">
+<bonus_value_id>unit_damage_resistance_physical_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_physical_resistance_monstrous_infantry</effect>
+<unit_set>mk_taurox_bst_monstrous_infantry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{9613d70d-8ce2-4f5f-90ba-08651d552758}" record_timestamp="1523048177622" record_key="mk_taurox_effect_skill_speed_creaturesmod_land_movement_battlemk_taurox_bst_creatures">
+<bonus_value_id>mod_land_movement_battle</bonus_value_id>
+<effect>mk_taurox_effect_skill_speed_creatures</effect>
+<unit_set>mk_taurox_bst_creatures</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{a32bcd07-65eb-45db-ba7b-135ad499d638}" record_timestamp="1523048177575" record_key="mk_taurox_effect_skill_weapon_strength_cavalrymelee_damage_ap_mod_addmk_taurox_bst_cavalry">
+<bonus_value_id>melee_damage_ap_mod_add</bonus_value_id>
+<effect>mk_taurox_effect_skill_weapon_strength_cavalry</effect>
+<unit_set>mk_taurox_bst_cavalry</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{1069181c-fee2-41cc-97fc-8c8ef6f22241}" record_timestamp="1523048177788" record_key="mk_taurox_effect_skill_weapon_strength_cavalrymelee_damage_mod_multmk_taurox_bst_cavalry">
+<bonus_value_id>melee_damage_mod_mult</bonus_value_id>
+<effect>mk_taurox_effect_skill_weapon_strength_cavalry</effect>
+<unit_set>mk_taurox_bst_cavalry</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{365af041-9808-4352-8b1f-5cdcc0a956dc}" record_timestamp="1510243905540" record_key="wh2_dlc09_edict_tmb_force_all_campaign_experience_base_allunit_xp_modall_units">
 <bonus_value_id>unit_xp_mod</bonus_value_id>
@@ -484,7 +554,7 @@
 <effect_bonus_value_ids_unit_sets record_uuid="{a104a51c-8ae0-4e05-9ebb-536f8c6af124}" record_timestamp="1509640551257" record_key="wh2_dlc09_effect_reload_speed_tmb_chariot_warsphinxreloadwh2_dlc09_tmb_veh_skeleton_archer_chariot_0">
 <bonus_value_id>reload</bonus_value_id>
 <effect>wh2_dlc09_effect_reload_speed_tmb_chariot_warsphinx</effect>
-<unit_set state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_tmb_veh_skeleton_archer_chariot_0</unit_set>
+<unit_set state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_tmb_veh_skeleton_archer_chariot_0</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{ea0d051b-14cc-4cc1-be2b-9809fb219540}" record_timestamp="1512042314801" record_key="wh2_dlc09_effect_reload_tmb_chariotsreloadwh2_dlc09_tmb_chariots">
 <bonus_value_id>reload</bonus_value_id>
@@ -517,27 +587,27 @@
 <unit_set>skv_stormvermin</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{29e4055c-77de-474d-98e6-ee17b49e1849}" record_timestamp="1509639594310" record_key="wh2_dlc09_effect_speed_tmb_horsemen_necropolicemod_land_movement_battlewh2_dlc09_tmb_cav_necropolis_knights_0">
-<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">mod_land_movement_battle</bonus_value_id>
+<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">mod_land_movement_battle</bonus_value_id>
 <effect>wh2_dlc09_effect_speed_tmb_horsemen_necropolice</effect>
 <unit_set>wh2_dlc09_tmb_cav_necropolis_knights_0</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{7fae1d8b-22f8-4bcc-9090-b603d94f1c09}" record_timestamp="1509639594295" record_key="wh2_dlc09_effect_speed_tmb_horsemen_necropolicemod_land_movement_battlewh2_dlc09_tmb_cav_necropolis_knights_1">
-<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">mod_land_movement_battle</bonus_value_id>
+<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">mod_land_movement_battle</bonus_value_id>
 <effect>wh2_dlc09_effect_speed_tmb_horsemen_necropolice</effect>
 <unit_set>wh2_dlc09_tmb_cav_necropolis_knights_1</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{01bdeefb-bb3c-4f23-b1f6-feb8117e762c}" record_timestamp="1509639594279" record_key="wh2_dlc09_effect_speed_tmb_horsemen_necropolicemod_land_movement_battlewh2_dlc09_tmb_horsemen">
-<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">mod_land_movement_battle</bonus_value_id>
+<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">mod_land_movement_battle</bonus_value_id>
 <effect>wh2_dlc09_effect_speed_tmb_horsemen_necropolice</effect>
 <unit_set>wh2_dlc09_tmb_horsemen</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{74447509-9d72-4a12-8f75-fc215349193b}" record_timestamp="1509639594250" record_key="wh2_dlc09_effect_speed_tmb_stalker_necropolis_knightmod_land_movement_battlewh2_dlc09_tmb_stalker_necropolis_knight">
-<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">mod_land_movement_battle</bonus_value_id>
+<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">mod_land_movement_battle</bonus_value_id>
 <effect>wh2_dlc09_effect_speed_tmb_stalker_necropolis_knight</effect>
 <unit_set>wh2_dlc09_tmb_stalker_necropolis_knight</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{5eaae6e8-2b64-4a4f-84a6-b623b6c5b616}" record_timestamp="1509639594264" record_key="wh2_dlc09_effect_speed_tmb_vet_all_infantrymod_land_movement_battlewh2_dlc09_tmb_vet_all_infantry">
-<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">mod_land_movement_battle</bonus_value_id>
+<bonus_value_id state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">mod_land_movement_battle</bonus_value_id>
 <effect>wh2_dlc09_effect_speed_tmb_vet_all_infantry</effect>
 <unit_set>wh2_dlc09_tmb_vet_all_infantry</unit_set>
 </effect_bonus_value_ids_unit_sets>
