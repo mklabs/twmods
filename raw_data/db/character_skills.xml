@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="ven. avr. 6 03:25:41 2018" revision="619" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>c2330bdd-6b2d-4d28-b92d-5d852f02b709</edit_uuid>
-<character_skills record_uuid="{94fe27d4-9f30-46ce-9dbf-76737472cb99}" record_timestamp="1522977941265" record_key="mk_taurox_skill_bst_ward_save">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="ven. avr. 6 03:45:34 2018" revision="620" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>10999eca-0d99-4a9e-82f4-ef0e38c9fea3</edit_uuid>
+<character_skills record_uuid="{94fe27d4-9f30-46ce-9dbf-76737472cb99}" record_timestamp="1522979134037" record_key="mk_taurox_skill_bst_ward_save">
 <background_weighting>0</background_weighting>
 <image_path>ward_save.png</image_path>
 <influence_cost>0</influence_cost>
@@ -9,8 +9,8 @@
 <is_female_only_background_skill>0</is_female_only_background_skill>
 <is_male_only_background_skill>0</is_male_only_background_skill>
 <key>mk_taurox_skill_bst_ward_save</key>
-<localised_description></localised_description>
-<localised_name>Beast Guard</localised_name>
+<localised_description state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T03:45:34" requires_translation="false" requires_recording="false"></localised_description>
+<localised_name state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T03:45:33" requires_translation="false" requires_recording="false">Brass Body</localised_name>
 <pre_battle_speech_parameter></pre_battle_speech_parameter>
 <unlocked_at_rank>13</unlocked_at_rank>
 </character_skills>
