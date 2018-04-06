@@ -10,8 +10,8 @@
 - Implement Taurox dual cleaver weapon (take a look at mixus mod)
   - Add it as anciliary for quest battle
 
-- Add proper victory conditions
-  - Destroy 5/10 of the following factions:
+* Add proper victory condition
+  - Destroy 5/10 of the following factions: (see how to implement)
     - Empire
     - Kisvlev
     - Bretonia
