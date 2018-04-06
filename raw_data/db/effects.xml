@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effects.xsd" export_time="ven. avr. 6 22:52:08 2018" revision="1555" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>d4939822-868c-43c0-aa7b-d56a48f1603a</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effects.xsd" export_time="sam. avr. 7 01:03:07 2018" revision="1556" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>8f31ebd2-1e1f-473f-9bd3-27c94780ca6a</edit_uuid>
 <effects record_uuid="{f6e17309-17b2-4beb-ba83-2c6c64671843}" record_timestamp="1470841192812" record_key="EMPTY_EFFECT">
 <category>both</category>
 <description state="APPROVED" last_approved_text="((EMPTY EFFECT))" last_edit_user="bob" requires_translation="false" requires_recording="false">((EMPTY EFFECT))</description>
@@ -37,122 +37,122 @@
 <is_positive_value_good>1</is_positive_value_good>
 <priority>50</priority>
 </effects>
-<effects record_uuid="{e8255fa6-09a6-4e99-abe5-2eb0bad7b9b8}" record_timestamp="1523046394973" record_key="mk_taurox_effect_skill_armour_monstrous_infantry">
+<effects record_uuid="{e8255fa6-09a6-4e99-abe5-2eb0bad7b9b8}" record_timestamp="1523055787095" record_key="mk_taurox_effect_skill_armour_monstrous_infantry">
 <category state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:26:34" requires_translation="false" requires_recording="false">battle</category>
 <description>Armour: %+n% for Monstrous infantry units</description>
 <effect>mk_taurox_effect_skill_armour_monstrous_infantry</effect>
 <icon>armour.png</icon>
 <icon_negative>armour.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>20</priority>
+<priority>701</priority>
 </effects>
-<effects record_uuid="{1517a89d-4aa2-41b7-a38c-ed77cb33b225}" record_timestamp="1523046394986" record_key="mk_taurox_effect_skill_charge_bonus_cavalry">
+<effects record_uuid="{1517a89d-4aa2-41b7-a38c-ed77cb33b225}" record_timestamp="1523055787439" record_key="mk_taurox_effect_skill_charge_bonus_cavalry">
 <category state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:26:34" requires_translation="false" requires_recording="false">battle</category>
 <description>Charge bonus: %+n for Cavalry units</description>
 <effect>mk_taurox_effect_skill_charge_bonus_cavalry</effect>
 <icon>charge.png</icon>
 <icon_negative>charge.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>50</priority>
+<priority>701</priority>
 </effects>
-<effects record_uuid="{deeeb1bd-70bd-49f4-a64e-ffd362db0ef3}" record_timestamp="1523046395036" record_key="mk_taurox_effect_skill_leadership_creatures">
+<effects record_uuid="{deeeb1bd-70bd-49f4-a64e-ffd362db0ef3}" record_timestamp="1523055787327" record_key="mk_taurox_effect_skill_leadership_creatures">
 <category>battle</category>
 <description>Leadership: %+n for Warhounds, Harpies and Razorgors units</description>
 <effect>mk_taurox_effect_skill_leadership_creatures</effect>
 <icon>morale.png</icon>
 <icon_negative>morale.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>30</priority>
+<priority>702</priority>
 </effects>
-<effects record_uuid="{eb120e32-303a-487d-a20d-9e080cd32a05}" record_timestamp="1523046395066" record_key="mk_taurox_effect_skill_leadership_infantry">
+<effects record_uuid="{eb120e32-303a-487d-a20d-9e080cd32a05}" record_timestamp="1523055787370" record_key="mk_taurox_effect_skill_leadership_infantry">
 <category>battle</category>
 <description>Leadership: %+n for Ungors, Gors and Bestigors units</description>
 <effect>mk_taurox_effect_skill_leadership_infantry</effect>
 <icon>morale.png</icon>
 <icon_negative>morale.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>30</priority>
+<priority>702</priority>
 </effects>
-<effects record_uuid="{21d86860-fa86-4a2e-9e81-68e042b1c77e}" record_timestamp="1523046395017" record_key="mk_taurox_effect_skill_melee_attack_creatures">
+<effects record_uuid="{21d86860-fa86-4a2e-9e81-68e042b1c77e}" record_timestamp="1523055786947" record_key="mk_taurox_effect_skill_melee_attack_creatures">
 <category>battle</category>
 <description>Melee attack: %+n for Warhounds, Harpies and Razorgors units</description>
 <effect>mk_taurox_effect_skill_melee_attack_creatures</effect>
 <icon>melee.png</icon>
 <icon_negative>melee.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>10</priority>
+<priority>700</priority>
 </effects>
-<effects record_uuid="{0a7dda0d-3ea5-4351-8e5d-384d5fb390fb}" record_timestamp="1523046395076" record_key="mk_taurox_effect_skill_melee_attack_infantry">
+<effects record_uuid="{0a7dda0d-3ea5-4351-8e5d-384d5fb390fb}" record_timestamp="1523055786983" record_key="mk_taurox_effect_skill_melee_attack_infantry">
 <category>battle</category>
 <description>Melee attack: %+n for Ungors, Gors and Bestigors units</description>
 <effect>mk_taurox_effect_skill_melee_attack_infantry</effect>
 <icon>melee.png</icon>
 <icon_negative>melee.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>10</priority>
+<priority>700</priority>
 </effects>
-<effects record_uuid="{f521b118-24bd-47b7-9cd4-4352b6d39417}" record_timestamp="1523046395056" record_key="mk_taurox_effect_skill_melee_attack_monstrous_infantry">
+<effects record_uuid="{f521b118-24bd-47b7-9cd4-4352b6d39417}" record_timestamp="1523055787019" record_key="mk_taurox_effect_skill_melee_attack_monstrous_infantry">
 <category>battle</category>
 <description>Melee attack: %+n for Monstrous infantry units</description>
 <effect>mk_taurox_effect_skill_melee_attack_monstrous_infantry</effect>
 <icon>melee.png</icon>
 <icon_negative>melee.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>10</priority>
+<priority>700</priority>
 </effects>
-<effects record_uuid="{c528e7e1-7231-4c3d-9de1-ef48e6f8ded0}" record_timestamp="1523046395046" record_key="mk_taurox_effect_skill_melee_defense_creatures">
+<effects record_uuid="{c528e7e1-7231-4c3d-9de1-ef48e6f8ded0}" record_timestamp="1523055787056" record_key="mk_taurox_effect_skill_melee_defense_creatures">
 <category>battle</category>
 <description>Melee defence: %+n for Warhounds, Harpies and Razorgors units</description>
 <effect>mk_taurox_effect_skill_melee_defense_creatures</effect>
 <icon>defence.png</icon>
 <icon_negative>defence.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>15</priority>
+<priority>701</priority>
 </effects>
-<effects record_uuid="{6d8d3143-43d1-400f-8be9-0ea7df01d737}" record_timestamp="1523046395026" record_key="mk_taurox_effect_skill_missile_resistance_infantry">
+<effects record_uuid="{6d8d3143-43d1-400f-8be9-0ea7df01d737}" record_timestamp="1523055787135" record_key="mk_taurox_effect_skill_missile_resistance_infantry">
 <category>battle</category>
 <description>Missile resistance: %n% for Ungors, Gors and Bestigors units</description>
 <effect>mk_taurox_effect_skill_missile_resistance_infantry</effect>
 <icon>resistance_missile.png</icon>
 <icon_negative>resistance_missile.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>25</priority>
+<priority>701</priority>
 </effects>
-<effects record_uuid="{1af5f97c-e6d0-4ae8-aa47-900778175301}" record_timestamp="1523046394963" record_key="mk_taurox_effect_skill_physical_resistance_cavalry">
+<effects record_uuid="{1af5f97c-e6d0-4ae8-aa47-900778175301}" record_timestamp="1523055787255" record_key="mk_taurox_effect_skill_physical_resistance_cavalry">
 <category>battle</category>
 <description state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:01:02" requires_translation="false" requires_recording="false">Physical resistance: %n% for Cavalry units</description>
 <effect>mk_taurox_effect_skill_physical_resistance_cavalry</effect>
 <icon>resistance_physical.png</icon>
 <icon_negative>resistance_physical.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>25</priority>
+<priority>700</priority>
 </effects>
-<effects record_uuid="{a8e4fd4b-b791-43ea-b027-2d832bfa3015}" record_timestamp="1523046394954" record_key="mk_taurox_effect_skill_physical_resistance_monstrous_infantry">
+<effects record_uuid="{a8e4fd4b-b791-43ea-b027-2d832bfa3015}" record_timestamp="1523055787292" record_key="mk_taurox_effect_skill_physical_resistance_monstrous_infantry">
 <category>battle</category>
 <description state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:01:02" requires_translation="false" requires_recording="false">Physical resistance: %n% for Monstrous infanrty units</description>
 <effect>mk_taurox_effect_skill_physical_resistance_monstrous_infantry</effect>
 <icon>resistance_physical.png</icon>
 <icon_negative>resistance_physical.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>25</priority>
+<priority>702</priority>
 </effects>
-<effects record_uuid="{38f9fd48-8af0-4ec8-a4a5-302012db4ec3}" record_timestamp="1523046395006" record_key="mk_taurox_effect_skill_speed_creatures">
+<effects record_uuid="{38f9fd48-8af0-4ec8-a4a5-302012db4ec3}" record_timestamp="1523055787515" record_key="mk_taurox_effect_skill_speed_creatures">
 <category>battle</category>
 <description>Speed: %+n% for Warhounds, Harpies and Razorgors units</description>
 <effect>mk_taurox_effect_skill_speed_creatures</effect>
 <icon>battle_movement.png</icon>
 <icon_negative>battle_movement.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>100</priority>
+<priority>703</priority>
 </effects>
-<effects record_uuid="{985d6e1c-b313-4233-960a-2841eb14ae0b}" record_timestamp="1523047928702" record_key="mk_taurox_effect_skill_weapon_strength_cavalry">
+<effects record_uuid="{985d6e1c-b313-4233-960a-2841eb14ae0b}" record_timestamp="1523055787480" record_key="mk_taurox_effect_skill_weapon_strength_cavalry">
 <category state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:26:34" requires_translation="false" requires_recording="false">battle</category>
 <description state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:52:08" requires_translation="false" requires_recording="false">Weapon strength: %+n% for Beastmen cavalry units</description>
 <effect>mk_taurox_effect_skill_weapon_strength_cavalry</effect>
 <icon>weapon_damage.png</icon>
 <icon_negative state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T22:01:25" requires_translation="false" requires_recording="false">weapon_damage.png</icon_negative>
 <is_positive_value_good>1</is_positive_value_good>
-<priority>70</priority>
+<priority>702</priority>
 </effects>
 <effects record_uuid="{e46b03a6-5bab-4a53-9836-311409857b49}" record_timestamp="1509377823068" record_key="w2_dlc09_tmb_lord_trait_khalida_climate_dummy">
 <category>campaign</category>

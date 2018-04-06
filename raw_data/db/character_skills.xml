@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="ven. avr. 6 21:16:48 2018" revision="622" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>506dd311-dcaf-4d11-a501-97a3fe316e5a</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="character_skills.xsd" export_time="sam. avr. 7 00:51:30 2018" revision="623" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>a3f5bfd3-9c47-46a2-b351-828b82da4661</edit_uuid>
 <character_skills record_uuid="{2d9eaf14-6590-403b-b7a6-6f6075f0dd12}" record_timestamp="1523042208362" record_key="mk_taurox_skill_bst_rank7_cavalry">
 <background_weighting>0</background_weighting>
 <image_path>icon_stat_charge_bonus.png</image_path>
@@ -40,9 +40,9 @@
 <pre_battle_speech_parameter></pre_battle_speech_parameter>
 <unlocked_at_rank>0</unlocked_at_rank>
 </character_skills>
-<character_skills record_uuid="{fa33afaa-39cc-4d69-91fb-0bba85ccaac1}" record_timestamp="1523042208355" record_key="mk_taurox_skill_bst_rank7_monstrous_infantry">
+<character_skills record_uuid="{fa33afaa-39cc-4d69-91fb-0bba85ccaac1}" record_timestamp="1523055090131" record_key="mk_taurox_skill_bst_rank7_monstrous_infantry">
 <background_weighting>0</background_weighting>
-<image_path>icon_stat_damage.png</image_path>
+<image_path state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-07T00:51:30" requires_translation="false" requires_recording="false">ward_save_battle.png</image_path>
 <influence_cost>0</influence_cost>
 <is_background_skill>0</is_background_skill>
 <is_female_only_background_skill>0</is_female_only_background_skill>
