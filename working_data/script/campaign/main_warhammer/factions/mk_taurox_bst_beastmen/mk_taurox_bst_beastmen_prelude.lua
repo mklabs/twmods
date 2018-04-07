@@ -9,26 +9,26 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 
-function log(str)
-  output('[taurox] ' .. str);
-end;
+local log = require('mk/log')('campaign:mk_taurox_bst_beastmen_prelude');
+
+local constants = require('mk/constants');
+local TAUROX_FACTION = constants.TAUROX_FACTION;
+local TAUROX_FORENAME = constants.TAUROX_FORENAME;
+local TAUROX_NAME = constants.TAUROX_NAME;
+local TAUROX_POS_X = constants.TAUROX_POS_X;
+local TAUROX_POS_Y = constants.TAUROX_POS_Y;
+local GHORROS_FORENAME = constants.GHORROS_FORENAME;
+local GHORROS_POS_X = constants.GHORROS_POS_X;
+local GHORROS_POS_Y = constants.GHORROS_POS_Y;
 
 log("Prelude loaded for " .. local_faction);
 
 function start_beastmen_prelude()
   log("TAUROX start_beastmen_prelude() called");
-
-  -- chapter missions
   chapter_one_mission:manual_start();
-
   cm:modify_advice(true);
-
   start_beastmen_interventions();
 end;
-
-
-
-
 
 ---------------------------------------------------------------
 --
@@ -36,7 +36,7 @@ end;
 --
 ---------------------------------------------------------------
 
-function start_beastmen_interventions()
+local function start_beastmen_interventions()
 
   out.interventions("* start_beastmen_interventions() called");
   log("* start_beastmen_interventions() called");
@@ -61,7 +61,7 @@ end;
 
 
 -- intervention declaration
-in_beastmen_racial_advice = intervention:new(
+local in_beastmen_racial_advice = intervention:new(
   "in_beastmen_racial_advice",                         -- string name
   25,                                     -- cost
   function() trigger_in_beastmen_racial_advice() end,              -- trigger callback
@@ -82,7 +82,7 @@ in_beastmen_racial_advice:add_triggering_condition(
 );
 
 
-function trigger_in_beastmen_racial_advice()
+local function trigger_in_beastmen_racial_advice()
   log("trigger_in_beastmen_racial_advice() called");
 
   play_advice_for_intervention(
@@ -98,13 +98,6 @@ function trigger_in_beastmen_racial_advice()
 end;
 
 
-
-
-
-
-
-
-
 ---------------------------------------------------------------
 --
 --  beastmen horde advice
@@ -113,7 +106,7 @@ end;
 
 
 -- intervention declaration
-in_beastmen_horde_advice = intervention:new(
+local in_beastmen_horde_advice = intervention:new(
   "in_beastmen_horde_advice",                           -- string name
   40,                                       -- cost
   function() trigger_in_beastmen_horde_advice() end,                -- trigger callback
@@ -135,7 +128,7 @@ in_beastmen_horde_advice:add_triggering_condition(
 );
 
 
-function trigger_in_beastmen_horde_advice()
+local function trigger_in_beastmen_horde_advice()
   log("trigger_in_beastmen_horde_advice() called");
 
   play_advice_for_intervention(
@@ -150,26 +143,6 @@ function trigger_in_beastmen_horde_advice()
   )
 end;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------
 --
 --  Bestial Rage advice
@@ -178,7 +151,7 @@ end;
 
 
 -- intervention declaration
-in_beastmen_bestial_rage_advice = intervention:new(
+local in_beastmen_bestial_rage_advice = intervention:new(
   "in_beastmen_bestial_rage_advice",                       -- string name
   60,                                     -- cost
   function() trigger_in_beastmen_bestial_rage_advice() end,          -- trigger callback
@@ -199,8 +172,7 @@ in_beastmen_bestial_rage_advice:add_triggering_condition(
   end
 );
 
-
-function trigger_in_beastmen_bestial_rage_advice()
+local function trigger_in_beastmen_bestial_rage_advice()
   log("trigger_in_beastmen_bestial_rage_advice() called");
 
   play_advice_for_intervention(
@@ -216,20 +188,6 @@ function trigger_in_beastmen_bestial_rage_advice()
   );
 end;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------
 --
 --  low bestial rage
@@ -237,7 +195,7 @@ end;
 ---------------------------------------------------------------
 
 -- intervention declaration
-in_low_bestial_rage = intervention:new(
+local in_low_bestial_rage = intervention:new(
   "low_bestial_rage",                           -- string name
   25,                                 -- cost
   function() in_low_bestial_rage_advice_trigger() end,        -- trigger callback
@@ -266,9 +224,7 @@ in_low_bestial_rage:add_triggering_condition(
   end
 );
 
-
-
-function in_low_bestial_rage_advice_trigger()
+local function in_low_bestial_rage_advice_trigger()
   local mf_cqi = in_low_bestial_rage.mf_cqi;
   local char_cqi = false;
 
@@ -297,17 +253,6 @@ function in_low_bestial_rage_advice_trigger()
   );
 end;
 
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------
 --
 --  player brayherd
@@ -315,7 +260,7 @@ end;
 ---------------------------------------------------------------
 
 -- intervention declaration
-in_player_brayherd = intervention:new(
+local in_player_brayherd = intervention:new(
   "player_brayherd",                                     -- string name
   20,                                           -- cost
   function() in_player_brayherd_trigger() end,                      -- trigger callback
@@ -335,7 +280,7 @@ in_player_brayherd:add_triggering_condition(
 );
 
 
-function in_player_brayherd_trigger()
+local function in_player_brayherd_trigger()
   local char_cqi = in_player_brayherd.char_cqi;
 
   -- Good, good! Unleash the rage within! The warherds have gathered and a brayherd has been formed. Harness its fury and crush your enemies!
@@ -354,20 +299,6 @@ function in_player_brayherd_trigger()
   );
 end;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------
 --
 --  Beast Paths advice
@@ -376,7 +307,7 @@ end;
 
 
 -- intervention declaration
-in_beastmen_beast_paths_advice = intervention:new(
+local in_beastmen_beast_paths_advice = intervention:new(
   "in_beastmen_beast_paths_advice",                       -- string name
   60,                                     -- cost
   function() trigger_in_beastmen_beast_paths_advice() end,          -- trigger callback
@@ -396,7 +327,7 @@ in_beastmen_beast_paths_advice:add_triggering_condition(
   end
 );
 
-function trigger_in_beastmen_beast_paths_advice()
+local function trigger_in_beastmen_beast_paths_advice()
   log("trigger_in_beastmen_beast_paths_advice() called");
 
   play_advice_for_intervention(
@@ -413,16 +344,6 @@ function trigger_in_beastmen_beast_paths_advice()
 end;
 
 
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------
 --
 --  Hidden Encampment Stance advice
@@ -431,7 +352,7 @@ end;
 
 
 -- intervention declaration
-in_beastmen_hidden_encampment_stance_advice = intervention:new(
+local in_beastmen_hidden_encampment_stance_advice = intervention:new(
   "in_beastmen_hidden_encampment_stance_advice",                     -- string name
   60,                                         -- cost
   function() trigger_in_beastmen_hidden_encampment_stance_advice() end,        -- trigger callback
@@ -489,7 +410,7 @@ in_beastmen_hidden_encampment_stance_advice:add_triggering_condition(
 
 
 
-function trigger_in_beastmen_hidden_encampment_stance_advice()
+local function trigger_in_beastmen_hidden_encampment_stance_advice()
   log("trigger_in_beastmen_hidden_encampment_stance_advice() called");
 
   play_advice_for_intervention(

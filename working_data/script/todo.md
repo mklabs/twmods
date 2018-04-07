@@ -1,29 +1,11 @@
-
-
 - Finish up the skill tree for Taurox and Ghorros
-  - Implement all for rank7 skill for beastmen
-  - Implement unique skill for Taurox and Ghorros
+  [x] Implement all for rank7 skill for beastmen
+  - Implement unique skill for Taurox and Ghorros (partly done)
 
 - Implement basic quest battle for Taurox
   - Hook it up in campaign
 
 - Implement Taurox dual cleaver weapon (take a look at mixus mod)
-  - Add it as anciliary for quest battle
-
-* Add proper victory condition
-  - Destroy 5/10 of the following factions: (see how to implement)
-    - Empire
-    - Kisvlev
-    - Bretonia
-    - Dwarf
-    - Grenskins
-    - Vampire Counts / Von Carstein
-    - Vargs / Skaelings
-    - Wood elf
-    - Naggarond / Cult of Pleasrue
-    - Clan Rictus / Clan Mors / Clan Pestilens
-    - Hexoatl / Last Defenders
-    - Lothern / Order of Loremaster
 
 - Implement chapter objectives for Taurox / Ghorros
   - Have taurox start in Talebecland, somewhere in the forest.

@@ -8,11 +8,12 @@
     "game": "../Warhammer2.exe",
     "log": "npm run logs",
     "logs": "ctail ../taurox_script_log.txt",
+    "logs-taurox": "echo \"ctail ../taurox_script_log.txt | grep '\\[taurox\\]'\"",
     "bob": "./binaries/BOB.modder.x64.exe",
     "tweak": "./binaries/Tweak.modder.x64",
     "commit-lazy": "git commit -am 'Lazy commit'",
     "commit-ask": "git commit -a",
-    "all": "npm run mod && npm run logs"
+    "all": "npm run mod && npm run logs-taurox"
   },
   "keywords": [],
   "author": "",
