@@ -55,11 +55,12 @@ if (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(loca
   -- Khazrak chapter missions, for now
   -- TODO: Tailor chapter obj for Taurox
   if not cm:is_multiplayer() then
-    chapter_one_mission = chapter_mission:new(1, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_01", nil);
-    chapter_two_mission = chapter_mission:new(2, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_02", nil);
-    chapter_three_mission = chapter_mission:new(3, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_03", nil);
-    chapter_four_mission = chapter_mission:new(4, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_04", nil);
-    chapter_five_mission = chapter_mission:new(5, local_faction, "wh_dlc03_objective_beastmen_main_khazrak_05", nil);
+    log('Start beastmen chapter missions');
+    chapter_one_mission = chapter_mission:new(1, BEASTMEN_FACTION, "wh_dlc03_objective_beastmen_main_khazrak_01", nil);
+    chapter_two_mission = chapter_mission:new(2, BEASTMEN_FACTION, "wh_dlc03_objective_beastmen_main_khazrak_02", nil);
+    chapter_three_mission = chapter_mission:new(3, BEASTMEN_FACTION, "wh_dlc03_objective_beastmen_main_khazrak_03", nil);
+    chapter_four_mission = chapter_mission:new(4, BEASTMEN_FACTION, "wh_dlc03_objective_beastmen_main_khazrak_04", nil);
+    chapter_five_mission = chapter_mission:new(5, BEASTMEN_FACTION, "wh_dlc03_objective_beastmen_main_khazrak_05", nil);
   end;
 elseif (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(local_faction, GHORROS_FORENAME))
   or (cm:get_saved_value("starting_general_1") == GHORROS_FORENAME or cm:get_saved_value("starting_general_2") == GHORROS_FORENAME) then
@@ -69,6 +70,7 @@ elseif (cm:is_new_game() and general_with_forename_exists_in_faction_with_force(
   -- Morghur chapter missions, for now
   -- TODO: Tailor chapter obj for Ghorros
 	if not cm:is_multiplayer() then
+    log('Start children of chaos chapter missions');
 		chapter_one_mission = chapter_mission:new(1, local_faction, "wh_dlc05_objective_beastmen_main_morghur_01", nil);
 		chapter_two_mission = chapter_mission:new(2, local_faction, "wh_dlc05_objective_beastmen_main_morghur_02", nil);
 		chapter_three_mission = chapter_mission:new(3, local_faction, "wh_dlc05_objective_beastmen_main_morghur_03", nil);
