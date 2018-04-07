@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_sets.xsd" export_time="ven. avr. 6 21:24:31 2018" revision="113" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>df77d7a1-43f4-40e4-a1ab-b0e08bbb9544</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unit_sets.xsd" export_time="sam. avr. 7 02:12:55 2018" revision="114" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>4651a9ab-6d33-4cb2-84df-582e6232bbe1</edit_uuid>
 <unit_sets record_uuid="{877c20c4-a7ab-41a4-9072-a0a153320b1a}" record_timestamp="1374768230697" record_key="all_land_artillery">
 <key>all_land_artillery</key>
 <max_unit_exp_level_inclusive>-1</max_unit_exp_level_inclusive>
@@ -1489,29 +1489,29 @@
 <min_unit_exp_level_inclusive>-1</min_unit_exp_level_inclusive>
 <use_unit_exp_level_range>0</use_unit_exp_level_range>
 </unit_sets>
-<unit_sets record_uuid="{8059e6f1-0b91-4968-bbb7-9b9fe73c2d2c}" record_timestamp="1523042671573" record_key="mk_taurox_bst_cavalry">
-<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T21:24:31" requires_translation="false" requires_recording="false">mk_taurox_bst_cavalry</key>
-<max_unit_exp_level_inclusive>-1</max_unit_exp_level_inclusive>
-<min_unit_exp_level_inclusive>-1</min_unit_exp_level_inclusive>
-<use_unit_exp_level_range>0</use_unit_exp_level_range>
+<unit_sets record_uuid="{8059e6f1-0b91-4968-bbb7-9b9fe73c2d2c}" record_timestamp="1523059974912" record_key="mk_taurox_bst_cavalry_rank7">
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-07T02:12:54" requires_translation="false" requires_recording="false">mk_taurox_bst_cavalry_rank7</key>
+<max_unit_exp_level_inclusive>9</max_unit_exp_level_inclusive>
+<min_unit_exp_level_inclusive>7</min_unit_exp_level_inclusive>
+<use_unit_exp_level_range>1</use_unit_exp_level_range>
 </unit_sets>
-<unit_sets record_uuid="{3f008dcf-c910-40c0-b0e6-e8bf817fdd11}" record_timestamp="1523042671629" record_key="mk_taurox_bst_creatures">
-<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T21:24:31" requires_translation="false" requires_recording="false">mk_taurox_bst_creatures</key>
-<max_unit_exp_level_inclusive>-1</max_unit_exp_level_inclusive>
-<min_unit_exp_level_inclusive>-1</min_unit_exp_level_inclusive>
-<use_unit_exp_level_range>0</use_unit_exp_level_range>
+<unit_sets record_uuid="{3f008dcf-c910-40c0-b0e6-e8bf817fdd11}" record_timestamp="1523059974673" record_key="mk_taurox_bst_creatures_rank7">
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-07T02:12:54" requires_translation="false" requires_recording="false">mk_taurox_bst_creatures_rank7</key>
+<max_unit_exp_level_inclusive>9</max_unit_exp_level_inclusive>
+<min_unit_exp_level_inclusive>7</min_unit_exp_level_inclusive>
+<use_unit_exp_level_range>1</use_unit_exp_level_range>
 </unit_sets>
-<unit_sets record_uuid="{72558593-9f1d-406d-af0d-d3b59bdda4e0}" record_timestamp="1523040646394" record_key="mk_taurox_bst_melee_infantry">
-<key>mk_taurox_bst_melee_infantry</key>
-<max_unit_exp_level_inclusive>-1</max_unit_exp_level_inclusive>
-<min_unit_exp_level_inclusive>-1</min_unit_exp_level_inclusive>
-<use_unit_exp_level_range>0</use_unit_exp_level_range>
+<unit_sets record_uuid="{72558593-9f1d-406d-af0d-d3b59bdda4e0}" record_timestamp="1523059974437" record_key="mk_taurox_bst_melee_infantry_rank7">
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-07T02:12:54" requires_translation="false" requires_recording="false">mk_taurox_bst_melee_infantry_rank7</key>
+<max_unit_exp_level_inclusive>9</max_unit_exp_level_inclusive>
+<min_unit_exp_level_inclusive>7</min_unit_exp_level_inclusive>
+<use_unit_exp_level_range>1</use_unit_exp_level_range>
 </unit_sets>
-<unit_sets record_uuid="{e2a83c0d-cb75-4863-bb28-f02b3faecf79}" record_timestamp="1523042671524" record_key="mk_taurox_bst_monstrous_infantry">
-<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-06T21:24:31" requires_translation="false" requires_recording="false">mk_taurox_bst_monstrous_infantry</key>
-<max_unit_exp_level_inclusive>-1</max_unit_exp_level_inclusive>
-<min_unit_exp_level_inclusive>-1</min_unit_exp_level_inclusive>
-<use_unit_exp_level_range>0</use_unit_exp_level_range>
+<unit_sets record_uuid="{e2a83c0d-cb75-4863-bb28-f02b3faecf79}" record_timestamp="1523059974173" record_key="mk_taurox_bst_monstrous_infantry_rank7">
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-07T02:12:53" requires_translation="false" requires_recording="false">mk_taurox_bst_monstrous_infantry_rank7</key>
+<max_unit_exp_level_inclusive>9</max_unit_exp_level_inclusive>
+<min_unit_exp_level_inclusive>7</min_unit_exp_level_inclusive>
+<use_unit_exp_level_range>1</use_unit_exp_level_range>
 </unit_sets>
 <unit_sets record_uuid="{b0df4ec2-56bc-461e-a147-e1bedcb29de9}" record_timestamp="1429517661563" record_key="monsters">
 <key>monsters</key>
