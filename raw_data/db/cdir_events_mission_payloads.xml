@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_mission_payloads.xsd" export_time="Tue Dec 12 11:50:52 2017" revision="208" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>96b4e0f8-a7a4-4651-b411-737c26b94ce4</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_mission_payloads.xsd" export_time="dim. avr. 8 05:21:34 2018" revision="209" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>b2888ff3-446d-403f-981a-317c129f3260</edit_uuid>
 <cdir_events_mission_payloads record_uuid="{59f63eca-92a8-414c-baa3-795115e06454}" record_timestamp="1474903539967" record_key="10001">
 <id>10001</id>
 <mission_key>wh_dlc06_grn_wurrzag_da_great_green_prophet_baleful_mask_stage_2.1</mission_key>
@@ -258,7 +258,7 @@
 <mission_key>wh2_main_vortex_narrative_def_declaw_them</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0e969c57-225c-4f38-a00b-20f747dd4199}" record_timestamp="1509724265772" record_key="1016823940">
 <id>1016823940</id>
@@ -293,7 +293,7 @@
 <mission_key>wh2_main_great_vortex_skv_skrolk_liber_bubonicus_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{286eaf61-423d-4dc7-9899-b676ccf2a176}" record_timestamp="1474903572688" record_key="10189">
 <id>10189</id>
@@ -482,7 +482,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_next_spawning</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{872a0df0-288e-4135-956f-07d71d723392}" record_timestamp="1496393009924" record_key="1030250205">
 <id>1030250205</id>
@@ -636,14 +636,14 @@
 <mission_key>wh2_main_vortex_narrative_skv_all_tunnels_lead_to_skavenblight</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{5596904a-5762-46c6-a766-f5dce6f21c7f}" record_timestamp="1510661824230" record_key="1047624684">
 <id>1047624684</id>
 <mission_key>wh2_dlc09_tmb_settra_the_blessed_blade_of_ptra_stage_3</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">CHARACTER_EXPERIENCE</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">CHARACTER_EXPERIENCE</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">AMOUNT[1500]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">AMOUNT[1500]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{f3e26cd1-c1b8-4bdf-a787-82a4e7c49e8b}" record_timestamp="1478780735947" record_key="10478">
 <id>10478</id>
@@ -909,14 +909,14 @@
 <mission_key>wh2_main_vortex_narrative_def_return_of_the_sundered</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d9ae20ce-bf60-4726-8c0f-fbf38f6c028e}" record_timestamp="1510661824407" record_key="106993124">
 <id>106993124</id>
 <mission_key>wh2_dlc09_tmb_khatep_the_liche_staff_stage_5</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ADD_ANCILLARY</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_the_liche_staff];SHOULD_REPLACE</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_the_liche_staff];SHOULD_REPLACE</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{846b47a9-e789-4194-bdc9-dec03dd3b34c}" record_timestamp="1511858933542" record_key="1070431140">
 <id>1070431140</id>
@@ -951,7 +951,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_sunfang_stage_4</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{aa4b8054-0806-4d13-b5c2-24ec0a8ce882}" record_timestamp="1496392992487" record_key="1076339813">
 <id>1076339813</id>
@@ -1175,7 +1175,7 @@
 <mission_key>wh2_main_great_vortex_liz_kroq_gar_revered_spear_of_tlanxla_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{e47412f1-a366-4916-84ad-485ab3c6f4c7}" record_timestamp="1488568779344" record_key="10877">
 <id>10877</id>
@@ -1336,7 +1336,7 @@
 <mission_key>wh2_main_vortex_narrative_def_prey_in_the_ruins</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{21fe6e66-98a5-44f1-9bc4-f9208d076c11}" record_timestamp="1488568779157" record_key="10933">
 <id>10933</id>
@@ -1455,7 +1455,7 @@
 <mission_key>wh2_main_vortex_narrative_def_beyond_the_watchtowers</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{80b6aa3f-c30e-4924-9ab9-af506cad08a7}" record_timestamp="1483952715807" record_key="10978">
 <id>10978</id>
@@ -1973,7 +1973,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_warp_shard_armour_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{2c093aa4-2d70-47ca-a566-f7122bb701e2}" record_timestamp="1483965019940" record_key="11175">
 <id>11175</id>
@@ -2183,7 +2183,7 @@
 <mission_key>wh2_dlc09_great_vortex_tmb_settra_the_blessed_blade_of_ptra_stage_2</mission_key>
 <payload_key>wh2_dlc09_the_blessed_blade_of_ptra_reward_2</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">DURATION[5];GLOBAL</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">DURATION[5];GLOBAL</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a02bd319-fdb2-4dc0-bc67-741802fe2fdb}" record_timestamp="1488534453265" record_key="11254">
 <id>11254</id>
@@ -2218,7 +2218,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_world_in_ruins</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{e26c25f4-08d0-49b9-909c-180eb38734ad}" record_timestamp="1488535603703" record_key="11263">
 <id>11263</id>
@@ -2232,7 +2232,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_dragon_armour_of_aenarion_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{1fa9fa8d-d1bf-46af-bd20-9ce333a07bc7}" record_timestamp="1510155921662" record_key="1126493399">
 <id>1126493399</id>
@@ -2372,7 +2372,7 @@
 <mission_key>wh2_main_vortex_narrative_def_ark_wright</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b49f5fb1-d672-44dd-9d24-debc0cc4c7c1}" record_timestamp="1483965019975" record_key="11319">
 <id>11319</id>
@@ -2414,7 +2414,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_lies_of_the_druchii</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0e887a68-b1fe-413f-a721-13026f8f3770}" record_timestamp="1483965019980" record_key="11340">
 <id>11340</id>
@@ -2743,7 +2743,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_battle_for_the_shadows</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{9fb96840-a367-4432-b58b-0c17d23f129c}" record_timestamp="1496393007485" record_key="115832336">
 <id>115832336</id>
@@ -2813,7 +2813,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_cobra_mace_of_mazdamundi_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{18579f65-c85e-44e9-a1b9-a42aea862e2f}" record_timestamp="1509724265747" record_key="1175729961">
 <id>1175729961</id>
@@ -2897,7 +2897,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_mors_superior</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{282c4f04-8bb8-4af7-828e-38443f1a1726}" record_timestamp="1496393000529" record_key="119258789">
 <id>119258789</id>
@@ -2918,7 +2918,7 @@
 <mission_key>wh2_main_vortex_narrative_def_reptile_nuisance</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d04eabe8-6dfc-466a-9d66-3d598ec2c45a}" record_timestamp="1496393004406" record_key="1195504534">
 <id>1195504534</id>
@@ -2930,7 +2930,7 @@
 <cdir_events_mission_payloads record_uuid="{cef027d7-b984-49f9-94a8-e643f8835664}" record_timestamp="1511347561619" record_key="1196727881">
 <id>1196727881</id>
 <mission_key>wh2_dlc09_mis_tmb_recruit_unit_land_war_machine</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_payload_training_cavalry</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_payload_training_cavalry</payload_key>
 <status_key>SUCCESS</status_key>
 <value>DURATION[8];GLOBAL</value>
 </cdir_events_mission_payloads>
@@ -3030,7 +3030,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_supreme_spellshield_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{e1d938e5-d4f5-42c0-9752-6b2f0253fb7c}" record_timestamp="1484038922322" record_key="12034">
 <id>12034</id>
@@ -3107,7 +3107,7 @@
 <mission_key>wh2_main_great_vortex_hef_teclis_sword_of_teclis_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{6de6f669-d503-40b6-8af1-c8364f8260d8}" record_timestamp="1496393008146" record_key="120830792">
 <id>120830792</id>
@@ -3142,7 +3142,7 @@
 <mission_key>wh2_main_great_vortex_liz_kroq_gar_hand_of_gods_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{44d2223f-c2d1-4974-8fa2-e0a7772fc791}" record_timestamp="1484038921085" record_key="12103">
 <id>12103</id>
@@ -3163,7 +3163,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_seek_enlightenment</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{8182c43b-fec7-4bf2-9c8a-3d1009e143aa}" record_timestamp="1484038920887" record_key="12120">
 <id>12120</id>
@@ -3198,7 +3198,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_eclipse_wars</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{f300fc58-259b-4145-9791-1c00d15fba6b}" record_timestamp="1498648149046" record_key="1221670509">
 <id>1221670509</id>
@@ -3212,7 +3212,7 @@
 <mission_key>wh2_main_vortex_narrative_def_betray_them_later</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{65cdd220-f976-4993-a604-470541b505bc}" record_timestamp="1484038921925" record_key="12232">
 <id>12232</id>
@@ -3296,7 +3296,7 @@
 <mission_key>wh2_main_great_vortex_hef_teclis_sword_of_teclis_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{1a7dc2ce-0731-4565-957e-abecab17a756}" record_timestamp="1485852340471" record_key="12322">
 <id>12322</id>
@@ -3417,6 +3417,13 @@
 <status_key>SUCCESS</status_key>
 <value>RANDOM_ANCILLARY;TARGET_OWNING_FACTION</value>
 </cdir_events_mission_payloads>
+<cdir_events_mission_payloads record_uuid="{4f98fbdc-61fa-454b-9b8f-66736a843f1d}" record_timestamp="1523157694082" record_key="1259231169">
+<id>1259231169</id>
+<mission_key>mk_taurox_bst_taurox_dual_cleaver</mission_key>
+<payload_key>CHARACTER_EXPERIENCE</payload_key>
+<status_key>SUCCESS</status_key>
+<value>AMOUNT[15000]</value>
+</cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d04d0f71-58cb-4cbb-963c-fd40c9c38fd4}" record_timestamp="1509724265509" record_key="1260145927">
 <id>1260145927</id>
 <mission_key>wh2_dlc09_mis_tmb_diplomatic_engage_force</mission_key>
@@ -3436,7 +3443,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_vengeance_of_pestilens</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{868dd83b-9849-426d-9141-0b745dc99601}" record_timestamp="1496393003991" record_key="1263737507">
 <id>1263737507</id>
@@ -3485,7 +3492,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_dragon_armour_of_aenarion_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{581089e9-a319-46a5-8e7e-a2efa40ecff1}" record_timestamp="1496392996787" record_key="1271815092">
 <id>1271815092</id>
@@ -3499,7 +3506,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_sunfang_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{7f30bca4-a3dd-424e-ba9d-28d69a3f9c57}" record_timestamp="1495637852620" record_key="1277968774">
 <id>1277968774</id>
@@ -3590,7 +3597,7 @@
 <mission_key>wh2_main_vortex_narrative_def_the_stronger_you_are</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{e83da8ed-3bff-4009-91d0-363c896b75c2}" record_timestamp="1496393008939" record_key="129519391">
 <id>129519391</id>
@@ -3632,7 +3639,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_headtaken</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a8db9524-daf7-4b17-bfd2-b4099fc97360}" record_timestamp="1496392991211" record_key="1302685811">
 <id>1302685811</id>
@@ -3709,7 +3716,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_undermine_skryre</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{709e96a8-9e67-4663-821f-21b817ea0b69}" record_timestamp="1496392991333" record_key="1328602205">
 <id>1328602205</id>
@@ -3744,7 +3751,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_dragon_armour_of_aenarion_stage_4</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{477bc3e7-b0c6-4e9c-a0d1-0fa4754c94d5}" record_timestamp="1496392997073" record_key="1335009166">
 <id>1335009166</id>
@@ -3795,6 +3802,13 @@
 <status_key>SUCCESS</status_key>
 <value>RANDOM_ANCILLARY;TARGET_OWNING_FACTION</value>
 </cdir_events_mission_payloads>
+<cdir_events_mission_payloads record_uuid="{bffef2fe-2263-49cd-a5e2-7e74d2340526}" record_timestamp="1523157694100" record_key="1343676906">
+<id>1343676906</id>
+<mission_key>mk_taurox_bst_taurox_dual_cleaver</mission_key>
+<payload_key>ADD_ANCILLARY</payload_key>
+<status_key>SUCCESS</status_key>
+<value>ANCILLARY_KEY[mk_taurox_anc_weapon_rune_tortured_axe];SHOULD_REPLACE</value>
+</cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{21556dd9-6bb0-4d56-b4cd-c66a0918230b}" record_timestamp="1496393000181" record_key="1344344815">
 <id>1344344815</id>
 <mission_key>wh2_main_mis_lzd_eliminate_character_in_battle_high_rank_emp</mission_key>
@@ -3842,7 +3856,7 @@
 <mission_key>wh2_main_vortex_narrative_def_the_rich_raid</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{418e5ab5-8899-486e-a549-851d1fe4b197}" record_timestamp="1509453266127" record_key="1360038861">
 <id>1360038861</id>
@@ -3933,7 +3947,7 @@
 <mission_key>wh2_dlc09_tmb_settra_the_blessed_blade_of_ptra_stage_2</mission_key>
 <payload_key>wh2_dlc09_the_blessed_blade_of_ptra_reward_1</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">DURATION[5];GLOBAL</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">DURATION[5];GLOBAL</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{f83c05e8-7a4c-4baf-a06e-aa82ffa51ce3}" record_timestamp="1496392999947" record_key="1404035173">
 <id>1404035173</id>
@@ -3975,7 +3989,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_the_great_ascendancy</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[60]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[60]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{c52c94e2-e218-4680-853f-0f5da6291776}" record_timestamp="1512560268273" record_key="1412727480">
 <id>1412727480</id>
@@ -4080,14 +4094,14 @@
 <mission_key>wh2_main_vortex_narrative_def_pest_infestation</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{4fb726b2-d4ca-4466-b8c4-5b9ab37f3870}" record_timestamp="1508434494899" record_key="143520054">
 <id>143520054</id>
 <mission_key>wh2_main_vortex_narrative_hef_lord_of_the_deeps</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ad4226ef-8475-4278-b5ae-f5a9adf83c41}" record_timestamp="1496392992549" record_key="1435847998">
 <id>1435847998</id>
@@ -4108,7 +4122,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_sunburst_standard_of_hexoatl_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{1504519e-043f-4f99-af6a-e22543a5a89f}" record_timestamp="1512560267841" record_key="1443610676">
 <id>1443610676</id>
@@ -4227,7 +4241,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_pool_of_souls</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{2f99c8e9-abce-430c-9514-492e2c5936a1}" record_timestamp="1496393007608" record_key="1476727496">
 <id>1476727496</id>
@@ -4325,7 +4339,7 @@
 <mission_key>wh2_main_great_vortex_skv_skrolk_rod_of_corruption_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{29ba93c1-2308-4a84-aa69-76dc3860a107}" record_timestamp="1496392996672" record_key="1504177251">
 <id>1504177251</id>
@@ -4374,7 +4388,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_circlet_of_iron_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{062f6c3a-6329-4bd9-a118-c3220f860638}" record_timestamp="1496392993315" record_key="1515630422">
 <id>1515630422</id>
@@ -4388,7 +4402,7 @@
 <mission_key>wh2_main_vortex_narrative_def_war_comes</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{3f1ef1e0-ea35-41fb-a354-9df35940bd58}" record_timestamp="1511858933485" record_key="1521045493">
 <id>1521045493</id>
@@ -4472,7 +4486,7 @@
 <mission_key>wh2_main_great_vortex_skv_skrolk_rod_of_corruption_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{7b33104d-b8d1-4b0e-9d2d-653f08c09d64}" record_timestamp="1496393008274" record_key="1544771817">
 <id>1544771817</id>
@@ -4486,7 +4500,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_tribute</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d9ddbf28-a0b2-4eb6-95f7-db293e744ba5}" record_timestamp="1509113284962" record_key="1548693579">
 <id>1548693579</id>
@@ -4542,7 +4556,7 @@
 <mission_key>wh2_main_vortex_narrative_def_muster_the_guard</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ff7180f6-b6b4-432f-b48c-c685c4ad33d4}" record_timestamp="1496392997661" record_key="1570046007">
 <id>1570046007</id>
@@ -4563,7 +4577,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_cities_of_gold</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{dc304451-dfaa-4f78-97fb-737dc7ea47c2}" record_timestamp="1509724265759" record_key="1583726124">
 <id>1583726124</id>
@@ -4577,7 +4591,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_clan_skurvey</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d90d003a-5b06-446c-9812-e074fb6c784c}" record_timestamp="1496393004247" record_key="1587031281">
 <id>1587031281</id>
@@ -4710,7 +4724,7 @@
 <mission_key>wh2_main_vortex_narrative_def_raid_and_enslave</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{186f0a0f-5abb-4e37-911a-c1bcbdbde7d0}" record_timestamp="1496392988560" record_key="1614479528">
 <id>1614479528</id>
@@ -4752,7 +4766,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_get_on_with_it</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{73c4be32-7ce9-4721-aff9-12c789235414}" record_timestamp="1509724265811" record_key="1621515888">
 <id>1621515888</id>
@@ -4773,7 +4787,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_phoenix_gate</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{54171d6d-9f14-4e9a-9252-05300f926f4f}" record_timestamp="1509724265445" record_key="1623412359">
 <id>1623412359</id>
@@ -4787,7 +4801,7 @@
 <mission_key>wh2_main_great_vortex_skv_skrolk_liber_bubonicus_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{74f036e9-600a-4f85-993e-883aaba9a8f9}" record_timestamp="1509724265415" record_key="1626471606">
 <id>1626471606</id>
@@ -4848,9 +4862,9 @@
 <cdir_events_mission_payloads record_uuid="{136ada3f-32f1-4ca5-a3af-0b638f0c6de3}" record_timestamp="1510661824249" record_key="1635294497">
 <id>1635294497</id>
 <mission_key>wh2_dlc09_great_vortex_tmb_settra_the_blessed_blade_of_ptra_stage_3</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">CHARACTER_EXPERIENCE</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">CHARACTER_EXPERIENCE</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">AMOUNT[1500]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">AMOUNT[1500]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b2b8f705-46ac-486e-bae5-3b0556ba2529}" record_timestamp="1496393006652" record_key="1638117617">
 <id>1638117617</id>
@@ -4948,7 +4962,7 @@
 <mission_key>wh2_main_great_vortex_liz_kroq_gar_hand_of_gods_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{78bcd90b-b287-473a-bfcc-aa2d60d9e761}" record_timestamp="1509724265500" record_key="1672437232">
 <id>1672437232</id>
@@ -4988,9 +5002,9 @@
 <cdir_events_mission_payloads record_uuid="{7368b03e-32c2-4dc8-89b8-a5e1cd13b1c3}" record_timestamp="1510661824345" record_key="1681357929">
 <id>1681357929</id>
 <mission_key>wh2_dlc09_tmb_arkhan_the_tomb_blade_of_arkhan_stage_4</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ADD_ANCILLARY</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ANCILLARY_KEY[wh2_dlc09_anc_weapon_the_tomb_blade_of_arkhan];SHOULD_REPLACE</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ANCILLARY_KEY[wh2_dlc09_anc_weapon_the_tomb_blade_of_arkhan];SHOULD_REPLACE</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{c479f495-1b18-4bd5-b348-224db39eadb8}" record_timestamp="1496392988956" record_key="1681829811">
 <id>1681829811</id>
@@ -5004,7 +5018,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_harrowing_scrutiny</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{2b4561bf-6c77-4832-87ca-fc80e0556fc3}" record_timestamp="1489593076527" record_key="1687675135">
 <id>1687675135</id>
@@ -5025,7 +5039,7 @@
 <mission_key>wh2_dlc09_great_vortex_tmb_arkhan_the_staff_of_nagash_stage_5</mission_key>
 <payload_key>ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_staff_of_nagash];SHOULD_REPLACE</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_staff_of_nagash];SHOULD_REPLACE</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{bea26422-602a-4316-b4a8-7f6caf605d68}" record_timestamp="1509724265770" record_key="168895156">
 <id>168895156</id>
@@ -5046,7 +5060,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_spread_the_pox</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{bd8c3166-a557-4614-ad35-13f501c1cbab}" record_timestamp="1512560267949" record_key="1692970265">
 <id>1692970265</id>
@@ -5109,7 +5123,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_dragon_armour_of_aenarion_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{391cbfe8-205d-48fb-8471-20ae656bdd2e}" record_timestamp="1496392991849" record_key="1706707418">
 <id>1706707418</id>
@@ -5151,7 +5165,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_alabaster_cities</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{48f5afa0-0be0-409a-b7fc-ff3241012a3c}" record_timestamp="1512560268013" record_key="1712795485">
 <id>1712795485</id>
@@ -5207,7 +5221,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_dwarfgouger_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{79ca5eba-f8dd-402c-8d6f-c9ee40bbe79f}" record_timestamp="1496392992518" record_key="1724768407">
 <id>1724768407</id>
@@ -5235,7 +5249,7 @@
 <mission_key>wh2_main_vortex_narrative_def_an_age_of_blood</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{faf3c80f-fbe1-495a-a752-f1d1650266f4}" record_timestamp="1496392999890" record_key="1731419470">
 <id>1731419470</id>
@@ -5263,7 +5277,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_alliance_of_order</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{88da3970-7970-45f6-b2ae-2d60b319c8cb}" record_timestamp="1509724265753" record_key="1737151990">
 <id>1737151990</id>
@@ -5277,7 +5291,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_warp_shard_armour_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{013e7998-b3ff-4318-a430-2863a8ba304e}" record_timestamp="1496392993848" record_key="1739091196">
 <id>1739091196</id>
@@ -5305,7 +5319,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_higher_purpose</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ce80cc92-416f-467f-9a5f-95b81a49ff99}" record_timestamp="1512560267811" record_key="1741160608">
 <id>1741160608</id>
@@ -5319,7 +5333,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_cold_blooded_aggression</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{8244c3a7-8489-41a3-997b-359bc245a9b1}" record_timestamp="1512560268843" record_key="1742060157">
 <id>1742060157</id>
@@ -5340,14 +5354,14 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_world_engine_turns</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{061eccf5-9769-4af4-a23d-34364863937e}" record_timestamp="1508434494900" record_key="1745723405">
 <id>1745723405</id>
 <mission_key>wh2_main_great_vortex_def_morathi_heartrender_and_the_darksword_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{78604aff-69ef-41f5-a112-1903ede5a4fd}" record_timestamp="1496392997516" record_key="1748367850">
 <id>1748367850</id>
@@ -5355,6 +5369,13 @@
 <payload_key>ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
 <value>RANDOM_ANCILLARY;TARGET_OWNING_FACTION</value>
+</cdir_events_mission_payloads>
+<cdir_events_mission_payloads record_uuid="{6662fc18-4dad-4914-8c34-c668aeecda2e}" record_timestamp="1523157694118" record_key="1748713594">
+<id>1748713594</id>
+<mission_key>mk_taurox_bst_taurox_dual_cleaver</mission_key>
+<payload_key>TREASURY</payload_key>
+<status_key>SUCCESS</status_key>
+<value>AMOUNT[1500]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{25992313-738a-4095-865a-3f9b650ec036}" record_timestamp="1509724265370" record_key="1749022429">
 <id>1749022429</id>
@@ -5424,7 +5445,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_spy_hunters_of_saphery</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ac0ea248-6773-4d19-8cb6-2582da6ad250}" record_timestamp="1496392988747" record_key="1767976906">
 <id>1767976906</id>
@@ -5445,7 +5466,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_concurrence</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b552df4e-ebc6-4426-b478-529c476c58ee}" record_timestamp="1496393000210" record_key="177011879">
 <id>177011879</id>
@@ -5466,7 +5487,7 @@
 <mission_key>wh2_main_great_vortex_def_morathi_heartrender_and_the_darksword_stage_4</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{80646420-3a76-45e7-bc25-229abe976924}" record_timestamp="1509724265400" record_key="17747816">
 <id>17747816</id>
@@ -5478,9 +5499,9 @@
 <cdir_events_mission_payloads record_uuid="{fcb14ec6-c317-467b-b1ab-dad1d4890353}" record_timestamp="1510661824267" record_key="1775674733">
 <id>1775674733</id>
 <mission_key>wh2_dlc09_great_vortex_tmb_arkhan_the_staff_of_nagash_stage_5</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">CHARACTER_EXPERIENCE</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">CHARACTER_EXPERIENCE</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">AMOUNT[1500]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">AMOUNT[1500]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{79902f56-cd66-4421-b2d0-01d6f82a6118}" record_timestamp="1496392989226" record_key="177600526">
 <id>177600526</id>
@@ -5506,16 +5527,16 @@
 <cdir_events_mission_payloads record_uuid="{adc7ef55-0b72-4eda-a7de-7c39dacc2bed}" record_timestamp="1510661824286" record_key="1784464549">
 <id>1784464549</id>
 <mission_key>wh2_dlc09_qb_tmb_arkhan_the_staff_of_nagash_stage_5</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">CHARACTER_EXPERIENCE</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">CHARACTER_EXPERIENCE</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">AMOUNT[1500]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">AMOUNT[1500]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{dbf7dfd8-76e7-4930-87ac-6edb288400f6}" record_timestamp="1508434494900" record_key="1786228098">
 <id>1786228098</id>
 <mission_key>wh2_main_vortex_narrative_lzd_construction</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b04e9aaa-9c7b-4e08-8e87-4656a70452ea}" record_timestamp="1496393007546" record_key="1786350857">
 <id>1786350857</id>
@@ -5529,7 +5550,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_payment_due</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ca6dbe0f-51c1-40e5-bd5f-62cbe8a42842}" record_timestamp="1512560267915" record_key="1787380910">
 <id>1787380910</id>
@@ -5585,7 +5606,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_control_the_phoenix_court</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{84563554-a56f-46e2-addb-a923180b2322}" record_timestamp="1496393003792" record_key="1806380324">
 <id>1806380324</id>
@@ -5648,7 +5669,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_celestial_alignment</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{7aed53cf-f009-4598-9695-18be1f1e6cbe}" record_timestamp="1496393000413" record_key="181874201">
 <id>181874201</id>
@@ -5683,7 +5704,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_soteks_hunger</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{060ef57e-02d4-425b-93cd-c1cd9c310479}" record_timestamp="1496393004120" record_key="1825616508">
 <id>1825616508</id>
@@ -5704,7 +5725,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_warp_shard_armour_stage_5</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{8c546a8e-d56c-4fcc-954c-3bfb10668cce}" record_timestamp="1496392997275" record_key="1830600602">
 <id>1830600602</id>
@@ -5718,14 +5739,14 @@
 <mission_key>wh2_main_vortex_narrative_hef_ulthuan_is_yours</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{3e446f98-72ea-4019-8714-b740df2f4acc}" record_timestamp="1508434494900" record_key="1835924886">
 <id>1835924886</id>
 <mission_key>wh2_main_vortex_narrative_lzd_the_lost_servants</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[60]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[60]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{f0a74695-a87e-4305-857e-8fa90b2501e0}" record_timestamp="1496392989256" record_key="1838921769">
 <id>1838921769</id>
@@ -5760,7 +5781,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_elf_thing_war</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ef92a92c-0edc-4644-9a14-771f5333bacb}" record_timestamp="1496393010696" record_key="1849122706">
 <id>1849122706</id>
@@ -5772,9 +5793,9 @@
 <cdir_events_mission_payloads record_uuid="{2cdd0273-8f88-41d3-9324-1bd71dc25d56}" record_timestamp="1510661824335" record_key="1850646993">
 <id>1850646993</id>
 <mission_key>wh2_dlc09_great_vortex_tmb_arkhan_the_tomb_blade_of_arkhan_stage_4</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ADD_ANCILLARY</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ANCILLARY_KEY[wh2_dlc09_anc_weapon_the_tomb_blade_of_arkhan];SHOULD_REPLACE</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ANCILLARY_KEY[wh2_dlc09_anc_weapon_the_tomb_blade_of_arkhan];SHOULD_REPLACE</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{f973cf72-6805-495f-a200-e77522b9fdcd}" record_timestamp="1496393003860" record_key="1852012392">
 <id>1852012392</id>
@@ -5851,14 +5872,14 @@
 <mission_key>wh2_main_vortex_narrative_def_this_one_is_mine</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{da473523-1588-491d-a527-512e6b9dcabb}" record_timestamp="1508434494900" record_key="1862520548">
 <id>1862520548</id>
 <mission_key>wh2_main_vortex_narrative_skv_return_of_sotek</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{64fa98f9-d0ad-4536-87c7-e8329b26b6b0}" record_timestamp="1498648148814" record_key="186276222">
 <id>186276222</id>
@@ -5872,14 +5893,14 @@
 <mission_key>wh2_main_great_vortex_def_malekith_destroyer_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{136a5873-7ef8-43ef-9fa4-b28007a662b5}" record_timestamp="1510155921664" record_key="1872029209">
 <id>1872029209</id>
 <mission_key>wh2_dlc09_qb_tmb_arkhan_the_staff_of_nagash_stage_5</mission_key>
 <payload_key>ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_staff_of_nagash];SHOULD_REPLACE</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_staff_of_nagash];SHOULD_REPLACE</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{509eb719-d74f-4232-848f-a4f6eaa81f45}" record_timestamp="1496392990042" record_key="1874549592">
 <id>1874549592</id>
@@ -5893,7 +5914,7 @@
 <mission_key>wh2_main_great_vortex_liz_kroq_gar_revered_spear_of_tlanxla_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{bfaa0653-a150-492d-953f-f6aeb57458ce}" record_timestamp="1498648148848" record_key="1874709772">
 <id>1874709772</id>
@@ -6061,7 +6082,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_keeping_up_appearances</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0ed58f87-be60-4baa-91e6-013a9a5bb16e}" record_timestamp="1510661824460" record_key="1919357730">
 <id>1919357730</id>
@@ -6082,7 +6103,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_island_serfs</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0e409679-6f16-4cac-b704-daf97419269a}" record_timestamp="1496392992089" record_key="1926880945">
 <id>1926880945</id>
@@ -6110,7 +6131,7 @@
 <mission_key>wh2_main_great_vortex_hef_teclis_sword_of_teclis_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{06784849-77d5-4b32-af1e-3208049331c2}" record_timestamp="1509724265424" record_key="1934544726">
 <id>1934544726</id>
@@ -6166,7 +6187,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_irresistible_force</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b6e12f31-f31c-4883-86bf-228b92d442f0}" record_timestamp="1498648148914" record_key="1947129300">
 <id>1947129300</id>
@@ -6194,7 +6215,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_appease_the_warmongers</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{29ade1cc-4e04-447e-8c1c-c6c616670e87}" record_timestamp="1496393000674" record_key="1959602998">
 <id>1959602998</id>
@@ -6208,21 +6229,21 @@
 <mission_key>wh2_main_vortex_narrative_lzd_geomantic_arts</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{9bd95aec-27ef-46df-ae42-35d5dec361f9}" record_timestamp="1508434494901" record_key="1962794917">
 <id>1962794917</id>
 <mission_key>wh2_main_vortex_narrative_skv_admired_or_despised</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{13677a75-e596-4a60-972f-cec6fa174085}" record_timestamp="1508434494901" record_key="1963354568">
 <id>1963354568</id>
 <mission_key>wh2_main_vortex_narrative_skv_rival_play</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{c3adeea8-ceec-496c-bec1-37e230263df8}" record_timestamp="1509724265750" record_key="1965117066">
 <id>1965117066</id>
@@ -6411,7 +6432,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_destroyer_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[15]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[15]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{40b0f184-5a8a-4137-bd21-bdc23494cc23}" record_timestamp="1509724265814" record_key="2006342651">
 <id>2006342651</id>
@@ -6474,7 +6495,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_infestation</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0952372e-9d33-4a49-9325-8e95c92aac28}" record_timestamp="1496393009235" record_key="2033316497">
 <id>2033316497</id>
@@ -6558,14 +6579,14 @@
 <mission_key>wh2_main_vortex_narrative_lzd_align_the_cohorts</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{eb229528-d0bb-493f-abde-597f620478d2}" record_timestamp="1508434494901" record_key="2058875481">
 <id>2058875481</id>
 <mission_key>wh2_main_vortex_narrative_hef_the_sundering_returned</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{008008d0-ff59-40e2-ab76-34fdb5539c78}" record_timestamp="1509724265784" record_key="2059664494">
 <id>2059664494</id>
@@ -6656,7 +6677,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_sunburst_standard_of_hexoatl_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d869a36c-992e-4ecc-bf18-4472db300079}" record_timestamp="1496392989799" record_key="2082882702">
 <id>2082882702</id>
@@ -6691,7 +6712,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_arise_under_emperor</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{229121d0-ff19-4367-b168-8837272346f3}" record_timestamp="1509724265855" record_key="2090458887">
 <id>2090458887</id>
@@ -6726,7 +6747,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_warp_seam</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{e56afd88-42cb-402b-9954-c32386142b65}" record_timestamp="1508516564857" record_key="2096041053">
 <id>2096041053</id>
@@ -6796,7 +6817,7 @@
 <mission_key>wh2_main_great_vortex_liz_kroq_gar_hand_of_gods_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{2caa825e-1934-49fe-9a6c-d92964d725eb}" record_timestamp="1496392991969" record_key="2114178102">
 <id>2114178102</id>
@@ -6817,14 +6838,14 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_under_menace</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{00273606-41f9-464f-b102-90cabb57fe6d}" record_timestamp="1509734004394" record_key="2121293790">
 <id>2121293790</id>
 <mission_key>wh2_dlc09_tmb_settra_the_blessed_blade_of_ptra_stage_2</mission_key>
 <payload_key>wh2_dlc09_the_blessed_blade_of_ptra_reward_2</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">DURATION[5];GLOBAL</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">DURATION[5];GLOBAL</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{267549d9-63e4-4109-aeac-ee0bc077c125}" record_timestamp="1496393005887" record_key="2123501495">
 <id>2123501495</id>
@@ -6845,7 +6866,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_dwarfgouger_stage_4</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{2318dab1-24ef-489e-a628-ae81ad6530d1}" record_timestamp="1496392999804" record_key="2125422036">
 <id>2125422036</id>
@@ -6878,7 +6899,7 @@
 <cdir_events_mission_payloads record_uuid="{4202371c-2a1f-4e7e-9bf5-d0436958e7d0}" record_timestamp="1510139388883" record_key="2128737157">
 <id>2128737157</id>
 <mission_key>wh2_main_mis_lzd_recruit_agent_spy</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_main_payload_improved_agent_lzd_skink_chief</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_main_payload_improved_agent_lzd_skink_chief</payload_key>
 <status_key>SUCCESS</status_key>
 <value>DURATION[8];GLOBAL</value>
 </cdir_events_mission_payloads>
@@ -6915,7 +6936,7 @@
 <mission_key>wh2_main_vortex_narrative_def_hoteks_levy</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d0a18ba0-6606-4f80-99c4-13493a94d721}" record_timestamp="1512560268551" record_key="2137407080">
 <id>2137407080</id>
@@ -6971,7 +6992,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_love_and_hate_collide</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b2a805a9-7114-4ca5-8ab2-a2853e0d5fd6}" record_timestamp="1509724265504" record_key="218961598">
 <id>218961598</id>
@@ -6999,7 +7020,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_dwarfgouger_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{07506bdf-ebaf-4c53-861e-b0e9e14c7c59}" record_timestamp="1496392994003" record_key="222626978">
 <id>222626978</id>
@@ -7034,7 +7055,7 @@
 <mission_key>wh2_main_vortex_narrative_def_hekartis_texts</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{bdc68e39-2466-443c-862a-8f09abc267f2}" record_timestamp="1509724265807" record_key="235549650">
 <id>235549650</id>
@@ -7069,7 +7090,7 @@
 <mission_key>wh2_main_vortex_narrative_def_kill_the_rabble</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{05c44a76-0f5e-4117-b705-0dd8b26741f2}" record_timestamp="1496393007423" record_key="241958005">
 <id>241958005</id>
@@ -7181,7 +7202,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_living_tool</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{fbbe77bb-625c-43d1-974d-8591019bd000}" record_timestamp="1509724265834" record_key="282348336">
 <id>282348336</id>
@@ -7251,7 +7272,7 @@
 <mission_key>wh2_dlc09_great_vortex_tmb_settra_the_blessed_blade_of_ptra_stage_2</mission_key>
 <payload_key>wh2_dlc09_the_blessed_blade_of_ptra_reward_1</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">DURATION[5];GLOBAL</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">DURATION[5];GLOBAL</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{7c3d3887-1094-436f-b57e-d620c2c56145}" record_timestamp="1496393007897" record_key="307349337">
 <id>307349337</id>
@@ -7300,7 +7321,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_slann_der</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{1c2df666-15f6-47aa-86e1-44d30c5b7a1b}" record_timestamp="1496392994097" record_key="314041148">
 <id>314041148</id>
@@ -7356,7 +7377,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_sunfang_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0a5e4651-5500-41dd-bc7e-07549118fe77}" record_timestamp="1496392991241" record_key="321148702">
 <id>321148702</id>
@@ -7377,7 +7398,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_warp_shard_armour_stage_6</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d9ff5831-5948-449c-b154-c7b50502a4bf}" record_timestamp="1496392989677" record_key="322045011">
 <id>322045011</id>
@@ -7398,14 +7419,14 @@
 <mission_key>wh2_main_vortex_narrative_skv_a_whisker_in_every_realm</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0ea468cb-b9b1-44a3-99bc-7088ddd0f535}" record_timestamp="1508434494899" record_key="322361679">
 <id>322361679</id>
 <mission_key>wh2_main_vortex_narrative_def_do_what_we_do_best</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{dbae62a1-d5a9-44ff-8a42-9b8e0f9e03c6}" record_timestamp="1509724265853" record_key="322740635">
 <id>322740635</id>
@@ -7587,7 +7608,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_work_against_them</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{78360e10-d5cf-48dc-a82f-88b29a519239}" record_timestamp="1496392989708" record_key="335840586">
 <id>335840586</id>
@@ -7769,7 +7790,7 @@
 <mission_key>wh2_main_great_vortex_skv_skrolk_rod_of_corruption_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ad1845ab-6f8f-415a-b1c5-dbeec9d0411c}" record_timestamp="1498638767144" record_key="370840778">
 <id>370840778</id>
@@ -7797,7 +7818,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_deliverer</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{c60d6c79-2c60-4f62-9dbe-8682ee91cc70}" record_timestamp="1452167733888" record_key="3726">
 <id>3726</id>
@@ -7895,7 +7916,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_run_fetch</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{97be1d28-944f-4781-9571-4ed9b217c8e6}" record_timestamp="1452167734185" record_key="3774">
 <id>3774</id>
@@ -8070,7 +8091,7 @@
 <mission_key>wh2_dlc09_tmb_settra_the_crown_of_nehekhara_stage_2</mission_key>
 <payload_key>TREASURY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">AMOUNT[1500]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">AMOUNT[1500]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{5c90929a-6766-42b4-880d-887d21fc9975}" record_timestamp="1457366615816" record_key="3874">
 <id>3874</id>
@@ -8105,7 +8126,7 @@
 <mission_key>wh2_main_great_vortex_def_morathi_heartrender_and_the_darksword_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{be3b032e-f8e2-4690-8539-2f339c1693a7}" record_timestamp="1452167733286" record_key="3890">
 <id>3890</id>
@@ -8126,7 +8147,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_hunt</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{d5809ce3-e7bc-4143-9deb-598c1eb53761}" record_timestamp="1452167735131" record_key="3896">
 <id>3896</id>
@@ -8168,7 +8189,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_warp_shard_armour_stage_4</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{41c39571-ac7e-469c-9259-dd658ec08d60}" record_timestamp="1457366615845" record_key="3923">
 <id>3923</id>
@@ -8551,7 +8572,7 @@
 <cdir_events_mission_payloads record_uuid="{65e093a9-2b3d-4587-856e-f86b83bbe898}" record_timestamp="1510139388917" record_key="417456676">
 <id>417456676</id>
 <mission_key>wh2_main_mis_lzd_recruit_agent_wizard</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_main_payload_improved_agent_lzd_skink_priest</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_main_payload_improved_agent_lzd_skink_priest</payload_key>
 <status_key>SUCCESS</status_key>
 <value>DURATION[8];GLOBAL</value>
 </cdir_events_mission_payloads>
@@ -8791,7 +8812,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_cobra_mace_of_mazdamundi_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{cf1f7475-ed5b-4e77-96b9-c6e180b8379d}" record_timestamp="1446193152791" record_key="4541">
 <id>4541</id>
@@ -8910,7 +8931,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_an_age_of_ruin</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{46d856dd-e20d-4ae1-82fe-b15f7c16f990}" record_timestamp="1446193152911" record_key="4687">
 <id>4687</id>
@@ -9176,7 +9197,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_lost_fragments</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{716ccdef-4b2e-48e4-bd2e-22d6fcb47637}" record_timestamp="1509724265473" record_key="499791713">
 <id>499791713</id>
@@ -9239,14 +9260,14 @@
 <mission_key>wh2_main_vortex_narrative_skv_the_13_lords_of_decay</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a1631499-4b30-47a6-926e-16324a29c4fc}" record_timestamp="1510661824396" record_key="504678209">
 <id>504678209</id>
 <mission_key>wh2_dlc09_great_vortex_tmb_khatep_the_liche_staff_stage_5</mission_key>
-<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ADD_ANCILLARY</payload_key>
+<payload_key state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ADD_ANCILLARY</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_the_liche_staff];SHOULD_REPLACE</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">ANCILLARY_KEY[wh2_dlc09_anc_arcane_item_the_liche_staff];SHOULD_REPLACE</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a8b0be34-0924-4679-83ba-aa9e8dbfd676}" record_timestamp="1446193153311" record_key="5057">
 <id>5057</id>
@@ -9505,7 +9526,7 @@
 <mission_key>wh2_main_great_vortex_def_morathi_heartrender_and_the_darksword_stage_6</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{44b5634d-3210-4e32-8aa6-efdb07aba1cd}" record_timestamp="1443544772046" record_key="5267">
 <id>5267</id>
@@ -9526,7 +9547,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_circlet_of_iron_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a072cb1b-f2cc-4cf2-ab47-a4ff59cfb312}" record_timestamp="1509724265758" record_key="527755859">
 <id>527755859</id>
@@ -9960,7 +9981,7 @@
 <mission_key>wh2_main_vortex_narrative_def_cities_without_end</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{25bcea17-66d1-4159-a8c8-958c38814095}" record_timestamp="1509724265512" record_key="575585437">
 <id>575585437</id>
@@ -10205,7 +10226,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_stone_library</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{88413e6e-53ff-4bd0-b72d-f49188d0d4e7}" record_timestamp="1452167732206" record_key="6007">
 <id>6007</id>
@@ -10408,7 +10429,7 @@
 <mission_key>wh2_main_vortex_narrative_def_rites_of_power</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a021cf84-081d-4bf9-98bb-d564cd250019}" record_timestamp="1443544794323" record_key="6232">
 <id>6232</id>
@@ -10506,7 +10527,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_fate_of_the_spirit</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{88608bdb-83b2-4c6e-97fe-2b73658e4544}" record_timestamp="1443544748501" record_key="6321">
 <id>6321</id>
@@ -10527,7 +10548,7 @@
 <mission_key>wh2_main_great_vortex_hef_teclis_war_crown_of_saphery_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{a092f667-0237-409d-a2f8-ceda7c4796b8}" record_timestamp="1443544746635" record_key="6333">
 <id>6333</id>
@@ -10555,7 +10576,7 @@
 <mission_key>wh2_main_great_vortex_hef_tyrion_sunfang_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{20b8a4f0-8b22-4f59-af05-57800ffaf671}" record_timestamp="1443544747185" record_key="6355">
 <id>6355</id>
@@ -10576,7 +10597,7 @@
 <mission_key>wh2_main_great_vortex_skv_queek_headtaker_dwarfgouger_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{5fe6e76f-2b71-464c-9913-b557dd138f7a}" record_timestamp="1496393008239" record_key="63743431">
 <id>63743431</id>
@@ -10702,7 +10723,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_tool_of_death</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{e3874c91-d018-4a50-aaa1-b12981c50833}" record_timestamp="1443544753929" record_key="6531">
 <id>6531</id>
@@ -10786,7 +10807,7 @@
 <mission_key>wh2_main_vortex_narrative_def_you_are_king</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{f70f5ed3-53ad-407e-92f1-0f0a9d0179eb}" record_timestamp="1443544738974" record_key="6587">
 <id>6587</id>
@@ -10800,7 +10821,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_vermin_of_hruddithi</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b0664ed2-0071-474c-8fee-d08311a36571}" record_timestamp="1509724265529" record_key="660236695">
 <id>660236695</id>
@@ -10912,7 +10933,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_power_of_the_old_ones</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{6841e5fd-beb8-45cc-93d7-881a78546ebc}" record_timestamp="1508758036650" record_key="672301120">
 <id>672301120</id>
@@ -11010,7 +11031,7 @@
 <mission_key>wh2_main_great_vortex_def_morathi_heartrender_and_the_darksword_stage_5</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{ed43478b-1814-41a9-820b-18c542065172}" record_timestamp="1509724265481" record_key="682895604">
 <id>682895604</id>
@@ -11115,14 +11136,14 @@
 <mission_key>wh2_main_vortex_narrative_skv_rite_is_might</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{7225cb87-ab79-4114-bc7e-0b56d498c390}" record_timestamp="1508434494899" record_key="693971713">
 <id>693971713</id>
 <mission_key>wh2_main_vortex_narrative_hef_scroll_taker</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{86849bd2-3874-4547-91ff-33dc16510c44}" record_timestamp="1452167730524" record_key="6940">
 <id>6940</id>
@@ -11262,7 +11283,7 @@
 <mission_key>wh2_main_great_vortex_hef_teclis_war_crown_of_saphery_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{72192867-d616-4eba-b0db-ca1569817e41}" record_timestamp="1496393011100" record_key="711939245">
 <id>711939245</id>
@@ -11290,7 +11311,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_slaughter</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{1d53f3c0-8bb3-4db9-9b82-5147246fb930}" record_timestamp="1496392999918" record_key="714035937">
 <id>714035937</id>
@@ -11367,7 +11388,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_circlet_of_iron_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{167c8df2-186b-4f32-8720-af6a9841b868}" record_timestamp="1446193154311" record_key="7187">
 <id>7187</id>
@@ -11591,7 +11612,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_gather_the_sacrifices</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{8ae316f2-e902-4b98-8a15-e2799d73c769}" record_timestamp="1446193154691" record_key="7448">
 <id>7448</id>
@@ -11773,7 +11794,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_cobra_mace_of_mazdamundi_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{3cd54963-bbac-4e70-b657-eda8222df579}" record_timestamp="1443544760832" record_key="7570">
 <id>7570</id>
@@ -12011,7 +12032,7 @@
 <mission_key>wh2_main_vortex_narrative_def_a_torturer_has_many_tools</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{993a42a4-3a96-4a3a-b4e1-eabd060c2003}" record_timestamp="1443544737422" record_key="7969">
 <id>7969</id>
@@ -12130,7 +12151,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_skitterkill</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{199d0973-f88f-421b-8a12-c3eb57c68ccd}" record_timestamp="1443544723720" record_key="8071">
 <id>8071</id>
@@ -12249,7 +12270,7 @@
 <mission_key>wh2_main_vortex_narrative_def_vengence_of_malekith</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[50]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{4c5556c9-9e7a-4561-a822-b4ce4ff2aa32}" record_timestamp="1443544726305" record_key="8146">
 <id>8146</id>
@@ -12354,7 +12375,7 @@
 <mission_key>wh2_main_vortex_narrative_skv_in_the_way</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{c7fe9524-5854-40de-8b42-a3f23c89e1b7}" record_timestamp="1452081785967" record_key="8214">
 <id>8214</id>
@@ -12417,7 +12438,7 @@
 <mission_key>wh2_main_vortex_narrative_hef_the_pilgrimage</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{6bcec217-48c3-4786-a138-8e1a5d4db7f2}" record_timestamp="1496392992240" record_key="82487078">
 <id>82487078</id>
@@ -12522,7 +12543,7 @@
 <mission_key>wh2_main_great_vortex_skv_skrolk_liber_bubonicus_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{b7bc1426-afe7-4266-ba38-5f897bde5a80}" record_timestamp="1452081786738" record_key="8309">
 <id>8309</id>
@@ -12697,7 +12718,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_imminent_spawning</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{fa1ce538-062a-4df8-8c40-7945acedd763}" record_timestamp="1452081787186" record_key="8433">
 <id>8433</id>
@@ -12816,7 +12837,7 @@
 <mission_key>wh2_main_great_vortex_liz_kroq_gar_revered_spear_of_tlanxla_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{4ca1412a-a105-433e-9a9d-f2b6e7a4a838}" record_timestamp="1451981433991" record_key="8524">
 <id>8524</id>
@@ -12942,7 +12963,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_destroyer_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[15]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[15]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{4882e55c-88f0-427f-8e3f-018481590d76}" record_timestamp="1454339507619" record_key="8596">
 <id>8596</id>
@@ -13194,7 +13215,7 @@
 <mission_key>wh2_main_great_vortex_def_morathi_heartrender_and_the_darksword_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{8ba7a4ce-a944-492b-9aad-55aa1e6b94ca}" record_timestamp="1454339509449" record_key="8755">
 <id>8755</id>
@@ -13474,7 +13495,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_sunburst_standard_of_hexoatl_stage_1</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{cc38aa35-b962-4e30-8ece-eaf92c7d1fb2}" record_timestamp="1454341639709" record_key="8913">
 <id>8913</id>
@@ -13495,7 +13516,7 @@
 <mission_key>wh2_main_vortex_narrative_def_call_the_sisterhood</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{001425f5-1956-4878-af17-c34e3d58ff1b}" record_timestamp="1454341639501" record_key="8926">
 <id>8926</id>
@@ -13558,7 +13579,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_supreme_spellshield_stage_2</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{4060c407-73a0-4a38-a2d4-d48ff0cc40fe}" record_timestamp="1496393006399" record_key="894938831">
 <id>894938831</id>
@@ -13600,7 +13621,7 @@
 <mission_key>wh2_main_great_vortex_def_malekith_supreme_spellshield_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{2a5cb7d7-d535-4103-9258-0855609b6613}" record_timestamp="1454341638376" record_key="8965">
 <id>8965</id>
@@ -13754,7 +13775,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_radiance_of_the_solar_city</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[10]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{17e2ddeb-cab0-49fe-81e1-370300aa57fc}" record_timestamp="1454341640801" record_key="9039">
 <id>9039</id>
@@ -14020,7 +14041,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_discordance</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[20]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{134e0710-51e2-4309-810f-ef99355f954b}" record_timestamp="1454587924950" record_key="9208">
 <id>9208</id>
@@ -14125,7 +14146,7 @@
 <mission_key>wh2_main_vortex_narrative_lzd_the_enigma</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[40]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{635ab4c7-0765-4090-89dd-7647b247f62a}" record_timestamp="1454669795475" record_key="9268">
 <id>9268</id>
@@ -14342,7 +14363,7 @@
 <mission_key>wh2_main_great_vortex_lzd_mazdamundi_sunburst_standard_of_hexoatl_stage_4</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{0a275c17-4cdb-42f1-87e1-2ce5cf5cd377}" record_timestamp="1509724265426" record_key="945690539">
 <id>945690539</id>
@@ -14608,7 +14629,7 @@
 <mission_key>wh2_main_great_vortex_hef_teclis_war_crown_of_saphery_stage_3</mission_key>
 <payload_key>FACTION_POOLED_RESOURCE_TRANSACTION</payload_key>
 <status_key>SUCCESS</status_key>
-<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
+<value state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">RESOURCE[wh2_main_ritual_currency];FACTOR[wh2_main_resource_factor_missions];AMOUNT[30]</value>
 </cdir_events_mission_payloads>
 <cdir_events_mission_payloads record_uuid="{7d7c431c-6c15-4954-b61e-54fe78f5a965}" record_timestamp="1467098052064" record_key="9647">
 <id>9647</id>

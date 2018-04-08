@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_to_effects.xsd" export_time="Fri Dec 15 17:29:24 2017" revision="257" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>19b971ac-c694-47c4-a9c2-31fc40028589</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_to_effects.xsd" export_time="dim. avr. 8 05:17:28 2018" revision="258" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>21a47b07-055d-4e74-9424-c2c32e5c81b8</edit_uuid>
+<ancillary_to_effects record_uuid="{9731bbae-987b-42dd-bfbc-9bca1f904570}" record_timestamp="1523157448493" record_key="mk_taurox_anc_weapon_rune_tortured_axewh2_main_effect_character_stat_enable_flaming_attacks">
+<ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
+<effect>wh2_main_effect_character_stat_enable_flaming_attacks</effect>
+<effect_scope>character_to_character_own</effect_scope>
+<value>1</value>
+</ancillary_to_effects>
+<ancillary_to_effects record_uuid="{7a2d2cf8-6a38-48f6-9e2e-439b33c19b1d}" record_timestamp="1523157448562" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_character_stat_mod_bonus_v_small">
+<ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
+<effect>wh_main_effect_character_stat_mod_bonus_v_small</effect>
+<effect_scope>character_to_character_own</effect_scope>
+<value>16</value>
+</ancillary_to_effects>
+<ancillary_to_effects record_uuid="{9e97d63c-5d7e-41bd-86a8-b4156ea15331}" record_timestamp="1523157448509" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_character_stat_mod_melee_attack">
+<ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
+<effect>wh_main_effect_character_stat_mod_melee_attack</effect>
+<effect_scope>character_to_character_own</effect_scope>
+<value>9</value>
+</ancillary_to_effects>
+<ancillary_to_effects record_uuid="{760d88b4-aa75-4665-a471-126fb7a98842}" record_timestamp="1523157448527" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_force_all_campaign_post_battle_loot_mod">
+<ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
+<effect>wh_main_effect_force_all_campaign_post_battle_loot_mod</effect>
+<effect_scope>character_to_character_own</effect_scope>
+<value>10</value>
+</ancillary_to_effects>
+<ancillary_to_effects record_uuid="{5fde99fb-2121-41e3-97a6-f029def4a2cc}" record_timestamp="1523157448546" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_force_all_campaign_replenishment_rate">
+<ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
+<effect>wh_main_effect_force_all_campaign_replenishment_rate</effect>
+<effect_scope>general_to_force_own</effect_scope>
+<value>8</value>
+</ancillary_to_effects>
 <ancillary_to_effects record_uuid="{b06c9b6c-5e1c-4c16-93c2-fe89d44e990f}" record_timestamp="1508835047255" record_key="wh2_dlc09_anc_arcane_item_blue_kheprawh_main_effect_character_stat_mod_ward_save_magic">
 <ancillary>wh2_dlc09_anc_arcane_item_blue_khepra</ancillary>
 <effect>wh_main_effect_character_stat_mod_ward_save_magic</effect>
@@ -225,7 +255,7 @@
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{c42daf54-3f33-436f-ae92-488ad2b6814f}" record_timestamp="1511450495310" record_key="wh2_dlc09_anc_armour_scorpion_armourwh_main_effect_character_stat_mod_melee_attack">
 <ancillary>wh2_dlc09_anc_armour_scorpion_armour</ancillary>
-<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh_main_effect_character_stat_mod_melee_attack</effect>
+<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh_main_effect_character_stat_mod_melee_attack</effect>
 <effect_scope>character_to_character_own</effect_scope>
 <value>5</value>
 </ancillary_to_effects>
@@ -351,7 +381,7 @@
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{f52df8af-210f-45a2-9795-d45badbb91f0}" record_timestamp="1511450232603" record_key="wh2_dlc09_anc_enchanted_item_shroud_of_sokthwh_main_effect_character_stat_mod_charge_bonus">
 <ancillary>wh2_dlc09_anc_enchanted_item_shroud_of_sokth</ancillary>
-<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh_main_effect_character_stat_mod_charge_bonus</effect>
+<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh_main_effect_character_stat_mod_charge_bonus</effect>
 <effect_scope>character_to_character_own</effect_scope>
 <value>10</value>
 </ancillary_to_effects>
@@ -417,7 +447,7 @@
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{1ffd52a0-423f-4d3e-a005-912497bf445b}" record_timestamp="1510159136633" record_key="wh2_dlc09_anc_follower_tmb_charnel_valley_necrotectwh2_dlc09_effect_building_construction_cost_mod_economy">
 <ancillary>wh2_dlc09_anc_follower_tmb_charnel_valley_necrotect</ancillary>
-<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh2_dlc09_effect_building_construction_cost_mod_economy</effect>
+<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh2_dlc09_effect_building_construction_cost_mod_economy</effect>
 <effect_scope>character_to_region_own_provincewide</effect_scope>
 <value>-15</value>
 </ancillary_to_effects>
@@ -442,49 +472,49 @@
 <ancillary_to_effects record_uuid="{dabcf1f0-df44-4600-be70-af39f905a959}" record_timestamp="1513332063097" record_key="wh2_dlc09_anc_follower_tmb_herald_of_djafwh2_dlc09_effect_ability_deathblow_for_skeleton_units">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_djaf</ancillary>
 <effect>wh2_dlc09_effect_ability_deathblow_for_skeleton_units</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>1</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{64b64c43-57cb-40e4-8479-8deb0e5fafbf}" record_timestamp="1513332063101" record_key="wh2_dlc09_anc_follower_tmb_herald_of_khemriwh2_dlc09_effect_ability_hawkish_precision_to_archer_units">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_khemri</ancillary>
 <effect>wh2_dlc09_effect_ability_hawkish_precision_to_archer_units</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>1</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{d849efa6-f8e2-4930-9223-eedf1df7710c}" record_timestamp="1513332063105" record_key="wh2_dlc09_anc_follower_tmb_herald_of_mahrakwh2_dlc09_effect_tmb_tomb_guard_armour">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_mahrak</ancillary>
 <effect>wh2_dlc09_effect_tmb_tomb_guard_armour</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>10</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{547a73cb-b262-422b-bdb4-1615c0af9abd}" record_timestamp="1513332063110" record_key="wh2_dlc09_anc_follower_tmb_herald_of_mahrakwh2_dlc09_effect_tmb_tomb_guard_damage">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_mahrak</ancillary>
 <effect>wh2_dlc09_effect_tmb_tomb_guard_damage</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>12</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{043beba0-da58-443b-9c87-b8d89109126d}" record_timestamp="1513332063114" record_key="wh2_dlc09_anc_follower_tmb_herald_of_raestrawh2_dlc09_effect_ability_frenzy_to_ushabti_units">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_raestra</ancillary>
 <effect>wh2_dlc09_effect_ability_frenzy_to_ushabti_units</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>1</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{91277d47-9683-4ff7-bfb3-cfcd46d64200}" record_timestamp="1513332063119" record_key="wh2_dlc09_anc_follower_tmb_herald_of_scorpionwh2_dlc09_effect_tmb_scorpion_bonus_v_small">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_scorpion</ancillary>
 <effect>wh2_dlc09_effect_tmb_scorpion_bonus_v_small</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>12</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{5895f6d8-332d-4b9d-977e-0e6f26dca46e}" record_timestamp="1513332063126" record_key="wh2_dlc09_anc_follower_tmb_herald_of_sphinxwh2_dlc09_effect_tmb_sphinx_bonus_v_large">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_sphinx</ancillary>
 <effect>wh2_dlc09_effect_tmb_sphinx_bonus_v_large</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>12</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{53191eee-1778-4a5c-9966-ea65dee03fe1}" record_timestamp="1513332063132" record_key="wh2_dlc09_anc_follower_tmb_herald_of_zandriwh2_dlc09_effect_battle_vanguard_tmb_chariots">
 <ancillary>wh2_dlc09_anc_follower_tmb_herald_of_zandri</ancillary>
 <effect>wh2_dlc09_effect_battle_vanguard_tmb_chariots</effect>
-<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">general_to_force_own</effect_scope>
+<effect_scope state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">general_to_force_own</effect_scope>
 <value>1</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{3881ecb6-dac6-4284-a863-7b30bd2651b4}" record_timestamp="1508928448147" record_key="wh2_dlc09_anc_follower_tmb_high_born_of_khemriwh_main_effect_public_order_characters">
@@ -7887,7 +7917,7 @@
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{1b0692e2-cb06-4ba9-abcf-dfb57fb2af8f}" record_timestamp="1510930647899" record_key="wh_main_anc_weapon_red_axe_of_karak_eight_peakswh_main_effect_character_stat_melee_damage_versus_greenskins">
 <ancillary>wh_main_anc_weapon_red_axe_of_karak_eight_peaks</ancillary>
-<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">wh_main_effect_character_stat_melee_damage_versus_greenskins</effect>
+<effect state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">wh_main_effect_character_stat_melee_damage_versus_greenskins</effect>
 <effect_scope>character_to_character_own</effect_scope>
 <value>8</value>
 </ancillary_to_effects>
