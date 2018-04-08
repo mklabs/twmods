@@ -5,8 +5,6 @@
 - Implement basic quest battle for Taurox
   [x] Hook it up in campaign
 
-- Implement Taurox dual cleaver weapon (take a look at mixus mod)
-
 - Implement chapter objectives for Taurox / Ghorros
   - Have taurox start in Talebecland, somewhere in the forest.
   - Ghorros, start in naggarond, maybe in Chaos wasteland also (would be nice
@@ -18,7 +16,8 @@
   - Ghorros: Kholek / Centigor GW as a base
 
 - Implement legendary items for Taurox / Ghorros
-  - Taurox: Dual cleaver / Brass Armour
+  [x] Taurox: Dual cleaver
+  - Taurox: Brass Armour
   - Ghorros: Club / Talisman
 
 - Implement quest battles

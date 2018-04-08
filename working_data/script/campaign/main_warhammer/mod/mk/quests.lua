@@ -89,10 +89,10 @@ function Quests:setupRankupListerners()
 
 	-- type, ancillary key, mission key, rank required, [optional] mission key if playing MPC
 	local taurox_quests = {
-		{ 'mission', 'mk_taurox_anc_weapon_rune_tortured_axe', 'mk_taurox_bst_taurox_dual_cleaver_stage1', 1 }
+		{ 'mission', 'mk_taurox_anc_weapon_rune_tortured_axe', 'mk_taurox_bst_taurox_dual_cleaver_stage1', 7 }
 	};
 
-  log('Setting up Taurox quest to unlock at rank', 1, 'with', 'mk_taurox_bst_taurox_dual_cleaver_stage1');
+  log('Setting up Taurox quest to unlock at rank', 7, 'with', 'mk_taurox_bst_taurox_dual_cleaver_stage1');
 	set_up_rank_up_listener(taurox_quests, taurox_subtype);
 end;
 

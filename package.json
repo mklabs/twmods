@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
+  "watch": {
+    "mod": "retail/data/mod.pack"
+  },
+
   "scripts": {
     "mod": "cp retail/data/mod.pack ../data/",
+    "watch": "npm-watch",
     "game": "../Warhammer2.exe",
     "log": "npm run logs",
     "logs": "ctail ../taurox_script_log.txt",
-    "logs-taurox": "echo \"ctail ../taurox_script_log.txt | grep '\\[taurox\\]'\"",
+    "logs-taurox": "echo \"ctail ../taurox_script_log.txt",
+    "logs-mod": "ctail ../*.log ../mk_lua_mod_log.txt ../lua_mod_log.txt ../uimf_log.txt",
     "bob": "./binaries/BOB.modder.x64.exe",
     "tweak": "./binaries/Tweak.modder.x64",
     "commit-lazy": "git commit -am 'Lazy commit'",
@@ -22,6 +29,7 @@
     "xml2orm": "0.0.1"
   },
   "dependencies": {
+    "npm-watch": "^0.3.0",
     "xml2js": "^0.4.19"
   }
 }
