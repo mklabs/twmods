@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_mission_payloads.xsd" export_time="dim. avr. 8 05:21:34 2018" revision="209" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>b2888ff3-446d-403f-981a-317c129f3260</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdir_events_mission_payloads.xsd" export_time="dim. avr. 8 16:30:30 2018" revision="210" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>6a518deb-74de-41a7-8926-24630abd97dd</edit_uuid>
 <cdir_events_mission_payloads record_uuid="{59f63eca-92a8-414c-baa3-795115e06454}" record_timestamp="1474903539967" record_key="10001">
 <id>10001</id>
 <mission_key>wh_dlc06_grn_wurrzag_da_great_green_prophet_baleful_mask_stage_2.1</mission_key>
@@ -5370,9 +5370,9 @@
 <status_key>SUCCESS</status_key>
 <value>RANDOM_ANCILLARY;TARGET_OWNING_FACTION</value>
 </cdir_events_mission_payloads>
-<cdir_events_mission_payloads record_uuid="{6662fc18-4dad-4914-8c34-c668aeecda2e}" record_timestamp="1523157694118" record_key="1748713594">
+<cdir_events_mission_payloads record_uuid="{6662fc18-4dad-4914-8c34-c668aeecda2e}" record_timestamp="1523197830230" record_key="1748713594">
 <id>1748713594</id>
-<mission_key>mk_taurox_bst_taurox_dual_cleaver</mission_key>
+<mission_key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-08T16:30:30" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox_dual_cleaver_stage1</mission_key>
 <payload_key>TREASURY</payload_key>
 <status_key>SUCCESS</status_key>
 <value>AMOUNT[1500]</value>

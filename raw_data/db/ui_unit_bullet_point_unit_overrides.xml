@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_bullet_point_unit_overrides.xsd" export_time="Fri Dec 15 12:11:37 2017" revision="217" export_branch="T:/branches/warhammer2/new_tomb/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>36b796cb-689d-422f-9b29-a00e98b4d44c</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ui_unit_bullet_point_unit_overrides.xsd" export_time="dim. avr. 8 18:32:30 2018" revision="218" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>793c7c22-f639-45e3-8922-1756c72734ac</edit_uuid>
+<ui_unit_bullet_point_unit_overrides record_uuid="{a6724753-0ce6-47da-b072-6290479fb501}" record_timestamp="1523205150724" record_key="mk_taurox_bst_ghorrosarmour_piercing">
+<bullet_point>armour_piercing</bullet_point>
+<unit_key>mk_taurox_bst_ghorros</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{08289978-882a-4476-ac6b-771ebe1a8ceb}" record_timestamp="1523205150704" record_key="mk_taurox_bst_ghorrosvanguard_deployment">
+<bullet_point>vanguard_deployment</bullet_point>
+<unit_key>mk_taurox_bst_ghorros</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{a9073f01-981d-4209-ba8a-0ca0c23a40eb}" record_timestamp="1523205150764" record_key="mk_taurox_bst_ghorrosvery_fast">
+<bullet_point>very_fast</bullet_point>
+<unit_key>mk_taurox_bst_ghorros</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{9192ccad-9ba4-4134-9270-232c6cd3e6ab}" record_timestamp="1523205150744" record_key="mk_taurox_bst_tauroxanti_large">
+<bullet_point>anti_large</bullet_point>
+<unit_key>mk_taurox_bst_taurox</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{156b9b4c-1e83-4efa-91f1-f3a07e43db89}" record_timestamp="1523205150804" record_key="mk_taurox_bst_tauroxarmour_piercing">
+<bullet_point>armour_piercing</bullet_point>
+<unit_key>mk_taurox_bst_taurox</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{9ddfa081-307b-484c-be43-5af627d0723b}" record_timestamp="1523205150784" record_key="mk_taurox_bst_tauroxarmoured">
+<bullet_point>armoured</bullet_point>
+<unit_key>mk_taurox_bst_taurox</unit_key>
+</ui_unit_bullet_point_unit_overrides>
+<ui_unit_bullet_point_unit_overrides record_uuid="{2235547e-033d-41fd-895b-cef854e5b7b8}" record_timestamp="1523205150824" record_key="mk_taurox_bst_tauroxmelee_expert">
+<bullet_point>melee_expert</bullet_point>
+<unit_key>mk_taurox_bst_taurox</unit_key>
+</ui_unit_bullet_point_unit_overrides>
 <ui_unit_bullet_point_unit_overrides record_uuid="{5bb27fa1-1093-4959-b49f-cd9e517340ea}" record_timestamp="1509026007996" record_key="wh2_dlc09_skv_cha_tretch_craventailanti_large">
 <bullet_point>anti_large</bullet_point>
 <unit_key>wh2_dlc09_skv_cha_tretch_craventail</unit_key>
@@ -386,7 +414,7 @@
 <unit_key>wh2_dlc09_tmb_cha_tomb_king_3</unit_key>
 </ui_unit_bullet_point_unit_overrides>
 <ui_unit_bullet_point_unit_overrides record_uuid="{6427ae0e-b05a-4d1b-a0d7-84ad305c8eb1}" record_timestamp="1511344879667" record_key="wh2_dlc09_tmb_cha_tomb_king_3terror">
-<bullet_point state="NOT_APPROVED" last_approved_text="" last_edit_user="bob">terror</bullet_point>
+<bullet_point state="NOT_APPROVED" last_approved_text="" last_edit_user="bob" requires_translation="false" requires_recording="false">terror</bullet_point>
 <unit_key>wh2_dlc09_tmb_cha_tomb_king_3</unit_key>
 </ui_unit_bullet_point_unit_overrides>
 <ui_unit_bullet_point_unit_overrides record_uuid="{660355b4-0035-4381-a6e5-9d7d4332ede4}" record_timestamp="1506962382663" record_key="wh2_dlc09_tmb_cha_tomb_prince_0anti_large">

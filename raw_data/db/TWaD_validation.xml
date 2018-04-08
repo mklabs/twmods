@@ -50,7 +50,7 @@
 <uuid name="agent_subtypes">3b492396-404c-48c4-b91a-7226aa79d216</uuid>
 <uuid name="agent_to_agent_abilities">034d5ff7-6142-4ec5-80ac-24798360a398</uuid>
 <uuid name="agent_to_agent_attributes">e8e9e9d0-78d0-4154-ae2d-2a7303b72e9b</uuid>
-<uuid name="agent_uniforms">ca4949b7-fb31-4d72-a242-e66fc5bfceb1</uuid>
+<uuid name="agent_uniforms">f54d7be9-617d-46e5-ac71-ecf09249d7f2</uuid>
 <uuid name="agents">642a9f91-2bb2-40d5-8932-ccdf8952f4c5</uuid>
 <uuid name="ai_usage_groups">1cf46215-8841-479f-9778-72acaed9a628</uuid>
 <uuid name="aide_de_camp_speeches">d07fbca0-e10d-419e-8b02-8271ce775948</uuid>
@@ -63,7 +63,7 @@
 <uuid name="ancillaries_subcategories">d61db9ca-9d91-4e79-8293-89ce6bb6ceaa</uuid>
 <uuid name="ancillary_included_subcultures">d830755e-ec8a-4e08-90b9-9f162b5235cb</uuid>
 <uuid name="ancillary_info">94a1ae5e-d10b-49be-a094-05883ab81d3b</uuid>
-<uuid name="ancillary_to_effects">21a47b07-055d-4e74-9424-c2c32e5c81b8</uuid>
+<uuid name="ancillary_to_effects">e321d3b1-e7ea-4856-aced-58c00afd96ee</uuid>
 <uuid name="ancillary_to_included_agents">3033ebf8-4604-44fd-8347-575196e34333</uuid>
 <uuid name="ancillary_trigger_effects">7f39f893-44e4-4d4e-b2c3-22aa588f0fec</uuid>
 <uuid name="ancillary_triggers">dc0cdb67-6c1f-4737-b355-32a8339624e8</uuid>
@@ -626,12 +626,12 @@
 <uuid name="cdir_events_incident_options">c038854f-95d0-4709-9694-849f05f1a531</uuid>
 <uuid name="cdir_events_incident_payloads">e97d8bcb-96bd-4255-bc3a-b6da11d954cf</uuid>
 <uuid name="cdir_events_mission_followup_dilemmas">b591a9b5-2601-4e75-b6f3-235b911a5674</uuid>
-<uuid name="cdir_events_mission_followup_missions">b198c249-565b-4029-9d81-256ad0a41e59</uuid>
+<uuid name="cdir_events_mission_followup_missions">60c9bd37-952e-4afb-99e6-ed2e2fbc0fef</uuid>
 <uuid name="cdir_events_mission_incidents">0a916961-a9fd-49d4-ab5e-3194761d183c</uuid>
-<uuid name="cdir_events_mission_issuer_junctions">ae1b5862-9ac0-4553-a992-1561ef8dd068</uuid>
-<uuid name="cdir_events_mission_option_junctions">772e2663-261f-43ad-a3c6-c8106cd581b5</uuid>
+<uuid name="cdir_events_mission_issuer_junctions">b7841ccc-e54e-4790-9b5d-d81373a67207</uuid>
+<uuid name="cdir_events_mission_option_junctions">bbe67653-ba41-4015-865c-ab1c9f0d47eb</uuid>
 <uuid name="cdir_events_mission_options">b7c5cfa9-5a56-4c0a-982a-7800864b3ef6</uuid>
-<uuid name="cdir_events_mission_payloads">b2888ff3-446d-403f-981a-317c129f3260</uuid>
+<uuid name="cdir_events_mission_payloads">6a518deb-74de-41a7-8926-24630abd97dd</uuid>
 <uuid name="cdir_events_mission_statuses">bec7e9cd-fab5-4e0f-9aa9-a1765884175a</uuid>
 <uuid name="cdir_events_options">beca8ea4-445b-4c87-aa38-04ab8f6ef4cc</uuid>
 <uuid name="cdir_events_payloads">6253ec0a-182b-4829-8faa-8d596bbbb590</uuid>
@@ -644,7 +644,7 @@
 <uuid name="cdir_military_generator_unit_qualities">6d73f405-1446-4d73-a7c3-aea8d8428729</uuid>
 <uuid name="character_experience_skill_tiers">74b4aa84-3fc2-4ffe-a306-c035b95bbe2d</uuid>
 <uuid name="character_skill_categories">213f34d8-062c-42b2-97fe-4fc03139ebe0</uuid>
-<uuid name="character_skill_level_details">d04eaba9-057a-4b13-9a56-c08470f43630</uuid>
+<uuid name="character_skill_level_details">b0d3b280-cf03-4843-acef-e020a3ed152f</uuid>
 <uuid name="character_skill_level_to_ancillaries_junctions">e013c167-2f4b-4c50-bc13-f81758f1276d</uuid>
 <uuid name="character_skill_level_to_dilemmas_junctions">e048f9f8-439b-495f-a246-bfe65efc917a</uuid>
 <uuid name="character_skill_level_to_effects_junctions">84134fd3-490c-406b-ad41-4e189444715d</uuid>
@@ -654,14 +654,14 @@
 <uuid name="character_skill_node_link_types">71dbe4fd-b540-4eb0-9fc2-6c19ebb7d47d</uuid>
 <uuid name="character_skill_node_links">ea016c76-4dc7-4ecf-b0f9-ded8f919c97e</uuid>
 <uuid name="character_skill_node_sets">d84631df-318a-4d7f-9a8e-7700a4918c7f</uuid>
-<uuid name="character_skill_nodes">14a6992c-f83b-4638-b1c7-937ae609f18b</uuid>
+<uuid name="character_skill_nodes">deca7932-3da0-4783-aee1-3f1248841370</uuid>
 <uuid name="character_skill_nodes_skill_locks">92aba4e8-3f14-4dd9-832a-726e2fe103af</uuid>
 <uuid name="character_skill_utilization_hints">890a2f77-a21c-4c42-be15-993a8e553699</uuid>
 <uuid name="character_skill_utilization_hints_junctions">f43fcaed-2b3f-4b72-bd99-1ba607fce25f</uuid>
-<uuid name="character_skills">8cd1a820-ae91-4d7c-9d22-f6ddaad27ae3</uuid>
-<uuid name="character_skills_to_quest_ancillaries">3e8eb214-a0cc-4001-a722-e8aebb38cf27</uuid>
-<uuid name="character_trait_levels">6b326546-0cfe-48b7-a91f-c43399181872</uuid>
-<uuid name="character_traits">5d12f1cf-712f-47f1-85d3-7250ce07fb51</uuid>
+<uuid name="character_skills">c1e594f3-710f-4630-9f6b-221c59fb292c</uuid>
+<uuid name="character_skills_to_quest_ancillaries">3d2fde96-170b-49e6-b527-b24d57da7250</uuid>
+<uuid name="character_trait_levels">e052b7ad-53d8-4662-a04e-91941453be70</uuid>
+<uuid name="character_traits">fc4981a8-4414-4c18-b6b3-c227314c8536</uuid>
 <uuid name="chat_shortcuts">61a46ea2-3286-47c0-b2dc-1acf5090c8eb</uuid>
 <uuid name="climates">61df37f8-23d4-4ac9-b75b-e04af05f5c2c</uuid>
 <uuid name="climbing_ladders_meshes_definitions">a9b01956-e748-42f7-b698-12fd52043a77</uuid>
@@ -884,7 +884,7 @@
 <uuid name="intrigue_actions_incidents_junctions">fbf07a68-31c1-46bf-8bf5-2de580120d61</uuid>
 <uuid name="lab_settings">6fa8573e-297d-44c2-80f0-9f104c590c1f</uuid>
 <uuid name="land_unit_articulated_vehicles">f015cf21-9bf1-43fc-9f3d-e740b2e3a8af</uuid>
-<uuid name="land_units">16c00a0f-ebc0-4efc-827b-12ba138ee0e3</uuid>
+<uuid name="land_units">b76e98a7-d10b-4af1-8990-97941adca5e9</uuid>
 <uuid name="land_units_additional_personalities_groups">35b029dd-c7d5-44b1-93c8-aef617cc371f</uuid>
 <uuid name="land_units_additional_personalities_groups_junctions">c6d4621f-2c1d-4bda-8b6e-093c3a281924</uuid>
 <uuid name="land_units_officers">292b761c-7b24-457a-9278-a25e5054b12b</uuid>
@@ -902,7 +902,7 @@
 <uuid name="loyalty_event_effects">35134a23-60be-4d2e-a707-cab374da7264</uuid>
 <uuid name="loyalty_factors">99b8f6fb-88af-4ff9-9183-fde8b5bd469c</uuid>
 <uuid name="main_units">6dca8d05-24fd-488a-a297-6ff6c4cb232c</uuid>
-<uuid name="melee_weapons">a5571b28-ffce-4710-9236-43d43436f161</uuid>
+<uuid name="melee_weapons">2347e32d-512b-4a66-b33e-1351364afad0</uuid>
 <uuid name="mercenary_pool_modifiers">cdb32b7e-d0e8-4f48-9856-3919ba44c0bd</uuid>
 <uuid name="mercenary_pool_to_groups_junctions">8efb6f83-f384-46d7-a1c4-d8823259bf0a</uuid>
 <uuid name="mercenary_pool_type_enums">78040959-b9ad-48b5-b20f-b4dd86d62782</uuid>
@@ -932,7 +932,7 @@
 <uuid name="mission_text">bc367154-abef-46ee-8f85-4a806a939be9</uuid>
 <uuid name="mission_types">7a4d8c3f-a801-45d2-9f47-a8fa9a9c6e94</uuid>
 <uuid name="mission_weights">bdf62b1a-449a-42d8-8b98-5a58d3c88ff0</uuid>
-<uuid name="missions">871b2548-223a-4871-b21a-bb61f918ee49</uuid>
+<uuid name="missions">5389b67c-141b-4d9e-9e31-ac2f9a8f5a1a</uuid>
 <uuid name="models_artillery">52d48121-002b-414d-b9cc-5a76bd3e0514</uuid>
 <uuid name="models_building">4fad7c5a-c1c9-4dba-bf5a-d61ad0e22b46</uuid>
 <uuid name="models_deployables">ff1cbc86-802d-43f8-a2ce-6e57991fc8ba</uuid>
@@ -1098,7 +1098,7 @@
 <uuid name="start_pos_calendars">246edad3-c9e9-4219-8222-ee31201cf8ea</uuid>
 <uuid name="start_pos_character_ancillaries">f672c8b2-90ab-42d2-afda-4e36b43dc8fc</uuid>
 <uuid name="start_pos_character_to_settlements">7c506d70-c5ea-4579-9b26-fb8b5e079c08</uuid>
-<uuid name="start_pos_character_traits">80c3345d-505d-4446-9cd3-a66daade86f3</uuid>
+<uuid name="start_pos_character_traits">8722fefa-825d-4e82-9076-01dced43d164</uuid>
 <uuid name="start_pos_characters">dbd0aab9-6f02-43c0-8b2b-a8c1680b0044</uuid>
 <uuid name="start_pos_diplomacy">af75b359-a4a3-4bcc-91ae-6e571d85ab72</uuid>
 <uuid name="start_pos_diplomacy_deal_actions">9aa19f06-c416-4530-af8a-13cbb678aaab</uuid>
@@ -1153,7 +1153,7 @@
 <uuid name="trade_node_groups">f330745e-daae-4bfc-8d82-9edba46be766</uuid>
 <uuid name="trade_nodes">0b462fa2-b597-4676-abb2-aac4cf91cd84</uuid>
 <uuid name="trait_categories">4e28093d-87d8-4293-9c35-d02427374e1d</uuid>
-<uuid name="trait_info">199bd613-9d54-4eec-ace6-39f591b3ef0e</uuid>
+<uuid name="trait_info">14f82f58-43aa-43a9-9d6d-dd16e6c5388b</uuid>
 <uuid name="trait_level_effects">b0b1c14f-90f6-417e-b997-e7bb70fbc5bc</uuid>
 <uuid name="trait_level_string_subculture_overrides">98ef149b-69c0-48ba-8687-6c7f00a173f6</uuid>
 <uuid name="trait_to_antitraits">c9cefb15-6c4a-4b4e-8b10-4ff96d6b7130</uuid>
@@ -1174,7 +1174,7 @@
 <uuid name="ui_tooltip_components">c55efa3c-1cb7-4e3c-bef3-087fcdce65f7</uuid>
 <uuid name="ui_tooltips">34a3768c-6316-449d-b2fb-8046126f09d0</uuid>
 <uuid name="ui_unit_bullet_point_enums">e8011b54-1816-451a-b0e8-d1e0831bcfe9</uuid>
-<uuid name="ui_unit_bullet_point_unit_overrides">36b796cb-689d-422f-9b29-a00e98b4d44c</uuid>
+<uuid name="ui_unit_bullet_point_unit_overrides">793c7c22-f639-45e3-8922-1756c72734ac</uuid>
 <uuid name="ui_unit_bullet_points_generations">7c7de087-81a8-4444-83d3-0b98844c6f4a</uuid>
 <uuid name="ui_unit_group_parents">c92be4a9-4756-49d7-b713-2f324d39b72b</uuid>
 <uuid name="ui_unit_groupings">fc65c51f-ada8-4f45-8c68-7e3584556f18</uuid>
@@ -1239,7 +1239,7 @@
 <uuid name="unit_to_unit_list_junctions">e060df55-1ffa-4ec1-b632-7b6f5b66917b</uuid>
 <uuid name="unit_training_level_enum">ad8d8ab4-49f7-48ab-b1e5-90924d5a1214</uuid>
 <uuid name="unit_variant_upgrades">97ab0aac-7beb-4e52-923b-8745642c6cbd</uuid>
-<uuid name="unit_variants">d4bc0f6e-b091-4a2d-ab7a-13114ed8dfdd</uuid>
+<uuid name="unit_variants">773eafbe-a687-47f7-95f9-abc5375d8174</uuid>
 <uuid name="unit_variants_colours">2748901a-025e-4fb5-9d32-9dbd77cd3378</uuid>
 <uuid name="unit_variants_ships">ce65142b-9368-4fe5-ac9d-fe2ed24b6ffd</uuid>
 <uuid name="unit_weights">6b3eeddf-674d-4c30-8fce-ca3344d20d69</uuid>
@@ -1253,7 +1253,7 @@
 <uuid name="units_to_gov_types_conversion_jcts">282a8302-49d6-4b39-a5a2-35e13f565380</uuid>
 <uuid name="units_to_groupings_military_permissions">28e2e2db-d8c2-4667-a47e-ec6cc550df73</uuid>
 <uuid name="vampire_mercenary_set_junctions">28f4b86a-7928-4da2-ae9f-9536c2bdabee</uuid>
-<uuid name="variants">5a58cbb0-21e8-4f09-b738-9751c92e0650</uuid>
+<uuid name="variants">1ce01d2d-8954-4417-af0d-e279146c71bc</uuid>
 <uuid name="victory_conditions">f67cfb13-36c8-4dfd-b468-5595afb62298</uuid>
 <uuid name="victory_type_links">8e29d9ea-425d-40d4-9dfb-c85471ed4bb3</uuid>
 <uuid name="victory_types">bb7165d3-2813-42b3-8db0-0dfb0f6dc630</uuid>

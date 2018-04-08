@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="missions.xsd" export_time="jeu. avr. 5 07:44:55 2018" revision="705" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>871b2548-223a-4871-b21a-bb61f918ee49</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="missions.xsd" export_time="dim. avr. 8 16:28:47 2018" revision="707" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>5389b67c-141b-4d9e-9e31-ac2f9a8f5a1a</edit_uuid>
 <missions record_uuid="{e6781d76-5219-4384-906f-60df9ab45fda}" record_timestamp="1509734918063" record_key="dlc09_main_tmb_arkhan_early_game_canopic_jars">
 <event_category>Military</event_category>
 <generate>0</generate>
@@ -1461,6 +1461,25 @@
 <set_piece_battle>mk_taurox_qb_bst_taurox_brassbull_dual_cleaver</set_piece_battle>
 <sticky_by_default>0</sticky_by_default>
 <trigger_radius>10</trigger_radius>
+<ui_icon>rom_event_mission.png</ui_icon>
+<ui_image>bst/generic</ui_image>
+</missions>
+<missions record_uuid="{a60ba590-775e-467b-841e-9878dff5f6be}" record_timestamp="1523197727135" record_key="mk_taurox_bst_taurox_dual_cleaver_stage1">
+<event_category>Quest</event_category>
+<generate>0</generate>
+<key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-08T16:28:47" requires_translation="false" requires_recording="false">mk_taurox_bst_taurox_dual_cleaver_stage1</key>
+<localised_description>Rune Tortured Axes description</localised_description>
+<localised_title>Rune Tortured Axes</localised_title>
+<location_x>0</location_x>
+<location_y>0</location_y>
+<mission_type>EMBED_AGENT</mission_type>
+<prioritised>1</prioritised>
+<quest_character>1403603105</quest_character>
+<quest_mission>1</quest_mission>
+<quest_mission_final>0</quest_mission_final>
+<set_piece_battle></set_piece_battle>
+<sticky_by_default>0</sticky_by_default>
+<trigger_radius>0</trigger_radius>
 <ui_icon>rom_event_mission.png</ui_icon>
 <ui_image>bst/generic</ui_image>
 </missions>

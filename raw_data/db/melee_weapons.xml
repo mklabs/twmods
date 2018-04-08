@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="melee_weapons.xsd" export_time="mer. avr. 4 20:10:51 2018" revision="451" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>a5571b28-ffce-4710-9236-43d43436f161</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="melee_weapons.xsd" export_time="dim. avr. 8 18:18:53 2018" revision="452" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>2347e32d-512b-4a66-b33e-1351364afad0</edit_uuid>
+<melee_weapons record_uuid="{24d7ed03-c47a-4ef3-be20-8bdfe41d02ed}" record_timestamp="1523204333437" record_key="mk_taurox_bst_axe_taurox">
+<ap_damage>350</ap_damage>
+<audio_type>axe</audio_type>
+<bonus_v_cavalry>0</bonus_v_cavalry>
+<bonus_v_infantry>0</bonus_v_infantry>
+<bonus_v_large>30</bonus_v_large>
+<building_damage>150</building_damage>
+<collision_attack_max_targets>0</collision_attack_max_targets>
+<collision_attack_max_targets_cooldown>10</collision_attack_max_targets_cooldown>
+<contact_phase></contact_phase>
+<damage>150</damage>
+<first_strike>0</first_strike>
+<ignition_amount>0</ignition_amount>
+<is_magical>0</is_magical>
+<key>mk_taurox_bst_axe_taurox</key>
+<melee_attack_interval>4</melee_attack_interval>
+<melee_weapon_type>axe</melee_weapon_type>
+<splash_attack_max_attacks>4</splash_attack_max_attacks>
+<splash_attack_power_multiplier>1.5</splash_attack_power_multiplier>
+<splash_attack_target_size>medium</splash_attack_target_size>
+<weapon_length>1</weapon_length>
+</melee_weapons>
 <melee_weapons record_uuid="{a39b9827-6c37-43b0-bd76-b3a3111fda31}" record_timestamp="1522865451400" record_key="mk_taurox_bst_club_ghorros">
 <ap_damage>405</ap_damage>
 <audio_type>club_huge</audio_type>

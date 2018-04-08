@@ -3,7 +3,7 @@
   - Implement unique skill for Taurox and Ghorros (partly done)
 
 - Implement basic quest battle for Taurox
-  - Hook it up in campaign
+  [x] Hook it up in campaign
 
 - Implement Taurox dual cleaver weapon (take a look at mixus mod)
 

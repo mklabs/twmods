@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_to_effects.xsd" export_time="dim. avr. 8 05:17:28 2018" revision="258" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>21a47b07-055d-4e74-9424-c2c32e5c81b8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ancillary_to_effects.xsd" export_time="dim. avr. 8 18:17:28 2018" revision="259" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>e321d3b1-e7ea-4856-aced-58c00afd96ee</edit_uuid>
 <ancillary_to_effects record_uuid="{9731bbae-987b-42dd-bfbc-9bca1f904570}" record_timestamp="1523157448493" record_key="mk_taurox_anc_weapon_rune_tortured_axewh2_main_effect_character_stat_enable_flaming_attacks">
 <ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
 <effect>wh2_main_effect_character_stat_enable_flaming_attacks</effect>
 <effect_scope>character_to_character_own</effect_scope>
 <value>1</value>
 </ancillary_to_effects>
-<ancillary_to_effects record_uuid="{7a2d2cf8-6a38-48f6-9e2e-439b33c19b1d}" record_timestamp="1523157448562" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_character_stat_mod_bonus_v_small">
+<ancillary_to_effects record_uuid="{7a2d2cf8-6a38-48f6-9e2e-439b33c19b1d}" record_timestamp="1523204248459" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_character_stat_mod_bonus_v_small">
 <ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
 <effect>wh_main_effect_character_stat_mod_bonus_v_small</effect>
 <effect_scope>character_to_character_own</effect_scope>
-<value>16</value>
+<value>30</value>
 </ancillary_to_effects>
 <ancillary_to_effects record_uuid="{9e97d63c-5d7e-41bd-86a8-b4156ea15331}" record_timestamp="1523157448509" record_key="mk_taurox_anc_weapon_rune_tortured_axewh_main_effect_character_stat_mod_melee_attack">
 <ancillary>mk_taurox_anc_weapon_rune_tortured_axe</ancillary>
