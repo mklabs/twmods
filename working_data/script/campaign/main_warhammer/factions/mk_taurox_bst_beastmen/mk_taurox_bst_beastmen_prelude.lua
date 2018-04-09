@@ -25,21 +25,22 @@ local function initUI()
   ui:setupListeners();
   log('UI init done');
 
-  ui:demoUI();
-
   log('Setting listener to reposition');
   ui:on('position', function (context)
     local x, y = context;
+    log('position event triggered, got context', context);
+    log('values(x, y)', x, y);
 
-    log('Position event triggered, reposition starting lords to', context);
-    log('Reposition taurox');
-    reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, TAUROX_FORENAME, x, y);
-    log('Reposition Ghorros');
-    reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, GHORROS_FORENAME, x, y);
-    log('Reposition second army');
-    reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, 'names_name_2147357951', x - 2, y + 2);
-    reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, 'names_name_2147357951', x + 3, y - 2);
-    log('Repositioned everything, how does it look ?');
+
+    log('Position event triggered, reposition starting lords to (' .. x ..', ' .. y ..')');
+    -- log('Reposition taurox');
+    -- reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, TAUROX_FORENAME, x, y);
+    -- log('Reposition Ghorros');
+    -- reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, GHORROS_FORENAME, x, y);
+    -- log('Reposition second army');
+    -- reposition_starting_lord_for_faction(TAUROX_FACTION, TAUROX_FORENAME, 'names_name_2147357951', x - 2, y + 2);
+    -- reposition_starting_lord_for_faction(TAUROX_FACTION, GHORROS_FORENAME, 'names_name_2147357951', x + 3, y - 2);
+    -- log('Repositioned everything, how does it look ?');
   end);
 end;
 
