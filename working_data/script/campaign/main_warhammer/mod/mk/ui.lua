@@ -1,173 +1,191 @@
+-- local e = require('mk/ui/createElement');
+-- local render = require('mk/ui/render');
+-- log('Loaded mk/ui files');
+
 local log = require('mk/log')('mk:ui');
-log('UI file loaded');
+local Text = require('uic/text');
+local Image = require('uic/image');
+local Button = require('uic/button');
+local TextButton = require('uic/text_button');
+local TextBox = require('uic/text_box');
+local Util = require ('uic/util');
+local Components = require('uic/components');
+local FlowLayout = require('uic/layout/flowlayout');
+local UIContainer = require('uic/layout/container');
+local Frame = require('uic/frame');
+local Dummy = require('uic/dummy');
+local ListView = require('uic/list_view');
+local Gap = require('uic/layout/gap');
+log('Loaded uic file');
+local Container = require('mk/ui/container');
+log('loaded container');
 
 local UI = {
   cm = false,
   core = false,
-  uimf = false
+  panel = false,
+  uuid = 0
 };
 
-function UI:new(cm, core, uimf)
+function UI:new(cm, core)
   local ui = {};
   setmetatable(ui, self);
   self.__index = self;
-
   ui.cm = cm;
   ui.core = core;
-  ui.uimf = uimf;
-
-  self:setupListeners();
+  ui.uuid = 0;
   return ui;
 end;
 
 function UI:setupListeners()
   local core = self.core;
   log('Setting up listeners');
-  core:add_listener('createFrame', 'ShortcutTriggered', self.isDefaultF11, self.demoUI, true);
+  self:createPositionListener();
+  self:createFlowLayoutListener();
 end;
 
-function UI:isDefaultF11(context)
-  log('Checking condition' .. context.string);
-  return context.string == 'camera_bookmark_view2';
+function UI:on(event, listener)
+  self.uuid = self.uuid + 1;
+  return self:addListener('mk_ui_' .. tostring(self.uuid), event, true, listener, true);
 end;
 
-function UI:demoUI()
-  log('Creating demoUI');
+function UI:once(event, listener)
+  self.uuid = self.uuid + 1;
+  return self:addListener('mk_ui_' .. tostring(self.uuid), event, true, listener, false);
+end;
 
-  local cm = self.cm;
-  local Util, Frame, Text, Image, Button, TextButton, TextBox = self.uimf;
+function UI:emit(event, ...)
+  return self.core:trigger_event(event, unpack(arg));
+end;
 
-  log('Getting frame');
-  local existingFrame = Util.getComponentWithName('MyFrame');
+function UI:addListener(name, event, condition, callback, persistent)
+  log('UI:add_listener(' .. name .. ')', name, event);
+  self.core:add_listener(name, event, condition, callback, persistent);
+  log('listener added');
+end;
 
-  if existingFrame then
-    log('Frame is already existring, assume existing frame: BUTTON');
-    existingFrame:SetVisible(true);
+-- F12
+function UI:createPositionListener()
+  return self:addListener(
+    'createPositionListener',
+    'ShortcutTriggered',
+    function(context) return context.string == 'camera_bookmark_view3'; end,
+    function(context) self:renderPositionPanel(context) end,
+    true
+  )
+end;
+
+-- F9
+function UI:createFlowLayoutListener()
+  return self:addListener(
+    'createPositionListener',
+    'ShortcutTriggered',
+    function(context) return context.string == 'camera_bookmark_view0'; end,
+    function(context) self:flowLayout(self:defaultPanel(context)) end,
+    true
+  )
+end;
+
+function UI:defaultPanel(context)
+  context = context or {};
+  if self.panel then
+    return self.panel;
   end;
 
-  log('Create frame');
-  local myFrame = Frame.new('MyFrame');
-  myFrame:Scale(1.5);
-  Util.centreComponentOnScreen(myFrame);
-  myFrame:AddCloseButton();
+  log('Creating default panel');
+  local panel = Frame.new('defaultPanel');
+  panel:Scale(1.5);
+  panel:SetTitle('Default Panel');
+  Util.centreComponentOnScreen(panel);
+  panel:AddCloseButton(function()
+    log('Close button clicked for default panel');
+    log('Emit evt', 'ui.close');
+    self:emit('ui.close', panel);
+    self.panel = false;
+    log('Evt emitted');
+  end);
 
-  log('Create image');
-  local images = Text.new('images', myFrame, 'NORMAL', 'Images');
-  images:PositionRelativeTo(myFrame, 20, 20);
-  local normalImage = Image.new('normalImage', myFrame, 'ui/skins/default/advisor_beastmen_2d.png');
-  normalImage:PositionRelativeTo(images, 0, 20);
-  local smallImage = Image.new('smallImage', myFrame, 'ui/skins/default/advisor_beastmen_2d.png');
-  smallImage:Scale(0.5);
-  smallImage:PositionRelativeTo(normalImage, 50, 0);
-  local rotatedImage = Image.new('rotatedImage', myFrame, 'ui/skins/default/advisor_beastmen_2d.png');
-  rotatedImage:SetRotation(math.pi / 2);
-  rotatedImage:PositionRelativeTo(smallImage, 50, 0);
-  local transparentImage = Image.new('transparentImage', myFrame, 'ui/skins/default/advisor_beastmen_2d.png');
-  transparentImage:SetOpacity(50);
-  transparentImage:PositionRelativeTo(rotatedImage, 50, 0);
+  self.panel = panel;
+  return panel;
+end;
 
-  log('Create buttons');
-  local buttons = Text.new('buttons', myFrame, 'NORMAL', 'Buttons');
-  buttons:PositionRelativeTo(images, 0, 50);
-  local squareButton = Button.new('squareButton', myFrame, 'SQUARE', 'ui/skins/default/icon_end_turn.png');
-  squareButton:PositionRelativeTo(buttons, 0, 20);
-  local circularButton = Button.new('circularButton', myFrame, 'CIRCULAR', 'ui/skins/default/icon_end_turn.png');
-  circularButton:PositionRelativeTo(squareButton, 50, 0);
-  local textButton = TextButton.new('textButton', myFrame, 'TEXT', 'customText');
-  textButton:PositionRelativeTo(circularButton, 50, 0);
+function UI:renderPositionPanel()
+  log('Rendering position panel');
+  self:createPositionPanel();
+  log('Position panel rendered');
+end;
 
-  log('Create resize button');
-  local resizedSquareButton = Button.new('resizedSquareButton', myFrame, 'SQUARE', 'ui/skins/default/icon_end_turn.png');
-  resizedSquareButton:Scale(0.5);
-  resizedSquareButton:PositionRelativeTo(squareButton, 0, 50);
-  local resizedCircularButton = Button.new('resizedCircularButton', myFrame, 'CIRCULAR', 'ui/skins/default/icon_end_turn.png');
-  resizedCircularButton:Scale(0.5);
-  resizedCircularButton:PositionRelativeTo(resizedSquareButton, 50, 0);
-  local resizedTextButton = TextButton.new('resizedTextButton', myFrame, 'TEXT', 'customText');
-  local width, height = resizedTextButton:Bounds();
-  resizedTextButton:Resize(250, height);
-  resizedTextButton:PositionRelativeTo(resizedCircularButton, 50, 0);
+function UI:createPositionPanel()
+  log('Creating position panel');
+  local existingFrame = Util.getComponentWithName('positionPanel');
+  if existingFrame then
+    log('Frame is already existing, assume existing frame: BUTTON');
+    existingFrame:SetVisible(true);
+    return;
+  end;
 
-  local toggleButtons = Text.new('toggleButtons', myFrame, 'NORMAL', 'Toggle Buttons');
-  toggleButtons:PositionRelativeTo(buttons, 0, 100);
-  local squareToggleButton = Button.new('squareToggleButton', myFrame, 'SQUARE_TOGGLE', 'ui/skins/default/icon_end_turn.png');
-  squareToggleButton:PositionRelativeTo(toggleButtons, 0, 20);
-  local circularToggleButton = Button.new('circularToggleButton', myFrame, 'CIRCULAR_TOGGLE', 'ui/skins/default/icon_end_turn.png');
-  circularToggleButton:PositionRelativeTo(squareToggleButton, 50, 0);
-  local textToggleButton = TextButton.new('textToggleButton', myFrame, 'TEXT_TOGGLE', 'customText');
-  textToggleButton:PositionRelativeTo(circularToggleButton, 50, 0);
+  log('Creating panel');
+  local panel = Frame.new('positionPanel');
+  local parent = panel:GetContentPanel();
+  panel:Scale(1.5);
+  panel:SetTitle('Starting position');
+  Util.centreComponentOnScreen(panel);
+  log('Panel created');
 
-  log('Create button logic');
-  local buttonLogic = Text.new('buttonLogic', myFrame, 'NORMAL', 'Button Logic');
-  buttonLogic:PositionRelativeTo(toggleButtons, 0, 70);
-  local incrementButton = TextButton.new('incrementButton', myFrame, 'TEXT', '+');
-  incrementButton:Resize(100, 51);
-  incrementButton:PositionRelativeTo(buttonLogic, 0, 20);
-  local decrementButton = TextButton.new('decrementButton', myFrame, 'TEXT', '-');
-  decrementButton:Resize(100, 51);
-  decrementButton:PositionRelativeTo(incrementButton, 100, 0);
-  local counterText = Text.new('CounterText', myFrame, 'NORMAL', '0');
-  counterText:PositionRelativeTo(decrementButton, 100, 0);
-  incrementButton:RegisterForClick(
-      function(context)
-          local number = tonumber(counterText:GetText());
-          if number < 8 then
-              local newText = tostring(number + 1);
-              counterText:SetText(newText);
-          end
-      end
-  );
-  decrementButton:RegisterForClick(
-      function(context)
-          local number = tonumber(counterText:GetText());
-          if number > 0 then
-              local newText = tostring(number - 1);
-              counterText:SetText(newText);
-          end
-      end
-  );
+  log('Creating elements');
+  local title = Text.new('position_title', parent, 'NORMAL', 'Define your starting position:');
+  title:PositionRelativeTo(parent, 20, 20);
 
-  log('Create toggleTextButton');
-  local toggleTextButton = TextButton.new('toggleTextButton', myFrame, 'TEXT_TOGGLE', 'Custom text');
-  toggleTextButton:PositionRelativeTo(counterText, 50, 0);
-  toggleTextButton:RegisterForClick(
-      function(context)
-          cm:callback(
-              function()
-                  toggleTextButton:SetButtonText(tostring(toggleTextButton:IsSelected()));
-              end, 0.1, 'toggleTextListenerText'
-          )
-      end
-  );
+  local label_x = Text.new('label_x', parent, 'NORMAL', 'x');
+  label_x:PositionRelativeTo(title, 0, 40);
+  local input_pos_x = TextBox.new('position_x', parent);
+  input_pos_x:Resize(100, 30);
+  input_pos_x:PositionRelativeTo(label_x, 20, 0);
 
-  log('Create texts');
-  local text = Text.new('text', myFrame, 'NORMAL', 'Text');
-  text:PositionRelativeTo(buttonLogic, 0, 100);
-  local greenText = Text.new('greenText', myFrame, 'NORMAL', '[[col:green]]This is green text[[/col]]');
-  greenText:PositionRelativeTo(text, 0, 20);
-  local iconText = Text.new('iconText', myFrame, 'NORMAL', '[[img:icon_arrow_up]][[/img]]This text has icons in[[img:icon_arrow_up]][[/img]]');
-  iconText:PositionRelativeTo(greenText, 0, 20);
-  local resizedText = Text.new('resizedText', myFrame, 'NORMAL', 'Small text');
-  resizedText:Scale(0.5);
-  resizedText:PositionRelativeTo(iconText, 0, 20);
-  local wrappedText = Text.new('wrappedText', myFrame, 'WRAPPED', 'This is wrapped text. This is wrapped text. This is wrapped text. This is wrapped text. This is wrapped text. This is wrapped text. This is wrapped text. This is wrapped text. ');
-  wrappedText:Resize(500, 200);
-  wrappedText:PositionRelativeTo(resizedText, 0, 20);
-  local titleText = Text.new('titleText', myFrame, 'TITLE', 'This is title text');
-  titleText:PositionRelativeTo(wrappedText, 0, 70);
+  local label_y = Text.new('label_y', parent, 'NORMAL', 'y');
+  label_y:PositionRelativeTo(input_pos_x, 120, 0);
+  local input_pos_y = TextBox.new('position_y', parent);
+  input_pos_y:Resize(100, 30);
+  input_pos_y:PositionRelativeTo(label_y, 120, 0);
+  log('elements created');
 
-  log('Create textBox');
-  local textBox = TextBox.new('textBox', myFrame);
-  textBox:PositionRelativeTo(text, 0, 180);
-  local textBoxButton = Button.new('textBoxButton', myFrame, 'CIRCULAR', 'ui/skins/default/icon_check.png');
-  textBoxButton:PositionRelativeTo(textBox, 200, 0);
-  local textBoxButtonText = Text.new('textBoxButtonText', myFrame, 'NORMAL', 'CUSTOM_TEXT');
-  textBoxButtonText:PositionRelativeTo(textBoxButton, 50, 0);
-  textBoxButton:RegisterForClick(
-      function(context)
-          textBoxButtonText:SetText(textBox.uic:GetStateText());
-      end
-  );
+  log('add close button');
+  panel:AddCloseButton(function()
+    log('Close button clicked' .. input_pos_x:GetText());
+    local x = tonumber(input_pos_x:GetText());
+    local y = tonumber(input_pos_y:GetText());
+    log('x, y values:', x, y);
+    log('Emit evt', x, y);
+    self:emit('position', x, y);
+  end);
 
-  log('Done creating demoUI');
-end
+  return panel;
+end;
+
+function UI:createFlowLayout(panel)
+  log('Setting up flow layout demo');
+  local mainContainer = UIContainer.new(FlowLayout.VERTICAL);
+  local firstButton = TextButton.new("firstButton", panel, "TEXT", "Button One");
+  local secondButton = TextButton.new("secondButton", panel, "TEXT", "Button Two");
+  local thirdButton = TextButton.new("thirdButton", panel, "TEXT", "Button Three");
+  mainContainer:AddComponent(firstButton);
+  mainContainer:AddComponent(secondButton);
+  mainContainer:AddGap(100);
+  mainContainer:AddComponent(thirdButton);
+
+  local horozontalContainer = UIContainer.new(FlowLayout.HORIZONTAL);
+  local firstHoroButton = TextButton.new("firstHoroButton", panel, "TEXT", "Button Four");
+  local containedVerticalContainer = UIContainer.new(FlowLayout.VERTICAL);
+  local firstContainedButton = TextButton.new("firstContainedButton", panel, "TEXT", "Button Five");
+  local secondContainedButton = TextButton.new("secondContainedButton", panel, "TEXT", "Button Six");
+  containedVerticalContainer:AddComponent(firstContainedButton);
+  containedVerticalContainer:AddComponent(secondContainedButton);
+  horozontalContainer:AddComponent(firstHoroButton);
+  horozontalContainer:AddGap(100);
+  horozontalContainer:AddComponent(containedVerticalContainer);
+  mainContainer:AddComponent(horozontalContainer);
+  Util.centreComponentOnComponent(mainContainer, panel);
+  log('Flow layout demo init done');
+end;
+
+return UI;

@@ -6,6 +6,7 @@ log('Loaded mk_bst_beastmen');
 function mk_bst_beastmen()
   log('Start mk_bst_beastmen()');
   log('Local faction: ' .. local_faction);
+  log(cm, core);
 
   -- Setup listeners for the Moon phase mecanics
   log('Setting up Moon Phase Listeners');

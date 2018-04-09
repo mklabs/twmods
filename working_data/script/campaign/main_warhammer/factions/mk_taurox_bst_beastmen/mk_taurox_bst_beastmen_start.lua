@@ -57,6 +57,7 @@ log('Created most of our classes');
 -------------------------------------------------------
 function start_faction()
   log('start_faction() called');
+  log(cm, core);
 
   apply_beastmen_default_diplomacy(cm);
   log('==== Beastman Children of Chaos apply_beastmen_default_diplomacy ====');
@@ -66,11 +67,9 @@ function start_faction()
 
   quests:addFinalQuestBattleListener();
   log('==== Beastman Children of Chaos addFinalQuestBattleListener ====');
-  log(reposition_starting_lord_for_faction);
 
   quests:setupRankupListerners();
   log('==== Beastman Children of Chaos setupRankupListerners ====');
-  log(reposition_starting_lord_for_faction);
 
   local chosen_lord = startFaction(cm, reposition_starting_lord_for_faction);
   log('==== Beastman Children of Chaos start done ====');

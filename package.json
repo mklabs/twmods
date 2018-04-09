@@ -20,6 +20,7 @@
     "tweak": "./binaries/Tweak.modder.x64",
     "commit-lazy": "git commit -am 'Lazy commit'",
     "commit-ask": "git commit -a",
+    "start": "npm run watch",
     "all": "npm run mod && npm run logs-taurox"
   },
   "keywords": [],
