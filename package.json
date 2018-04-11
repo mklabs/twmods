@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "npm-watch",
-    "mod": "git commit -am \"Auto commit\""
+    "mod": "git commit -am \"Auto commit\" || echo 'Failed'"
   },
   "keywords": [],
   "author": "",
