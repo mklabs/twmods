@@ -1,0 +1,19 @@
+{
+  "name": "mk_taurox_bst_unlocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "watch": {
+    "mod": "mod.pack"
+  },
+  "scripts": {
+    "start": "npm-watch",
+    "mod": "git commit -am 'Auto commit' && echo 'Auto commit'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm-watch": "^0.3.0"
+  }
+}
