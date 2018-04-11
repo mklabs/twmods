@@ -5,12 +5,13 @@ Beta.
 This mod implements a new Beastmen faction for the Mortal Empires campaign: the
 Children of Chaos.
 
-Headed by either Taurox the Brass bull, lead the ruthless herds of Beastmen
-from deep within the twisted forested woodlands of Talabecland.
+Headed by either Taurox the Brass bull, lead the ruthless herds of Beastmen,
+dedicated to the spreading of your will to all lands of the Old World and
+beyond.
 
-*Note*: It is still in development and has some rough edges (comestic mostly),
-and features I'd like to implement but I feel like it is almost ready for me to
-publish and get some early feedbacks.
+*Note*: It is still in development and has some rough edges, bugs and features
+I'd like to implement but I feel like it is almost ready for me to publish and
+get some early feedbacks.
 
 # Features
 
@@ -28,7 +29,7 @@ Known as the Brass Bull, Taurox is a monstrous engine of destruction,
 formed of living brass in the shape of a terrible Doombull, dedicated solely to
 the spilling of blood in Khorne's name.
 
-He comes with strong faction/lord traits and character skills for Minotaur
+He comes with strong lord/faction traits and character skills for Minotaur
 units. Think of him as a Gorebull on steroids.
 
 His skill tree includes the reworked version of JR's Old world skills Overhaul,
@@ -90,3 +91,5 @@ the region.
 - Final quest battle to implement, should follow the Fall of Man battle.
 - Custom chapter objectives for both.
 - Fixing bugs
+
+[Drakwald]: https://steamcommunity.com/sharedfiles/filedetails/?id=1303149154

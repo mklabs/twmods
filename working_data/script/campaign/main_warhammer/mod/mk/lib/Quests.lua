@@ -4,7 +4,18 @@ local getFaction = require('mk/utils/getFaction');
 
 local function areAllFinalBattleFactionsDead(cm)
   local factions = {
-  --  'wh_main_teb_estalia'
+    "wh_main_emp_empire",
+    "wh_main_brt_bretonnia",
+    "wh_main_emp_averland",
+    "wh_main_emp_hochland",
+    "wh_main_emp_middenland",
+    "wh_main_emp_nordland",
+    "wh_main_emp_ostland",
+    "wh_main_emp_ostermark",
+    "wh_main_emp_stirland",
+    "wh_main_emp_talabecland",
+    "wh_main_emp_wissenland",
+    "wh_dlc05_wef_wood_elves"
   };
 
   for i = 1, #factions do

@@ -1,5 +1,5 @@
 {
-  "name": "mk-mod-beastmen",
+  "name": "mod-beastmen",
   "version": "0.0.2",
   "description": "Custom Beastmen Faction (taurox)",
   "keywords": [
@@ -19,7 +19,7 @@
     "test": "npm run test-mod && npm run test-battle",
     "test-mod": "cd working_data/script/campaign/main_warhammer/mod && lua test/test.lua",
     "test-battle": "cd working_data/script/campaign/main_warhammer/mod && lua test/test.battle.lua",
-    "mod": "cp retail/data/mod.pack ../data/zmk_beastmen_children_of_chaos.pack",
+    "mod": "cp retail/data/mod.pack ../data/mk_beastmen_children_of_chaos.pack && cp imgs/thumbnail512.png ../data/mk_beastmen_children_of_chaos.png",
     "log": "npm run logs",
     "logs": "ctail ../*.log ../mk_lua_mod_log.txt ../lua_mod_log.txt ../uimf_log.txt"
   },
