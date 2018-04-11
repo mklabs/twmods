@@ -1,10 +1,10 @@
 {
-  "name": "mk_taurox_bst_unlocker",
+  "name": "beastmen-faction-pack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Beastmen Faction pack for Crynsos' Faction unlocker",
   "main": "index.js",
   "watch": {
-    "mod": "mod.pack"
+    "mod": "*.pack, package.json"
   },
   "scripts": {
     "start": "npm-watch",
