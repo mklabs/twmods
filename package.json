@@ -1,10 +1,10 @@
 {
   "name": "beastmen-faction-pack",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Beastmen Faction pack for Crynsos' Faction unlocker",
   "main": "index.js",
   "watch": {
-    "mod": "*.pack, package.json"
+    "mod": "*.{json, pack}"
   },
   "scripts": {
     "start": "npm-watch",
