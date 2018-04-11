@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_ids_unit_sets.xsd" export_time="sam. avr. 7 02:12:55 2018" revision="290" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>cf0344fc-e76e-423d-b177-ddf594221755</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="effect_bonus_value_ids_unit_sets.xsd" export_time="mer. avr. 11 04:23:13 2018" revision="291" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>932eaa5a-9164-4178-8ebb-9ebe113e48d3</edit_uuid>
 <effect_bonus_value_ids_unit_sets record_uuid="{bdd5d2c2-c166-44f2-9631-43c5b0766ff7}" record_timestamp="1485446693577" record_key="minimum_xp_gain_from_eligible_battleminimum_xp_gain_from_eligible_battleall_units">
 <bonus_value_id>minimum_xp_gain_from_eligible_battle</bonus_value_id>
 <effect>minimum_xp_gain_from_eligible_battle</effect>
@@ -65,6 +65,11 @@
 <bonus_value_id>mod_land_movement_battle</bonus_value_id>
 <effect>mk_taurox_effect_skill_speed_creatures</effect>
 <unit_set>mk_taurox_bst_creatures_rank7</unit_set>
+</effect_bonus_value_ids_unit_sets>
+<effect_bonus_value_ids_unit_sets record_uuid="{420e667c-5dae-4074-ab08-b665cf9a39c3}" record_timestamp="1523413393126" record_key="mk_taurox_effect_skill_unit_xp_levels_minotaursunit_xp_modbst_dlc03_minotaurs">
+<bonus_value_id>unit_xp_mod</bonus_value_id>
+<effect>mk_taurox_effect_skill_unit_xp_levels_minotaurs</effect>
+<unit_set>bst_dlc03_minotaurs</unit_set>
 </effect_bonus_value_ids_unit_sets>
 <effect_bonus_value_ids_unit_sets record_uuid="{a32bcd07-65eb-45db-ba7b-135ad499d638}" record_timestamp="1523059974778" record_key="mk_taurox_effect_skill_weapon_strength_cavalrymelee_damage_ap_mod_addmk_taurox_bst_cavalry_rank7">
 <bonus_value_id>melee_damage_ap_mod_add</bonus_value_id>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_set_pieces.xsd" export_time="jeu. avr. 5 07:25:52 2018" revision="318" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>ead888dd-e2b2-4ae3-afab-e4bdf1119868</edit_uuid>
-<battle_set_pieces record_uuid="{fd5bb7c0-8828-46a3-9e43-5c21233235c0}" record_timestamp="1522905952773" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_set_pieces.xsd" export_time="mer. avr. 11 02:06:27 2018" revision="319" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>a111637b-e821-43f5-9079-10d086e265d1</edit_uuid>
+<battle_set_pieces record_uuid="{fd5bb7c0-8828-46a3-9e43-5c21233235c0}" record_timestamp="1523405187740" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver">
 <battle_duration>60</battle_duration>
 <battle_environment>weather/battle/wh_emp_03.environment</battle_environment>
 <battle_name>mk_taurox_qb_bst_taurox_brassbull_dual_cleaver</battle_name>
-<battle_script>script/battle/quest_battles/khazrak_the_one_eye/the_fall_of_man/battle_script.lua</battle_script>
+<battle_script state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:06:27" requires_translation="false" requires_recording="false">script/battle/quest_battles/taurox_the_brass_bull/rune_tortured_axes/battle_script.lua</battle_script>
 <battle_type>classic</battle_type>
-<battlefield_folder>qb_dlc_bst_fall_of_man</battlefield_folder>
+<battlefield_folder state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:06:27" requires_translation="false" requires_recording="false">drakwald_village</battlefield_folder>
 <bmd_layer_type>quest_battle_1</bmd_layer_type>
 <catchment_area></catchment_area>
 <frontend_icon_offset_x>0</frontend_icon_offset_x>
@@ -19,7 +19,7 @@
 <localised_name>Dual Cleaver</localised_name>
 <outro_movie_lose></outro_movie_lose>
 <outro_movie_win></outro_movie_win>
-<teleport_cost>1150</teleport_cost>
+<teleport_cost>800</teleport_cost>
 <use_large_armies>1</use_large_armies>
 </battle_set_pieces>
 <battle_set_pieces record_uuid="{40391bf3-6789-416b-803f-04f97de7cbb3}" record_timestamp="1509991604719" record_key="wh2_dlc09_qb_skv_tretch_craventail_lucky_skullhelm_stage_5">

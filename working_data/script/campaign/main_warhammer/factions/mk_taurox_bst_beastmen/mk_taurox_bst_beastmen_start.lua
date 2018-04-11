@@ -1,19 +1,46 @@
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
 --
---  FACTION SCRIPT
+-- FACTION SCRIPT
 --
---  Custom script for this faction starts here. The should_load_first_turn is
---  queried to determine whether to load the startup script for the full-prelude
---  first turn or just the standard startup script.
+-- Custom script for this faction starts here.
 --
+-- This script relies on a few global exposed by other CA libraries loaded
+-- before this file.
+--
+-- - cm: campaign_manager
+-- - core
+-- - reposition_starting_lord_for_faction
+-- - set_up_rank_up_listener
+-- - chapter_mission
+--
+-- It also exposes some functions globally, these are expected by the game environment:
+--
+-- - start_faction
+-- - faction_new_sp_game_startup
+-- - faction_new_mp_game_startup
+-- - faction_each_sp_game_startup
+-- - faction_each_mp_game_startup
+--
+-- If required, this file may be used to get back a campaign object, holding
+-- the different instances created during the process and each globally defined
+-- functions expected by CA.
 -----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
-output('Loaded start script for faction mk_taurox_bst_beastmen');
+output('Faction script loaded for mk_taurox_bst_beastmen_start 1');
 
-local log = require('mk/log')('campaign:mk_taurox_bst_beastmen_start');
+local mk = require('mk/index');
+local inspect = require('vendor/inspect');
+local log = mk.log('campaign:mk_taurox_bst_beastmen_start');
+local utils = mk.utils;
+local Quests = mk.Quests;
+local Chapters = mk.Chapters;
+local LegendaryLords = mk.LegendaryLords;
+local apply_beastmen_default_diplomacy = utils.apply_beastmen_default_diplomacy;
+local apply_effect_bundles = utils.apply_effect_bundles;
+local startFaction = mk.startFaction;
 
-local constants = require('mk/constants');
+local constants = mk.constants;
 local TAUROX_FACTION = constants.TAUROX_FACTION;
 local TAUROX_FORENAME = constants.TAUROX_FORENAME;
 local TAUROX_NAME = constants.TAUROX_NAME;
@@ -23,33 +50,22 @@ local GHORROS_FORENAME = constants.GHORROS_FORENAME;
 local GHORROS_POS_X = constants.GHORROS_POS_X;
 local GHORROS_POS_Y = constants.GHORROS_POS_Y;
 
-local LegendaryLords = require('mk/legendary_lords');
-log('legendary_lords loaded');
-
-log('Loading quests');
-local Quests = require('mk/quests');
-log('quests loaded');
-
-local Chapters = require('mk/chapters');
-log('Chapters loaded');
-
-local apply_beastmen_default_diplomacy = require('mk/apply_beastmen_default_diplomacy');
-log('apply_beastmen_default_diplomacy loaded');
-
-local apply_effect_bundles = require('mk/apply_effect_bundles');
-log('apply_effect_bundles loaded');
-
-local startFaction = require('mk/start');
-
--- include the intro, prelude and quest chain scripts
-cm:load_faction_script(local_faction .. '_prelude');
-
--- DLC03 Beastmen Features
-log('==== Beastman Children of Chaos start ====');
-local ll = LegendaryLords:new(cm, core);
+log('Creating classes');
+local ll = LegendaryLords:new(cm, core, ll_unlock);
 local quests = Quests:new(cm, core, set_up_rank_up_listener);
 local chapters = Chapters:new(cm, core, chapter_mission);
 log('Created most of our classes');
+
+
+-- will be exported
+local campaign = {};
+campaign.cm = cm,
+campaign.core = core;
+campaign.output = output;
+
+campaign.ll = ll;
+campaign.quests = quests;
+campaign.chapters = chapters;
 
 -------------------------------------------------------
 --  This gets called after the intro cutscene ends,
@@ -71,7 +87,7 @@ function start_faction()
   quests:setupRankupListerners();
   log('==== Beastman Children of Chaos setupRankupListerners ====');
 
-  local chosen_lord = startFaction(cm, reposition_starting_lord_for_faction);
+  local chosen_lord = utils.startFaction(cm, reposition_starting_lord_for_faction);
   log('==== Beastman Children of Chaos start done ====');
 
   log('Initing chapters');
@@ -88,10 +104,12 @@ function start_faction()
   cm:modify_advice(true);
 
   log('Calling prelude');
-  start_beastmen_prelude(chapters);
-  log('==== Beastman Children of Chaos start_beastmen_prelude done ====');
-
-  log('==== Beastman Children of Chaos DONE! ====');
+  prelude(campaign, function(err)
+    log('callbacked');
+    if err then error(err) end
+    log('==== Beastman Children of Chaos start_beastmen_prelude done ====');
+    log('==== Beastman Children of Chaos DONE! ====');
+  end);
 end;
 
 -------------------------------------------------------
@@ -142,3 +160,12 @@ function faction_each_mp_game_startup()
   log('faction_each_mp_game_startup() called');
   -- put stuff here to be initialised each time a multiplayer game loads
 end;
+
+campaign.start_faction = start_faction;
+campaign.start_game_for_faction = start_game_for_faction;
+campaign.faction_new_sp_game_startup = faction_new_sp_game_startup;
+campaign.faction_new_mp_game_startup = faction_new_mp_game_startup;
+campaign.faction_each_sp_game_startup = faction_each_sp_game_startup;
+campaign.faction_each_mp_game_startup = faction_each_mp_game_startup;
+
+return campaign;

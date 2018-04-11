@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_set_piece_armies_characters.xsd" export_time="dim. avr. 8 04:44:18 2018" revision="306" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>7b9762b7-95bd-4fc5-8213-2acb43ef4d06</edit_uuid>
-<battle_set_piece_armies_characters record_uuid="{afaabc6e-b780-42e8-8177-2782eb98a721}" record_timestamp="1522906277992" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_defender">
-<agent_subtype>vmp_master_necromancer</agent_subtype>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_set_piece_armies_characters.xsd" export_time="mer. avr. 11 02:17:47 2018" revision="308" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>3e4d76a8-e4c7-41a7-8d63-a41509ef20af</edit_uuid>
+<battle_set_piece_armies_characters record_uuid="{afaabc6e-b780-42e8-8177-2782eb98a721}" record_timestamp="1523405867741" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_defender">
+<agent_subtype state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false">dlc03_bst_gorebull</agent_subtype>
 <agent_type>general</agent_type>
-<character_level>5</character_level>
-<character_model>3998</character_model>
+<character_level>10</character_level>
+<character_model>4050</character_model>
 <character_name>mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_defender</character_name>
-<forename>2147345303</forename>
-<magic_lore>wh_main_lore_death</magic_lore>
+<forename state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false">2147357926</forename>
+<magic_lore state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false"></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait>ui/portraits/portholes/wh_main_vmp_vampire_counts/vmp_master_necromancer_campaign_01_0.png</portrait>
-<skillset>wh_main_skill_node_set_vmp_master_necromancer</skillset>
-<surname>2147345290</surname>
-<unit_type>wh_main_vmp_cha_master_necromancer_0</unit_type>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false">ui/portraits/portholes/wh_dlc03_bst_beastmen/bst_beastlords_campaign_03_0.png</portrait>
+<skillset state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false">wh_dlc03_skill_node_set_bst_beastlord</skillset>
+<surname state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false">2147357926</surname>
+<unit_type state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:17:47" requires_translation="false" requires_recording="false">wh_dlc03_bst_cha_gorebull_0</unit_type>
 </battle_set_piece_armies_characters>
-<battle_set_piece_armies_characters record_uuid="{090cc5c6-8229-4dc7-b746-4ffc5ee47599}" record_timestamp="1523155458851" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_player">
+<battle_set_piece_armies_characters record_uuid="{090cc5c6-8229-4dc7-b746-4ffc5ee47599}" record_timestamp="1523405867755" record_key="mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_player">
 <agent_subtype>mk_taurox_bst_taurox</agent_subtype>
 <agent_type>general</agent_type>
-<character_level>1</character_level>
+<character_level>10</character_level>
 <character_model>114880116</character_model>
 <character_name>mk_taurox_qb_bst_taurox_brassbull_dual_cleaver_player</character_name>
 <forename>709296598</forename>
 <magic_lore></magic_lore>
 <male>1</male>
 <num_men>100</num_men>
-<portrait>ui/portraits/portholes/wh_main_chs_chaos/chs_kholek_suneater_0.png</portrait>
-<skillset>wh_main_skill_node_set_chs_kholek</skillset>
+<portrait state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:10:04" requires_translation="false" requires_recording="false">ui/portraits/portholes/mk_taurox_bst_beastmen/mk_taurox_bst_taurox.png</portrait>
+<skillset state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T02:10:04" requires_translation="false" requires_recording="false"></skillset>
 <surname>1301160797</surname>
 <unit_type>mk_taurox_bst_taurox</unit_type>
 </battle_set_piece_armies_characters>
