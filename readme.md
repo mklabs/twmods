@@ -49,7 +49,7 @@ Lumber Village map mod, otherwise it'll fallback to Morghur's Stave of Corruptio
 # Starting positions
 
 Taurox, starts in the heart of Talabecland's great forest. The early game will
-consist around fighting the faction of Talabecland, followed by all the
+focus on fighting the faction of Talabecland, followed by all the
 remaining Empire factions. It should feel somewhat similar to Morghur while
 still feeling fresh and unique (more so if I manage to implement the scenario
 and quest battles I have in mind).
@@ -69,12 +69,6 @@ slightly different than the main beastmen faction.
   - Usual victory conditions for Beastmen
   - Destroy all major factions.
 
-# Custom quest battles (todo)
-
-- Another final quest battle following the Fall of Man, this time featuring
-  the destruction of the Oak of Ages.
-- 4 legendary items quest battles, 2 for Taurox, 2 for Ghorros.
-
 # Chapter objectives
 
 For the moment, chapter objectives are following Morghur's one.
@@ -84,5 +78,15 @@ the expected path in early, mid, late-game.
 
 Ideally, I'd like it to be a bit more dynamic. Depending on your current
 position on the campaign map when one main chapter is completed, the following
-chapter should be picked from a set of chapter objectices that is tailored to
+chapter should be picked from a set of chapter objectives that is tailored to
 the region.
+
+## todo list
+
+
+- Ghorros: New legendary lord
+- 3 more quest battles, 1 for Taurox. 2 for Ghorros.
+- Brass armour to add as legendary item for Taurox.
+- Final quest battle to implement, should follow the Fall of Man battle.
+- Custom chapter objectives for both.
+- Fixing bugs

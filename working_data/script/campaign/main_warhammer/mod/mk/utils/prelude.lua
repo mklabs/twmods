@@ -1,5 +1,5 @@
+
 local function prelude(campaign, done)
-  campaign.output('Prelude called');
   local cm = campaign.cm;
   local chapters = campaign.chapters;
 

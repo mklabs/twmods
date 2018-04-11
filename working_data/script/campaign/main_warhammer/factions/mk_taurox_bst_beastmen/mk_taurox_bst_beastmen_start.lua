@@ -59,7 +59,7 @@ log('Created most of our classes');
 
 -- will be exported
 local campaign = {};
-campaign.cm = cm,
+campaign.cm = cm;
 campaign.core = core;
 campaign.output = output;
 
@@ -103,10 +103,10 @@ function start_faction()
   -- show advisor progress button
   cm:modify_advice(true);
 
-  log('Calling prelude');
-  prelude(campaign, function(err)
+  log('cCalling prelude');
+  utils.prelude(campaign, function(err)
     log('callbacked');
-    if err then error(err) end
+    if err then error(err) end;
     log('==== Beastman Children of Chaos start_beastmen_prelude done ====');
     log('==== Beastman Children of Chaos DONE! ====');
   end);
