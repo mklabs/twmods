@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_groups_to_factions.xsd" export_time="lun. avr. 2 01:22:20 2018" revision="20" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>771b8a52-7b00-43aa-b5d9-fb81bc23fb60</edit_uuid>
-<frontend_faction_groups_to_factions record_uuid="{335470b9-32bb-462b-a66d-f124c9d305b2}" record_timestamp="1522624940602" record_key="mk_taurox_bst_beastmen">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="frontend_faction_groups_to_factions.xsd" export_time="mer. avr. 11 23:30:35 2018" revision="23" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>29e4e3fe-99bf-4b48-a3e9-b8d0e5c2586b</edit_uuid>
+<frontend_faction_groups_to_factions record_uuid="{335470b9-32bb-462b-a66d-f124c9d305b2}" record_timestamp="1523481580447" record_key="mk_taurox_bst_beastmen">
 <faction_group>destruction</faction_group>
 <faction_key>mk_taurox_bst_beastmen</faction_key>
 <is_major_faction>1</is_major_faction>
-<sort_order>70</sort_order>
+<sort_order>9000</sort_order>
 </frontend_faction_groups_to_factions>
 <frontend_faction_groups_to_factions record_uuid="{218beea5-ad6d-41ea-b4ff-c6abac331432}" record_timestamp="1507041174332" record_key="wh2_dlc09_skv_clan_rictus">
 <faction_group>destruction</faction_group>
@@ -90,6 +90,12 @@
 <faction_key>wh_dlc03_bst_beastmen</faction_key>
 <is_major_faction>1</is_major_faction>
 <sort_order>64</sort_order>
+</frontend_faction_groups_to_factions>
+<frontend_faction_groups_to_factions record_uuid="{21530e60-2da9-48b3-9ef6-e292ced5a88e}" record_timestamp="1523482235751" record_key="wh_dlc03_bst_redhorn">
+<faction_group>destruction</faction_group>
+<faction_key state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-11T23:30:16" requires_translation="false" requires_recording="false">wh_dlc03_bst_redhorn</faction_key>
+<is_major_faction>1</is_major_faction>
+<sort_order>2302</sort_order>
 </frontend_faction_groups_to_factions>
 <frontend_faction_groups_to_factions record_uuid="{9ea43ea8-788f-4345-b6b7-8600c196dc02}" record_timestamp="1500386450219" record_key="wh_dlc05_wef_argwylon">
 <faction_group>order</faction_group>
