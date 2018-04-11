@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_factions.xsd" export_time="lun. avr. 2 04:17:36 2018" revision="358" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
-<edit_uuid>e101fd3b-969e-419f-ad7a-654a313c2eb8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="start_pos_factions.xsd" export_time="mer. avr. 11 22:12:25 2018" revision="359" export_branch="C:/Program Files (x86)/Steam/steamapps/common/Total War WARHAMMER II/assembly_kit/binaries" export_user="assembly.kit">
+<edit_uuid>b925230a-c095-47bb-9f77-c271aec412cc</edit_uuid>
 <start_pos_factions record_uuid="{ee95ed84-7242-42b7-a394-02414069920f}" record_timestamp="1509440257727" record_key="1031500712">
 <ID>1031500712</ID>
 <ai_manager>default</ai_manager>
@@ -124,31 +124,6 @@
 <starting_order>402</starting_order>
 <state_religion>wh2_main_religion_skaven</state_religion>
 <treasury>5000</treasury>
-<unique>0</unique>
-</start_pos_factions>
-<start_pos_factions record_uuid="{0712795f-d7ab-4baa-a321-ded73e01b493}" record_timestamp="1522635456289" record_key="1099067523">
-<ID>1099067523</ID>
-<ai_manager>default</ai_manager>
-<cai_personality_group>wh_dlc03_group_beastmen_subjugator</cai_personality_group>
-<cai_starting_personality></cai_starting_personality>
-<campaign>main_warhammer</campaign>
-<can_ever_convert_religion>0</can_ever_convert_religion>
-<cdir_military_generator_config>WH_Beastmen</cdir_military_generator_config>
-<description>Much of the Old World is covered in dark, forbidding forest. Although mankind has claimed this land, to think the forests are tamed would be a mistake - for they are the blood-grounds of the Cloven Ones. Beastmen are creatures of Chaos, so civilisation is anathema to them and they raid and destroy all that they come across. Mankind has retaliated, but bringing a warherd to battle is hard. Beastmen are master ambushers, using the beast-paths to entrap an enemy army - the hunter quickly becoming the hunted.\n\nEven when battle is joined, Beastmen are ferocious foes - mighty Beastlords control herds of goat-headed Gors, smaller Ungors strike from the flanks, and frenzied, massive Minotaurs charge at any enemy line. Then there are the many monsters in thrall to their bestial masters: Chaos Spawn, Warhounds, Giants and Cygors to name but a few. Such a fearsome menagerie is partly why the Old World's forests are still terrifying places, where the Children of Chaos roam, lurking in the darkness, desperate to pull apart the very fabric of civilisation.</description>
-<difficulty>normal</difficulty>
-<faction state="NOT_APPROVED" last_approved_text="" last_edit_user="mk" last_edit_date="2018-04-02T01:05:39" requires_translation="false" requires_recording="false">mk_taurox_bst_beastmen</faction>
-<government_type>gov_absolute_monarchy</government_type>
-<honour>50</honour>
-<is_major>1</is_major>
-<long_description>“Make man-filth suffer! Make man-filth fall!”\n\nMuch of the Old World is covered in dark, forbidding forest - vast tracts of dense woodland where thick canopies blot out the sky and you can walk for days on end without seeing the sun. Assuming, of course, you could wander for so long in such a place and survive intact. Although mankind has ruled this land for many centuries, to think the forests tamed simply by being within the borders of the Empire or Bretonnia would be a mistake. Despite countless pogroms to clear the woodlands of their sinister taint, they have always harboured evil. The dark forests are not the homes of man, they are the blood-grounds of the Cloven Ones.\n\nWhen Morrslieb's glow penetrates the dense boughs of the wild woods, the Beastmen range. They hunt the blood-grounds for prey - be that rival herds, 'natural' fauna or, more preferably, man-flesh. It is mankind that the Beastmen seem to despise the most, although they have a long and bitter rivalry with the Wood Elves and will happily feast on Dwarfen flesh when the opportunity arises. To the Beastmen, though, men represent everything they hate. Despite the dangers around it, mankind has prospered, building great cities where the trees part, creating order and civilisation. Beastmen are creatures of Chaos, they follow the Ruinous Powers and so civilisation is anathema to them. They have a burning desire that floods their entire being: to tear down progress and society wherever it is found. And so they raid, destroying the easier targets - hamlets and villages that dare to exist close to the blood-grounds. Should a brayherd be gathered, when the Bray-Shamans manage to bring the fractious bestial tribes into one larger force, larger towns and even cities are attacked. Thankfully for mankind, and other ordered races, this is a rare occurrence. \n\nThe Empire and its occasional allies have retaliated, but bringing a Beastmen warherd to battle is hard. They are master ambushers, using the beast-paths to weave around and entrap an enemy army - the hunter quickly becoming the hunted and facing doom. Even when battle is joined the Beastmen are ferocious foes - mighty Beastlords control herds of goat-headed Gors, smaller Ungors strike from the flanks and frenzied, massive Minotaurs charge at any enemy line. Then there are the many monsters in thrall to their bestial masters: Chaos Spawn, Warhounds, Giants and Cygors to name but a few. Such a fearsome menagerie is part of the reason why the Old World's forests are still terrifying places, where the Children of Chaos roam, lurking in the darkness, desperate to pull apart the very fabric of civilisation.</long_description>
-<playable>1</playable>
-<prestige_army>0</prestige_army>
-<prestige_economy>0</prestige_economy>
-<prestige_enlightenment>0</prestige_enlightenment>
-<prestige_navy>0</prestige_navy>
-<starting_order>32</starting_order>
-<state_religion>wh_main_religion_chaos</state_religion>
-<treasury>6000</treasury>
 <unique>0</unique>
 </start_pos_factions>
 <start_pos_factions record_uuid="{379a39ca-6d0b-4f12-85dd-4fbb46cc4347}" record_timestamp="1504877090482" record_key="1104147213">
