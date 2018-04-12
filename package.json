@@ -1,0 +1,20 @@
+{
+  "name": "mod-logpanel",
+  "version": "0.0.1",
+  "description": "Mod log panel",
+  "watch": {
+    "test": "*.lua"
+  },
+  "scripts": {
+    "start": "npm-watch test",
+    "mod": "cp mod.pack ../../!!logpanel.pack",
+    "test": "echo Testing"
+  },
+  "keywords": [],
+  "author": "mklabs",
+  "license": "ISC",
+  "dependencies": {
+    "ctail": "^1.5.6",
+    "npm-watch": "^0.3.0"
+  }
+}
