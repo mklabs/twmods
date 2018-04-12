@@ -1,5 +1,5 @@
 local logpanel = require('logpanel');
 local log = logpanel.log('test')
 
-log('logaa');
+log('log');
 assert(logpanel);
