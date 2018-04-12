@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "npm-watch",
-    "mod": "git commit -am \"Auto commit\" || echo 'Failed'",
+    "commit": "git commit -am \"Auto commit\" || echo 'Failed'",
+    "mod": "cp mod.pack ../../data/!!mod.pack",
     "test": "lua test/test.lua"
   },
   "keywords": [],
