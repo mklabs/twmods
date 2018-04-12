@@ -11,7 +11,7 @@
     "precopy-script": "rm -rf ../../data/my_mods/script",
     "copy-script": "cp -r ./ ../../data/my_mods/script",
     "copy": "npm run copy-script",
-    "test": "lua logpanel.test.lua"
+    "test": "lua test/logpanel.lua"
   },
   "keywords": [],
   "author": "mklabs",
