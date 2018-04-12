@@ -26,6 +26,16 @@ I usually end up with something like:
 With each logger created using the following snippet:
 
 ```lua
-local debug = require('debug')('modname:filename');
+local debug = require('logpanel/log')('modname:filename');
 ```
 
+## Options
+
+```lua
+-- Change the path to the generated file
+LOG_FILENAME = 'path/to/logfile.txt';
+
+-- Turn on/off filesystem file write (default: false)
+LOG_WRITE_TO_FILE = true;
+local log = require('logpanel/log')('modname');
+```
