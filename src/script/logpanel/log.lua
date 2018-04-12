@@ -16,7 +16,6 @@ local function appendToFile(text)
     print(text);
   end;
 
-
   -- noop when write to filesystem disabled
   if not LOG_WRITE_TO_FILE then return end;
 
