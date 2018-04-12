@@ -37,5 +37,9 @@ LOG_FILENAME = 'path/to/logfile.txt';
 
 -- Turn on/off filesystem file write (default: false)
 LOG_WRITE_TO_FILE = true;
+
+-- Turn on/off printing to the console (default: true)
+LOG_PRINT = false;
+
 local log = require('logpanel/log')('modname');
 ```

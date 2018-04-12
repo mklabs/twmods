@@ -8,7 +8,7 @@
   "scripts": {
     "start": "npm-watch test",
     "mod": "cp mod.pack ../../!!logpanel.pack",
-    "test": "echo Testing"
+    "test": "lua logpanel.test.lua"
   },
   "keywords": [],
   "author": "mklabs",
