@@ -55,18 +55,7 @@ local function ll_beastmen(ll_unlock)
       function(context)
         return context:building() == 'wh_dlc03_horde_beastmen_minotaurs_1' and context:character():faction():name() == TAUROX_FACTION;
       end
-    ),
-
-    -- Ghorros
-    ll_unlock:new(
-      TAUROX_FACTION,
-      '681847135',
-      'names_name_2049222507',
-      'MilitaryForceBuildingCompleteEvent',
-      function(context)
-        return context:unit():unit_key() == 'wh_dlc03_horde_beastmen_centigors' and context:unit():faction():name() == TAUROX_FACTION;
-      end
-    ),
+    )
   };
 end;
 

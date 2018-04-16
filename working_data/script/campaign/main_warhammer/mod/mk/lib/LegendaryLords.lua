@@ -54,14 +54,15 @@ function LegendaryLords:lock(chosen_lord)
   cm:lock_starting_general_recruitment('2072135186', TAUROX_FACTION);
   -- Morghur
   cm:lock_starting_general_recruitment('203069748', TAUROX_FACTION);
-  -- Taurox
-  if not chosen_lord == TAUROX_FORENAME then
-    cm:lock_starting_general_recruitment('1403603105', TAUROX_FACTION);
-  end;
-  -- Ghorros
-  if not chosen_lord == GHORROS_FORENAME then
-    cm:lock_starting_general_recruitment('681847135', TAUROX_FACTION);
-  end;
+
+  -- -- Taurox
+  -- if not chosen_lord == TAUROX_FORENAME then
+  --   cm:lock_starting_general_recruitment('1403603105', TAUROX_FACTION);
+  -- end;
+  -- -- Ghorros
+  -- if not chosen_lord == GHORROS_FORENAME then
+  --   cm:lock_starting_general_recruitment('681847135', TAUROX_FACTION);
+  -- end;
 
   log('Locked LL lords');
 end;
