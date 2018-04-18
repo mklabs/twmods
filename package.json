@@ -11,7 +11,16 @@
   ],
   "main": "working_data/script/campaign/main_warhammer/mod/mk/index.lua",
   "watch": {
-    "mod": "retail/data/mod.pack"
+    "mod": {
+      "patterns": [
+        "src",
+        "test"
+      ],
+      "extensions": "lua",
+      "quiet": false,
+      "legacyWatch": true,
+      "delay": 250
+    }
   },
   "scripts": {
     "watch": "npm-watch",
@@ -19,9 +28,11 @@
     "test": "npm run test-mod && npm run test-battle",
     "test-mod": "cd working_data/script/campaign/main_warhammer/mod && lua test/test.lua",
     "test-battle": "cd working_data/script/campaign/main_warhammer/mod && lua test/test.battle.lua",
-    "mod": "cp retail/data/mod.pack ../data/!!mk_beastmen_children_of_chaos.pack && cp imgs/thumbnail512.png ../data/!!mk_beastmen_children_of_chaos.png",
+    "mod": "npfm pack --globs '**/*' --cwd 'working_data' npfm_generated.pack -d",
+    "postmod": "npm run copy",
+    "copy": "cp npfm_generated.pack ../data/!!!mk_beastmen_children_of_chaos.pack && cp imgs/thumbnail512.png ../data/!!!mk_beastmen_children_of_chaos.png",
     "log": "npm run logs",
-    "logs": "ctail ../*.log ../mk_lua_mod_log.txt ../lua_mod_log.txt ../uimf_log.txt"
+    "logs": "ctail ../*.log ../*.txt"
   },
   "author": "mklabs",
   "license": "MIT",
