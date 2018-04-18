@@ -1,8 +1,10 @@
 return {
-  TAUROX_FACTION = 'mk_taurox_bst_beastmen';
+  -- TAUROX_FACTION = 'mk_taurox_bst_beastmen';
+  TAUROX_FACTION = 'wh2_main_bst_blooded_axe';
   TAUROX_FORENAME = 'names_name_709296598';
   TAUROX_NAME = "names_name_1301160797";
   GHORROS_FORENAME = 'names_name_2049222507';
+  SRUI_FORENAME = 'names_name_2147358411';
   TAUROX_POS_X = 550;
   TAUROX_POS_Y = 500;
   GHORROS_POS_X = 222;

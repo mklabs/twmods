@@ -3,6 +3,8 @@ local TAUROX_FORENAME = require('mk/constants').TAUROX_FORENAME;
 local GHORROS_FORENAME = require('mk/constants').GHORROS_FORENAME;
 
 local function ll_beastmen(ll_unlock)
+  -- TODO: ll_unlock won't work with other LL as their not part of the same
+  -- faction, and can't clone them in the startpos table.
   return {
      -- Khazrak
      ll_unlock:new(
@@ -31,7 +33,7 @@ local function ll_beastmen(ll_unlock)
       'names_name_435392760',
       'MilitaryForceBuildingCompleteEvent',
       function(context)
-        return context:building() == 'wh_dlc03_horde_beastmen_gors_2' and context:character():faction():name() == TAUROX_FACTION;
+        return context:building() == 'wh_dlc03_horde_beastmen_arcane_1' and context:character():faction():name() == TAUROX_FACTION;
       end
     ),
 
@@ -55,18 +57,18 @@ local function ll_beastmen(ll_unlock)
       function(context)
         return context:building() == 'wh_dlc03_horde_beastmen_minotaurs_1' and context:character():faction():name() == TAUROX_FACTION;
       end
-    ),
+    )
 
-    -- Ghorros
-    ll_unlock:new(
-      TAUROX_FACTION,
-      '681847135',
-      'names_name_2049222507',
-      'MilitaryForceBuildingCompleteEvent',
-      function(context)
-        return context:unit():unit_key() == 'wh_dlc03_horde_beastmen_centigors' and context:unit():faction():name() == TAUROX_FACTION;
-      end
-    ),
+    -- -- Ghorros
+    -- ll_unlock:new(
+    --   TAUROX_FACTION,
+    --   '681847135',
+    --   'names_name_2049222507',
+    --   'MilitaryForceBuildingCompleteEvent',
+    --   function(context)
+    --     return context:unit():unit_key() == 'wh_dlc03_horde_beastmen_centigors' and context:unit():faction():name() == TAUROX_FACTION;
+    --   end
+    -- ),
   };
 end;
 

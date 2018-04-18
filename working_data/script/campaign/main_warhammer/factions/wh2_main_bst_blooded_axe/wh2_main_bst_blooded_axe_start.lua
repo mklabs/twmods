@@ -56,7 +56,6 @@ local quests = Quests:new(cm, core, set_up_rank_up_listener);
 local chapters = Chapters:new(cm, core, chapter_mission);
 log('Created most of our classes');
 
-
 -- will be exported
 local campaign = {};
 campaign.cm = cm;
@@ -73,7 +72,6 @@ campaign.chapters = chapters;
 -------------------------------------------------------
 function start_faction()
   log('start_faction() called');
-  log(cm, core);
 
   apply_beastmen_default_diplomacy(cm);
   log('==== Beastman Children of Chaos apply_beastmen_default_diplomacy ====');

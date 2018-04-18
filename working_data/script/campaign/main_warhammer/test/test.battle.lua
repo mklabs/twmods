@@ -1,4 +1,3 @@
-package.path = package.path .. ';../factions/mk_taurox_bst_beastmen/?.lua';
 require('test/mock');
 
 local mk = require('mk/index');
@@ -7,7 +6,7 @@ local constants = mk.constants;
 
 print('ok, lets test');
 assert(constants.TAUROX_FACTION);
-local campaign = require('mk_taurox_bst_beastmen_start');
+local campaign = require('factions/wh2_main_bst_blooded_axe/wh2_main_bst_blooded_axe_start');
 print(mk.inspect(campaign));
 assert(campaign.quests, 'Quests ok');
 assert(campaign.chapters, 'Chapters ok');

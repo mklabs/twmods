@@ -48,16 +48,21 @@ function LegendaryLords:lock(chosen_lord)
   end;
 
   log('Locking LL lords at the start of the game');
+  -- todo: same as lords. locking them won't do anything cause not the same
+  -- faction
+
   -- Khazrak
   cm:lock_starting_general_recruitment('1902772535', TAUROX_FACTION);
   -- Malagor
   cm:lock_starting_general_recruitment('2072135186', TAUROX_FACTION);
   -- Morghur
   cm:lock_starting_general_recruitment('203069748', TAUROX_FACTION);
+
   -- Taurox
   if not chosen_lord == TAUROX_FORENAME then
     cm:lock_starting_general_recruitment('1403603105', TAUROX_FACTION);
   end;
+
   -- Ghorros
   if not chosen_lord == GHORROS_FORENAME then
     cm:lock_starting_general_recruitment('681847135', TAUROX_FACTION);
