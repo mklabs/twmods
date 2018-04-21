@@ -13,16 +13,26 @@ local START_D = constants.START_D;
 local START_B = constants.START_B;
 local START_H = constants.START_H;
 
--- Credits to faction unlocker where this snippet comes from
-local function scrollCameraToFactionLeader(chosen_lord)
+-- Credits to faction unlocker where this snippet comes from.
+--
+-- Takes a campaign manager instance, faction instance and a callback function.
+local function scrollCameraToFactionLeader(cm, faction, done)
   log('mk_scrollCameraToFactionLeader() called ..');
-  log('Chosen lord is ' .. chosen_lord);
+  local faction_leader_cqi = faction:faction_leader():command_queue_index();
+  local ok = cm:scroll_camera_with_cutscene(6, function()
+    log('Scrolled camera to taurox hopefully');
+    done();
+  end, {
+    -- TAUROX_POS_X,
+    -- TAUROX_POS_Y,
+    250,
+    200,
+    START_D,
+    START_B,
+    START_H
+  });
 
-  if chosen_lord == TAUROX_FORENAME then
-    log('Scrolling to taurox', TAUROX_POS_X, TAUROX_POS_Y);
-    -- cm:scroll_camera_with_cutscene(6, function() log('Scrolled camera to taurox hopefully') end, {TAUROX_POS_X, TAUROX_POS_Y, START_D, START_B, START_H});
-  elseif chosen_lord == GHORROS_FORENAME then
-    log('Scrolling to ghorros', GHORROS_POS_X, GHORROS_POS_Y);
-    -- cm:scroll_camera_with_cutscene(6, function() log('Scrolled camera to ghorros hopefully') end, {GHORROS_POS_X, GHORROS_POS_Y, START_D, START_B, START_H});
-  end;
+  if not ok then return done('Err: scroll_camera_with_cutscene returned false') end;
 end;
+
+return scrollCameraToFactionLeader;

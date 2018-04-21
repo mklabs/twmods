@@ -38,10 +38,10 @@ local Chapters = mk.Chapters;
 local LegendaryLords = mk.LegendaryLords;
 local apply_beastmen_default_diplomacy = utils.apply_beastmen_default_diplomacy;
 local apply_effect_bundles = utils.apply_effect_bundles;
-local startFaction = mk.startFaction;
 
 local constants = mk.constants;
 local TAUROX_FACTION = constants.TAUROX_FACTION;
+local TAUROX_STANDALONE_FACTION = constants.TAUROX_STANDALONE_FACTION;
 local TAUROX_FORENAME = constants.TAUROX_FORENAME;
 local TAUROX_NAME = constants.TAUROX_NAME;
 local TAUROX_POS_X = constants.TAUROX_POS_X;
@@ -49,6 +49,8 @@ local TAUROX_POS_Y = constants.TAUROX_POS_Y;
 local GHORROS_FORENAME = constants.GHORROS_FORENAME;
 local GHORROS_POS_X = constants.GHORROS_POS_X;
 local GHORROS_POS_Y = constants.GHORROS_POS_Y;
+local BEASTMEN_FACTION = constants.BEASTMEN_FACTION;
+local TAUROX_AGENT_SUBTYPE = constants.TAUROX_AGENT_SUBTYPE;
 
 log('Creating classes');
 local ll = LegendaryLords:new(cm, core, ll_unlock);
@@ -65,6 +67,9 @@ campaign.output = output;
 campaign.ll = ll;
 campaign.quests = quests;
 campaign.chapters = chapters;
+campaign.log = log;
+campaign.createHorde = createHorde;
+
 
 -------------------------------------------------------
 --  This gets called after the intro cutscene ends,
@@ -85,8 +90,11 @@ function start_faction()
   quests:setupRankupListerners();
   log('==== Beastman Children of Chaos setupRankupListerners ====');
 
-  local chosen_lord = utils.startFaction(cm, reposition_starting_lord_for_faction);
-  log('==== Beastman Children of Chaos start done ====');
+  -- show advisor progress button
+  cm:modify_advice(true);
+
+  local chosen_lord = TAUROX_FORENAME;
+  utils.start(cm, reposition_starting_lord_for_faction);
 
   log('Initing chapters');
   chapters:init(chosen_lord);
@@ -98,15 +106,43 @@ function start_faction()
   ll:lock(chosen_lord);
   log('==== Beastman Children of Chaos lock done ====');
 
-  -- show advisor progress button
-  cm:modify_advice(true);
+  -- create horde
+  log('Creating horde');
+  utils.createHorde({
+    cm = cm,
+    get_character_by_cqi = get_character_by_cqi,
+    char_lookup_str = char_lookup_str,
+    x = TAUROX_POS_X + 3,
+    y = TAUROX_POS_Y + 3,
+    units = {
+      'wh_dlc03_bst_inf_ungor_herd_1',
+      'wh_dlc03_bst_inf_ungor_herd_1',
+      'wh_dlc03_bst_inf_ungor_spearmen_0',
+      'wh_dlc03_bst_inf_ungor_raiders_0',
+      'wh_dlc03_bst_inf_ungor_raiders_0',
+      'wh_dlc03_bst_inf_minotaurs_0',
+      'wh_dlc03_bst_mon_giant_0'
+    },
 
-  log('cCalling prelude');
-  utils.prelude(campaign, function(err)
-    log('callbacked');
+    buildings = {
+      'wh_dlc03_horde_beastmen_herd_1',
+      'wh_dlc03_horde_beastmen_gors_1'
+    }
+  }, function(err)
     if err then error(err) end;
-    log('==== Beastman Children of Chaos start_beastmen_prelude done ====');
-    log('==== Beastman Children of Chaos DONE! ====');
+    log('horde created');
+    cm:modify_advice(true);
+    log('Scrolling cameras');
+
+    log('getting faction');
+    local faction = utils.getFaction(cm, TAUROX_FACTION);
+    log('faction retrieved');
+    utils.scrollCameraToFactionLeader(cm, faction, function (err)
+      if err then error(err) end;
+      log('scrolled, starting chapter');
+      chapters:start();
+      log('started');
+    end);
   end);
 end;
 
@@ -118,7 +154,6 @@ end;
 -------------------------------------------------------
 function start_game_for_faction(should_show_cutscene)
   log('start_game_for_faction() called');
-  log('Calling start_faction');
   start_faction();
 end;
 

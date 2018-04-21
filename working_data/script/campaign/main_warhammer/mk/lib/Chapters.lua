@@ -58,11 +58,6 @@ function Chapters:init(chosen_lord)
   local cm = self.cm;
   log('Call init()');
 
-  -- if not cm:is_new_game() then
-  --   log('Not a new game, do not init chapter missions');
-  --   return;
-  -- end;
-
   log('Starting chapter missions', chosen_lord);
   if general_with_forename_exists_in_faction_with_force(cm, local_faction, TAUROX_FORENAME)
     or (cm:get_saved_value('starting_general_1') == TAUROX_FORENAME or cm:get_saved_value('starting_general_2') == TAUROX_FORENAME) then
@@ -126,8 +121,11 @@ function Chapters:start(key)
   key = key or 'one';
   log('Manually starting chapter mission', key);
 
+  log('ch1');
   local chapter = self.chapters[key]
+  log('ch2', key);
   chapter:manual_start();
+  log('ch3');
   return chapter;
 end;
 
