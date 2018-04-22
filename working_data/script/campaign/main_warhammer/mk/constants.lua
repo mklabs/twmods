@@ -4,8 +4,8 @@ return {
   TAUROX_FORENAME = 'names_name_709296598';
   TAUROX_NAME = "names_name_1301160797";
   SRUI_FORENAME = 'names_name_2147358411';
-  TAUROX_POS_X = 550;
-  TAUROX_POS_Y = 500;
+  TAUROX_POS_X = 568;
+  TAUROX_POS_Y = 567;
   GHORROS_POS_X = 222;
   GHORROS_POS_Y = 577;
   BEASTMEN_FACTION = "wh_dlc03_bst_beastmen";

@@ -23,10 +23,8 @@ local function scrollCameraToFactionLeader(cm, faction, done)
     log('Scrolled camera to taurox hopefully');
     done();
   end, {
-    -- TAUROX_POS_X,
-    -- TAUROX_POS_Y,
-    250,
-    200,
+    TAUROX_POS_X - 190,
+    TAUROX_POS_Y - 130,
     START_D,
     START_B,
     START_H

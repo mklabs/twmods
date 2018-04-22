@@ -56,32 +56,28 @@ end;
 
 function Chapters:init(chosen_lord)
   local cm = self.cm;
-  log('Call init()');
 
   log('Starting chapter missions', chosen_lord);
   if general_with_forename_exists_in_faction_with_force(cm, local_faction, TAUROX_FORENAME)
     or (cm:get_saved_value('starting_general_1') == TAUROX_FORENAME or cm:get_saved_value('starting_general_2') == TAUROX_FORENAME) then
-    log('Staring general is Taurox the Brass Bull');
     self:taurox();
   elseif general_with_forename_exists_in_faction_with_force(cm, local_faction, SRUI_FORENAME)
     or (cm:get_saved_value('starting_general_1') == SRUI_FORENAME or cm:get_saved_value('starting_general_2') == SRUI_FORENAME) then
     -- Faction unlocker: srui is the faction leader of wh2_main_bst_blooded_axe faction
-    log('Staring general is Taurox (srui mode)');
     self:taurox();
   elseif general_with_forename_exists_in_faction_with_force(cm, local_faction, GHORROS_FORENAME)
     or (cm:get_saved_value('starting_general_1') == GHORROS_FORENAME or cm:get_saved_value('starting_general_2') == GHORROS_FORENAME) then
-    log('Staring general is Ghorros Warhoof');
     self:ghorros();
   else
     log('Starting general is unknown, doing nothing');
   end;
 end;
 
-function Chapters:taurox()
+function Chapters:ghorros()
   local cm = self.cm;
   local chapter_mission = self.chapter_mission;
 
-  log('Start chapter missions for Taurox');
+  log('Start chapter missions for Ghorros');
   local chapter_one_mission = chapter_mission:new(1, TAUROX_FACTION, 'wh_dlc03_objective_beastmen_main_khazrak_01', nil);
   local chapter_two_mission = chapter_mission:new(2, TAUROX_FACTION, 'wh_dlc03_objective_beastmen_main_khazrak_02', nil);
   local chapter_three_mission = chapter_mission:new(3, TAUROX_FACTION, 'wh_dlc03_objective_beastmen_main_khazrak_03', nil);
@@ -97,11 +93,11 @@ function Chapters:taurox()
   return chapter_one_mission, chapter_two_mission, chapter_three_mission, chapter_four_mission, chapter_five_mission;
 end;
 
-function Chapters:ghorros()
+function Chapters:taurox()
   local cm = self.cm;
   local chapter_mission = self.chapter_mission;
 
-  log('Start chapter missions for Ghorros');
+  log('Start chapter missions for Taurox');
   local chapter_one_mission = chapter_mission:new(1, TAUROX_FACTION, 'wh_dlc05_objective_beastmen_main_morghur_01', nil);
   local chapter_two_mission = chapter_mission:new(2, TAUROX_FACTION, 'wh_dlc05_objective_beastmen_main_morghur_02', nil);
   local chapter_three_mission = chapter_mission:new(3, TAUROX_FACTION, 'wh_dlc05_objective_beastmen_main_morghur_03', nil);
@@ -121,11 +117,8 @@ function Chapters:start(key)
   key = key or 'one';
   log('Manually starting chapter mission', key);
 
-  log('ch1');
   local chapter = self.chapters[key]
-  log('ch2', key);
   chapter:manual_start();
-  log('ch3');
   return chapter;
 end;
 
