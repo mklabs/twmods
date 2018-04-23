@@ -30,7 +30,7 @@
     "test-battle": "cd working_data/script/campaign/main_warhammer && lua test/test.battle.lua",
     "mod": "npfm pack --globs '**/*' --cwd 'working_data' npfm_generated.pack -d",
     "postmod": "npm run copy",
-    "copy": "cp npfm_generated.pack ../data/!!!mk_beastmen_children_of_chaos.pack && cp imgs/thumbnail512.png ../data/!!!mk_beastmen_children_of_chaos.png",
+    "copy": "cp npfm_generated.pack ../data/!!!mk_beastmen_taurox_unlocker.pack && cp imgs/thumbnail512.png ../data/!!!mk_beastmen_taurox_unlocker.png",
     "log": "npm run logs",
     "logs": "ctail ../*.log ../*.txt"
   },

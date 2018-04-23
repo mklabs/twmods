@@ -149,7 +149,9 @@ end;
 -------------------------------------------------------
 function start_game_for_faction(should_show_cutscene)
   log('start_game_for_faction() called');
-  start_faction();
+  if cm:is_new_game() then
+      start_faction();
+  end;
 end;
 
 -------------------------------------------------------
