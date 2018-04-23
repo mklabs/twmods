@@ -18,4 +18,6 @@ return {
   GHORROS_AGENT_SUBTYPE = 'mk_taurox_bst_ghorros';
   GHORROS_FORENAME = 'names_name_2049222507';
   GHORROS_NAME = 'names_name_1081914513';
+  TAUROX_INNATE_SKILL = 'mk_taurox_skill_innate_bst_taurox_brassbull';
+  TAUROX_INNATE_NODE = 'wh_dlc03_skill_node_bst_taurox_innate';
 };

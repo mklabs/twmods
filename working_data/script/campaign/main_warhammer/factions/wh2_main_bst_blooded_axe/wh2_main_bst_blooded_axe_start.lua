@@ -51,6 +51,7 @@ local GHORROS_POS_X = constants.GHORROS_POS_X;
 local GHORROS_POS_Y = constants.GHORROS_POS_Y;
 local BEASTMEN_FACTION = constants.BEASTMEN_FACTION;
 local TAUROX_AGENT_SUBTYPE = constants.TAUROX_AGENT_SUBTYPE;
+local TAUROX_INNATE_SKILL = constants.TAUROX_INNATE_SKILL;
 
 log('Creating classes');
 local ll = LegendaryLords:new(cm, core, ll_unlock);
@@ -128,20 +129,14 @@ function start_faction()
       'wh_dlc03_horde_beastmen_herd_1',
       'wh_dlc03_horde_beastmen_gors_1'
     }
-  }, function(err)
+  }, function(err, char)
     if err then error(err) end;
-    log('horde created');
     cm:modify_advice(true);
-    log('Scrolling cameras');
 
-    log('getting faction');
     local faction = utils.getFaction(cm, TAUROX_FACTION);
-    log('faction retrieved');
     utils.scrollCameraToFactionLeader(cm, faction, function (err)
       if err then error(err) end;
-      log('scrolled, starting chapter');
       chapters:start();
-      log('started');
     end);
   end);
 end;
