@@ -34,20 +34,20 @@ local Quests = {
 };
 
 function Quests:new(cm, core, set_up_rank_up_listener)
-	local quest = {};
-	setmetatable(quest, self);
-	self.__index = self;
+  local quest = {};
+  setmetatable(quest, self);
+  self.__index = self;
 
-	quest.cm = cm;
+  quest.cm = cm;
   quest.core = core;
   quest.set_up_rank_up_listener = set_up_rank_up_listener;
-	return quest;
+  return quest;
 end;
 
 function Quests:addTauroxQuestBattleListener()
   local cm = self.cm;
   local core = self.core;
-  log('Adding final quest battle listener');
+  log('Adding taurox quest battle listener');
 
   if not cm:get_saved_value('mk_taurox_bst_taurox_battle_quest') then
     core:add_listener(
@@ -61,6 +61,23 @@ function Quests:addTauroxQuestBattleListener()
         log('Trigger mission mk_taurox_bst_taurox_dual_cleaver');
         cm:trigger_mission(TAUROX_FACTION, 'mk_taurox_bst_taurox_dual_cleaver', true);
         cm:set_saved_value('mk_taurox_bst_taurox_battle_quest', true);
+      end,
+      false
+    );
+  end;
+
+  if not cm:get_saved_value('mk_taurox_bst_taurox_battle_quest_02') then
+    core:add_listener(
+      'Taurox_Quest_Battle_02',
+      'FactionTurnStart',
+      function(context)
+        local faction = context:faction();
+        return faction:is_human() and faction:name() == TAUROX_FACTION;
+      end,
+      function()
+        log('Trigger mission mk_taurox_bst_taurox_brass_armor');
+        cm:trigger_mission(TAUROX_FACTION, 'mk_taurox_bst_taurox_brass_armor', true);
+        cm:set_saved_value('mk_taurox_bst_taurox_battle_quest_02', true);
       end,
       false
     );
@@ -92,19 +109,20 @@ end;
 
 
 function Quests:setupRankupListerners()
-	log('Quests setupRankupListerners()');
+  log('Quests setupRankupListerners()');
   local set_up_rank_up_listener = self.set_up_rank_up_listener;
 
-	local taurox_subtype = 'mk_taurox_bst_taurox';
-	local ghorros_subtype = 'mk_taurox_bst_ghorros';
+  local taurox_subtype = 'mk_taurox_bst_taurox';
+  local ghorros_subtype = 'mk_taurox_bst_ghorros';
 
-	-- type, ancillary key, mission key, rank required, [optional] mission key if playing MPC
-	local taurox_quests = {
-		{ 'mission', 'mk_taurox_anc_weapon_rune_tortured_axe', 'mk_taurox_bst_taurox_dual_cleaver_stage1', 7 }
-	};
+  -- type, ancillary key, mission key, rank required, [optional] mission key if playing MPC
+  local taurox_quests = {
+    { 'mission', 'mk_taurox_anc_weapon_rune_tortured_axe', 'mk_taurox_bst_taurox_dual_cleaver_stage1', 7 },
+    { 'mission', 'mk_taurox_anc_armour_brass_armor', 'mk_taurox_bst_taurox_brass_armor_stage1', 2 }
+  };
 
-  log('Setting up Taurox quest to unlock at rank', 7, 'with', 'mk_taurox_bst_taurox_dual_cleaver_stage1');
-	set_up_rank_up_listener(taurox_quests, taurox_subtype);
+  log('Setting up Taurox quests to unlock');
+  set_up_rank_up_listener(taurox_quests, taurox_subtype);
 end;
 
 return Quests;
