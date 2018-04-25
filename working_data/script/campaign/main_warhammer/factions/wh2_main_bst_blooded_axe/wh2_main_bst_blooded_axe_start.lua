@@ -53,11 +53,9 @@ local BEASTMEN_FACTION = constants.BEASTMEN_FACTION;
 local TAUROX_AGENT_SUBTYPE = constants.TAUROX_AGENT_SUBTYPE;
 local TAUROX_INNATE_SKILL = constants.TAUROX_INNATE_SKILL;
 
-log('Creating classes');
 local ll = LegendaryLords:new(cm, core, ll_unlock);
 local quests = Quests:new(cm, core, set_up_rank_up_listener);
 local chapters = Chapters:new(cm, core, chapter_mission);
-log('Created most of our classes');
 
 -- will be exported
 local campaign = {};

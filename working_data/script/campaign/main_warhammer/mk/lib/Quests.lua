@@ -1,5 +1,8 @@
 local log = require('mk/log')('mk:quests');
-local TAUROX_FACTION = require('mk/constants').TAUROX_FACTION;
+local constants = require('mk/constants');
+local TAUROX_FACTION = constants.TAUROX_FACTION;
+local TAUROX_QB_RUNE_TORTURED_AXES_LVL = constants.TAUROX_QB_RUNE_TORTURED_AXES_LVL;
+local TAUROX_QB_BRASS_ARMOR_LVL = constants.TAUROX_QB_BRASS_ARMOR_LVL;
 local getFaction = require('mk/utils/getFaction');
 
 local function areAllFinalBattleFactionsDead(cm)
@@ -117,8 +120,8 @@ function Quests:setupRankupListerners()
 
   -- type, ancillary key, mission key, rank required, [optional] mission key if playing MPC
   local taurox_quests = {
-    { 'mission', 'mk_taurox_anc_weapon_rune_tortured_axe', 'mk_taurox_bst_taurox_dual_cleaver_stage1', 7 },
-    { 'mission', 'mk_taurox_anc_armour_brass_armor', 'mk_taurox_bst_taurox_brass_armor_stage1', 2 }
+    { 'mission', 'mk_taurox_anc_weapon_rune_tortured_axe', 'mk_taurox_bst_taurox_dual_cleaver_stage1', TAUROX_QB_RUNE_TORTURED_AXES_LVL },
+    { 'mission', 'mk_taurox_anc_armour_brass_armor', 'mk_taurox_bst_taurox_brass_armor_stage1', TAUROX_QB_BRASS_ARMOR_LVL }
   };
 
   log('Setting up Taurox quests to unlock');

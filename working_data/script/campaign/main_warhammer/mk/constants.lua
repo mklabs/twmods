@@ -20,4 +20,7 @@ return {
   GHORROS_NAME = 'names_name_1081914513';
   TAUROX_INNATE_SKILL = 'mk_taurox_skill_innate_bst_taurox_brassbull';
   TAUROX_INNATE_NODE = 'wh_dlc03_skill_node_bst_taurox_innate';
+  TAUROX_QB_RUNE_TORTURED_AXES_LVL = 7;
+  -- testing
+  TAUROX_QB_BRASS_ARMOR_LVL = 2;
 };
